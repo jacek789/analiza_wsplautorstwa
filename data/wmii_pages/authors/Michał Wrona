@@ -1,0 +1,342 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr -  Michał Wrona</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr  Michał Wrona
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Zespół Katedr i Zakładów Informatyki Matematycznej</li>
+					<li>Katedra Algorytmiki</li>
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1455-michal_wrona">Michał Wrona</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7965-the_complexity_of_minimal_inference_problem_for_conservative_constraint_languages">The Complexity of Minimal Inference Problem for Conservative Constraint Languages</a>, PROCEEDINGS OF THE ANNUAL ACM/IEEE SYMPOSIUM ON LOGIC IN COMPUTER SCIENCE (LICS) (2017), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1455-michal_wrona">Michał Wrona</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7964-minimal_inference_problem_over_finite_domains__the_landscape_of_complexity">Minimal Inference Problem over Finite Domains: The Landscape of Complexity</a>, PROCEDINGS OF THE INTERNATIONAL CONFERENCE ON LOGIC PROGRAMMING AND NONMONOTONIC REASONING (LPNMR) (2017), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1456-barnaby_martin">Barnaby Martin</a>, <a href="/users/1457-andras_pongracz">Andras Pongracz</a>, <a href="/users/1455-michal_wrona">Michał Wrona</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7963-the_complexity_of_counting_quantifiers_on_equality_languages">The Complexity of Counting Quantifiers on Equality Languages</a>, <a href="/czasopisma/234793-theoretical_computer_science">THEOR COMPUT SCI</a> vol. 670 (2017),  56–67	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1456-barnaby_martin">Barnaby Martin</a>, <a href="/users/1457-andras_pongracz">Andras Pongracz</a>, <a href="/users/1455-michal_wrona">Michał Wrona</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7880-the_complexity_of_counting_quantifiers_on_equality_languages">The Complexity of Counting Quantifiers on Equality Languages</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 9709 (2016), 333--342	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1455-michal_wrona">Michał Wrona</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7883-tractability_frontier_for_dually_closed_ord_horn_quantified_constraint_satisfaction_problems">Tractability Frontier for Dually-Closed Ord-Horn Quantified Constraint Satisfaction Problems</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 8634 (Springer) (2014), 535--546	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1455-michal_wrona">Michał Wrona</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7882-local_to_global_consistency_implies_tractability_of_abduction">Local-to-Global Consistency Implies Tractability of Abduction</a>, PROCEEDINGS OF THE TWENTY-EIGHTH AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE (2014), 1128--1134	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1460-manuel__bodirsky">Manuel  Bodirsky</a>, <a href="/users/1461-hubie__chen">Hubie  Chen</a>, <a href="/users/1455-michal_wrona">Michał Wrona</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7881-tractability_of_quantified_temporal_constraints_to_the_max">Tractability of quantified temporal constraints to the max</a>, <a href="/czasopisma/229490-international_journal_of_algebra_and_computation">INT J ALGEBR COMPUT</a> vol. 24 (2014), 1141--1156	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1462-johannes__schmidt">Johannes  Schmidt</a>, <a href="/users/1455-michal_wrona">Michał Wrona</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7884-the_complexity_of_abduction_for_equality_constraint_languages">The Complexity of Abduction for Equality Constraint Languages</a>, LIPICS–LEIBNIZ INTERNATIONAL PROCEEDINGS IN INFORMATICS vol. 23 (2013), 615--633	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1461-hubie__chen">Hubie  Chen</a>, <a href="/users/1455-michal_wrona">Michał Wrona</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7887-guarded_ord_horn__a_tractable_fragment_of_quantified_constraint_satisfaction">Guarded Ord-Horn: A Tractable Fragment of Quantified Constraint Satisfaction</a>, 19TH INTERNATIONAL SYMPOSIUM ON TEMPORAL REPRESENTATION AND REASONING (2012), 99--106	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1460-manuel__bodirsky">Manuel  Bodirsky</a>, <a href="/users/1455-michal_wrona">Michał Wrona</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7886-equivalence_constraint_satisfaction_problems">Equivalence Constraint Satisfaction Problems</a>, LIPICS - LEIBNIZ INTERNATIONAL PROCEEDINGS IN INFORMATICS (2012), 122--136	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1455-michal_wrona">Michał Wrona</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7885-syntactically_characterizing_local_to_global_consistency_in_ord_horn">Syntactically Characterizing Local-to-Global Consistency in ORD-Horn</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 7514 (2012), 704--719	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1463-witold_charatonik">Witold Charatonik</a>, <a href="/users/1455-michal_wrona">Michał Wrona</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7889-tractable_quantified_constraint_satisfaction_problems_over_positive_temporal_templates">Tractable Quantified Constraint Satisfaction Problems over Positive Temporal Templates</a>, <a href="/czasopisma/241828-lecture_notes_in_artificial_intelligence">LECTURE NOTES IN ARTIFICIAL INTELLIGENCE</a> vol. 5330 (2008), 543--557	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1463-witold_charatonik">Witold Charatonik</a>, <a href="/users/1455-michal_wrona">Michał Wrona</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7888-quantified_positive_temporal_constraints">Quantified Positive Temporal Constraints</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 5213 (2008), 94--108	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1463-witold_charatonik">Witold Charatonik</a>, <a href="/users/1455-michal_wrona">Michał Wrona</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7890-2_sat_problems_in_some_multi_valued_logics_based_on_finite_lattices">2-SAT Problems in Some Multi-Valued Logics Based on Finite Lattices</a>, 37TH INTERNATIONAL SYMPOSIUM ON MULTIPLE-VALUED LOGIC, ISMVL 2007 vol. IEEE Computer Society (2007), 21	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1455-michal_wrona">Michał Wrona</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7891-stratified_boolean_grammars">Stratified Boolean Grammars</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 3618 (Springer) (), 801--812	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/1455-michal_wrona"><span>7965</span><span>7964</span><span>7963</span><span>7880</span><span>7883</span><span>7882</span><span>7881</span><span>7884</span><span>7887</span><span>7886</span><span>7885</span><span>7889</span><span>7888</span><span>7890</span><span>7891</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

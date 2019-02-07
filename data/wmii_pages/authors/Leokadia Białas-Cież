@@ -1,0 +1,768 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr hab. -  Leokadia Białas-Cież</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr hab.  Leokadia Białas-Cież
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Teorii Aproksymacji</li>
+		</ul>
+
+
+
+<p><p><a class="default-link" href="/procedure/244">Habilitacja</a> &emsp;<b>Otwarcie:</b> 2014-01-17, <b>Zamknięcie:</b> 2014-06-26</p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#k">Konferencje</a></li><li><a href="#ko">Konferencje organizowane</a></li><li><a href="#d">Doktoranci</a></li><li><a href="#g">Granty</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	26.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>, <a href="/users/258-marta_kosek">Marta Kosek</a>, <a href="/users/1766-malgorzata_stawiska">Małgorzata Stawiska</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8230-on_lagrange_polynomials_and_the_rate_of_approximation_of_planar_sets_by_polynomial_julia_sets">On Lagrange polynomials and the rate of approximation of planar sets by polynomial Julia sets</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 464 (2018), 507-530	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	25.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>, <a href="/users/1196-jean_paul_calvi">Jean-Paul Calvi</a>, <a href="/users/561-agnieszka_kowalska">Agnieszka Kowalska</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8108-polynomial_inequalities_on_certain_algebraic_hypersurfaces">Polynomial inequalities on certain algebraic hypersurfaces</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 459 (2018), 822-838	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1680-stanislaw_bialas">Stanisław Białas</a>, <a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8031-comments_on__on_hadamard_powers_of_polynomials_">Comments on 'On Hadamard powers of polynomials'</a>, <a href="/czasopisma/232211-mathematics_of_control_signals_and_systems">MATH CONTROL SIGNAL</a> vol. 29 (3) (2017), 10 pp.	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/262-miroslaw_baran">Mirosław Baran</a>, <a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>, <a href="/users/576-raimondo_eggink">Raimondo Eggink</a>, <a href="/users/561-agnieszka_kowalska">Agnieszka Kowalska</a>, <a href="/users/1679-bela_nagy">Bela Nagy</a>, <a href="/users/235-rafal_pierzchala">Rafał Pierzchała</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8029-selected_open_problems_in_polynomial_approximation_and_potential_theory">Selected Open Problems in Polynomial Approximation and Potential Theory</a>, DOLOMITES RESEARCH NOTES ON APPROXIMATION vol. 10 (2017), 161-168	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>, <a href="/users/1196-jean_paul_calvi">Jean-Paul Calvi</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7676-invariance_of_polynomial_inequalities_under_polynomial_maps">Invariance of polynomial inequalities under polynomial maps</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 439 (2016), 449-464	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>, <a href="/users/576-raimondo_eggink">Raimondo Eggink</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7669-jackson_s_inequality_in_the_complex_plane_and_the_lojasiewicz_siciak_inequality_of_green_s_function">Jackson’s inequality in the complex plane and the Łojasiewicz–Siciak inequality of Green’s function</a>, <a href="/czasopisma/230156-journal_of_approximation_theory">J APPROX THEORY</a> vol. 207 (2016), 46-59	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>, <a href="/users/1196-jean_paul_calvi">Jean-Paul Calvi</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7230-homogeneous_minimal_polynomials_with_prescribed_interpolation_conditions_">Homogeneous minimal polynomials with prescribed interpolation conditions </a>, <a href="/czasopisma/234882-transactions_of_the_american_mathematical_society">T AM MATH SOC</a> vol. 368 (2016), 8383-8402	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>, <a href="/users/576-raimondo_eggink">Raimondo Eggink</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7231-global_and_local_markov_inequalities_in_the_complex_plane">Global and Local Markov Inequalities in the Complex Plane</a>, DOLOMITES RESEARCH NOTES ON APPROXIMATION vol. 7 (2014), 34-38	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/262-miroslaw_baran">Mirosław Baran</a>, <a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7223-holder_continuity_of_the_green_function__markov_type_inequality_and_a_capacity_related_to_hcp">Hölder continuity of the Green function, Markov-type inequality and a capacity related to HCP</a>, DOLOMITES RESEARCH NOTES ON APPROXIMATION vol. 7 (2014), 16-21	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/262-miroslaw_baran">Mirosław Baran</a>, <a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7004-holder_continuity_of_the_green_function_and_markov_brothers__inequality">Holder continuity of the Green function and Markov brothers' inequality</a>, <a href="/czasopisma/227404-constructive_approximation">CONSTR APPROX</a> vol. 40 (2014), 121-140	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/262-miroslaw_baran">Mirosław Baran</a>, <a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>, <a href="/users/639-beata_milowka">Beata Milówka</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6316-on_the_best_exponent_in_markov_inequality">On the Best Exponent in Markov Inequality</a>, <a href="/czasopisma/233444-potential_analysis">POTENTIAL ANAL</a> vol. 38 (2) (2013), 635-651	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>, <a href="/users/576-raimondo_eggink">Raimondo Eggink</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6315-equivalence_of_the_local_markov_inequality_and_a_kolmogorov_type_inequality_in_the_complex_plane">Equivalence of the Local Markov Inequality and a Kolmogorov Type Inequality in the Complex Plane</a>, <a href="/czasopisma/233444-potential_analysis">POTENTIAL ANAL</a> vol. 38 (1) (2013), 299-317	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6314-siciak_s_extremal_function_via_bernstein_and_markov_constants_for_compact_sets_in_c_n">Siciak's extremal function via Bernstein and Markov constants for compact sets in C^N</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 106 (2012), 41-51	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/262-miroslaw_baran">Mirosław Baran</a>, <a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6313-product_property_for_capacities_in_c_n_">Product property for capacities in C^N </a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 106 (2012), 19-29	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>, <a href="/users/1196-jean_paul_calvi">Jean-Paul Calvi</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4192-pseudo_leja_sequences">Pseudo Leja sequences</a>, <a href="/czasopisma/225709-annali_di_matematica_pura_ed_applicata">ANN MAT PUR APPL</a> vol. 191 (2012), 53-75	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4193-smoothness_of_green_s_functions_and_markov_type_inequalities">Smoothness of Green's functions and Markov-type inequalities</a>, <a href="/czasopisma/242166-banach_center_publications">BANACH CENTER PUBLICATIONS</a> vol. 92 (2011), 27-36	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>, <a href="/users/258-marta_kosek">Marta Kosek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4194-how_to_construct_totally_disconnected_markov_sets_">How to construct totally disconnected Markov sets?</a>, <a href="/czasopisma/225709-annali_di_matematica_pura_ed_applicata">ANN MAT PUR APPL</a> vol. 190 (2011), 209-224	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>, <a href="/users/258-marta_kosek">Marta Kosek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4195-iterated_function_systems_and_lojasiewicz_siciak_condition_of__green_s_function">Iterated Function Systems and Łojasiewicz-Siciak Condition of  Green's Function</a>, <a href="/czasopisma/233444-potential_analysis">POTENTIAL ANAL</a> vol. 34 (2011), 207-221	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>, <a href="/users/576-raimondo_eggink">Raimondo Eggink</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4196-l_regularity_of_markov_sets_and_of_m_perfect_sets_in_the_complex_plane">L-Regularity of Markov Sets and of m-Perfect Sets in the Complex Plane</a>, <a href="/czasopisma/227404-constructive_approximation">CONSTR APPROX</a> vol. 27 (2008), 237-252	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>, <a href="/users/243-mieczyslaw_jedrzejowski">Mieczysław Jędrzejowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4197-transfinite_diameter_of_bernstein_sets_in__bbb_csp_n_">Transfinite diameter of Bernstein sets in $Bbb Csp N$</a>, <a href="/czasopisma/230842-journal_of_inequalities_and_applications">J INEQUAL APPL</a> vol. 7 (2002), 393-404	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4198-equivalence_of_markov_s_and_schur_s_inequalities_on_compact_subsets_of_the_complex_plane">Equivalence of Markov's and Schur's inequalities on compact subsets of the complex plane</a>, <a href="/czasopisma/230842-journal_of_inequalities_and_applications">J INEQUAL APPL</a> vol. 3 (1999), 45-49	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4199-sur_l_inegalite_de_markov_pour_les_compacts">Sur l'inegalite de Markov pour les compacts</a>, UNIVERSITE DE PARIS-SUD vol. No. 5647 (2081) (1999), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4200-markov_sets_in_c_are_not_polar">Markov sets in C are not polar</a>, BULL. POLISH ACAD. SCI. MATH. vol. 46 (1998), 83-89	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>, P.Goetgheluck	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4201-constants_in_markov_s_inequality_on_convex_sets">Constants in Markov's inequality on convex sets</a>, EAST J. APPROX. 1 (1995), no. 3, 379--389	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4202-equivalence_of_markov_s_property_and_holder_continuity_of_the_green_function_for_cantor_type_sets">Equivalence of Markov's property and Hölder continuity of the Green function for Cantor-type sets</a>,  EAST J. APPROX.  vol. 1 (1995), 249-253	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>, A.Volberg	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4203-markov_s_property_of_the_cantor_ternary_set">Markov's property of the Cantor ternary set</a>, <a href="/czasopisma/234609-studia_mathematica">STUD MATH</a> vol. 104 (1993), 259-268	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/229-leokadia_bialas_ciez"><span>8230</span><span>8108</span><span>8031</span><span>8029</span><span>7676</span><span>7669</span><span>7230</span><span>7231</span><span>7223</span><span>7004</span><span>6316</span><span>6315</span><span>6314</span><span>6313</span><span>4192</span><span>4193</span><span>4194</span><span>4195</span><span>4196</span><span>4197</span><span>4198</span><span>4199</span><span>4200</span><span>4201</span><span>4202</span><span>4203</span></div>
+</div><h3 id='k'>Konferencje:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/176-klaudiusz-wojcik">Klaudiusz Wójcik</a>, <a class="default-link" href="/users/181-wlodzimierz-zwonek">Włodzimierz Zwonek</a>, <a class="default-link" href="/users/229-leokadia-bialas_ciez">Leokadia Białas-Cież</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/487">8. Forum Matematyków Polskich</a>, Polskie Towarzystwo Matematyczne, Lublin, Polska, 2017-09-18 - 2017-09-22	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/229-leokadia-bialas_ciez">Leokadia Białas-Cież</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/581">Dolomites Research Week on Approximation 2017</a>, Uniwersytet w Padwie i Uniwersytet w Weronie, Alba di Canazei, Włochy, 2017-09-04 - 2017-09-08	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/229-leokadia-bialas_ciez">Leokadia Białas-Cież</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/497">Complex and Functional Analysis and their interactions with Harmonic Analysis</a>, IM PAN, Będlewo, Polska, 2017-06-12 - 2017-06-16	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/229-leokadia-bialas_ciez">Leokadia Białas-Cież</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/496">4th Dolomites Workshop on Constructive Approximation and Applications DWCAA2016</a>, Uniwersytet w Padwie i Uniwersytet w Weronie, Alba di Canazei, Włochy, 2016-09-08 - 2016-09-13	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/229-leokadia-bialas_ciez">Leokadia Białas-Cież</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/495">5th Summer Workshop on Operator Theory SWOT2016</a>, Uniwersytet Rolniczy w Krakowie, Kraków, Polska, 2016-07-05 - 2016-07-09	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/229-leokadia-bialas_ciez">Leokadia Białas-Cież</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/494">VII Jean Conference on Approximation Theory</a>, Universidad de Jaén, Ubeda, Hiszpania, 2016-07-03 - 2016-07-08	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/229-leokadia-bialas_ciez">Leokadia Białas-Cież</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/229">Dolomites Research Week on Approximation 2015</a>, Uniwersytet w Padwie i Uniwersytet w Weronie, Alba di Canazei, Włochy, 2015-09-05 - 2015-09-08	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/229-leokadia-bialas_ciez">Leokadia Białas-Cież</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/230">Dolomites Research Week on Approximation 2014</a>, Uniwersytet w Padwie i Uniwersytet w Weronie, Alba di Canazei, Włochy, 2014-09-08 - 2014-09-12	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/229-leokadia-bialas_ciez">Leokadia Białas-Cież</a>, <a class="default-link" href="/users/258-marta-kosek">Marta Kosek</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/11">Constructive Approximation of Functions</a>, Uniwersytet Jagielloński, Centrum Banacha, Będlewo, Poland, 2014-06-29 - 2014-07-05	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/229-leokadia-bialas_ciez">Leokadia Białas-Cież</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/232">Workshop on Multivariate Approximation</a>, Uniwersytet w Weronie, Werona, Włochy, 2013-11-29 - 2013-11-30	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/229-leokadia-bialas_ciez">Leokadia Białas-Cież</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/231">5th Visegrad Conference on Dynamical Systems</a>, Uniwersytet Warmińsko-Mazurski, Olsztyn, Polska, 2013-09-02 - 2013-09-06	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/229-leokadia-bialas_ciez">Leokadia Białas-Cież</a>, <a class="default-link" href="/users/258-marta-kosek">Marta Kosek</a>, <a class="default-link" href="/users/285-grzegorz-matecki">Grzegorz Matecki</a>, <a class="default-link" href="/users/347-lucja-farnik">Łucja Farnik</a>, <a class="default-link" href="/users/381-ada-palka">Ada Pałka</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/13">6th European Congress of Mathematics</a>, Jagiellonian University, Kraków, Poland, 2012-07-02 - 2012-07-07	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/229-leokadia-bialas_ciez">Leokadia Białas-Cież</a>, <a class="default-link" href="/users/258-marta-kosek">Marta Kosek</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/14">Conference on several complex variables on the occassion of Professor Józef Siciak's 80th birthday</a>, Jagiellonian University, IMPAN, Kraków, Poland, 2011-07-04 - 2011-07-08	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/229-leokadia_bialas_ciez"><span>487</span><span>581</span><span>497</span><span>496</span><span>495</span><span>494</span><span>229</span><span>230</span><span>11</span><span>232</span><span>231</span><span>13</span><span>14</span></div>
+</div><h3 id='ko'>Konferencje organizowane:</h3><div id="yw3" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/229-leokadia-bialas_ciez">Leokadia Białas-Cież</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/53">Constructive Approximation of Functions</a>, Będlewo, 2014-06-29, 2014-07-05	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/229-leokadia-bialas_ciez">Leokadia Białas-Cież</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/113">4th Dolomites Workshop on Constructive Approximation and Applications DWCAA2016</a>, Alba di Canazei, 2016-09-08, 2016-09-13	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/229-leokadia-bialas_ciez">Leokadia Białas-Cież</a>, <a class="default-link" href="/users/258-marta-kosek">Marta Kosek</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/100">Geometry of Banach Spaces and Related Topics</a>, Kraków, 2017-06-08, 2017-06-10	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/229-leokadia_bialas_ciez"><span>53</span><span>113</span><span>100</span></div>
+</div><h3 id='d'>Doktoranci <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="doc-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="doc-view_c0"><a class="sort-link" href="/users/229-leokadia_bialas_ciez?Procedure_sort=id_user">Doktorant<span class="caret"></span></a></th><th id="doc-view_c1"><a class="sort-link" href="/users/229-leokadia_bialas_ciez?Procedure_sort=opening">Otwarcie<span class="caret"></span></a></th><th id="doc-view_c2"><a class="sort-link" href="/users/229-leokadia_bialas_ciez?Procedure_sort=ending">Zakonczenie<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/265">Grzegorz Sroka</a></td><td>2015-03-26</td><td>2017-04-27</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/229-leokadia_bialas_ciez"><span>265</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/229-leokadia_bialas_ciez?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/165">Konstruktywna aproksymacja na zbiorach algebraicznych</a></td><td>Kierownik</td><td>2018-02-14</td><td>2021-02-13</td></tr>
+<tr class="even">
+<td><a href="../grants/91">Wielowymiarowe nierówności wielomianowe poprzez teorię pluripotencjału, geometrię subanalityczną i algebry Banacha</a></td><td>Wykonawca</td><td>2014-07-08</td><td>2017-11-27</td></tr>
+<tr class="odd">
+<td><a href="../grants/73">Współpraca z Uniwersytetem w Tuluzie w zakresie Analizy Zespolonej</a></td><td>Wykonawca</td><td>2013-08-28</td><td>2014-11-27</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/229-leokadia_bialas_ciez"><span>378</span><span>140</span><span>212</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw3').yiiListView({'ajaxUpdate':['yw3'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#doc-view').yiiGridView({'ajaxUpdate':['doc-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

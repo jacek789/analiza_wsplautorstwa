@@ -1,0 +1,631 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>prof. dr hab. -  Piotr Tworzewski</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+prof. dr hab.  Piotr Tworzewski
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Geometrii Analitycznej</li>
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#k">Konferencje</a></li><li><a href="#d">Doktoranci</a></li><li><a href="#r">Recenzje</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	31.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/259-slawomir_rams">Sławomir Rams</a>, <a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5495-a_note_on_bezout_s_theorem">A note on Bézout's theorem</a>, ANN. POLON. MATH. 87 (2005), 219-227	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	30.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>, J.Apel,J.Stueckrad	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5823-properties_of_entire_functions_over_polynomial_rings_via_groebner_bases">Properties of Entire Functions Over Polynomial Rings via Groebner Bases</a>, APPL. ALGEBRA ENGRG. COMM. COMPUT. 14 (2003), 1--10	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	29.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/599-arkadiusz_ploski">Arkadiusz Płoski</a>, <a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, A.Fabiano	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5825-effective_nullstellensatz_for_strictly_regular_sequences">Effective Nullstellensatz for strictly regular sequences</a>, UNIV. JAGIELL. ACTA MATH. no. 38 (2000), 163--167	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	28.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, M.Kwiecinski	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5826-fibres_of_analytic_maps">Fibres of analytic maps</a>, BULL. POLISH ACAD. SCI. MATH. 47 (1999), no. 3, 245--255	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	27.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/228-ewa_cygan">Ewa Cygan</a>, <a href="/users/644-tadeusz_krasinski">Tadeusz Krasiński</a>, <a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4312-separation_of_algebraic_sets_and_the_lojasiewicz_exponent_of_polynomial_mappings">Separation of algebraic sets and the Łojasiewicz exponent of polynomial mappings</a>, <a href="/czasopisma/229888-inventiones_mathematicae">INVENT MATH</a> vol. 136 (1) (1999), 75--87	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	26.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>, J.Apel,J.Stückrad	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5827-term_bases_for_multivariate_interpolation_of_hermite_type">Term bases for multivariate interpolation of Hermite type</a>, EFFECTIVE METHODS IN ALGEBRAIC AND ANALYTIC GEOMETRY (BIELSKO-BIAŁA, 1997). Univ. Iagel. Acta Math. No. 37 (1999), 37--49	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	25.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>, J.Apel,J.Stückrad	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5828-intersection_of_sequences_of_ideals_generated_by_polynomials">Intersection of sequences of ideals generated by polynomials</a>, J. PURE APPL. ALGEBRA 131 (1998), no. 1, 1--12	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/599-arkadiusz_ploski">Arkadiusz Płoski</a>, <a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5829-effective_nullstellensatz_on_analytic_and_algebraic_varieties">Effective Nullstellensatz on analytic and algebraic varieties</a>, BULL. POLISH ACAD. SCI. MATH. 46 (1998), no. 1, 31--38	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/644-tadeusz_krasinski">Tadeusz Krasiński</a>, <a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, J.Ch1dzynski	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5830-on_the_intersection_multiplicity_of_analytic_curves_in_cm">On the intersection multiplicity of analytic curves in Cm</a>, BULL. POLISH ACAD. SCI. MATH. 45 (1997), no. 2, 163--169	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>, J.Apel,J.Stückrad	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5831-reduction_of_everywhere_convergent_power_series_with_respect_to_grobner_bases">Reduction of everywhere convergent power series with respect to Gröbner bases</a>, J. PURE APPL. ALGEBRA 110 (1996), no. 2, 113--129	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/599-arkadiusz_ploski">Arkadiusz Płoski</a>, <a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5832-a_separation_condition_for_polynomial_mappings">A separation condition for polynomial mappings</a>, BULL. POLISH ACAD. SCI. MATH. 44 (1996), no. 3, 327--331	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5833-intersection_theory_in_complex_analytic_geometry">Intersection theory in complex analytic geometry</a>, ANN. POLON. MATH. 62 (1995), no. 2, 177--191	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4341-diagonal_representations_of_nash_functions">Diagonal representations of Nash functions</a>, BULL. POLISH ACAD. SCI. MATH. 42 (1994), no. 4, 305--313	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/228-ewa_cygan">Ewa Cygan</a>, <a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4314-proper_intersection_multiplicity_and_regular_separation_of_analytic_sets">Proper intersection multiplicity and regular separation of analytic sets</a>, ANN. POLON. MATH. 59 (1994), no. 3, 293--298	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4342-diagonal_series_of_rational_functions__several_variables_">Diagonal series of rational functions (several variables)</a>, ANN. POLON. MATH. 59 (1994), no. 1, 77--83	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5834-isolated_intersection_multiplicity_and_regular_separation_of_analytic_sets">Isolated intersection multiplicity and regular separation of analytic sets</a>, ANN. POLON. MATH. 58 (1993), no. 2, 213--219	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4344-diagonal_series_of_rational_functions">Diagonal series of rational functions</a>, PROCEEDINGS OF THE TENTH CONFERENCE ON ANALYTIC FUNCTIONS (SZCZYRK, 1990). Ann. Polon. Math. 55 (1991), 57--63	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/190-marek_jarnicki">Marek Jarnicki</a>, <a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4629-a_note_on_holomorphic_mappings_with_two_fixed_points">A note on holomorphic mappings with two fixed points</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 51 (1990), 179-182	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>, G.Dloussky	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5835-on_separately_algebraic_sets">On separately algebraic sets</a>, SAITAMA MATH. J. 8 (1990), 47--50	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>, K.Spallek	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5836-osgood_hartogs_theorems_of_mixed_type">Osgood-Hartogs-theorems of mixed type</a>, MATH. ANN. 288 (1990), no. 1, 75--88	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>, R.Achilles	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5837-on_improper_isolated_intersection_in_complex_analytic_geometry">On improper isolated intersection in complex analytic geometry</a>, ANN. POLON. MATH. 51 (1990), 21--36	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5839-intersections_of_analytic_sets_with_linear_subspaces">Intersections of analytic sets with linear subspaces</a>, ANN. SCUOLA NORM. SUP. PISA CL. SCI. (4) 17 (1990), no. 2, 227--271	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5838-cycles_of_zeroes_of_holomorphic_mappings">Cycles of zeroes of holomorphic mappings</a>, BULL. POLISH ACAD. SCI. MATH. 37 (1989), no. 1-6, 95--101 (1990)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5840-a_note_on_the_max_noether_theorem">A note on the Max Noether theorem</a>, BULL. SOC. SCI. LETT. LÓD? 39 (1989), no. 7, 1--3	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5841-limits_of_algebraic_sets_of_bounded_degree">Limits of algebraic sets of bounded degree</a>, UNIV. IAGEL. ACTA MATH. no. 24 (1984), 151--153	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5842-continuity_of_intersection_of_analytic_sets">Continuity of intersection of analytic sets</a>, ANN. POLON. MATH. 42 (1983), 387--393	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/190-marek_jarnicki">Marek Jarnicki</a>, <a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4644-a_note_on_holomorphic_functions_with_polynomial_growth">A note on holomorphic functions with polynomial growth</a>, OSNABRÜCKER SCHRIFTEN ZUR MATHEMATIK vol. 67 (1983), 1-12	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5843-analytic_sets_with_proper_projections">Analytic sets with proper projections</a>, J. REINE ANGEW. MATH. 337 (1982), 68--76	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5844-some_conditions_for_the_algebraicity_of_analytic_sets">Some conditions for the algebraicity of analytic sets</a>, BULL. ACAD. POLON. SCI. SÉR. SCI. MATH. 29 (1981), no. 11-12, 545--548	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5824-teoria_przeciea_w_zespolonej_geometrii_analitycznej_i_jej_zastosowania__cze_a_i">Teoria Przeciea w zespolonej geometrii analitycznej i jej zastosowania, Cze?a I</a>, MATERIA3Y XXII KONFERENCJI SZKOLENIOWEJ Z GEOMETRII ANALITYCZNEJ I ALGEBRAICZNEJ, LÓD? 2001, 37--49	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/259-slawomir_rams">Sławomir Rams</a>, <a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5506-zbie_no_a_3ancuchow_holomorficznych">Zbie?no?a 3ancuchów holomorficznych</a>, MATERIA3Y XVIII KONFERENCJI SZKOLENIOWEJ Z GEOMETRII ANALITYCZNEJ I ALGEBRAICZNEJ ZESPOLONEJ, BRONIS3AWÓW 1997, 53-64	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/241-piotr_tworzewski"><span>5495</span><span>5823</span><span>5825</span><span>5826</span><span>4312</span><span>5827</span><span>5828</span><span>5829</span><span>5830</span><span>5831</span><span>5832</span><span>5833</span><span>4341</span><span>4314</span><span>4342</span><span>5834</span><span>4344</span><span>4629</span><span>5835</span><span>5836</span><span>5837</span><span>5839</span><span>5838</span><span>5840</span><span>5841</span><span>5842</span><span>4644</span><span>5843</span><span>5844</span><span>5824</span><span>5506</span></div>
+</div><h3 id='k'>Konferencje:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/241-piotr-tworzewski">Piotr Tworzewski</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/275">Konferencja Użytkowników Komputerów Dużej Mocy - KU KDM'15</a>, ACK Cyfronet AGH, Zakopane, Polska, 2015-03-11 - 2015-03-13	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/241-piotr_tworzewski"><span>275</span></div>
+</div><h3 id='d'>Doktoranci <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="doc-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="doc-view_c0"><a class="sort-link" href="/users/241-piotr_tworzewski?Procedure_sort=id_user">Doktorant<span class="caret"></span></a></th><th id="doc-view_c1"><a class="sort-link" href="/users/241-piotr_tworzewski?Procedure_sort=opening">Otwarcie<span class="caret"></span></a></th><th id="doc-view_c2"><a class="sort-link" href="/users/241-piotr_tworzewski?Procedure_sort=ending">Zakonczenie<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/103">Marcin Bilski</a></td><td>2003-03-13</td><td>2004-06-24</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/241-piotr_tworzewski"><span>103</span></div>
+</div><h3 id='r'>Recenzje <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="review-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="review-view_c0"><a class="sort-link" href="/users/241-piotr_tworzewski?ProcedureReview_sort=id_procedure">Recenzowany<span class="caret"></span></a></th><th id="review-view_c1">Jednostka</th><th id="review-view_c2"><a class="sort-link" href="/users/241-piotr_tworzewski?ProcedureReview_sort=id_uploaded_file">Treść recenzji<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/112">Doktorat: Witold Jarnicki</a></td><td></td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/241-piotr_tworzewski"><span>233</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#doc-view').yiiGridView({'ajaxUpdate':['doc-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#review-view').yiiGridView({'ajaxUpdate':['review-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

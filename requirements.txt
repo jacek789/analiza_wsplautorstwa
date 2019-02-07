@@ -1,0 +1,7 @@
+dash==0.35.0  # The core dash backend
+dash-html-components==0.13.5  # HTML components
+dash-core-components==0.42.0  # Supercharged components
+dash-table==3.3.0
+networkx
+lxml
+plotly==3.6.0

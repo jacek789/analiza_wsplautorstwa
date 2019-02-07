@@ -1,0 +1,748 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>prof. dr hab. -  Jacek Gancarzewicz</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+prof. dr hab.  Jacek Gancarzewicz
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Geometrii</li>
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#r">Recenzje</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	41.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6936-zarys_wspolczesnej_geometrii_rozniczkowej">Zarys współczesnej geometrii różniczkowej</a>, (2010), Wydawnictwo Script	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	40.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, N.Rahmani,M.Salgado	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4538-connections_of_higher_order_and_product_preserving_functors">Connections of higher order and product preserving functors</a>, CZECHOSLOVAK MATH. J. 52 (127) (2002), no. 4, 889--896	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	39.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, <a href="/users/223-wlodzimierz_mikulski">Włodzimierz Mikulski</a>, <a href="/users/240-zdzislaw_pogoda">Zdzisław Pogoda</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4539-admissible_operations_and_product_preserving_functors">Admissible operations and product preserving functors</a>, NEW DEVELOPMENTS IN DIFFERENTIAL GEOMETRY (DEBRECEN 1994) MATH. APPL. 350, KLUVER ACAD. PUBL. DORDREHT (1996), 179-192	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	38.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/221-jacek_debecki">Jacek Dębecki</a>, <a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, <a href="/users/223-wlodzimierz_mikulski">Włodzimierz Mikulski</a>, de León Manuel	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4445-invariants_of_lagrangians_and_their_classifications">Invariants of Lagrangians and their classifications</a>, <a href="/czasopisma/231006-journal_of_mathematical_physics">J MATH PHYS</a> vol. 35, no. 9 (1994), 4568-4593	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	37.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, <a href="/users/223-wlodzimierz_mikulski">Włodzimierz Mikulski</a>, <a href="/users/240-zdzislaw_pogoda">Zdzisław Pogoda</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4540-lifts_of_some_tensor_fields_and_connections_to_product_preserving_functors">Lifts of some tensor fields and connections to product preserving functors</a>, NAGOYA MATH. J. 135 (1994), 1--41	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	36.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, <a href="/users/223-wlodzimierz_mikulski">Włodzimierz Mikulski</a>, <a href="/users/240-zdzislaw_pogoda">Zdzisław Pogoda</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4541-properties_of_product_preserving_functors">Properties of product preserving functors</a>, GEOMETRY AND PHYSICS (ZDÍKOV, 1993). Rend. Circ. Mat. Palermo (2) Suppl. No. 37 (1994), 69--86	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	35.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, <a href="/users/223-wlodzimierz_mikulski">Włodzimierz Mikulski</a>, <a href="/users/240-zdzislaw_pogoda">Zdzisław Pogoda</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4542-natural_bundles_and_natural_liftings_prolongations_of_geometric_structures">Natural bundles and natural liftings prolongations of geometric structures</a>, DIFFERENTIAL GEOMETRY AND ITS APPL.(OPAVA) MATH PUBL., 1, SILESIAN UNIV. OPAVA (1993), 281-320	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	34.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, I.Kolávr)	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4543-natural_affinors_on_the_extended_rth_order_tangent_bundles">Natural affinors on the extended rth order tangent bundles</a>, PROCEEDINGS OF THE WINTER SCHOOL "GEOMETRY AND PHYSICS" (SRNÍ, 1991). Rend. Circ. Mat. Palermo (2) Suppl. No. 30 (1993), 95--100	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	33.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, M.Salgado	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4545-the_tangent_bundle_of_pr_velocities_over_a_homogeneous_space">The tangent bundle of pr-velocities over a homogeneous space</a>, CZECHOSLOVAK MATH. J. 41(116) (1991), no. 4, 570--591	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	32.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, S.Mahi	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4546-geodesiques_dans_la_fibre_tangent_d_ordre_superieur">Géodésiques dans la fibré tangent d'ordre supérieur</a>, (FRENCH) [GEODESICS IN A HIGHER-ORDER TANGENT BUNDLE] UNIV. IAGEL. ACTA MATH. no. 28 (1991), 231--243	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	31.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, I.Kolávr	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4547-some_gauge_natural_operators_on_linear_connections">Some gauge-natural operators on linear connections</a>, MONATSH. MATH. 111 (1991), no. 1, 23--33	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	30.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, S.Mahi	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4548-lifts_of_1_forms_to_the_tangent_bundle_of_higher_order">Lifts of 1-forms to the tangent bundle of higher order</a>, CZECHOSLOVAK MATH. J. 40(115) (1990), no. 3, 397--407	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	29.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, N.Rahmani	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4550-relevement_horizontal_des_connexions_lineaires_au_fibre_vectoriel_associe_avec_le_fibre_principal_des_reperes_lineaires">Relevement horizontal des connexions linéaires au fibré vectoriel associé avec le fibré principal des reperes linéaires</a>, (FRENCH) [HORIZONTAL LIFTING OF LINEAR CONNECTIONS TO THE VECTOR BUNDLE ASSOCIATED WITH THE PRINCIPAL BUNDLE OF LINEAR FRAMES] ANN. POLON. MATH. 48 (1988), no. 3, 291--295	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	28.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, N.Rahmani	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4551-relevements_horizontaux_de_tenseurs_de_type___1_1___au_fibre__e_tmotimes_tsp__m_">Relevements horizontaux de tenseurs de type $(1,1)$ au fibré $E=TMotimes Tsp *M$</a>, (FRENCH) [HORIZONTAL LIFTINGS OF TENSORS OF TYPE $(1,1)$ TO THE BUNDLE $E=TMOTIMES TSP *M$] ANN. POLON. MATH. 48 (1988), no. 3, 281--289	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	27.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, S.Mahi,N.Rahmani	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4553-horizontal_lift_of_tensor_fields_of_type___1_1___from_a_manifold_to_its_tangent_bundle_of_higher_order">Horizontal lift of tensor fields of type $(1,1)$ from a manifold to its tangent bundle of higher order</a>, PROCEEDINGS OF THE 14th winter school on abstract analysis (Srní, 1986). Rend. Circ. Mat. Palermo (2) Suppl. No. 14 (1987), 43--59	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	26.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4558-relevements_des_champs_de_vecteurs_aux_fibres_naturels">Relevements des champs de vecteurs aux fibrés naturels</a>, (FRENCH) [LIFTINGS OF VECTOR FIELDS TO NATURAL BUNDLES] C. R. ACAD. SCI. PARIS SÉR. I MATH. 296 (1983), no. 1, 59--61	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	25.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4559-some_vector_subbundles_of_a_cotangent_bundle_of_order_2">Some vector subbundles of a cotangent bundle of order 2</a>, ANN. POLON. MATH. 43 (1983), no. 1, 13--21	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4560-liftings_of_functions_and_vector_fields_to_natural_bundles">Liftings of functions and vector fields to natural bundles</a>, DISSERTATIONES MATH. (ROZPRAWY MAT.) 212 (1983), 55 pp	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4561-des_relevements_des_fonctions_aux_fibres_naturels">Des relevements des fonctions aux fibrés naturels</a>, (FRENCH) [LIFTINGS OF FUNCTIONS TO NATURAL BUNDLES] C. R. ACAD. SCI. PARIS SÉR. I MATH. 295 (1982), no. 13, 743--746	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4562-complete_lifts_of_tensor_fields_of_type___1__k___to_natural_bundles">Complete lifts of tensor fields of type $(1,,k)$ to natural bundles</a>, ZESZYTY NAUK. UNIW. JAGIELLON. PRACE MAT. no. 23 (1982), 51--84	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4563-geometries_defined_by_pseudogroups_of_transformations">Geometries defined by pseudogroups of transformations</a>, ZESZYTY NAUK. UNIW. JAGIELLON. PRACE MAT. no. 23 (1982), 43--49	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4564-local_triviality_of_a_bundle_of_geometric_objects">Local triviality of a bundle of geometric objects</a>, ZESZYTY NAUK. UNIW. JAGIELLON. PRACE MAT. no. 23 (1982), 39--42	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4565-spaces_with_a_covariant_constant_linear_geometric_object">Spaces with a covariant constant linear geometric object</a>, ANN. POLON. MATH. 37 (1980), no. 3, 243--247	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4566-geodesics_of_order_2">Geodesics of order 2</a>, ZESZYTY NAUK. UNIW. JAGIELLON. 475 Prace Mat. Zeszyt 19 (1977), 121--136	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4567-connections_of_order_r">Connections of order r</a>, ANN. POLON. MATH. 34 (1977), no. 1, 69--83	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4568-generalisation_des_espaces_symetriques">Généralisation des espaces symétriques</a>, (FRENCH) C. R. ACAD. SCI. PARIS SÉR. A-B 284 (1977), no. 3, A179--A182	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4569-mixed_covariant_derivative_and_conjugate_connections">Mixed covariant derivative and conjugate connections</a>, ANN. POLON. MATH. 32 (1976), no. 3, 235--271	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4570-f_structures_a_noyau_parallelisable">f-structures a noyau parallélisable</a>, (FRENCH) C. R. ACAD. SCI. PARIS SÉR. A-B 283 (1976), no. 7, Aiii, A495--A497	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4572-connexions_lineaires_conjuguees">Connexions linéaires conjuguées</a>, (FRENCH) ANN. POLON. MATH. 27 (1973), 167--180	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4573-connexions_conjuguees">Connexions conjuguées</a>, COLLECTION OF ARTICLES COMMEMORATING WŁADYSŁAW 'SLEBODZINSKI. COLLOQ. MATH. 26 (1972), 193--206	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4574-remarks_on_algebraic_properties_of_sequential_machines">Remarks on algebraic properties of sequential machines</a>, ZESZYTY NAUK. UNIW. JAGIELLO. PRACE MAT. no. 15, (1971), 47--59	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4571-remarks_on_j">Remarks on J</a>, GANCARZEWICZ'S PAPER: "ON COMMUTATIVE ALGEBRAIC OBJECTS OVER A GROUPOID" (ZESZYTY NAUK UNIW. JAGIELLON. PRACE MAT. no. 12 (1968), 19--25). Zeszyty Nauk. Uniw. Jagiellon. 403 Prace Mat. no. 17 (1975), 89--92	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, <a href="/users/193-barbara_opozda">Barbara Opozda</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4537-wstep_do_geometrii_rozniczkowej">Wstęp do geometrii różniczkowej</a>,  Wydawnictwo Uniwersytetu Jagiellońskiego, Seria: Matematyka
+	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, J.Gancarcewicz,N.Rahmani	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4544-horizontal_lift_of_linear_connections_to_vector_bundles_associated_with_the_principal_bundle_of_linear_frames">Horizontal lift of linear connections to vector bundles associated with the principal bundle of linear frames</a>, DIFFERENTIAL GEOMETRY AND ITS APPLICATIONS (EGER, 1989), 273--284, Colloq. Math. Soc. János Bolyai, 56, North-Holland, Amsterdam, 1992	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, M.Salgado	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4549-horizontal_lifts_of_tensor_fields_and_connections_to_the_tangent_bundle_of_higher_order">Horizontal lifts of tensor fields and connections to the tangent bundle of higher order</a>, PROCEEDINGS OF THE WINTER SCHOOL ON GEOMETRY AND PHYSICS (SRNÍ, 1988). Rend. Circ. Mat. Palermo (2) Suppl. 1989,no. 21, 151--178	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4552-geometria_ro_niczkowa">Geometria ró?niczkowa</a>, (POLISH) [DIFFERENTIAL GEOMETRY] BIBLIOTEKA MATEMATYCZNA [MATHEMATICS LIBRARY], 64. Panstwowe Wydawnictwo Naukowe (PWN), Warsaw, 1987. 532 pp	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, N.Rahmani	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4554-relevements_horizontaux_des_tenseurs_de_type___1_1___au_fibre__e_tsp__motimes_tm_">Relevements horizontaux des tenseurs de type $(1,1)$ au fibré $E=Tsp *Motimes TM$</a>, (FRENCH) [HORIZONTAL LIFTINGS OF TENSORS OF TYPE $(1,1)$ TO THE BUNDLE $E=TSP *MOTIMES TM$] CAHIERS MATH. 1986,no. 1, 53--77	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, M.Djaa	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4555-f_structures_sur_le_fibre_tangent_d_ordre_r">f-structures sur le fibré tangent d'ordre r</a>, (FRENCH) [$F$-STRUCTURES ON THE TANGENT BUNDLE OF ORDER $R$] CAHIERS MATH. 1986,no. 1, 3--26	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>, S.Mahi	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4556-geodesiques_dans_le_fibre_tangent_d_ordre_superieur">Géodésiques dans le fibré tangent d'ordre supérieur</a>, (FRENCH) [GEODESICS IN THE HIGHER-ORDER TANGENT BUNDLE] CAHIERS MATH. 1986,no. 1, 27--52	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4557-horizontal_lift_of_connections_to_a_natural_vector_bundle">Horizontal lift of connections to a natural vector bundle</a>, DIFFERENTIAL GEOMETRY (SANTIAGO DE COMPOSTELA, 1984), 318--341, Res. Notes in Math., 131, Pitman, Boston, Mass.-London, 1985	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/198-jacek_gancarzewicz">Jacek Gancarzewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4575-on_commutative_algebraic_objects_over_a_groupoid">On commutative algebraic objects over a groupoid</a>, ZESZYTY NAUK. UNIW. JAGIELLO. PRACE MAT. no. 12 1968 19--25	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/198-jacek_gancarzewicz"><span>6936</span><span>4538</span><span>4539</span><span>4445</span><span>4540</span><span>4541</span><span>4542</span><span>4543</span><span>4545</span><span>4546</span><span>4547</span><span>4548</span><span>4550</span><span>4551</span><span>4553</span><span>4558</span><span>4559</span><span>4560</span><span>4561</span><span>4562</span><span>4563</span><span>4564</span><span>4565</span><span>4566</span><span>4567</span><span>4568</span><span>4569</span><span>4570</span><span>4572</span><span>4573</span><span>4574</span><span>4571</span><span>4537</span><span>4544</span><span>4549</span><span>4552</span><span>4554</span><span>4555</span><span>4556</span><span>4557</span><span>4575</span></div>
+</div><h3 id='r'>Recenzje <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="review-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="review-view_c0"><a class="sort-link" href="/users/198-jacek_gancarzewicz?ProcedureReview_sort=id_procedure">Recenzowany<span class="caret"></span></a></th><th id="review-view_c1">Jednostka</th><th id="review-view_c2"><a class="sort-link" href="/users/198-jacek_gancarzewicz?ProcedureReview_sort=id_uploaded_file">Treść recenzji<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/96">Doktorat: Paweł Michalec</a></td><td></td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/198-jacek_gancarzewicz"><span>195</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#review-view').yiiGridView({'ajaxUpdate':['review-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

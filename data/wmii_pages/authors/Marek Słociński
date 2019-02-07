@@ -1,0 +1,402 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>doc. dr hab. -  Marek Słociński</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+doc. dr hab.  Marek Słociński
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Analizy Funkcjonalnej</li>
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#r">Recenzje</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/604-zbigniew_burdak">Zbigniew Burdak</a>, <a href="/users/189-marek_kosiek">Marek Kosiek</a>, <a href="/users/380-patryk_pagacz">Patryk Pagacz</a>, <a href="/users/186-marek_slocinski">Marek Słociński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8040-invariant_subspaces_of__h_2_t_2___and__l_2_t_2___preserving_compatibility">Invariant subspaces of $H^2(T^2)$ and $L^2(T^2)$ preserving compatibility</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 455 (2017), 1706-1719	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/604-zbigniew_burdak">Zbigniew Burdak</a>, <a href="/users/189-marek_kosiek">Marek Kosiek</a>, <a href="/users/380-patryk_pagacz">Patryk Pagacz</a>, <a href="/users/186-marek_slocinski">Marek Słociński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7832-on_the_commuting_isometries">On the commuting isometries</a>, <a href="/czasopisma/232029-linear_algebra_and_its_applications">LINEAR ALGEBRA APPL</a> vol. 516 (2017), 167-185	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/604-zbigniew_burdak">Zbigniew Burdak</a>, <a href="/users/189-marek_kosiek">Marek Kosiek</a>, <a href="/users/380-patryk_pagacz">Patryk Pagacz</a>, <a href="/users/186-marek_slocinski">Marek Słociński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7783-szego_type_decompositions_for_isometries">Szego-type decompositions for isometries</a>, <a href="/czasopisma/226249-banach_journal_of_mathematical_analysis">BANACH J MATH ANAL</a> vol. 10 (2016), 593-697	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/604-zbigniew_burdak">Zbigniew Burdak</a>, <a href="/users/189-marek_kosiek">Marek Kosiek</a>, <a href="/users/186-marek_slocinski">Marek Słociński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7484-compatible_pairs_of_commuting_isometries">Compatible pairs of commuting isometries</a>, <a href="/czasopisma/232029-linear_algebra_and_its_applications">LINEAR ALGEBRA APPL</a> vol. 479 (2015), 216-269	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/604-zbigniew_burdak">Zbigniew Burdak</a>, <a href="/users/189-marek_kosiek">Marek Kosiek</a>, <a href="/users/380-patryk_pagacz">Patryk Pagacz</a>, <a href="/users/186-marek_slocinski">Marek Słociński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7153-shift_type_properties_of_commuting__completely_non_doubly_commuting_pairs_of_isometries">Shift-Type Properties of Commuting, Completely Non Doubly Commuting Pairs of Isometries</a>, <a href="/czasopisma/229415-integral_equations_and_operator_theory">INTEGR EQUAT OPER TH</a> vol. 79 (2014), 107-122	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/604-zbigniew_burdak">Zbigniew Burdak</a>, <a href="/users/189-marek_kosiek">Marek Kosiek</a>, <a href="/users/186-marek_slocinski">Marek Słociński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6492-the_canonical_wold_decomposition_of_commuting_isometries_with_finite_dimensional_wandering_spaces">The canonical Wold decomposition of commuting isometries with finite dimensional wandering spaces</a>, <a href="/czasopisma/226639-bulletin_des_sciences_mathematiques">B SCI MATH</a> vol. 137 (2013), 653-658	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/186-marek_slocinski">Marek Słociński</a>, W.Mlak	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5525-quantum_phase_and_circular_operators">Quantum phase and circular operators</a>, UNIV. IAGEL. ACTA MATH. no. 29 (1992), 133--144	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/186-marek_slocinski">Marek Słociński</a>, <a href="/users/218-jan_stochel">Jan Stochel</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5526-weighted_square_summable_and_generalized_harmonizable_sequences">Weighted square summable and generalized harmonizable sequences</a>, PROBAB. MATH. STATIST. 12 (1991), no. 1, 99--111	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/186-marek_slocinski">Marek Słociński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5527-models_for_doubly_commuting_contractions">Models for doubly commuting contractions</a>, ANN. POLON. MATH. 45 (1985), no. 1, 23--42	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/186-marek_slocinski">Marek Słociński</a>, H.Salehi	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5528-on_normal_dilation_and_spectrum_of_some_classes_of_second_order_processes">On normal dilation and spectrum of some classes of second order processes</a>, BOL. SOC. MAT. MEXICANA (2) 28 (1983), no. 1, 31--48	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/186-marek_slocinski">Marek Słociński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5529-unitary_dilation_of_two_parameter_semigroups_of_contractions">Unitary dilation of two-parameter semigroups of contractions</a>, II. ZESZYTY NAUK. UNIW. JAGIELLON. PRACE MAT. no. 23 (1982), 191--194	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/186-marek_slocinski">Marek Słociński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5530-a_note_on_semigroups_of_the__csb__ho____class">A note on semigroups of the $Csb{ho }$ class</a>, ZESZYTY NAUK. UNIW. JAGIELLON. PRACE MAT. no. 23 (1982), 189--190	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/186-marek_slocinski">Marek Słociński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5531-characteristic_functions_of_doubly_commuting_contractions">Characteristic functions of doubly commuting contractions</a>, BULL. ACAD. POLON. SCI. SÉR. SCI. MATH. 28 (1980), no. 7-8, 351--360 (1981)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/186-marek_slocinski">Marek Słociński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5532-on_the_wold_type_decomposition_of_a_pair_of_commuting_isometries">On the Wold-type decomposition of a pair of commuting isometries</a>, ANN. POLON. MATH. 37 (1980), no. 3, 255--262	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/186-marek_slocinski">Marek Słociński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5533-a_szego_type_property_for_two_doubly_commuting_contractions">A Szegö type property for two doubly commuting contractions</a>, ANN. POLON. MATH. 36 (1979), no. 1, 49--53	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/186-marek_slocinski">Marek Słociński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5534-isometric_dilation_of_doubly_commuting_contractions_and_related_models">Isometric dilation of doubly commuting contractions and related models</a>, BULL. ACAD. POLON. SCI. SÉR. SCI. MATH. ASTRONOM. PHYS. 25 (1977), no. 12, 1233--1242	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/186-marek_slocinski">Marek Słociński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5535-normal_extensions_of_commutative_subnormal_operators">Normal extensions of commutative subnormal operators</a>, <a href="/czasopisma/234609-studia_mathematica">STUD MATH</a> vol. 54 no. 3 (1976), 259-266	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/186-marek_slocinski">Marek Słociński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5536-unitary_dilation_of_two_parameter_semi_groups_of_contractions">Unitary dilation of two-parameter semi-groups of contractions</a>, BULL. ACAD. POLON. SCI. SÉR. SCI. MATH. ASTRONOM. PHYS. 22 (1974), 1011--1014	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/186-marek_slocinski"><span>8040</span><span>7832</span><span>7783</span><span>7484</span><span>7153</span><span>6492</span><span>5525</span><span>5526</span><span>5527</span><span>5528</span><span>5529</span><span>5530</span><span>5531</span><span>5532</span><span>5533</span><span>5534</span><span>5535</span><span>5536</span></div>
+</div><h3 id='r'>Recenzje <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="review-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="review-view_c0"><a class="sort-link" href="/users/186-marek_slocinski?ProcedureReview_sort=id_procedure">Recenzowany<span class="caret"></span></a></th><th id="review-view_c1">Jednostka</th><th id="review-view_c2"><a class="sort-link" href="/users/186-marek_slocinski?ProcedureReview_sort=id_uploaded_file">Treść recenzji<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/109">Doktorat: Zbigniew Burdak</a></td><td></td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/186-marek_slocinski"><span>227</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#review-view').yiiGridView({'ajaxUpdate':['review-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

@@ -1,0 +1,850 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>prof. dr hab. -  Klaudiusz Wójcik</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+prof. dr hab.  Klaudiusz Wójcik
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Równań Różniczkowych</li>
+		</ul>
+
+
+
+<p><p><a class="default-link" href="/procedure/15">Profesura</a> &emsp;<b>Otwarcie:</b> 2011-09-29, <b>Zamknięcie:</b> 2013-01-17</p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#k">Konferencje</a></li><li><a href="#ko">Konferencje organizowane</a></li><li><a href="#d">Doktoranci</a></li><li><a href="#r">Recenzje</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	41.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1699-hector_barge">Hector Barge</a>, <a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8069-mayer_vietoris_property_of_the_fixed_point_index">Mayer-Vietoris property of the fixed point index</a>, <a href="/czasopisma/234853-topological_methods_in_nonlinear_analysis">TOPOL METHOD NONL AN</a> vol. 50 (2) (2017), 643-667	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	40.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8012-periodic_points_of_the_planar_area_preserving_poincare_map_inside_isolating_segment">Periodic points of the planar area preserving Poincaré map inside isolating segment</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 455 (2) (2017), 905-922	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	39.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7962-relative_nielsen_numbers__braids_and_periodic_segments">Relative Nielsen Numbers, Braids and Periodic Segments</a>, <a href="/czasopisma/225286-advanced_nonlinear_studies">ADV NONLINEAR STUD</a> vol. 17 (3) (2017), 527-550	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	38.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7961-fixed_points_of_the_area_preserving_poincare_map_on_two_manifolds">Fixed points of the area preserving Poincaré map on two manifolds</a>, <a href="/czasopisma/233488-proceedings_of_the_american_mathematical_society">P AM MATH SOC</a> vol. 145 (12) (2017), 5223-5233	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	37.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7253-binomial_transform_and_dold_sequences">Binomial Transform and Dold Sequences</a>, JOURNAL OF INTEGER SEQUENCES  vol. 18 (2015), Article 15.1.1	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	36.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6952-on_fixed_point_index_formula_and_its_applications_in_dynamics">On Fixed Point Index Formula and its Applications in Dynamics</a>, <a href="/czasopisma/225286-advanced_nonlinear_studies">ADV NONLINEAR STUD</a> vol. 13 (2013), 279-287	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	35.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6245-chaotic_dynamics_via_index_maps">Chaotic dynamics via index maps</a>, <a href="/czasopisma/232495-monatshefte_fur_mathematik">MONATSH MATH</a> vol. 170 (2013), 65-75	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	34.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/343-grzegorz_kosiorowski">Grzegorz Kosiorowski</a>, <a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6204-topological_method_for_detecting_fixed_points_of_maps_homotopic_to_selfmaps_of_compact_enrs">Topological method for detecting fixed points of maps homotopic to selfmaps of compact ENRs</a>, <a href="/czasopisma/233488-proceedings_of_the_american_mathematical_society">P AM MATH SOC</a> vol. 141 (2013), 245-252	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	33.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/497-anna_gierzkiewicz_pieniazek">Anna Gierzkiewicz-Pieniążek</a>, <a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5958-lefschetz_sequences_and_detecting_periodic_points">Lefschetz sequences and detecting periodic points</a>, <a href="/czasopisma/227760-discrete_and_continuous_dynamical_systems">DISCRETE CONT DYN-A</a> vol. 32 (2012), 81-100	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	32.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5959-from_wazewski_sets_to_chaotic_dynamics">From Ważewski sets to chaotic dynamics</a>, LECTURE NOTES IN NONLINEAR ANALYSIS vol. 12 (2011), 123-139	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	31.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5960-on_the_conley_index_in_the_invariant_manifolds">On the Conley index in the invariant manifolds</a>, <a href="/czasopisma/232779-nonlinear_analysis_theory_methods___applications">NONLINEAR ANAL-THEOR</a> (2011), 6342-6347	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	30.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/497-anna_gierzkiewicz_pieniazek">Anna Gierzkiewicz-Pieniążek</a>, <a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5961-on_the_cohomology_of_an_isolating_block_and_its_invariant_part">On the cohomology of an isolating block and its invariant part</a>, <a href="/czasopisma/234853-topological_methods_in_nonlinear_analysis">TOPOL METHOD NONL AN</a> (2008), 313-326	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	29.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5962-lefschetz_numbers__binomial_sums_and_chaotic_dynamics">Lefschetz numbers, binomial sums and chaotic dynamics</a>, TRANS. APPL. MATH. NONLINEAR MODELS vol. 1 (2008), 121-134	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	28.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/460-waclaw_marzantowicz">Wacław Marzantowicz</a>, <a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5963-periodic_segement_implies_infinitely_many_periodic_solutions">Periodic segement implies infinitely many periodic solutions</a>, <a href="/czasopisma/233488-proceedings_of_the_american_mathematical_society">P AM MATH SOC</a> vol. 135 (2007), 1637-2647	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	27.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>, <a href="/users/103-piotr_zgliczynski">Piotr Zgliczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5964-topological_horseshoes_and_delay_differential_equations">Topological horseshoes and delay differential equations</a>, <a href="/czasopisma/227760-discrete_and_continuous_dynamical_systems">DISCRETE CONT DYN-A</a> vol. 12 (2005), 827-852	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	26.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/102-marian_mrozek">Marian Mrozek</a>, <a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5965-discrete_version_of_a_geometric_method_for_detecting_chaotic_dynamics">Discrete version of a geometric method for detecting chaotic dynamics</a>, <a href="/czasopisma/234855-topology_and_its_applications">TOPOL APPL</a> vol. 152 (2005), 70-82	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	25.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>, <a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>, <a href="/users/103-piotr_zgliczynski">Piotr Zgliczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5576-fixed_point_results_based_on_the_wazewski_method">Fixed point results based on the Ważewski method</a>, (2005), "Handbook of Topological Fixed Point Theory", Springer Verlag (połaczony z Kluwer Academic Publishing)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/183-leszek_pieniazek">Leszek Pieniążek</a>, <a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5381-complicated_dynamics_in_nonautonomous_ode_s">Complicated dynamics in nonautonomous ODE's</a>, UNIV. IAGEL. ACTA MATH. 41 (2003), 163--179	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/607-maciej_capinski">Maciej Capiński</a>, <a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5966-isolating_segments_for_caratheodory_systems_and_existence_of_periodic_solutions">Isolating segments for Carathéodory systems and existence of periodic solutions</a>, <a href="/czasopisma/233488-proceedings_of_the_american_mathematical_society">P AM MATH SOC</a> vol. 131 (2003), 2443-2451	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5967-remark_on_complicated_dynamics_of_some_planar_system">Remark on complicated dynamics of some planar system</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 271 (2002), 257-266	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5968-complicated_dynamics_in_periodically_forced_ode_s">Complicated dynamics in periodically forced ODE's</a>, LECTURE NOTES IN NONLINEAR ANALYSIS vol. 3 (2002), 175-183	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5969-isolating_segments_and_anti_periodic_solutions">Isolating segments and anti-periodic solutions</a>, <a href="/czasopisma/232495-monatshefte_fur_mathematik">MONATSH MATH</a> vol. 135 (2002), 245-252	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>, <a href="/users/103-piotr_zgliczynski">Piotr Zgliczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5977-isolating_segments__fixed_point_index__and_symbolic_dynamics__iii__applications">Isolating segments, fixed point index, and symbolic dynamics. III. Applications</a>, <a href="/czasopisma/230488-journal_of_differential_equations">J DIFFER EQUATIONS</a> vol. 183 (2002), 262-278	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>, <a href="/users/103-piotr_zgliczynski">Piotr Zgliczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5970-isolating_segments__fixed_point_index__and_symbolic_dynamics__ii__homoclinic_solutions_">Isolating segments, fixed point index, and symbolic dynamics. II. Homoclinic solutions.</a>, <a href="/czasopisma/230488-journal_of_differential_equations">J DIFFER EQUATIONS</a> vol. 172 (2001), 189-211	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5971-on_detecting_periodic_solutions_and_chaos_in_the_time_periodically_forced_odes">On detecting periodic solutions and chaos in the time periodically forced ODEs</a>, <a href="/czasopisma/232779-nonlinear_analysis_theory_methods___applications">NONLINEAR ANAL-THEOR</a> vol. 45 (2001), 19-27	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5972-remark_on_subharmonic_solutions_of_periodic_planar_systems">Remark on subharmonic solutions of periodic planar systems</a>, REND. ISTIT. MAT. UNIV. TRIESTE vol. 32 (2001), 43-50	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5973-remark_on_bounded_solutions_of_certain__n_th_order_differential_equations">Remark on bounded solutions of certain $n$th order differential equations</a>, UNIV. IAGEL. ACTA MATH. no. 38 (2000), 307--313	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5974-chaos_in_some_planar_nonautonomous_polynomial_differential_equation">Chaos in some planar nonautonomous polynomial differential equation</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 73 (2000), 159-168	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>, <a href="/users/103-piotr_zgliczynski">Piotr Zgliczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5975-isolating_segments__fixed_point_index__and_symbolic_dynamics">Isolating segments, fixed point index, and symbolic dynamics</a>, <a href="/czasopisma/230488-journal_of_differential_equations">J DIFFER EQUATIONS</a> vol. 161 (2000), 245-288	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>, <a href="/users/103-piotr_zgliczynski">Piotr Zgliczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5976-how_to_show_an_existence_of_homoclinic_trajectories_using_topological_tools_">How to show an existence of homoclinic trajectories using topological tools?</a>, (2000), " International Conference on Differential Equations, Vol. 1, 2 (Berlin, 1999),", World Scientific Publishing	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>, <a href="/users/103-piotr_zgliczynski">Piotr Zgliczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5978-on_existence_of_infinitely_many_homoclinic_solutions">On existence of infinitely many homoclinic solutions</a>, <a href="/czasopisma/232495-monatshefte_fur_mathematik">MONATSH MATH</a> vol. 130 (2000), 155-160	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6250-periodic_segments_and_nielsen_numbers">Periodic segments and Nielsen numbers</a>, <a href="/czasopisma/242166-banach_center_publications">BANACH CENTER PUBLICATIONS</a> vol. 47 (1999), 247-252	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5980-on_some_nonautonomous_chaotic_system_on_the_plane">On some nonautonomous chaotic system on the plane</a>, <a href="/czasopisma/229511-international_journal_of_bifurcation_and_chaos">INT J BIFURCAT CHAOS</a> vol. 9 (1999), 1853-1858	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5981-isolating_segments_and_symbolic_dynamics">Isolating segments and symbolic dynamics</a>, <a href="/czasopisma/232779-nonlinear_analysis_theory_methods___applications">NONLINEAR ANAL-THEOR</a> vol. 33 (1998), 575-591	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5982-on_existence_of_positive_periodic_solutions">On existence of positive periodic solutions</a>, <a href="/czasopisma/232495-monatshefte_fur_mathematik">MONATSH MATH</a> vol. 125 (1998), 343-350	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5983-conley_index_and_permanence_in_dynamical_systems">Conley index and permanence in dynamical systems</a>, <a href="/czasopisma/234853-topological_methods_in_nonlinear_analysis">TOPOL METHOD NONL AN</a> vol. 12 (1998), 153-158	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/671-andrzej_szymczak_">Andrzej Szymczak </a>, <a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>, <a href="/users/103-piotr_zgliczynski">Piotr Zgliczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5984-on_the_discrete_conley_index_in_the_invariant_subspace">On the discrete Conley index in the invariant subspace</a>, <a href="/czasopisma/234855-topology_and_its_applications">TOPOL APPL</a> vol. 87 (1998), 105-115	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5985-an_attraction_result_and_an_index_theorem_for_continuous_flows_on___r_sp_n_imes_0_infty__">An attraction result and an index theorem for continuous flows on ${R}sp n	imes[0,infty)$</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 65 (1997), 203-211	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>, <a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5592-a_geometric_method_for_detecting_chaotic_dynamics">A geometric method for detecting chaotic dynamics</a>, <a href="/czasopisma/230488-journal_of_differential_equations">J DIFFER EQUATIONS</a> vol. 135 (1997), 66-82	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5986-homology_properties_of_pas_sets_on_topological_manifolds">Homology properties of PAS sets on topological manifolds</a>, UNIV. IAGEL. ACTA MATH. no. 33 (1996), 109--113	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5987-lefschetz_zeta_function_and_the_periodic_points">Lefschetz zeta function and the periodic points</a>, <a href="/czasopisma/235542-bulletin_of_the_polish_academy_of_sciences__mathematics">BULLETIN OF THE POLISH ACADEMY OF SCIENCES. MATHEMATICS</a> vol. 43 (1995), 59-64	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/176-klaudiusz_wojcik"><span>8069</span><span>8012</span><span>7962</span><span>7961</span><span>7253</span><span>6952</span><span>6245</span><span>6204</span><span>5958</span><span>5959</span><span>5960</span><span>5961</span><span>5962</span><span>5963</span><span>5964</span><span>5965</span><span>5576</span><span>5381</span><span>5966</span><span>5967</span><span>5968</span><span>5969</span><span>5977</span><span>5970</span><span>5971</span><span>5972</span><span>5973</span><span>5974</span><span>5975</span><span>5976</span><span>5978</span><span>6250</span><span>5980</span><span>5981</span><span>5982</span><span>5983</span><span>5984</span><span>5985</span><span>5592</span><span>5986</span><span>5987</span></div>
+</div><h3 id='k'>Konferencje:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/115-piotr-kalita">Piotr Kalita</a>, <a class="default-link" href="/users/122-anna-ochal">Anna Ochal</a>, <a class="default-link" href="/users/176-klaudiusz-wojcik">Klaudiusz Wójcik</a>, <a class="default-link" href="/users/181-wlodzimierz-zwonek">Włodzimierz Zwonek</a>, <a class="default-link" href="/users/230-halszka-tutaj_gasinska">Halszka Tutaj-Gasińska</a>, <a class="default-link" href="/users/269-slawomir-dinew">Sławomir Dinew</a>, <a class="default-link" href="/users/383-marcin-pitera">Marcin Pitera</a>, <a class="default-link" href="/users/551-zywomir-dinew">Żywomir Dinew</a>, <a class="default-link" href="/users/1018-pawel-borowka">Paweł Borówka</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/695">UMI-SIMAI-PTM joint meeting</a>, PTM, Wrocław, Polska, 2018-09-17 - 2018-09-20	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/176-klaudiusz-wojcik">Klaudiusz Wójcik</a>, <a class="default-link" href="/users/181-wlodzimierz-zwonek">Włodzimierz Zwonek</a>, <a class="default-link" href="/users/229-leokadia-bialas_ciez">Leokadia Białas-Cież</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/487">8. Forum Matematyków Polskich</a>, Polskie Towarzystwo Matematyczne, Lublin, Polska, 2017-09-18 - 2017-09-22	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/176-klaudiusz-wojcik">Klaudiusz Wójcik</a>, <a class="default-link" href="/users/178-roman-srzednicki">Roman Srzednicki</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/412">7 Forum Matematyków Polskich z Udziałem Matematyków Ukraińskich</a>, Uniwersytet Warmińsko-Mazurski, Olsztyn, Polska, 2016-09-12 - 2016-09-17	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/176-klaudiusz-wojcik">Klaudiusz Wójcik</a>, <a class="default-link" href="/users/539-anna-kulig">Anna Kulig</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/193">VII Symposium on Nonlinear Analysis</a>, Uniwersytet Mikolaja Kopernika w Toruniu, Torun, Polska, 2015-09-14 - 2015-09-18	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/176-klaudiusz_wojcik"><span>695</span><span>487</span><span>412</span><span>193</span></div>
+</div><h3 id='ko'>Konferencje organizowane:</h3><div id="yw3" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/176-klaudiusz-wojcik">Klaudiusz Wójcik</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/1">Metody Topologiczne w Równaniach Różniczkowych i Układach Dynamicznych</a>, Kraków, 2014-05-23, 2014-05-24	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/176-klaudiusz_wojcik"><span>1</span></div>
+</div><h3 id='d'>Doktoranci <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="doc-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="doc-view_c0"><a class="sort-link" href="/users/176-klaudiusz_wojcik?Procedure_sort=id_user">Doktorant<span class="caret"></span></a></th><th id="doc-view_c1"><a class="sort-link" href="/users/176-klaudiusz_wojcik?Procedure_sort=opening">Otwarcie<span class="caret"></span></a></th><th id="doc-view_c2"><a class="sort-link" href="/users/176-klaudiusz_wojcik?Procedure_sort=ending">Zakonczenie<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/3">Grzegorz Kosiorowski</a></td><td>2009-04-30</td><td>2011-12-15</td></tr>
+<tr class="even">
+<td><a href="../procedure/25">Anna Gierzkiewicz-Pieniążek</a></td><td>2008-04-24</td><td>2011-02-24</td></tr>
+<tr class="odd">
+<td><a href="../procedure/255">Karol Gryszka</a></td><td>2014-10-30</td><td>2016-01-28</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/176-klaudiusz_wojcik"><span>3</span><span>25</span><span>255</span></div>
+</div><h3 id='r'>Recenzje <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="review-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="review-view_c0"><a class="sort-link" href="/users/176-klaudiusz_wojcik?ProcedureReview_sort=id_procedure">Recenzowany<span class="caret"></span></a></th><th id="review-view_c1">Jednostka</th><th id="review-view_c2"><a class="sort-link" href="/users/176-klaudiusz_wojcik?ProcedureReview_sort=id_uploaded_file">Treść recenzji<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/9">Habilitacja: Piotr Oprocha</a></td><td></td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/86">Doktorat: Anna Bistroń</a></td><td></td><td>&nbsp;</td></tr>
+<tr class="odd">
+<td><a href="../procedure/128">Doktorat: Paweł Wilczyński</a></td><td>Katedra Matematyki Stosowanej</td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/176-klaudiusz_wojcik"><span>14</span><span>172</span><span>253</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw3').yiiListView({'ajaxUpdate':['yw3'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#doc-view').yiiGridView({'ajaxUpdate':['doc-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#review-view').yiiGridView({'ajaxUpdate':['review-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

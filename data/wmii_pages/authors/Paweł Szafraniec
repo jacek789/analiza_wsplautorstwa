@@ -1,0 +1,332 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr -  Paweł Szafraniec</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr  Paweł Szafraniec
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Katedra Teorii Optymalizacji i Sterowania</li>
+		</ul>
+
+
+
+<p><p><a class="default-link" href="/procedure/264">Doktorat</a> &emsp;<b>Otwarcie:</b> 2015-03-26, <b>Zamknięcie:</b> 2017-09-28</p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#k">Konferencje</a></li><li><a href="#ko">Konferencje organizowane</a></li><li><a href="#g">Granty</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/101-stanislaw_migorski">Stanisław Migórski</a>, <a href="/users/1053-pawel_szafraniec">Paweł Szafraniec</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8300-nonmonotone_slip_problem_for_miscible_liquids">Nonmonotone slip problem for miscible liquids</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 471 (2019), 342-357	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/109-krzysztof_bartosz">Krzysztof Bartosz</a>, <a href="/users/1242-tomasz_janiczko">Tomasz Janiczko</a>, <a href="/users/1216-meir_shillor">Meir Shillor</a>, <a href="/users/1053-pawel_szafraniec">Paweł Szafraniec</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8115-dynamic_thermoviscoelastic_thermistor_problem_with_contact_and_nonmonotone_friction">Dynamic thermoviscoelastic thermistor problem with contact and nonmonotone friction</a>, <a href="/czasopisma/225863-applicable_analysis">APPL ANAL</a> vol. 97 (8) (2018), 1432-1453	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/109-krzysztof_bartosz">Krzysztof Bartosz</a>, <a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/1144-zhenhai_liu">Zhenhai Liu</a>, <a href="/users/1053-pawel_szafraniec">Paweł Szafraniec</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7779-convergence_of_a_time_discretization_for_doubly_nonlinear_second_order_inclusion">Convergence of a time discretization for doubly nonlinear second order inclusion</a>, <a href="/czasopisma/233491-proceedings_of_the_edinburgh_mathematical_society">P EDINBURGH MATH SOC</a> vol. 61 (1) (2018), 93-120	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/109-krzysztof_bartosz">Krzysztof Bartosz</a>, <a href="/users/1445-david_danan">David Danan</a>, <a href="/users/1053-pawel_szafraniec">Paweł Szafraniec</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7848-numerical_analysis_of_a_dynamic_bilateral_thermoviscoelastic_contact_problem_with_nonmonotone_friction_law">Numerical analysis of a dynamic bilateral thermoviscoelastic contact problem with nonmonotone friction law</a>, <a href="/czasopisma/227370-computers___mathematics_with_applications">COMPUT MATH APPL</a> vol. 73  (2017), 727-746	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1053-pawel_szafraniec">Paweł Szafraniec</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7793-analysis_of_an_elasto_piezoelectric_system_of_hemivariational_inequalities_with_thermal_effects">Analysis of an elasto-piezoelectric system of hemivariational inequalities with thermal effects</a>, <a href="/czasopisma/225180-acta_mathematica_scientia">ACTA MATH SCI</a> vol. 37  (2017), 1048–1060	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1053-pawel_szafraniec">Paweł Szafraniec</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7771-evolution_boussinesq_model_with_nonmonotone_friction_and_heat_flux_boundary_conditions">Evolution Boussinesq model with nonmonotone friction and heat flux boundary conditions</a>, <a href="/czasopisma/232778-nonlinear_analysis_real_world_applications">NONLINEAR ANAL-REAL</a> vol. 34 (2017), 403–415	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1053-pawel_szafraniec">Paweł Szafraniec</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7392-dynamic_nonsmooth_frictional_contact_problems_with_damage_in_thermoviscoelasticity">Dynamic nonsmooth frictional contact problems with damage in thermoviscoelasticity</a>, <a href="/czasopisma/232209-mathematics_and_mechanics_of_solids">MATH MECH SOLIDS</a> vol. 21 (2016), 525-538	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/101-stanislaw_migorski">Stanisław Migórski</a>, <a href="/users/1053-pawel_szafraniec">Paweł Szafraniec</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6994-a_class_of_dynamic_frictional_contact_problems_governed_by_a_system_of_hemivariational_inequalities_in_thermoviscoelasticity">A class of dynamic frictional contact problems governed by a system of hemivariational inequalities in thermoviscoelasticity</a>, <a href="/czasopisma/232778-nonlinear_analysis_real_world_applications">NONLINEAR ANAL-REAL</a> vol. 15 (2014), 158-171	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/1053-pawel_szafraniec"><span>8300</span><span>8115</span><span>7779</span><span>7848</span><span>7793</span><span>7771</span><span>7392</span><span>6994</span></div>
+</div><h3 id='k'>Konferencje:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/101-stanislaw-migorski">Stanisław Migórski</a>, <a class="default-link" href="/users/115-piotr-kalita">Piotr Kalita</a>, <a class="default-link" href="/users/122-anna-ochal">Anna Ochal</a>, <a class="default-link" href="/users/539-anna-kulig">Anna Kulig</a>, <a class="default-link" href="/users/1053-pawel-szafraniec">Paweł Szafraniec</a>, <a class="default-link" href="/users/1295-tomasz-sluzalec">Tomasz Służalec</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/306">Emerging Trends in Applied Mathematics and Mechanics</a>, The LAboratory of Mathematics and PhySics (LAMPS) of the University of Perpignan Via Domitia, Perpignan, Francja, 2016-05-30 - 2016-06-03	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/114-leszek-gasinski">Leszek Gasiński</a>, <a class="default-link" href="/users/416-liliana-klimczak">Liliana Klimczak</a>, <a class="default-link" href="/users/502-jaroslaw-duda">Jarosław Duda</a>, <a class="default-link" href="/users/1053-pawel-szafraniec">Paweł Szafraniec</a>, <a class="default-link" href="/users/1295-tomasz-sluzalec">Tomasz Służalec</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/180">Singular PDEs, Analytical Tools and Applications</a>, Instytut Matematyki PAN, Uniwersytet Warszawski, Uniwersytet Jagielloński, Małe Ciche, Polska, 2015-06-24 - 2015-06-27	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/109-krzysztof-bartosz">Krzysztof Bartosz</a>, <a class="default-link" href="/users/114-leszek-gasinski">Leszek Gasiński</a>, <a class="default-link" href="/users/115-piotr-kalita">Piotr Kalita</a>, <a class="default-link" href="/users/1053-pawel-szafraniec">Paweł Szafraniec</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/90">Conference on Partial Differential Equations</a>, TUM, Monachium, Niemcy, 2015-03-25 - 2015-03-29	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/101-stanislaw-migorski">Stanisław Migórski</a>, <a class="default-link" href="/users/1053-pawel-szafraniec">Paweł Szafraniec</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/128">Workshop on Applications of Modern Mathematics and Mechanics 2015</a>, Faculty of Science of Palacky University in Olomouc, Olomouc, Czech republic, 2015-02-02 - 2015-02-06	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/1053-pawel_szafraniec"><span>306</span><span>180</span><span>90</span><span>128</span></div>
+</div><h3 id='ko'>Konferencje organizowane:</h3><div id="yw3" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/101-stanislaw-migorski">Stanisław Migórski</a>, <a class="default-link" href="/users/109-krzysztof-bartosz">Krzysztof Bartosz</a>, <a class="default-link" href="/users/114-leszek-gasinski">Leszek Gasiński</a>, <a class="default-link" href="/users/122-anna-ochal">Anna Ochal</a>, <a class="default-link" href="/users/539-anna-kulig">Anna Kulig</a>, <a class="default-link" href="/users/1053-pawel-szafraniec">Paweł Szafraniec</a>, <a class="default-link" href="/users/1628-michal-jureczka">Michał Jureczka</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/156">Emerging Trends in Applied Mathematics and Mechanics 2018</a>, Krakow, 2018-06-18, 2018-06-22	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/1053-pawel_szafraniec"><span>156</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/1053-pawel_szafraniec?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/75">Układy niegładkie w matematycznej teorii zagadnień kontaktowych mechaniki</a></td><td>Wykonawca</td><td>2013-04-18</td><td>2018-04-17</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/1053-pawel_szafraniec"><span>204</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw3').yiiListView({'ajaxUpdate':['yw3'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

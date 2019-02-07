@@ -1,0 +1,719 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr -  Jacek Śmietański</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr  Jacek Śmietański
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Informatyki i Matematyki Komputerowej</li>
+					<li>Katedra Informatyki Stosowanej</li>
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#k">Konferencje</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	31.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7898-rna_structures_description_standards">RNA Structures Description Standards</a>, NETTAB 2016 (2016), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	30.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7897-uczenie_maszynowe__czyli_jak_rozwiazywac_nietrywialne_problemy">Uczenie maszynowe, czyli jak rozwiązywać nietrywialne problemy</a>, PYCONPL 2016 (2016), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	29.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1464-wiktoria_karwicka">Wiktoria Karwicka</a>, <a href="/users/144-jacek_smietanski">Jacek Śmietański</a>, Bartosz Bukowiec, Anna Glinka,  Michał Mrozek, Jakub Najgebauer	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7896-new_tools_for_rna_structures_analysis">New Tools for RNA Structures Analysis</a>, PTBI 2016 (2016), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	28.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7895-non_canonical_rna_base_pair_predictor_for_even_imperfect_and_incomplete_models">Non-canonical RNA base pair predictor for even imperfect and incomplete models</a>, EURO 2016 (2016), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	27.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7894-rna_structures_description_standards">RNA Structures Description Standards</a>, CHARME 2016 (2016), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	26.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7893-machine_learning_trends_in_rna_bioinformatics">Machine Learning Trends in RNA Bioinformatics</a>, BIT 2016 (2016), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	25.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7892-przewidywanie_oddzialywan_miedzynukleotydowych_oraz_struktur_rna">Przewidywanie oddziaływań międzynukleotydowych oraz struktur RNA</a>, LICZBY KOMPUTERY ŻYCIE 2016 (2016), 6	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7723-non_canonical_imperfect_rna_base_pair_predictor">Non-canonical imperfect RNA base pair predictor</a>, VII KONWERSATORIUM CHEMII MEDYCZNEJ & VIII SYMPOZJUM PTBI, 17-19.09.2015, LUBLIN  (2015), 93	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7644-na_mokro_czy_na_sucho____dry_or_wet_">Na mokro czy na sucho? / Dry or wet?</a>, FORUM AKADEMICKIE vol. 7-8 (2015), 77-78	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7365-tytulem_wstepu___introduction_to_the_bioinformatics_world">Tytułem wstępu / Introduction to the Bioinformatics World</a>, BIOINFO WORLD (2015), 4-5	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7308-non_canonical_imperfect_base_pair_predictor__the_rna_3d_structure_modeling_process_improvement">Non-canonical imperfect base pair predictor: the RNA 3D structure modeling process improvement</a> vol. 9043 (LNCS) (2015), "Bioinformatics and Biomedical Engineering", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7307-bio_med_image_informatics">Bio-med image informatics</a>, SOCBIN/BIT13 (2013), 122	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7306-non_canonical_base_pairs_prediction_and_classification_for_fuzzy_rna_structures">Non-canonical base pairs prediction and classification for fuzzy RNA structures</a>, BIOINFORMATICS IN TORUN (2012), 61	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>, <a href="/users/846-ryszard__tadeusiewicz">Ryszard  Tadeusiewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6650-new_approach_to_prostate_diagnosis___perfusion_ct_images_analysis_using__life_belt__method">New Approach to Prostate Diagnosis - Perfusion CT Images Analysis using "Life Belt" Method</a>, <a href="/czasopisma/235503-bio_algorithms_and_med_systems">BIO-ALGORITHMS AND MED-SYSTEMS</a> vol. 8 (2012), 145-158	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7305-textural_features_in_biomedical_images">Textural features in biomedical images</a>, BIOINFORMATICS IN TORUN (2011), 27	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>, <a href="/users/846-ryszard__tadeusiewicz">Ryszard  Tadeusiewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6657-pozyskiwanie_obrazow_medycznych_oraz_ich_przetwarzanie__analiza__automatyczne_rozpoznawanie_i_diagnostyczna_interpretacja">Pozyskiwanie obrazów medycznych oraz ich przetwarzanie, analiza, automatyczne rozpoznawanie i diagnostyczna interpretacja</a>, (2011), WSTN, Kraków	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7310-perfuzyjna_tomografia_komputerowa_w_diagnostyce_raka_prostaty">Perfuzyjna tomografia komputerowa w diagnostyce raka prostaty</a>, <a href="/czasopisma/235503-bio_algorithms_and_med_systems">BIO-ALGORITHMS AND MED-SYSTEMS</a> (2010), 199	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7309-the_usefullness_of_textural_features_in_prostate_cancer_diagnosis">The Usefullness of Textural Features in Prostate Cancer Diagnosis</a> vol. 2 (2010), "Image Processing and Communications Challenges", Springer Verlag (połaczony z Kluwer Academic Publishing)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6659-czy_komputer_widzi_wiecej_niz_czlowiek_">Czy komputer widzi więcej niż człowiek?</a>, FORUM AKADEMICKIE vol. 2(146) (2010), 50-52	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>, <a href="/users/846-ryszard__tadeusiewicz">Ryszard  Tadeusiewicz</a>, <a href="/users/1221-elzbieta_luczynska_x">Elżbieta Łuczyńska x</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6655-texture_analysis_in_perfusion_images_of_prostate_cancer___case_study">Texture Analysis in Perfusion Images of Prostate Cancer - Case Study</a>, <a href="/czasopisma/229498-international_journal_of_applied_mathematics_and_computer_science">INT J AP MAT COM-POL</a> vol. 20(1) (2010), 149-156	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>, <a href="/users/846-ryszard__tadeusiewicz">Ryszard  Tadeusiewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6654-system_for_automatic_detection_and_localization_of_the_prostate_cancer_on_images_registered_by_means_perfusion_computed_tomography_technology">System for Automatic Detection and Localization of the Prostate Cancer on Images Registered by Means Perfusion Computed Tomography Technology</a>, <a href="/czasopisma/242157-automatyka">AUTOMATYKA</a> vol. 14(1) (2010), 133-143	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>, <a href="/users/846-ryszard__tadeusiewicz">Ryszard  Tadeusiewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6653-perfusion_ct_in_prostate_cancer_diagnostic___comparative_discussion">Perfusion CT in Prostate Cancer Diagnostic - Comparative Discussion</a>, <a href="/czasopisma/235503-bio_algorithms_and_med_systems">BIO-ALGORITHMS AND MED-SYSTEMS</a> vol. 6(12) (2010), 37-42	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>, <a href="/users/846-ryszard__tadeusiewicz">Ryszard  Tadeusiewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6652-discriminatory_power_of_co_occurrence_features_in_perfusion_ct_prostate_images">Discriminatory Power of Co-Occurrence Features in Perfusion CT Prostate Images</a>, <a href="/czasopisma/236061-machine_graphics_and_vision">MACHINE GRAPHICS AND VISION</a> vol. 19(2) (2010), 185-199	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6651-perfusion_computed_tomography_in_the_prostate_cancer_diagnosis">Perfusion computed tomography in the prostate cancer diagnosis</a>, <a href="/czasopisma/235503-bio_algorithms_and_med_systems">BIO-ALGORITHMS AND MED-SYSTEMS</a> vol. 6(12) (2010), 31-36	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7311-the_usefulness_of_perfusion_computed_tomography_technology_in_detection_of_early_prostate_cancer">The Usefulness of Perfusion Computed Tomography Technology in Detection of Early Prostate Cancer</a>, PROCEEDING OF THE 4TH INTERNATIONAL PHD STUDENTS AND YOUNG SCIENTITS CONFERENCE: YOUNG SCIENTISTS TOWARDS THE CHALLENGES OF MODERN TECHNOLOGY (2009), 148-156	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6658-tickets">Tickets</a>, (2009), "From droshky to metro. The History of City Public Transport in Poland", Quixi Media, Bydgoszcz	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>, <a href="/users/846-ryszard__tadeusiewicz">Ryszard  Tadeusiewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6656-computational_analysis_of_prostate_perfusion_images___a_preliminary_report">Computational Analysis of Prostate Perfusion Images - a Preliminary Report</a>, <a href="/czasopisma/235503-bio_algorithms_and_med_systems">BIO-ALGORITHMS AND MED-SYSTEMS</a> vol. 5(10) (2009), 25-30	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7313-computer_science_for_pharmacy_students__verification_of_earned_abilities_by_using_of_the_internet">Computer Science for Pharmacy Students. Verification of Earned Abilities by Using of the Internet</a>, <a href="/czasopisma/235503-bio_algorithms_and_med_systems">BIO-ALGORITHMS AND MED-SYSTEMS</a> (2006), 2(3):77-79	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7312-the_approach_for_computer_analysis_of_results_obtained_in_two_dimensional_electrophoresis_of_serum_protein_complexes_with_congo_red">The Approach for Computer Analysis of Results Obtained in Two-Dimensional Electrophoresis of Serum Protein Complexes with Congo Red</a>, <a href="/czasopisma/235503-bio_algorithms_and_med_systems">BIO-ALGORITHMS AND MED-SYSTEMS</a> (2006), 2(3):27-33	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7315-automatyczne_rozpoznawanie_bialek_zawartych_w_surowicy_krwi">Automatyczne rozpoznawanie białek zawartych w surowicy krwi</a>, VIII OGÓLNOPOLSKA KONFERENCJA STUDENCKICH KÓŁ NAUKOWYCH AKADEMII MEDYCZNYCH (2003), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7314-automatyczne_rozpoznawanie_bialek_zawartych_w_surowicy_krwi">Automatyczne rozpoznawanie białek zawartych w surowicy krwi</a>, <a href="/czasopisma/236441-przeglad_lekarski">PRZEGLĄD LEKARSKI</a> (2003), 60/2:45	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/144-jacek_smietanski"><span>7898</span><span>7897</span><span>7896</span><span>7895</span><span>7894</span><span>7893</span><span>7892</span><span>7723</span><span>7644</span><span>7365</span><span>7308</span><span>7307</span><span>7306</span><span>6650</span><span>7305</span><span>6657</span><span>7310</span><span>7309</span><span>6659</span><span>6655</span><span>6654</span><span>6653</span><span>6652</span><span>6651</span><span>7311</span><span>6658</span><span>6656</span><span>7313</span><span>7312</span><span>7315</span><span>7314</span></div>
+</div><h3 id='k'>Konferencje:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/144-jacek-smietanski">Jacek Śmietański</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/54">Multipole Approach to Structural Science</a>, PAN| PTKr| PTPS| RNA-KNOW Poznań| TNW, Warszawa, Polska, 2015-05-10 - 2015-05-13	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/144-jacek-smietanski">Jacek Śmietański</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/53">IWBBIO</a>, University of Granada, Granada, Hiszpania, 2015-04-15 - 2015-04-17	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/144-jacek-smietanski">Jacek Śmietański</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/51">SocBin 2013</a>, PTBI, Toruń, Polska, 2013-06-26 - 2013-06-29	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/144-jacek-smietanski">Jacek Śmietański</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/52">Liczby, Komputery, Życie</a>, Jagiellonian University, Kraków, Polska, 2013-04-19 - 2013-04-21	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/144-jacek-smietanski">Jacek Śmietański</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/55">Bioinformatics in Torun (BIT)</a>, PTBI, Toruń, Polska, 2012-09-27 - 2012-09-29	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/144-jacek-smietanski">Jacek Śmietański</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/56">Bioinformatics in Torun</a>, PTBI, Toruń, Polska, 2011-06-02 - 2011-06-04	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/144-jacek-smietanski">Jacek Śmietański</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/57">Liczby, Komputery, Życie 2011</a>, Jagiellonian University, Kraków, Polska, 2011-03-18 - 2011-03-20	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/144-jacek-smietanski">Jacek Śmietański</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/58">XXXVIIIth Winter School of Faculty of Biochemistry, Biophysics and Biotechnology of Jagiellonian University</a>, Jagiellonian University, Zakopane, Polska, 2011-02-12 - 2011-02-16	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/144-jacek-smietanski">Jacek Śmietański</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/59">2nd  International Conference on Image Processing & Communications</a>, ., Bydgoszcz, Polska, 2010-09-20 - 2010-09-22	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/144-jacek-smietanski">Jacek Śmietański</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/60">7th National Conference Cybernetic Modeling of Biological Systems (MCSB)</a>, UJ CM, Kraków, Polska, 2010-05-21 - 2010-05-22	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/144-jacek_smietanski"><span>54</span><span>53</span><span>51</span><span>52</span><span>55</span><span>56</span><span>57</span><span>58</span><span>59</span><span>60</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

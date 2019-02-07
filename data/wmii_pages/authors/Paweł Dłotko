@@ -1,0 +1,522 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr -  Paweł Dłotko</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr  Paweł Dłotko
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Informatyki i Matematyki Komputerowej</li>
+					<li>Katedra Matematyki Obliczeniowej</li>
+		</ul>
+
+
+
+<p><p><a class="default-link" href="/procedure/4">Doktorat</a> &emsp;<b>Otwarcie:</b> 2009-12-17, <b>Zamknięcie:</b> 2012-01-26</p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#r">Recenzje</a></li><li><a href="#g">Granty</a></li><li><a href="#n">Nagrody</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1469-peter_bubenik">Peter Bubenik</a>, <a href="/users/147-pawel_dlotko">Paweł Dłotko</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7911-a_persistence_landscapes_toolbox_for_topological_statistics_">A persistence landscapes toolbox for topological statistics </a>, <a href="/czasopisma/231548-journal_of_symbolic_computation">J SYMB COMPUT</a> vol. 78 (2017), 91-114	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/316-piotr_brendel">Piotr Brendel</a>, <a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/1212-graham__ellis">Graham  Ellis</a>, <a href="/users/295-mateusz_juda">Mateusz Juda</a>, <a href="/users/102-marian_mrozek">Marian Mrozek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7252-computing_fundamental_groups_from_point_clouds">Computing fundamental groups from point clouds</a>, <a href="/czasopisma/225862-applicable_algebra_in_engineering_communication_and_computing">APPL ALGEBR ENG COMM</a> (2015), 1-22	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/855-specogna_ruben">Specogna Ruben</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7165-lazy_cohomology_generators__a_breakthrough_in__co_homology_computations_for_cem">Lazy cohomology generators: a breakthrough in (co)homology computations for CEM</a>, <a href="/czasopisma/229185-ieee_transactions_on_magnetics">IEEE T MAGN</a> (2014), 4	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/855-specogna_ruben">Specogna Ruben</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7251-topology_preserving_thinning_of_cell_complexes">Topology preserving thinning of cell complexes</a>, <a href="/czasopisma/229175-ieee_transactions_on_image_processing">IEEE T IMAGE PROCESS</a> (2013), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/301-hubert_wagner">Hubert Wagner</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7166-towards_topological_analysis_of_high_dimensional_feature_spaces">Towards topological analysis of high-dimensional feature spaces</a>, <a href="/czasopisma/227360-computer_vision_and_image_understanding">COMPUT VIS IMAGE UND</a> (2013), 21-26	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1160-g_cochran">G Cochran</a>, <a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/858-thomas_wanner">Thomas Wanner</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7164-a_randomized_subdivision_algorithm_for_determining_the_topology_of_nodal_sets">A randomized subdivision algorithm for determining the topology of nodal sets</a>, <a href="/czasopisma/234342-siam_journal_on_scientific_computing">SIAM J SCI COMPUT</a> (2013), 1034–1054	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/855-specogna_ruben">Specogna Ruben</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7163-physics_inspired_algorithms_for__co_homology_computations_of_three_dimensional_combinatorial_manifolds_with_boundary__computer_physics_communications">Physics inspired algorithms for (co)homology computations of three-dimensional combinatorial manifolds with boundary, Computer Physics Communications</a>, <a href="/czasopisma/227354-computer_physics_communications">COMPUT PHYS COMMUN</a> (2013), 2257-2266	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/855-specogna_ruben">Specogna Ruben</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7162-a_novel_technique_for_cohomology_computations_in_engineering_practice">A novel technique for cohomology computations in engineering practice</a>, <a href="/czasopisma/227350-computer_methods_in_applied_mechanics_and_engineering">COMPUT METHOD APPL M</a> (2013), 530-542	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/855-specogna_ruben">Specogna Ruben</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7161-cohomology_in_3d_magneto_quasistatics_modeling">Cohomology in 3D magneto-quasistatics modeling</a>, <a href="/czasopisma/227260-communications_in_computational_physics">COMMUN COMPUT PHYS</a> (2013), 48-76	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/301-hubert_wagner">Hubert Wagner</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7071-simplification_of_complexes_for__persistent_homology_computations">Simplification Of Complexes For  Persistent Homology Computations</a>, <a href="/czasopisma/229013-homology_homotopy_and_applications">HOMOL HOMOTOPY APPL</a> vol. 16(1) (2013), 49-63	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/316-piotr_brendel">Piotr Brendel</a>, <a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/102-marian_mrozek">Marian Mrozek</a>, <a href="/users/146-natalia_zelazna">Natalia Żelazna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6682-homology_computations_via_acyclic_subspace">Homology Computations via Acyclic Subspace</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 7309 (2012), 117-127	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/102-marian_mrozek">Marian Mrozek</a>, <a href="/users/301-hubert_wagner">Hubert Wagner</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6681-computational_topology_in_text_mining">Computational Topology in Text Mining</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 7309 (2012), 68 - 79	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6680-a_fast_algorithm_to_compute_cohomology_group_generators_of_orientable_2_manifolds">A fast algorithm to compute cohomology group generators of orientable 2-manifolds</a>, <a href="/czasopisma/233094-pattern_recognition_letters">PATTERN RECOGN LETT</a> vol. 33 (2012), 1468-1476	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/729-robert__ghrist">Robert  Ghrist</a>, <a href="/users/295-mateusz_juda">Mateusz Juda</a>, <a href="/users/102-marian_mrozek">Marian Mrozek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6291-distributed_computation_of_coverage_in_sensor_networks_by_homological_methods">Distributed computation of coverage in sensor networks by homological methods</a>, <a href="/czasopisma/225862-applicable_algebra_in_engineering_communication_and_computing">APPL ALGEBR ENG COMM</a> vol. 23, Issue 1-2 (2012), 29-58	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/855-specogna_ruben">Specogna Ruben</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6691-efficient_generalized_source_field_computation_for_h_oriented_magnetostatic_formulations">Efficient generalized source field computation for h-oriented magnetostatic formulations</a>, <a href="/czasopisma/228329-european_physical_journal_applied_physics">EUR PHYS J-APPL PHYS</a> vol. 53 (2011), 20801 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/859-walter_kropatsch">Walter Kropatsch</a>, <a href="/users/301-hubert_wagner">Hubert Wagner</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6679-characterizing_obstacle_avoiding_paths_using_cohomology_theory">Characterizing Obstacle-Avoiding Paths Using Cohomology Theory</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> (2011), 310-317	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/857-tomasz_kaczynski">Tomasz Kaczynski</a>, <a href="/users/102-marian_mrozek">Marian Mrozek</a>, <a href="/users/858-thomas_wanner">Thomas Wanner</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6678-coreduction_homology_algorithm_for_regular_cw_complexes">Coreduction Homology Algorithm for Regular CW-Complexes</a>, <a href="/czasopisma/227759-discrete___computational_geometry">DISCRETE COMPUT GEOM</a> vol. 46 (2011), 361-388	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/857-tomasz_kaczynski">Tomasz Kaczynski</a>, <a href="/users/102-marian_mrozek">Marian Mrozek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6807-computing_the_cubical_cohomology_ring">Computing the cubical cohomology ring</a>, IMAGE A, PROCEEDINGS OF THE 3RD INTERNATIONAL WORKSHOP ON COMPUTATIONAL TOPOLOGY IN IMAGE CONTEXT (2010), 137-142	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/915-shaun_harker">Shaun Harker</a>, <a href="/users/295-mateusz_juda">Mateusz Juda</a>, <a href="/users/871-konstantin_mischaikov">Konstantin Mischaikov</a>, <a href="/users/102-marian_mrozek">Marian Mrozek</a>, <a href="/users/916-vidit_nanda">Vidit Nanda</a>, <a href="/users/301-hubert_wagner">Hubert Wagner</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6806-the_efficiency_of_a_homology_algorithm_based_on_discrete_morse_theory_and_coreductions">The efficiency of a homology algorithm based on discrete Morse Theory and Coreductions</a>, IMAGE A PROCEEDINGS OF THE 3RD INTERNATIONAL WORKSHOP ON COMPUTATIONAL TOPOLOGY IN IMAGE CONTEXT (2010), 41-47	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/855-specogna_ruben">Specogna Ruben</a>, <a href="/users/856-francesco_trevisan">Francesco Trevisan</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6690-voltage_and_current_sources_for_massive_conductors_suitable_with_the__a_chi__geometric_formulation">Voltage and current sources for massive conductors suitable with the $A-chi$ Geometric Formulation</a>, <a href="/czasopisma/229185-ieee_transactions_on_magnetics">IEEE T MAGN</a> vol. 46 (2010), 3069-3072	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/855-specogna_ruben">Specogna Ruben</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6677-critical_analysis_of_spanning_tree_techniques">Critical analysis of spanning tree techniques</a>, <a href="/czasopisma/234340-siam_journal_on_numerical_analysis">SIAM J NUMER ANAL</a> vol. 48 (2010), 1601-1624	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/855-specogna_ruben">Specogna Ruben</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6676-efficient_cohomology_computation_for_electromagnetic_modeling">Efficient cohomology computation for electromagnetic modeling</a>, <a href="/czasopisma/243271-cmes_computer_modeling_in_engineering___sciences">CMES-COMP MODEL ENG</a> vol. 60 (2010), 247-278	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/855-specogna_ruben">Specogna Ruben</a>, <a href="/users/856-francesco_trevisan">Francesco Trevisan</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6675-automatic_generation_of_cuts_on_large_sized_meshes_for__t_omega__geometric_eddy_current_formulation">Automatic generation of cuts on large-sized meshes for $T-Omega$ geometric eddy-current formulation</a>, <a href="/czasopisma/227350-computer_methods_in_applied_mechanics_and_engineering">COMPUT METHOD APPL M</a> vol. 198 (2009), 3765–3781	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/1211-bernard_kapidani">Bernard Kapidani</a>, <a href="/users/855-specogna_ruben">Specogna Ruben</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7250-fast_computation_of_cuts_with_reduced_support_by_solving_maximum_circulation_problems">Fast computation of cuts with reduced support by solving maximum circulation problems</a>, <a href="/czasopisma/229185-ieee_transactions_on_magnetics">IEEE T MAGN</a> (), 	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/147-pawel_dlotko"><span>7911</span><span>7252</span><span>7165</span><span>7251</span><span>7166</span><span>7164</span><span>7163</span><span>7162</span><span>7161</span><span>7071</span><span>6682</span><span>6681</span><span>6680</span><span>6291</span><span>6691</span><span>6679</span><span>6678</span><span>6807</span><span>6806</span><span>6690</span><span>6677</span><span>6676</span><span>6675</span><span>7250</span></div>
+</div><h3 id='r'>Recenzje <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="review-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="review-view_c0"><a class="sort-link" href="/users/147-pawel_dlotko?ProcedureReview_sort=id_procedure">Recenzowany<span class="caret"></span></a></th><th id="review-view_c1">Jednostka</th><th id="review-view_c2"><a class="sort-link" href="/users/147-pawel_dlotko?ProcedureReview_sort=id_uploaded_file">Treść recenzji<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/302">Profesura: Leszek Gasiński</a></td><td>Katedra Teorii Optymalizacji i Sterowania</td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/147-pawel_dlotko"><span>494</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/147-pawel_dlotko?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/47">Rozproszone i równoległe algorytmy w Matematyce Obliczeniowej</a></td><td>Wykonawca</td><td>2011-06-19</td><td>2012-10-19</td></tr>
+<tr class="even">
+<td><a href="../grants/18">Algorytmy redukcji w obliczeniowej teorii homologii i kohomologii z zastosowaniami</a></td><td>Wykonawca</td><td>2010-10-14</td><td>2012-03-29</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/147-pawel_dlotko"><span>91</span><span>19</span></div>
+</div><h3 id='n' class='mb10'>Nagrody</h3><div id="prizes-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="prizes-info_c0">Rok</th><th id="prizes-info_c1">Rodzaj</th><th id="prizes-info_c2">Rodzaj uhonorowanej działalności</th><th id="prizes-info_c3">Typ</th><th id="prizes-info_c4">&nbsp;</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2014</td><td>nagroda</td><td>działalność naukowa lub naukowo-badawcza</td><td>krajowa</td><td><a href="/prizes/10">Szczegóły</a></td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/147-pawel_dlotko"><span>10</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#review-view').yiiGridView({'ajaxUpdate':['review-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#prizes-info').yiiGridView({'ajaxUpdate':['prizes-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

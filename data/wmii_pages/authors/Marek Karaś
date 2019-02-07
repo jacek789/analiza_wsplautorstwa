@@ -1,0 +1,613 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr hab. -  Marek Karaś</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr hab.  Marek Karaś
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Zakład Matematyki Finansowej</li>
+		</ul>
+
+
+
+<p><p><a class="default-link" href="/procedure/163">Habilitacja</a> &emsp;<b>Otwarcie:</b> 2012-03-29, <b>Zamknięcie:</b> 2013-02-07</p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#d">Doktoranci</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	32.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>, <a href="/users/1391-anna_serwatka">Anna Serwatka</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8194-discrete_time_market_models_from_the_small_investor_point_of_view_and_the_first_fundamental_type_theorem">Discrete-time market models from the small investor point of view and the first fundamental-type theorem</a>, ANNALES UNIVERSITATIS PAEDAGOGICAE CRACOVIENSIS STUDIA MATHEMATICA XVI vol. 16 (2017), 17-40	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	31.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1118-eric_edo">Eric Edo</a>, <a href="/users/1119-t__kanehira">T. Kanehira</a>, <a href="/users/260-marek_karas">Marek Karaś</a>, <a href="/users/1120-shigeru_kuroda">Shigeru Kuroda</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7100-separability_of_wild_automorphisms_of_a_polynomial_ring">Separability of wild automorphisms of a polynomial ring</a>, <a href="/czasopisma/234895-transformation_groups">TRANSFORM GROUPS</a> vol. 18 (2013), 81–96	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	30.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>, <a href="/users/143-jakub_zygadlo">Jakub Zygadło</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6731-wild_multidegrees_of_the_form__d__d2__d3__for_fixed_d____3">Wild multidegrees of the form (d, d2, d3) for fixed d ≥ 3</a>, <a href="/czasopisma/235542-bulletin_of_the_polish_academy_of_sciences__mathematics">BULLETIN OF THE POLISH ACADEMY OF SCIENCES. MATHEMATICS</a> (2012), 211-218	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	29.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7101-there_is_no_tame_automorphism_of_c_3_with_multidegree__3_4_5_">There is no tame automorphism of C^3 with multidegree (3,4,5)</a>, <a href="/czasopisma/233488-proceedings_of_the_american_mathematical_society">P AM MATH SOC</a> vol. 139, no. 3 (2011), 769-775	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	28.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>, <a href="/users/143-jakub_zygadlo">Jakub Zygadło</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6730-on_multidegrees_of_tame_and_wild_automorphisms_of_c3">On multidegrees of tame and wild automorphisms of C3</a>, <a href="/czasopisma/231388-journal_of_pure_and_applied_algebra">J PURE APPL ALGEBRA</a> (2011), 2843-2846	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	27.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4673-multidegrees_of_tame_automorphisms_of_c_n">Multidegrees of tame automorphisms of C^n</a>, <a href="/czasopisma/227777-dissertationes_mathematicae">DISS MATH</a> (2011), 55	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	26.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4674-tame_automorphisms_of_c_3_with_multidegree_of_the_form__p_1_p_2_d_3_">Tame Automorphisms of C^3 with Multidegree of the Form (p_1,p_2,d_3)</a>, <a href="/czasopisma/235542-bulletin_of_the_polish_academy_of_sciences__mathematics">BULLETIN OF THE POLISH ACADEMY OF SCIENCES. MATHEMATICS</a> (2011), 27-32	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	25.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4676-tame_automorphisms_of_c_3_with_multidegree_of_the_form__3_d_2_d_3_">Tame automorphisms of C^3 with multidegree of the form (3,d_2,d_3)</a>, <a href="/czasopisma/231388-journal_of_pure_and_applied_algebra">J PURE APPL ALGEBRA</a> (2010), 2144-2147	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4677-_birational_finite_extensions_of_mappings_from_a_smooth_variety_"> Birational finite extensions of mappings from a smooth variety,</a>, <a href="/czasopisma/235542-bulletin_of_the_polish_academy_of_sciences__mathematics">BULLETIN OF THE POLISH ACADEMY OF SCIENCES. MATHEMATICS</a> (2009), 117-120	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>, KaraśM.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4678-_a_note_on_triangular_automorphisms"> A note on triangular automorphisms</a>, UNIV. IAGEL. ACTA MATH. 46 (2008) 71-74.	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>, KaraśM.,ZielińskiA.P.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4679-boundary_value_recovery_by_the_trefftz_approach_in_structural_inverse_problem">Boundary-value recovery by the Trefftz approach in structural inverse problem</a>, COMM. NUMER. METHODS ENGRG. 24 (2008) 605-625.	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>, KaraśM.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4680-a_note_on_geometric_degree_of_finite_extensions_of_mappings_from_a_smooth_variety">A note on geometric degree of finite extensions of mappings from a smooth variety</a>, BULL. POLISH ACAD. SCI. MATH. 56 no. 2 (2008), 105 - 108	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4681-geometric_degree_of_finite_extensions_of_mappings_from_a_smooth_variety">Geometric degree of finite extensions of mappings from a smooth variety</a>, J. PURE APPL. ALGEBRA 212 (2008), 1145-1148	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4682-extension_of_polynomial_mapping_with_a_given_lojasiewicz_exponent">Extension of polynomial mapping with a given Lojasiewicz exponent</a>, UNIV. IAGEL. ACTA MATH. 47 (2007), 77-79	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4683-locally_nilpotent_monomial_derivations">Locally Nilpotent Monomial Derivations</a>, BULL. POLISH ACAD. SCI. MATH. VOL. 52, no. 2, (2004) ,119--120	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>, B.Szybiński,A.P.Zielinski	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4684-folded_plate_structures_with_openings___8211__analysis_and_optimization_">Folded-plate structures with openings &#8211; analysis and optimization,</a>, COMP. ASS. MECH. ENGNG SC., 8 (2003), 479-493	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>, B.Szybiński,A.P.Zielinski	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4685-d_plate_structures__optimization_using_special_t_elements_">D plate structures: optimization using special T-elements,</a>,  Proc. of the V Word Congress on Computational Mechanics, Vienna, Austria (2002).
+	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>, KaraśM.,ZielińskiA.P.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4686-hybrid_trefftz_least_square_element_for_plane_elasticity">Hybrid Trefftz least square element for plane elasticity</a>, STROJ. CAS. (J. MECH. ENGNG.) 53 no.1 (2002), 24-35.	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4687-finite_extensions_of_mappings_of_finite_sets">Finite extensions of mappings of finite sets</a>, BULL. POLISH ACAD. SCI. MATH. 50 (2002), no. 2, 237--239	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/643-zbigniew_jelonek">Zbigniew Jelonek</a>, <a href="/users/260-marek_karas">Marek Karaś</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4688-the_set_of_points_at_which_a_morphism_of_affine_schemes_is_not_finite">The set of points at which a morphism of affine schemes is not finite</a>, COLLOQ. MATH. 92 (2002), no. 1, 59--66	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>, ZielińskiA.P.,SaneckiH.,KaraśM.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4689-effectiveness_of_the_trefftz_method_in_different_engineering_optimization_procedures">Effectiveness of the Trefftz method in different engineering optimization procedures</a>, COMP. ASS. MECH. ENGNG SC., 8 (2001), 479-493	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4690-geometric_degree_of_generically_finite_extensions">Geometric degree of generically finite extensions</a>, EFFECTIVE METHODS IN ALGEBRAIC AND ANALYTIC GEOMETRY, 2000 (Kraków). Univ. Iagel. Acta Math. No. 39 (2001), 147--151	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4691-finite_extensions_of_mappings_from_a_smooth_variety">Finite extensions of mappings from a smooth variety</a>, ANN. POLON. MATH. 75 (2000), no. 1, 79--86	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>, KaraśM.,ZielińskiA.P.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4692-parametric_structural_shape_optimization_using_global_trefftz_approach">Parametric structural shape optimization using global Trefftz approach</a>, J. THEORET. APPL. MECH. 38 no.2 (2000), 285-296	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>, KaraśM.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4693-elementary_proof_of_finitely_generateness_of_a_subring_of__k_t_">Elementary proof of finitely generateness of a subring of  k[t]</a>, PROC. XXI CONFERENCE OF COMPLEX ALGEBRAIC AND ANALYTIC GEOMETRY, ŁÓDŻ, POLAND (2000), 13-16.	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4694-birational_finite_extensions">Birational finite extensions</a>, J. PURE APPL. ALGEBRA 148 (2000), no. 3, 251--253	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4695-geometric_degree_of_finite_extensions_of_projections">Geometric degree of finite extensions of projections</a>, EFFECTIVE METHODS IN ALGEBRAIC AND ANALYTIC GEOMETRY (BIELSKO-BIA3A, 1997). Univ. Iagel. Acta Math. No. 37 (1999), 109--119	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>, SaneckiH.,ZielińskiA.P.,KaraśM.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4696-engineering_optimization_with_different_object_functions___trefftz_approach">Engineering optimization with different object functions - Trefftz approach</a>, PROC. XIV PCCMM '99, RZESZÓW, POLAND (1999), 315-316.	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>, KaraśM.,ZielińskiA.P.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4697-shape_optimization_of_helical_spring_cross_section_by_trefftz_approach">Shape optimization of helical spring cross-section by Trefftz approach</a>, PROC. VII INT. CONF. &#8220;NUMERICAL METHODS IN CONTINUUM MECH.&#8221;, STARA LEŚNA, SLOVAK REPUBLIC (1998), 29-34.	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>, KaraśM.,ZielińskiA.P.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4698-application_of_trefftz_complete_functional_system_to_stress_analysis_in_helical_spring_with_an_arbitrary_wire_cross_section">Application of Trefftz complete functional system to stress analysis in helical spring with an arbitrary wire cross-section</a>, STROJ. CAS. (J. MECH. ENGNG.) 49 no. 6 (1998), 426-437	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4699-an_estimate_of_the_geometric_degree_of_an_extension_of_some_polynomial_proper_mappings">An estimate of the geometric degree of an extension of some polynomial proper mappings</a>, UNIV. IAGEL. ACTA MATH. no. 35 (1997), 131--135	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/260-marek_karas">Marek Karaś</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4675-there_is_no_tame_automorphism_of_c_3_with_multidegree__3_4_5_">There is no tame automorphism of C^3 with multidegree (3,4,5)</a>, PROC. AMER. MATH. SOC. PROC. AMER. MATH. SOC. VOL. 139 (3) 2011, 769-775	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/260-marek_karas"><span>8194</span><span>7100</span><span>6731</span><span>7101</span><span>6730</span><span>4673</span><span>4674</span><span>4676</span><span>4677</span><span>4678</span><span>4679</span><span>4680</span><span>4681</span><span>4682</span><span>4683</span><span>4684</span><span>4685</span><span>4686</span><span>4687</span><span>4688</span><span>4689</span><span>4690</span><span>4691</span><span>4692</span><span>4693</span><span>4694</span><span>4695</span><span>4696</span><span>4697</span><span>4698</span><span>4699</span><span>4675</span></div>
+</div><h3 id='d'>Doktoranci <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="doc-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="doc-view_c0"><a class="sort-link" href="/users/260-marek_karas?Procedure_sort=id_user">Doktorant<span class="caret"></span></a></th><th id="doc-view_c1"><a class="sort-link" href="/users/260-marek_karas?Procedure_sort=opening">Otwarcie<span class="caret"></span></a></th><th id="doc-view_c2"><a class="sort-link" href="/users/260-marek_karas?Procedure_sort=ending">Zakonczenie<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/293">Anna Serwatka</a></td><td>2016-06-30</td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/260-marek_karas"><span>293</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#doc-view').yiiGridView({'ajaxUpdate':['doc-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

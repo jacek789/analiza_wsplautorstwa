@@ -1,0 +1,328 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>mgr -  Adam Polak</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+mgr  Adam Polak
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Zespół Katedr i Zakładów Informatyki Matematycznej</li>
+					<li>Katedra Algorytmiki</li>
+		</ul>
+
+
+
+<p><p><a class="default-link" href="/procedure/310">Doktorat</a> &emsp;<b>Otwarcie:</b> 2017-06-29, <b>Zamknięcie:</b> </p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#k">Konferencje</a></li><li><a href="#g">Granty</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/884-adam_polak">Adam Polak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8122-_why_is_it_hard_to_beat_o_n_2__for_longest_common_weakly_increasing_subsequence_"> Why is it hard to beat O(n^2) for Longest Common Weakly Increasing Subsequence?</a>, <a href="/czasopisma/229366-information_processing_letters">INFORM PROCESS LETT</a> vol. 132 (2018), 1-5	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1181-grzegorz_guspiel">Grzegorz Guśpiel</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>, <a href="/users/884-adam_polak">Adam Polak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8121-on_an_extremal_problem_for_poset_dimension">On an Extremal Problem for Poset Dimension</a>, <a href="/czasopisma/232967-order_a_journal_on_the_theory_of_ordered_sets_and_its_applications">ORDER</a> vol. 35(3) (2018), 489-493	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/430-lech_duraj">Lech Duraj</a>, <a href="/users/1735-marvin_kunnemann">Marvin Künnemann</a>, <a href="/users/884-adam_polak">Adam Polak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8104-tight_conditional_lower_bounds_for_longest_common_increasing_subsequence">Tight Conditional Lower Bounds for Longest Common Increasing Subsequence</a>, ALGORITHMICA (2018), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1394-adam_karczmarz">Adam Karczmarz</a>, <a href="/users/1396-jakub_lacki">Jakub Łącki</a>, <a href="/users/884-adam_polak">Adam Polak</a>, <a href="/users/1395-jakub_radoszewski">Jakub Radoszewski</a>, <a href="/users/1397-jakub_onufry_wojtaszczyk">Jakub Onufry Wojtaszczyk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7745-distributed_tasks__introducing_distributed_computing_to_programming_competitions">Distributed Tasks: Introducing Distributed Computing to Programming Competitions</a>, OLYMPIADS IN INFORMATICS vol. 10 (2016), 177-194	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/884-adam_polak">Adam Polak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7744-counting_triangles_in_large_graphs_on_gpu">Counting Triangles in Large Graphs on GPU</a>, 2016 IEEE INTERNATIONAL PARALLEL AND DISTRIBUTED PROCESSING SYMPOSIUM WORKSHOPS (IPDPSW) (2016), 740-746	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/429-maciej_chociej">Maciej Chociej</a>, <a href="/users/884-adam_polak">Adam Polak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6756-real_time_object_tracking_on_gpgpu">Real Time Object Tracking on GPGPU</a>, PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON COMPUTER VISION THEORY AND APPLICATIONS vol. 2 (2012), 303-310	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/884-adam_polak"><span>8122</span><span>8121</span><span>8104</span><span>7745</span><span>7744</span><span>6756</span></div>
+</div><h3 id='k'>Konferencje:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/884-adam-polak">Adam Polak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/531">The 12th International Symposium on Parameterized and Exact Computation (IPEC 2017)</a>, TU Wien, Wiedeń, Austria, 2017-09-06 - 2017-09-08	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/884-adam-polak">Adam Polak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/530">European Conference on Combinatorics Graph Theory and Applications</a>, TU Wien, Wiedeń, Austria, 2017-08-28 - 2017-09-01	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/437-bartosz-walczak">Bartosz Walczak</a>, <a class="default-link" href="/users/884-adam-polak">Adam Polak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/476">Highlights of Algorithms 2017</a>, Technische Universität Berlin, Berlin, Niemcy, 2017-06-09 - 2017-06-11	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/437-bartosz-walczak">Bartosz Walczak</a>, <a class="default-link" href="/users/884-adam-polak">Adam Polak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/317">Highlights of Algorithms 2016</a>, Université Paris Diderot, Paryż, Francja, 2016-06-06 - 2016-06-08	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/884-adam-polak">Adam Polak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/413">International Parallel and Distributed Processing Symposium Workshops</a>, IEEE, Chicago, USA, 2016-05-23 - 2016-05-27	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/502-jaroslaw-duda">Jarosław Duda</a>, <a class="default-link" href="/users/884-adam-polak">Adam Polak</a>, <a class="default-link" href="/users/1178-agnieszka-lupinska">Agnieszka Łupińska</a>, <a class="default-link" href="/users/1180-lukasz-lachowski">Łukasz Lachowski</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/246">Forum Informatyki Teoretycznej 2016</a>, Department of Mathematics, Informatics and Mechanics of the University of Warsaw, Warszawa, Polska, 2016-02-05 - 2016-02-06	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/446-karol-kosinski">Karol Kosiński</a>, <a class="default-link" href="/users/502-jaroslaw-duda">Jarosław Duda</a>, <a class="default-link" href="/users/884-adam-polak">Adam Polak</a>, <a class="default-link" href="/users/1179-maciej-bendkowski">Maciej Bendkowski</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/114">Forum Informatyki Teoretycznej 2015</a>, Department of Mathematics, Informatics and Mechanics of the University of Warsaw, Warszawa, Polska, 2015-01-30 - 2015-01-31	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/884-adam_polak"><span>531</span><span>530</span><span>476</span><span>317</span><span>413</span><span>246</span><span>114</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/884-adam_polak?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/171">Wokół optymalności algorytmów opartych o programowanie dynamiczne</a></td><td>Kierownik</td><td>2018-06-29</td><td>2021-06-28</td></tr>
+<tr class="even">
+<td><a href="../grants/123">Wymiar i reprezentacje częściowych porządków: złożoność obliczeniowa, ograniczenia i strukturalne własności</a></td><td>Wykonawca</td><td>2016-04-12</td><td>2020-04-11</td></tr>
+<tr class="odd">
+<td><a href="../grants/98">Kolonoskopia -Innowacyjna diagnostyka umożliwiająca personalizacje procesu leczenia poprzez opracowanie rozwiązania wspomagające badania kolonoskopowe, podnoszącego wykrywalność stanów przedrakowych nowotworów jelita grubego o niskim stadium zaawansowania</a></td><td>Wykonawca</td><td>2014-07-01</td><td>2017-12-31</td></tr>
+<tr class="even">
+<td><a href="../grants/69">Rownoległe algorytmy grafowe i ich implementacja na GPU</a></td><td>Kierownik</td><td>2013-07-04</td><td>2018-07-03</td></tr>
+<tr class="odd">
+<td><a href="../grants/184">Dolne ograniczenia złożoności problemów rozwiązywalnych w czasie wielomianowym</a></td><td>Kierownik</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/884-adam_polak"><span>384</span><span>168</span><span>127</span><span>287</span><span>397</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

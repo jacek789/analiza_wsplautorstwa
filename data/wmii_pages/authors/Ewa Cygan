@@ -1,0 +1,252 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr -  Ewa Cygan</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr  Ewa Cygan
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Geometrii Analitycznej</li>
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/228-ewa_cygan">Ewa Cygan</a>, <a href="/users/212-maciej_denkowski">Maciej Denkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7774-singular_points_of_weakly_holomorphic_functions">Singular points of weakly holomorphic functions</a>, <a href="/czasopisma/226639-bulletin_des_sciences_mathematiques">B SCI MATH</a> vol. 140 issue 6 (2016), 657-674	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/228-ewa_cygan">Ewa Cygan</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6750-on_the_noether_exponent_and_other_applications_of_local_intersection_index">On the Noether exponent and other applications of local intersection index</a>, <a href="/czasopisma/226639-bulletin_des_sciences_mathematiques">B SCI MATH</a> vol. 136, No. 4,   (2012), 432-443	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/228-ewa_cygan">Ewa Cygan</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4310-a_note_on_separation_of_algebraic_sets_and_the_lojasiewicz_exponent_for_polynomial_mappings">A note on separation of algebraic sets and the Łojasiewicz exponent for polynomial mappings</a>, BULL. SCI. MATH. 129,2(2005) 139-147	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/228-ewa_cygan">Ewa Cygan</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4311-nullstellensatz_and_cycles_of_zeroes_of_holomorphic_mappings">Nullstellensatz and cycles of zeroes of holomorphic mappings</a>, ANN. POLON. MATH. 78 (2002), no. 2, 181--191	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/228-ewa_cygan">Ewa Cygan</a>, <a href="/users/644-tadeusz_krasinski">Tadeusz Krasiński</a>, <a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4312-separation_of_algebraic_sets_and_the_lojasiewicz_exponent_of_polynomial_mappings">Separation of algebraic sets and the Łojasiewicz exponent of polynomial mappings</a>, <a href="/czasopisma/229888-inventiones_mathematicae">INVENT MATH</a> vol. 136 (1) (1999), 75--87	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/228-ewa_cygan">Ewa Cygan</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4313-intersection_theory_and_separation_exponent_in_complex_analytic_geometry">Intersection theory and separation exponent in complex analytic geometry</a>, ANN. POLON. MATH. 69 (1998), no. 3, 287--299	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/228-ewa_cygan">Ewa Cygan</a>, <a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4314-proper_intersection_multiplicity_and_regular_separation_of_analytic_sets">Proper intersection multiplicity and regular separation of analytic sets</a>, ANN. POLON. MATH. 59 (1994), no. 3, 293--298	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/228-ewa_cygan">Ewa Cygan</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4315-factorization_of_polynomials">Factorization of polynomials</a>, BULL. POLISH ACAD. SCI. MATH. 40 (1992), no. 1, 45--52	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/228-ewa_cygan">Ewa Cygan</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6749-on_the_noether_exponent_and_other_applications_of_local_intersection_index">On the Noether exponent and other applications of local intersection index</a>, <a href="/czasopisma/226641-bulletin_mathematique_de_la_societe_des_sciences_mathematiques_de_roumanie">B MATH SOC SCI MATH</a> vol. 136, No. 4,   (), 432-443	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/228-ewa_cygan"><span>7774</span><span>6750</span><span>4310</span><span>4311</span><span>4312</span><span>4313</span><span>4314</span><span>4315</span><span>6749</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

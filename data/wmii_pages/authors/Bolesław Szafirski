@@ -1,0 +1,462 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title> Bolesław Szafirski</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+ Bolesław Szafirski
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Matematyki Stosowanej</li>
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#r">Recenzje</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>, Z.Brzeźniak	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6153-on_the_blow_up_phenomena_for_the_navier_stokes_type_equations">On the blow-up phenomena for the Navier-Stokes type equations</a>, UNIV. IAGEL. ACTA MATH. no. 32 (1995), 89--97	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>, ZdzisławBrzeźniak	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6154-asymptotic_behaviour_of_l1_norm_of_solutions_to_parabolic_equations">Asymptotic behaviour of L1 norm of solutions to parabolic equations</a>, BULL. POLISH ACAD. SCI. MATH. 39 (1991), no. 1-2, 1--10	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/822-marek_capinski">Marek Capiński</a>, <a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6155-hopf_equation_for_diffusion_in_random_velocity_field">Hopf equation for diffusion in random velocity field</a>, <a href="/czasopisma/235542-bulletin_of_the_polish_academy_of_sciences__mathematics">BULLETIN OF THE POLISH ACADEMY OF SCIENCES. MATHEMATICS</a> (1990), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/822-marek_capinski">Marek Capiński</a>, <a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6157-on_the_solutions_of_the_hopf_equation_for_heat_transfer">On the solutions of the Hopf equation for heat transfer</a>, <a href="/czasopisma/235542-bulletin_of_the_polish_academy_of_sciences__mathematics">BULLETIN OF THE POLISH ACADEMY OF SCIENCES. MATHEMATICS</a> (1982), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/822-marek_capinski">Marek Capiński</a>, <a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6156-statistical_investigation_of_the_heat_equation">Statistical investigation of the heat equation</a>, <a href="/czasopisma/235542-bulletin_of_the_polish_academy_of_sciences__mathematics">BULLETIN OF THE POLISH ACADEMY OF SCIENCES. MATHEMATICS</a> (1981), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/822-marek_capinski">Marek Capiński</a>, <a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6158-statistical_solutions_of_differential_equations_in_turbulent_heat_transfer">Statistical solutions of differential equations in turbulent heat transfer</a>, <a href="/czasopisma/235542-bulletin_of_the_polish_academy_of_sciences__mathematics">BULLETIN OF THE POLISH ACADEMY OF SCIENCES. MATHEMATICS</a> (1980), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/822-marek_capinski">Marek Capiński</a>, <a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>, M.Woźniak	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6159-equivalence_of_two_definitions_of_statistical_solution_of_the_heat_equation">Equivalence of two definitions of statistical solution of the heat equation</a>, ZESZYTY NAUK. UNIW. JAGIELLON. PRACE MAT. (1979), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6160-a_method_of_first_integrals_in_turbulent_diffusion">A method of first integrals in turbulent diffusion</a>, BULL. ACAD. POLON. SCI. SÉR. SCI. MATH. ASTRONOM. PHYS. 26 (1978), no. 8, 701--706	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6162-characteristic_functionals_and_turbulent_diffusion">Characteristic functionals and turbulent diffusion</a>, BULL. ACAD. POLON. SCI. SÉR. SCI. MATH. ASTRONOM. PHYS. 19 (1971), 785--789	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6163-diffusion_by_turbulent_movements">Diffusion by turbulent movements</a>, BULL. ACAD. POLON. SCI. SÉR. SCI. MATH. ASTRONOM. PHYS. 19 (1971), 791--797	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6164-turbulent_diffusion_and_hopf_s_equation_based_on_the_equation_of_oseen_s_type">Turbulent diffusion and Hopf's equation based on the equation of Oseen's type</a>, BULL. ACAD. POLON. SCI. SÉR. SCI. MATH. ASTRONOM. PHYS. 19 (1971), 799--803	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6161-a_functional_analytic_approach_to_turbulent_convection">A functional-analytic approach to turbulent convection</a>, ANN. POLON. MATH. 23 1970/1971 7--24	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6165-the_fundamental_solution_for_second_order_elliptic_differential_equations">The fundamental solution for second order elliptic differential equations</a>, ZESZYTY NAUK. UNIW. JAGIELLO. PRACE MAT. ZESZYT 13 1969 97--107	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6166-a_note_on_the_green_s_function">A note on the Green's function</a>, ZESZYTY NAUK. UNIW. JAGIELLO. PRACE MAT. no. 12 1968 57--59	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6167-on_the_green_s_function_for_second_order_elliptic_differential_equations">On the Green's function for second order elliptic differential equations</a>, COLLOQ. MATH. 16 1967 117--121	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6168-sur_une_fonction_extremale_liee_aux_moyennes_arithmetiques_des_distances_generalisees_des_couples_de_points_d_un_ensemble">Sur une fonction extrémale liée aux moyennes arithmétiques des distances généralisées des couples de points d'un ensemble</a>, (FRENCH) ANN. POLON. MATH. 18 1966 345--355	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6169-constructions_of_the_envelope_of_holomorphy_of_arbitrary_domains_in_the_space_of_n_complex_variables">Constructions of the envelope of holomorphy of arbitrary domains in the space of n complex variables</a>, ZESZYTY NAUK. UNIW. JAGIELLO. PRACE MAT. no. 7 1962 35--42	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6170-sur_une_propiete_des_distributions_restreintes_des_points_extremaux">Sur une propiété des distributions restreintes des points extrémaux</a>, (FRENCH) ANN. POLON. MATH. 11 1961 107--113	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6171-a_certain_extremal_function_connected_with_constrained_extremal_points">A certain extremal function connected with constrained extremal points</a>, (POLISH) ZESZYTY NAUK. UNIW. JAGIELLO. PRACE MAT. no. 6 1961 65--69	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6172-application_of_the_quasi_v_cebyv_sev_norms_to_the_construction_of_the_extremal_function_of_f">Application of the quasi-v Cebyv sev norms to the construction of the extremal function of F</a>, LEJA. (POLISH) ZESZYTY NAUK. UNIW. JAGIELLO. PRACE MAT. no. 6 1961 59--63	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6173-sur_une_fonction_extremale_liee_a_l_ecart_arithmetique_d_un_ensemble">Sur une fonction extrémale liée a l'écart arithmétique d'un ensemble</a>, (FRENCH) ANN. POLON. MATH. 10 1961 197--206	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/213-boleslaw_szafirski">Bolesław Szafirski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6174-on_the_convergence_of_sequences_of_numbers_to_the_ecart_of_the_set">On the convergence of sequences of numbers to the écart of the set</a>, (POLISH) PRACE MAT. 4 1960 77--81	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/213-boleslaw_szafirski"><span>6153</span><span>6154</span><span>6155</span><span>6157</span><span>6156</span><span>6158</span><span>6159</span><span>6160</span><span>6162</span><span>6163</span><span>6164</span><span>6161</span><span>6165</span><span>6166</span><span>6167</span><span>6168</span><span>6169</span><span>6170</span><span>6171</span><span>6172</span><span>6173</span><span>6174</span></div>
+</div><h3 id='r'>Recenzje <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="review-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="review-view_c0"><a class="sort-link" href="/users/213-boleslaw_szafirski?ProcedureReview_sort=id_procedure">Recenzowany<span class="caret"></span></a></th><th id="review-view_c1">Jednostka</th><th id="review-view_c2"><a class="sort-link" href="/users/213-boleslaw_szafirski?ProcedureReview_sort=id_uploaded_file">Treść recenzji<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/144">Doktorat: Anna Poskrobko</a></td><td></td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/213-boleslaw_szafirski"><span>263</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#review-view').yiiGridView({'ajaxUpdate':['review-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

@@ -1,0 +1,879 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>prof. dr hab. -  Roman Srzednicki</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+prof. dr hab.  Roman Srzednicki
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Równań Różniczkowych</li>
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#k">Konferencje</a></li><li><a href="#ko">Konferencje organizowane</a></li><li><a href="#d">Doktoranci</a></li><li><a href="#r">Recenzje</a></li><li><a href="#g">Granty</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	41.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7585-on_computer_assisted_proving_the_existence_of_periodic_and_bounded_orbits">On computer-assisted proving the existence of periodic and bounded orbits</a>, <a href="/czasopisma/235386-annales_mathematicae_silesianae">ANNALES MATHEMATICAE SILESIANAE</a> vol. 20 (2015), 7-17	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	40.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/102-marian_mrozek">Marian Mrozek</a>, <a href="/users/178-roman_srzednicki">Roman Srzednicki</a>, <a href="/users/424-frank_weilandt">Frank Weilandt</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7521-a_topological_approach_to_the_algorithmic_computation_of_the_conley_index_for_poincare_maps">A topological approach to the algorithmic computation of the Conley index for Poincaré maps</a>, <a href="/czasopisma/234332-siam_journal_on_applied_dynamical_systems">SIAM J APPL DYN SYST</a> vol. 14 (2015), 1348-1386	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	39.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7054-fixed_point_homomorphisms_for_parameterized_maps">Fixed point homomorphisms for parameterized maps</a>, <a href="/czasopisma/230670-journal_of_fixed_point_theory_and_applications">J FIX POINT THEORY A</a> vol. 13 (2013), 489-518	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	38.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/102-marian_mrozek">Marian Mrozek</a>, <a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5574-topological_approach_to_rigorous_numerics_of_chaotic_dynamical_systems_with_strong_expansion_of_error_bounds">Topological approach to rigorous numerics of chaotic dynamical systems with strong expansion of error bounds</a>, <a href="/czasopisma/228593-foundations_of_computational_mathematics">FOUND COMPUT MATH</a> (2010), 191-220	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	37.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/102-marian_mrozek">Marian Mrozek</a>, <a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5575-conley_index_of_poincare_maps_in_isolating_segments">Conley index of Poincare maps in isolating segments</a>, <a href="/czasopisma/232779-nonlinear_analysis_theory_methods___applications">NONLINEAR ANAL-THEOR</a> (2009), 2123—2131	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	36.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>, <a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>, <a href="/users/103-piotr_zgliczynski">Piotr Zgliczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5576-fixed_point_results_based_on_the_wazewski_method">Fixed point results based on the Ważewski method</a>, (2005), "Handbook of Topological Fixed Point Theory", Springer Verlag (połaczony z Kluwer Academic Publishing)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	35.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5579-on_isolated_sets_of_solutions_of_some_two_point_boundary_value_problems">On isolated sets of solutions of some two-point boundary value problems</a>, NONLINEAR ANAL. 54 (2003), 457-469	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	34.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>, B.Lani-Wayda	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5580-a_generalized_lefschetz_fixed_point_theorem_and_symbolic_dynamics_in_delay_equations">A generalized Lefschetz fixed point theorem and symbolic dynamics in delay equations</a>, ERGODIC THEORY DYNAM. SYSTEMS 22 (2002), no. 4, 1215--1232	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	33.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/102-marian_mrozek">Marian Mrozek</a>, <a href="/users/178-roman_srzednicki">Roman Srzednicki</a>, J.F.Reineck	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5582-the_conley_index_over_the_circle">The Conley index over the circle</a>, J. DYNAM. DIFFERENTIAL EQUATIONS 12 (2000), no. 2, 385--409	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	32.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5583-on_periodic_solutions_inside_isolating_chains">On periodic solutions inside isolating chains</a>, J. DIFFERENTIAL EQUATIONS 165 (2000), no. 1, 42--60	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	31.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5584-a_generalization_of_the_lefschetz_fixed_point_theorem_and_detection_of_chaos">A generalization of the Lefschetz fixed point theorem and detection of chaos</a>, PROC. AMER. MATH. SOC. 128 (2000), no. 4, 1231--1239	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	30.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/102-marian_mrozek">Marian Mrozek</a>, <a href="/users/1099-james_f__reineck">James F. Reineck</a>, <a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5585-the_conley_index_over_a_base">The Conley index over a base</a>, <a href="/czasopisma/234882-transactions_of_the_american_mathematical_society">T AM MATH SOC</a> vol. 352 (2000), 4171-4194	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	29.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5587-on_solutions_of_two_point_boundary_value_problems_inside_isolating_segments">On solutions of two-point boundary value problems inside isolating segments</a>, TOPOL. METHODS NONLINEAR ANAL. 13 (1999), no. 1, 73--89	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	28.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5588-on_cohomology_of_the_invariant_part_of_an_isolating_block">On cohomology of the invariant part of an isolating block</a>, TOPOL. METHODS NONLINEAR ANAL. 14 (1999), no. 2, 257--260	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	27.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5590-on_the_conley_index_over_a_base">On the Conley index over a base</a>, PROCEEDINGS OF THE CONFERENCE "TOPOLOGICAL METHODS IN DIFFERENTIAL EQUATIONS AND DYNAMICAL SYSTEMS" (KRAKÓW-PRZEGORZAŁY, 1996). Univ. Iagel. Acta Math. No. 36 (1998), 239--241	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	26.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5591-on_detection_of_chaotic_dynamics_in_ordinary_differential_equations">On detection of chaotic dynamics in ordinary differential equations</a>, PROCEEDINGS OF THE SECOND WORLD CONGRESS OF NONLINEAR ANALYSTS, PART 8 (Athens, 1996). Nonlinear Anal. 30 (1997), no. 8, 4927--4935	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	25.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>, <a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5592-a_geometric_method_for_detecting_chaotic_dynamics">A geometric method for detecting chaotic dynamics</a>, <a href="/czasopisma/230488-journal_of_differential_equations">J DIFFER EQUATIONS</a> vol. 135 (1997), 66-82	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5593-conley_s_index___an_extension_of_the_wa_ewski_retract_method">Conley's index---an extension of the Wa?ewski retract method</a>, (POLISH) X SCHOOL OF THE HISTORY OF MATHEMATICS (POLISH) (MIEDZYZDROJE, 1996). Zesz. Nauk. Uniw. Opol. Mat. 30 (1997), 163--167	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5594-generalized_lefschetz_theorem_and_a_fixed_point_index_formula">Generalized Lefschetz theorem and a fixed point index formula</a>, TOPOLOGY APPL. 81 (1997), no. 3, 207--224	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>, S.Sedziwy	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5597-on_periodic_solutions_of_certain_nth_order_differential_equations">On periodic solutions of certain nth order differential equations</a>, J. MATH. ANAL. APPL. 196 (1995), no. 2, 666--675	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5598-on_periodic_solutions_of_planar_polynomial_differential_equations_with_periodic_coefficients">On periodic solutions of planar polynomial differential equations with periodic coefficients</a>, J. DIFFERENTIAL EQUATIONS 114 (1994), no. 1, 77--100	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5599-periodic_and_bounded_solutions_in_blocks_for_time_periodic_nonautonomous_ordinary_differential_equations">Periodic and bounded solutions in blocks for time-periodic nonautonomous ordinary differential equations</a>, NONLINEAR ANAL. 22 (1994), no. 6, 707--737	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>, T.Kaczynski	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5600-periodic_solutions_of_certain_planar_rational_ordinary_differential_equations_with_periodic_coefficients">Periodic solutions of certain planar rational ordinary differential equations with periodic coefficients</a>, DIFFERENTIAL INTEGRAL EQUATIONS 7 (1994), no. 1, 37--47	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5601-topological_invariants_and_detection_of_periodic_orbits">Topological invariants and detection of periodic orbits</a>, J. DIFFERENTIAL EQUATIONS 111 (1994), no. 2, 283--298	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/102-marian_mrozek">Marian Mrozek</a>, <a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5602-on_time_duality_of_the_conley_index">On time-duality of the Conley index</a>, RESULTS MATH. 24 (1993), no. 1-2, 161--167	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5604-periodic_orbits_indices">Periodic orbits indices</a>, FUND. MATH. 135 (1990), no. 3, 147--173	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/102-marian_mrozek">Marian Mrozek</a>, <a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5605-the_continuity_axiom_in_multi_valued_dynamical_systems">The continuity axiom in multi-valued dynamical systems</a>, RIV. MAT. PURA APPL. no. 3 (1988), 87--97 (1989)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5606-on_injective_multivalued_semiflows">On injective multivalued semiflows</a>, ANN. POLON. MATH. 49 (1988), no. 2, 147--150	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5607-periodic_and_constant_solutions_via_topological_principle_of_wa_ewski">Periodic and constant solutions via topological principle of Wa?ewski</a>, UNIV. IAGEL. ACTA MATH. no. 26 (1987), 183--190	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5608-on_funnel_sections_of_local_semiflows">On funnel sections of local semiflows</a>, BULL. POLISH ACAD. SCI. MATH. 34 (1986), no. 3-4, 203--209	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5609-a_remark_concerning_the_retract_theorem">A remark concerning the retract theorem</a>, BULL. POLISH ACAD. SCI. MATH. 33 (1985), no. 5-6, 255--259	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5610-on_rest_points_of_dynamical_systems">On rest points of dynamical systems</a>, FUND. MATH. 126 (1985), no. 1, 69--81	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5611-on_the_convergence_to_zero_of_oscillating_solutions_of_nth_order_partial_differential_equations">On the convergence to zero of oscillating solutions of Nth order partial differential equations</a>, UNIV. IAGEL. ACTA MATH. no. 24 (1984), 77--82	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5577-isolated_sets_of_solutions_of_two_point_boundary_value_problems_and_their_indices">Isolated sets of solutions of two-point boundary value problems and their indices</a>, PROCEEDINGS OF THE INTERNATIONAL CONFERENCE ON DIFFERENTIAL EQUATIONS EQUADIFF 2003, World Scientific, Singapore 2005, 264-269	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5578-wazewski_method_and_conley_index">Ważewski Method and Conley Index</a>, HANDBOOK OF DIFFERENTIAL EQUATIONS: ORDINARY DIFFERENTIAL EQUATIONS, VOL. 1, Elsevier B.V., Amsterdam 2004, 591-684	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5581-on_geometric_detection_of_periodic_solutions_and_chaotic_dynamics">On geometric detection of periodic solutions and chaotic dynamics</a>, PROCEEDINGS OF THE 6th Colloquium on the Qualitative Theory of Differential Equations (Szeged, 1999), No. 27, 11 pp. (electronic), Proc. Colloq. Qual. Theory Differ. Equ., Electron. J. Qual. Theory Differ. Equ., Szeged, 2000	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/102-marian_mrozek">Marian Mrozek</a>, <a href="/users/178-roman_srzednicki">Roman Srzednicki</a>, J.F.Reineck	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5586-on_a_generalization_of_the_conley_index">On a generalization of the Conley index</a>, CONLEY INDEX THEORY (WARSAW, 1997), 157--171, Banach Center Publ., 47, Polish Acad. Sci., Warsaw, 1999	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5589-on_foundations_of_the_conley_index_theory">On foundations of the Conley index theory</a>, CONLEY INDEX THEORY (WARSAW, 1997), 21--27, Banach Center Publ., 47, Polish Acad. Sci., Warsaw, 1999	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5595-on_geometric_detection_of_periodic_solutions_and_chaos">On geometric detection of periodic solutions and chaos</a>, NON-LINEAR ANALYSIS AND BOUNDARY VALUE PROBLEMS FOR ORDINARY DIFFERENTIAL EQUATIONS (UDINE), 197--209, CISM Courses and Lectures, 371, Springer, Vienna, 1996	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5596-a_geometric_method_for_the_periodic_problem">A geometric method for the periodic problem</a>, WORLD CONGRESS OF NONLINEAR ANALYSTS '92, VOL. I--IV (TAMPA, FL, 1992), 549--560, de Gruyter, Berlin, 1996	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5603-a_geometric_method_for_the_periodic_problem_in_ordinary_differential_equations">A geometric method for the periodic problem in ordinary differential equations</a>, SÉMINAIRE D'ANALYSE MODERNE [SEMINAR ON MODERN ANALYSIS], 22. Université de Sherbrooke, Département de Mathématiques et d'Informatique, Sherbrooke, PQ, 1992. 110 pp	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/178-roman_srzednicki"><span>7585</span><span>7521</span><span>7054</span><span>5574</span><span>5575</span><span>5576</span><span>5579</span><span>5580</span><span>5582</span><span>5583</span><span>5584</span><span>5585</span><span>5587</span><span>5588</span><span>5590</span><span>5591</span><span>5592</span><span>5593</span><span>5594</span><span>5597</span><span>5598</span><span>5599</span><span>5600</span><span>5601</span><span>5602</span><span>5604</span><span>5605</span><span>5606</span><span>5607</span><span>5608</span><span>5609</span><span>5610</span><span>5611</span><span>5577</span><span>5578</span><span>5581</span><span>5586</span><span>5589</span><span>5595</span><span>5596</span><span>5603</span></div>
+</div><h3 id='k'>Konferencje:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/178-roman-srzednicki">Roman Srzednicki</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/626">The 3rd International Conference on Dynamics and Differential Equations</a>, Hiroshima University, Higashi-Hiroshima, Japonia, 2018-03-14 - 2018-03-18	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/145-bartosz-zielinski">Bartosz Zieliński</a>, <a class="default-link" href="/users/178-roman-srzednicki">Roman Srzednicki</a>, <a class="default-link" href="/users/899-bogdan-batko">Bogdan Batko</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/499">Applied Topology in Będlewo 2017</a>, Polish Academy of Sciences, Będlewo, Poland, 2017-06-25 - 2017-07-01	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/178-roman-srzednicki">Roman Srzednicki</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/609">International Conference on Topological Nonlinear Analysis</a>, University of Guangzhou, Guangzhou, Chiny, 2017-06-12 - 2017-06-15	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/176-klaudiusz-wojcik">Klaudiusz Wójcik</a>, <a class="default-link" href="/users/178-roman-srzednicki">Roman Srzednicki</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/412">7 Forum Matematyków Polskich z Udziałem Matematyków Ukraińskich</a>, Uniwersytet Warmińsko-Mazurski, Olsztyn, Polska, 2016-09-12 - 2016-09-17	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/178-roman-srzednicki">Roman Srzednicki</a>, <a class="default-link" href="/users/416-liliana-klimczak">Liliana Klimczak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/212">VII Symposium on Nonlinear Analysis SNA 2015</a>, Centrum Badań Nieliniowych im. J.P. Schaudera, Toruń, Polska, 2015-09-14 - 2015-09-18	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/178-roman_srzednicki"><span>626</span><span>499</span><span>609</span><span>412</span><span>212</span></div>
+</div><h3 id='ko'>Konferencje organizowane:</h3><div id="yw3" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/102-marian-mrozek">Marian Mrozek</a>, <a class="default-link" href="/users/103-piotr-zgliczynski">Piotr Zgliczyński</a>, <a class="default-link" href="/users/116-tomasz-kapela">Tomasz Kapela</a>, <a class="default-link" href="/users/128-daniel-wilczak">Daniel Wilczak</a>, <a class="default-link" href="/users/178-roman-srzednicki">Roman Srzednicki</a>, <a class="default-link" href="/users/871-konstantin-mischaikov">Konstantin Mischaikov</a>, <a class="default-link" href="/users/1626-mateusz-przybylski">Mateusz Przybylski</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/158">Dynamics, Topology and Computations 2018</a>, Będlewo, 2018-06-18, 2018-06-23	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/178-roman_srzednicki"><span>158</span></div>
+</div><h3 id='d'>Doktoranci <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="doc-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="doc-view_c0"><a class="sort-link" href="/users/178-roman_srzednicki?Procedure_sort=id_user">Doktorant<span class="caret"></span></a></th><th id="doc-view_c1"><a class="sort-link" href="/users/178-roman_srzednicki?Procedure_sort=opening">Otwarcie<span class="caret"></span></a></th><th id="doc-view_c2"><a class="sort-link" href="/users/178-roman_srzednicki?Procedure_sort=ending">Zakonczenie<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/128">Paweł Wilczyński</a></td><td>2005-09-22</td><td>2006-10-26</td></tr>
+<tr class="even">
+<td><a href="../procedure/139">Dominik Kwietniak</a></td><td>2005-12-22</td><td>2006-11-30</td></tr>
+<tr class="odd">
+<td><a href="../procedure/140">Marcin Pawłowski</a></td><td>2004-09-23</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/160">Marcin Kulczycki</a></td><td>2003-08-04</td><td>2004-02-26</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/178-roman_srzednicki"><span>128</span><span>139</span><span>140</span><span>160</span></div>
+</div><h3 id='r'>Recenzje <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="review-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="review-view_c0"><a class="sort-link" href="/users/178-roman_srzednicki?ProcedureReview_sort=id_procedure">Recenzowany<span class="caret"></span></a></th><th id="review-view_c1">Jednostka</th><th id="review-view_c2"><a class="sort-link" href="/users/178-roman_srzednicki?ProcedureReview_sort=id_uploaded_file">Treść recenzji<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/278">Habilitacja: Maciej Capiński</a></td><td></td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/178-roman_srzednicki"><span>458</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/178-roman_srzednicki?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/107">Obliczeniowa dynamika topologiczna</a></td><td>Wykonawca</td><td>2015-02-12</td><td>2020-02-11</td></tr>
+<tr class="even">
+<td><a href="../grants/81">Topologiczne systemy złożone</a></td><td>Wykonawca</td><td>2013-03-13</td><td>2015-09-30</td></tr>
+<tr class="odd">
+<td><a href="../grants/52">Topological complex systems</a></td><td>Wykonawca</td><td>2012-09-14</td><td>2015-09-30</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/178-roman_srzednicki"><span>175</span><span>220</span><span>104</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw3').yiiListView({'ajaxUpdate':['yw3'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#doc-view').yiiGridView({'ajaxUpdate':['doc-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#review-view').yiiGridView({'ajaxUpdate':['review-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

@@ -1,0 +1,1324 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>prof. dr hab. -  Grzegorz Lewicki</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+prof. dr hab.  Grzegorz Lewicki
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Teorii Aproksymacji</li>
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#ko">Konferencje organizowane</a></li><li><a href="#d">Doktoranci</a></li><li><a href="#r">Recenzje</a></li><li><a href="#g">Granty</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	74.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1700-maciej_ciesielski">Maciej Ciesielski</a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8314-best_approximation_properties_in_spaces_of_measurable_functions">Best approximation properties in spaces of measurable functions</a>, <a href="/czasopisma/232214-mathematische_nachrichten">MATH NACHR</a> vol. 291,4 (2018), 610 - 631	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	73.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1700-maciej_ciesielski">Maciej Ciesielski</a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8313-on_approximation_properties_of_l_1_type_spaces">On approximation properties of l_1-type spaces</a>, <a href="/czasopisma/226249-banach_journal_of_mathematical_analysis">BANACH J MATH ANAL</a> vol. (12,4) (2018), 935 - 954	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	72.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1700-maciej_ciesielski">Maciej Ciesielski</a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8070-uniform_k_monotonicity_and_k_order_continuity_in_symmetric_spaces_with_applications_to_approximation_theory">Uniform K-monotonicity and K-order continuity in symmetric spaces with applications to approximation theory</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 456,2 (2017), 705 - 730	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	71.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, <a href="/users/1487-mieczyslaw_mastylo">Mieczyslaw Mastylo</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7938-asymptotic_behaviour_of_factorization_and_projection_constants">Asymptotic behaviour of factorization and projection constants</a>, <a href="/czasopisma/230736-journal_of_geometric_analysis">J GEOM ANAL</a> vol. 27 (2017), 335-365	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	70.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1444-diana_caponetti_">Diana Caponetti </a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7840-a_note_on_the_admissiblity_of_modular_function_spaces">A note on the admissiblity of modular function spaces</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 448 (2017), 1331-1342	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	69.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/809-asuman_g__aksoy">Asuman G. Aksoy</a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7768-characterization_conditions_and_the_numerical_index">Characterization conditions and the numerical index</a>, CONTEMPORARY MATHEMATICS vol. 672 (2016), 17-31	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	68.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/809-asuman_g__aksoy">Asuman G. Aksoy</a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7767-minimal_projections_with_respect_to_numerical_radius">Minimal Projections with Respect to Numerical Radius</a>, (2016), "Trends in Mathematics", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	67.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/809-asuman_g__aksoy">Asuman G. Aksoy</a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7766-in_memoriam__bruce_l__chalmers__1938___2015_">In Memoriam: Bruce L. Chalmers (1938 - 2015)</a>, <a href="/czasopisma/230156-journal_of_approximation_theory">J APPROX THEORY</a> vol. 208 (2016), 1 -8	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	66.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/809-asuman_g__aksoy">Asuman G. Aksoy</a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7765-bernstein_s_lethtargy_theorem_in_frechet_spaces">Bernstein's Lethtargy Theorem in Frechet spaces</a>, <a href="/czasopisma/230156-journal_of_approximation_theory">J APPROX THEORY</a> vol. 209 (2016), 58-77	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	65.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, <a href="/users/1413-leslaw_skrzypek">Leslaw Skrzypek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7602-minimal_projections_onto_hyperplanes_in_l_p_n">Minimal projections onto hyperplanes in l_p^n</a>, <a href="/czasopisma/230156-journal_of_approximation_theory">J APPROX THEORY</a> vol. 202 (2016), 42-63	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	64.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1209-yunan_cui">Yunan Cui</a>, <a href="/users/516-henryk_hudzik">Henryk Hudzik</a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7249-order_asymptotically_isometric_copies_of_c_o_in_the_subspaces_of_order_continuous_elements_in_orlicz_spaces">Order asymptotically isometric copies of c_o in the subspaces of order continuous elements in Orlicz Spaces</a>, <a href="/czasopisma/230443-journal_of_convex_analysis">J CONVEX ANAL</a> vol. 21, (3) (2014), 663-680	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	63.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1210-alberto_castejon">Alberto Castejon</a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7247-subspaces_od_codimension_two_with_large_projection_constants">Subspaces od codimension two with large projection constants</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 420, no. 2 (2014), 1391-1407	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	62.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7248-asymptotic_estimate_of__absolute_projection_constants">Asymptotic estimate of  absolute projection constants</a>, UNIVERSITATIS IAGELLONICAE ACTA MATHEMATICA vol. 51 (2013), 51-60	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	61.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1084-_a__trombetta"> A. Trombetta</a>, <a href="/users/1083-_d__caponetti"> D. Caponetti</a>, <a href="/users/1085-_g__trombetta"> G. Trombetta</a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7027-on_the_admissibility_of_the_space___l_o_a_x___of_vector_valued_measurable_functions">On the admissibility of the space $ L_o(A,X)$ of vector-valued measurable functions</a>, <a href="/czasopisma/226673-bulletin_of_the_korean_mathematical_society">B KOREAN MATH SOC</a> vol. 50, (2013) (2013), 1915-1922	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	60.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, <a href="/users/334-agnieszka_micek">Agnieszka Micek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6964-uniqueness_of_minimal_fourier_type_extensions_in__l_1__spaces">Uniqueness of minimal Fourier-type extensions in $L_1$-spaces</a>, <a href="/czasopisma/232495-monatshefte_fur_mathematik">MONATSH MATH</a> vol. 170 (2013), 161-178	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	59.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/809-asuman_g__aksoy">Asuman G. Aksoy</a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6534-limit_theorems_for_numerical_index">Limit theorems for numerical index</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 398 (2013), 296-302	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	58.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/809-asuman_g__aksoy">Asuman G. Aksoy</a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6479-minimal_projections_with_respect_to_the_various_norms">Minimal projections with respect to the various norms</a>, <a href="/czasopisma/234609-studia_mathematica">STUD MATH</a> vol. 210(1) (2012), 1 - 16	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	57.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, <a href="/users/334-agnieszka_micek">Agnieszka Micek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6477-codimension_one_minimal_extensions_onto_haar_subspaces">Codimension-one minimal extensions onto Haar subspaces</a>, <a href="/czasopisma/230156-journal_of_approximation_theory">J APPROX THEORY</a> vol. 164 (2012), 1461 - 1471	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	56.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/809-asuman_g__aksoy">Asuman G. Aksoy</a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4947-best_approximation_in_numerical_radius">Best approximation in numerical radius</a>, <a href="/czasopisma/232830-numerical_functional_analysis_and_optimization">NUMER FUNC ANAL OPT</a> vol. 32(6) (2011), 593-609	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	55.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/813-bruce_chalmers">Bruce Chalmers</a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4948-a_proof_of_the_grunbaum_conjecture">A proof of the Grunbaum conjecture</a>, <a href="/czasopisma/234609-studia_mathematica">STUD MATH</a> vol. 200 (2) (2010), 103-129	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	54.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, <a href="/users/334-agnieszka_micek">Agnieszka Micek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4949-equality_of_two_strongly_unique_minimal_projection_constants">Equality of two strongly unique minimal projection constants</a>, <a href="/czasopisma/230156-journal_of_approximation_theory">J APPROX THEORY</a> vol. 162 (2010), 2278-2289	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	53.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, <a href="/users/811-michael_prophet">Michael Prophet</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4950-minimal_shape_preserving_projections_in_tensor_product_spaces">Minimal shape-preserving projections in tensor product spaces</a>, <a href="/czasopisma/230156-journal_of_approximation_theory">J APPROX THEORY</a> vol. 162 (2010), 931-951	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	52.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/819-daria_bugajewska">Daria Bugajewska</a>, <a href="/users/818-dariusz_bugajewski">Dariusz Bugajewski</a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6491-on_nonlinear_integral_equations_in_the_spaces_of_functions_of_bounded_generalized_phi_variation">On nonlinear integral equations in the spaces of functions of bounded generalized phi-variation</a>, JOURNAL OF INTEGRAL EQUATIONS AND APPLICATIONS vol. 21(1) (2009), 1 -20	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	51.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, <a href="/users/812-giuseppe_marino">Giuseppe Marino</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4951-on_some_algorithms_in_banach_spaces_finding_fixed_points_of_non_linear_mappings">On some algorithms in Banach spaces finding fixed points of non-linear mappings</a>, <a href="/czasopisma/232779-nonlinear_analysis_theory_methods___applications">NONLINEAR ANAL-THEOR</a> (2009), 3964-3972	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	50.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/816-anna__kaminska">Anna  Kaminska</a>, <a href="/users/817-han">Han</a>, <a href="/users/244-_yu_lee"> Yu Lee</a>, A.Kaminska,H.J.Lee	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4952-extreme_and_smooth_points__in_lorentz_and_marcinkiewicz_spaces_with_applications_to_contractive_projections">Extreme and smooth points  in Lorentz and Marcinkiewicz spaces with applications to contractive projections</a>, <a href="/czasopisma/234108-rocky_mountain_journal_of_mathematics">ROCKY MT J MATH</a> vol. 39(5) (2009), 1533-1572	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	49.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/813-bruce_chalmers">Bruce Chalmers</a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, B.L.Chalmers	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4954-three_dimensional_subspace_of___l__infty____5____with_maximal_projection_constant">Three-dimensional subspace of $ l_{infty}^{(5)}$ with maximal projection constant</a>, <a href="/czasopisma/230707-journal_of_functional_analysis">J FUNCT ANAL</a> vol. 257 (2009), 553-592	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	48.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, <a href="/users/814-giulio_trombetta">Giulio Trombetta</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4955-optimal_and_one_complemented_subspaces">Optimal and one-complemented subspaces</a>, <a href="/czasopisma/232495-monatshefte_fur_mathematik">MONATSH MATH</a> vol. 153 (2008), 115-132	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	47.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, M.Prophet	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4956-minimal_multi_convex_projections">Minimal multi-convex projections</a>, <a href="/czasopisma/234609-studia_mathematica">STUD MATH</a> (2007), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	46.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, L.Skrzypek	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4957-chalmers_metcalf_operator_and_uniqueness_of_minimal_projections">Chalmers-Metcalf operator and uniqueness of minimal projections</a>, <a href="/czasopisma/230156-journal_of_approximation_theory">J APPROX THEORY</a> (2007), 71-91	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	45.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, M.Prophet	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4959-minimal_shape_preserving_projections_onto__pi_n___generaralizations_and_extensions">Minimal shape-preserving projections onto $Pi_n$: generaralizations and extensions</a>, <a href="/czasopisma/232830-numerical_functional_analysis_and_optimization">NUMER FUNC ANAL OPT</a> (2006), 847-873	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	44.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/516-henryk_hudzik">Henryk Hudzik</a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, W.Kowalewski	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4960-approximative_compactness_and_full_rotundity_in_musielak_orlicz_spaces_and_orlicz_lorentz_spaces">Approximative compactness and full rotundity in Musielak-Orlicz spaces and Orlicz-Lorentz spaces</a>, <a href="/czasopisma/235215-zeitschrift_fur_analysis_und_ihre_anwendungen">Z ANAL ANWEND</a> (2006), 163 -- 192	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	43.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, A.Kamińska	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4961-contractive_and_optimal_sets_in_modular_spaces">Contractive and optimal sets in modular spaces</a>, <a href="/czasopisma/232214-mathematische_nachrichten">MATH NACHR</a> (2004), 74--95	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	42.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, G.Marino	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4962-approximation_of_functions_of_finite_variation_by_superpositions_of_a_sigmoidal_function">Approximation of functions of finite variation by superpositions of a sigmoidal function</a>, APPL. MATH. LETT. 17 (2004), 1147--1152	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	41.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, J.E.Jamison,A.Kamińska	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4963-one_complemented_subspaces_of_musielak_orlicz_sequence_spaces">One-complemented subspaces of Musielak-Orlicz sequence spaces</a>, <a href="/czasopisma/230156-journal_of_approximation_theory">J APPROX THEORY</a> (2004), 1--37	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	40.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, M.Prophet	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4964-codimension_one_minimal_projections_onto_haar_subspace">Codimension-one minimal projections onto Haar subspace</a>, <a href="/czasopisma/230156-journal_of_approximation_theory">J APPROX THEORY</a> (2004), 198-206	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	39.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, G.Trombetta	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4965-almost_contractive_retractions_in_orlicz_spaces">Almost contractive retractions in Orlicz spaces</a>, BULL. AUSTRAL. MATH. SOC. 68 (2003), 353--369	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	38.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, B.L.Chalmers	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4966-symmetric_spaces_with_maximal_projection_constants">Symmetric spaces with maximal projection constants</a>, J. FUNCT. ANAL. 200 (2003), no. 1, 1--22	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	37.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, G.Marino	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4967-approximation_by_superpositions_of_a_sigmoidal_function">Approximation by superpositions of a sigmoidal function</a>, Z. ANAL. ANWENDUNGEN 22 (2003), no. 2, 463--470	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	36.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, G.Marino,E.DePascale	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4968-some_conditions_for_compactness_in__bc_q___and_their_application_to_boundary_value_problems">Some conditions for compactness in $BC(Q)$ and their application to boundary value problems</a>, ANALYSIS (MUNICH) 22 (2002), no. 1, 21--32	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	35.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, D.Caponetti,G.Trombetta	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4969-control_functions_and_total_boundedness_in_the_space__lsb_0_">Control functions and total boundedness in the space $Lsb 0$</a>, NOVI SAD J. MATH. 32 (2002), no. 2, 109--123	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	34.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, B.L.Chalmers	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4970-two_dimensional_real_symmetric_spaces_with_maximal_projection_constant">Two-dimensional real symmetric spaces with maximal projection constant</a>, ANN. POLON. MATH. 73 (2000), no. 2, 119--134	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	33.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, G.Marino,P.Pietramala	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4971-fourier_type_minimal_extensions_in_real__lsb_1__space">Fourier-type minimal extensions in real $Lsb 1$-space</a>, ROCKY MOUNTAIN J. MATH. 30 (2000), no. 3, 1025--1037	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	32.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4973-on_minimal_projections_in__lsb_inftysp___n___">On minimal projections in $lsb inftysp {(n)}$</a>, MONATSH. MATH. 129 (2000), no. 2, 119--131	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	31.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, B.L.Chalmers	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4975-symmetric_subspaces_of_l1_with_large_projection_constants">Symmetric subspaces of l1 with large projection constants</a>, STUDIA MATH. 134 (1999), no. 2, 119--133	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	30.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, G.Isac	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4976-on_the_property_of_four_elements_in_modular_spaces">On the property of four elements in modular spaces</a>, ACTA MATH. HUNGAR. 83 (1999), no. 4, 293--301	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	29.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4977-minimal_extensions_in_tensor_product_spaces">Minimal extensions in tensor product spaces</a>, J. APPROX. THEORY 97 (1999), no. 2, 366--383	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	28.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, G.Marino,P.Pietramala	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4978-finite_chainability__locally_lipschitzian_and_uniformly_continuous_functions">Finite chainability, locally Lipschitzian and uniformly continuous functions</a>, Z. ANAL. ANWENDUNGEN 17 (1998), no. 4, 795--803	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	27.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, B.L.Chalmers	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4979-minimal_projections_onto_some_subspaces_of__lsp___n__sb_1_">Minimal projections onto some subspaces of $lsp {(n)}sb 1$</a>, DEDICATED TO JULIAN MUSIELAK. FUNCT. APPROX. COMMENT. MATH. 26 (1998), 85--92	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	26.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, A.G.Aksoy	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4974-diagonal_operators__s_numbers_and_bernstein_pairs">Diagonal operators, s-numbers and Bernstein pairs</a>, PROCEEDINGS OF THE SECOND INTERNATIONAL WORKSHOP ON FUNCTIONAL ANALYSIS (TRIER, 1997). Note Mat. 17 (1997), 209--216 (1999)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	25.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4980-a_characterization_of_orlicz_spaces_isometric_to_lp_spaces">A characterization of Orlicz spaces isometric to Lp-spaces</a>, FOURTH INTERNATIONAL CONFERENCE ON FUNCTION SPACES (ZIELONA GÓRA, 1995). Collect. Math. 48 (1997), no. 4-6, 663--671	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4981-on_the_uniqueness_of_minimal_projections_in_spaces_of_the_james_type">On the uniqueness of minimal projections in spaces of the James type</a>, DEDICATED TO ROMAN TABERSKI ON THE OCCASION OF HIS 70th birthday. Funct. Approx. Comment. Math. 25 (1997), 59--65	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4982-minimal_projections_onto_two_dimensional_subspaces_of__lsp___4__sb_infty_">Minimal projections onto two-dimensional subspaces of $lsp {(4)}sb infty$</a>, J. APPROX. THEORY 88 (1997), no. 1, 92--108	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, M.Baronti,V.Fragnelli	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4984-extensions_of_linear_operators_from_hyperplanes_of__lsp___n__sb_infty_">Extensions of linear operators from hyperplanes of $lsp {(n)}sb infty$</a>, COMMENT. MATH. UNIV. CAROLIN. 36 (1995), no. 3, 443--458	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4985-best_approximation_in_finite_dimensional_subspaces_of___mathcal_l__w_v__">Best approximation in finite-dimensional subspaces of ${mathcal L}(W,V)$</a>, J. APPROX. THEORY 81 (1995), no. 2, 151--165	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4986-on_a_new_proof_of_durier_s_theorem">On a new proof of Durier's theorem</a>, FIRST INTERNATIONAL CONFERENCE IN ABSTRACT ALGEBRA (KRUGER PARK, 1993). Quaestiones Math. 18 (1995), no. 1-3, 287--294	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4987-best_approximation_in_spaces_of_bounded_linear_operators">Best approximation in spaces of bounded linear operators</a>, DISSERTATIONES MATH. (ROZPRAWY MAT.) 330 (1994), 103 pp	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, M.Baronti	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4988-on_some_constants_in_banach_spaces">On some constants in Banach spaces</a>, ARCH. MATH. (BASEL) 62 (1994), no. 5, 438--444	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, M.Baronti	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4989-strongly_unique_minimal_projections_on_hyperplanes">Strongly unique minimal projections on hyperplanes</a>, J. APPROX. THEORY 78 (1994), no. 1, 1--18	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4990-minimal_projections_onto_subspaces_of__lsp___n__sb_infty__of_codimension_two">Minimal projections onto subspaces of $lsp {(n)}sb infty$ of codimension two</a>, THIRD INTERNATIONAL CONFERENCE "FUNCTION SPACES" (POZNAN, 1992). Collect. Math. 44 (1993), no. 1-3, 167--179	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4991-strong_unicity_criterion_in_some_space_of_operators">Strong unicity criterion in some space of operators</a>, COMMENT. MATH. UNIV. CAROLIN. 34 (1993), no. 1, 81--87	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4992-bernstein_s__lethargy__theorem_in_metrizable_topological_linear_spaces">Bernstein's "lethargy" theorem in metrizable topological linear spaces</a>, MONATSH. MATH. 113 (1992), no. 3, 213--226	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4993-kolmogorov_s_type_criteria_for_spaces_of_compact_operators">Kolmogorov's type criteria for spaces of compact operators</a>, J. APPROX. THEORY 64 (1991), no. 2, 181--202	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, S.J.Kilmer,W.M.Kozłowski	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4994-sigma_order_continuity_and_best_approximation_in__lsb__ho__spaces">Sigma order continuity and best approximation in $Lsb ho$-spaces</a>, COMMENT. MATH. UNIV. CAROLIN. 32 (1991), no. 2, 241--250	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, M.Flasinski	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4995-the_convergent_method_of_constructing_polynomial_discriminant_functions_for_pattern_recognition">The convergent method of constructing polynomial discriminant functions for pattern recognition</a>, PATTERN RECOGNITION 24 (1991), no. 10, 1009--1015	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, S.J.Kilmer,W.M.Kozłowski	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4996-best_approximants_in_modular_function_spaces">Best approximants in modular function spaces</a>, J. APPROX. THEORY 63 (1990), no. 3, 338--367	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, W.M.Kozlowski	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4998-analyticity_and_polynomial_approximation_in_modular_function_spaces">Analyticity and polynomial approximation in modular function spaces</a>, J. APPROX. THEORY 58 (1989), no. 1, 15--35	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5000-a_theorem_of_bernstein_s_type_for_linear_projections">A theorem of Bernstein's type for linear projections</a>, UNIV. IAGEL. ACTA MATH. no. 27 (1988), 23--27	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1444-diana_caponetti_">Diana Caponetti </a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7839-a_note_on_the_admissiblity_of_modular_function_spaces">A note on the admissiblity of modular function spaces</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 448 (), 1331-1342	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, L.Skrzypek	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4958-on_properties_of_the_chalmers_metcalf_operator">On properties of the Chalmers-metcalf operator</a>, BANACH SPACES AND THEIR APPLICATIONS IN ANALYSIS 375 - 389, Walter de Gruyter, Berlin, 2007	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4972-on_the_unique_minimality_of_the_fourier_type_extensions_in__lsb_1__space">On the unique minimality of the Fourier-type extensions in $Lsb 1$-space</a>, FUNCTION SPACES (POZNAN, 1998), 337--345, Lecture Notes in Pure and Appl. Math., 213, Dekker, New York, 2000	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, A.G.Aksoy	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4983-modular_spaces_and_k_widths">Modular spaces and K-widths</a>, FUNCTIONAL ANALYSIS (TRIER, 1994), 1--10, de Gruyter, Berlin, 1996	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, W.Odyniec	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4997-minimal_projections_in_banach_spaces">Minimal projections in Banach spaces</a>, PROBLEMS OF EXISTENCE AND UNIQUENESS AND THEIR APPLICATION. LECTURE NOTES IN MATHEMATICS, 1449. Springer-Verlag, Berlin, 1990. viii+168 pp	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4999-on_a_theorem_of_s">On a theorem of S</a>, N. BERNSTEIN AND ITS APPLICATION IN MODULAR FUNCTION SPACES. FUNCTION SPACES (POZNAN, 1986), 69--74, Teubner-Texte Math., 103, Teubner, Leipzig, 1988	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, W.M.Kozłowski	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5001-on_polynomial_approximation_in_modular_function_spaces">On polynomial approximation in modular function spaces</a>, FUNCTION SPACES (POZNAN, 1986), 63--68, Teubner-Texte Math., 103, Teubner, Leipzig, 1988	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/244-grzegorz_lewicki"><span>8314</span><span>8313</span><span>8070</span><span>7938</span><span>7840</span><span>7768</span><span>7767</span><span>7766</span><span>7765</span><span>7602</span><span>7249</span><span>7247</span><span>7248</span><span>7027</span><span>6964</span><span>6534</span><span>6479</span><span>6477</span><span>4947</span><span>4948</span><span>4949</span><span>4950</span><span>6491</span><span>4951</span><span>4952</span><span>4954</span><span>4955</span><span>4956</span><span>4957</span><span>4959</span><span>4960</span><span>4961</span><span>4962</span><span>4963</span><span>4964</span><span>4965</span><span>4966</span><span>4967</span><span>4968</span><span>4969</span><span>4970</span><span>4971</span><span>4973</span><span>4975</span><span>4976</span><span>4977</span><span>4978</span><span>4979</span><span>4974</span><span>4980</span><span>4981</span><span>4982</span><span>4984</span><span>4985</span><span>4986</span><span>4987</span><span>4988</span><span>4989</span><span>4990</span><span>4991</span><span>4992</span><span>4993</span><span>4994</span><span>4995</span><span>4996</span><span>4998</span><span>5000</span><span>7839</span><span>4958</span><span>4972</span><span>4983</span><span>4997</span><span>4999</span><span>5001</span></div>
+</div><h3 id='ko'>Konferencje organizowane:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/244-grzegorz-lewicki">Grzegorz Lewicki</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/65">Function Spaces XI</a>, Zielona Gora, 2015-07-06, 2015-07-10	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/244-grzegorz_lewicki"><span>65</span></div>
+</div><h3 id='d'>Doktoranci <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="doc-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="doc-view_c0"><a class="sort-link" href="/users/244-grzegorz_lewicki?Procedure_sort=id_user">Doktorant<span class="caret"></span></a></th><th id="doc-view_c1"><a class="sort-link" href="/users/244-grzegorz_lewicki?Procedure_sort=opening">Otwarcie<span class="caret"></span></a></th><th id="doc-view_c2"><a class="sort-link" href="/users/244-grzegorz_lewicki?Procedure_sort=ending">Zakonczenie<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/42">Agnieszka Micek</a></td><td>2010-05-27</td><td>2013-03-28</td></tr>
+<tr class="even">
+<td><a href="../procedure/53">Katarzyna Wąsik</a></td><td>2011-09-29</td><td>&nbsp;</td></tr>
+<tr class="odd">
+<td><a href="../procedure/78">Dominik Mielczarek</a></td><td>2007-01-25</td><td>2009-09-24</td></tr>
+<tr class="even">
+<td><a href="../procedure/81">Anna Denkowska</a></td><td>2005-06-23</td><td>2008-06-26</td></tr>
+<tr class="odd">
+<td><a href="../procedure/100">Agnieszka Lipieta</a></td><td>2001-06-28</td><td>2004-01-08</td></tr>
+<tr class="even">
+<td><a href="../procedure/116">Krzysztof Wesołowski</a></td><td>2010-05-27</td><td>2015-03-26</td></tr>
+<tr class="odd">
+<td><a href="../procedure/150">Joanna Kowynia</a></td><td>2007-03-29</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/182">Filip Sokołowski</a></td><td>2012-06-28</td><td>2015-02-26</td></tr>
+<tr class="odd">
+<td><a href="../procedure/215">Beata Deręgowska</a></td><td>2013-06-27</td><td>2015-11-26</td></tr>
+<tr class="even">
+<td><a href="../procedure/220">Barbara Lewandowska</a></td><td>2013-06-27</td><td>2015-11-26</td></tr>
+<tr class="odd">
+<td><a href="../procedure/274">Tomasz Kobos</a></td><td>2014-05-29</td><td>2016-06-30</td></tr>
+<tr class="even">
+<td><a href="../procedure/324">Michał Kozdęba</a></td><td>2018-06-28</td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/244-grzegorz_lewicki"><span>42</span><span>53</span><span>78</span><span>81</span><span>100</span><span>116</span><span>150</span><span>182</span><span>215</span><span>220</span><span>274</span><span>324</span></div>
+</div><h3 id='r'>Recenzje <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="review-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="review-view_c0"><a class="sort-link" href="/users/244-grzegorz_lewicki?ProcedureReview_sort=id_procedure">Recenzowany<span class="caret"></span></a></th><th id="review-view_c1">Jednostka</th><th id="review-view_c2"><a class="sort-link" href="/users/244-grzegorz_lewicki?ProcedureReview_sort=id_uploaded_file">Treść recenzji<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/32">Doktorat: Tomasz Zając</a></td><td></td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/148">Doktorat: Marcin Ziomek</a></td><td></td><td>&nbsp;</td></tr>
+<tr class="odd">
+<td><a href="../procedure/201">Habilitacja: Anna Pelczar-Barwacz</a></td><td>Katedra Analizy Funkcjonalnej</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/184">Doktorat: Joanna Garbulińska</a></td><td>Zakład Historii Matematyki</td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/244-grzegorz_lewicki"><span>84</span><span>265</span><span>337</span><span>372</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/244-grzegorz_lewicki?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/24">Uproszczenie dowodu twierdzenia Generalized Banach Contraction Conjecture, jego uogólnienie oraz uzyskanie nowych rezultatów dotyczących odwzorowań alpha-nierozszerzających</a></td><td>Kierownik</td><td>2011-05-26</td><td>2013-11-25</td></tr>
+<tr class="even">
+<td><a href="../grants/21">Jedyność i silna jedyność rozszerzeń minimalnych</a></td><td>Kierownik</td><td>2011-05-04</td><td>2012-05-03</td></tr>
+<tr class="odd">
+<td><a href="../grants/12">Przestrzenie o maksymalnych stałych projekcji</a></td><td>Kierownik</td><td>2010-04-14</td><td>2013-04-13</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/244-grzegorz_lewicki"><span>245</span><span>242</span><span>234</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#doc-view').yiiGridView({'ajaxUpdate':['doc-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#review-view').yiiGridView({'ajaxUpdate':['review-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

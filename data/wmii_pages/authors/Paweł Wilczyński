@@ -1,0 +1,357 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title> Paweł Wilczyński</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+ Paweł Wilczyński
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Matematyki Stosowanej</li>
+		</ul>
+
+
+
+<p><p><a class="default-link" href="/procedure/128">Doktorat</a> &emsp;<b>Otwarcie:</b> 2005-09-22, <b>Zamknięcie:</b> 2006-10-26</p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#g">Granty</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/219-pawel_wilczynski">Paweł Wilczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6448-planar_nonautonomous_polynomial_equations_v__the_abel_equation__">Planar nonautonomous polynomial equations V. The Abel equation 	</a>, <a href="/czasopisma/236214-opuscula_mathematica">OPUSCULA MATHEMATICA</a> (2013), 175-189	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/219-pawel_wilczynski">Paweł Wilczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6447-planar_nonautonomous_polynomial_equations_iii__zeros_of_the_vector_field">Planar nonautonomous polynomial equations III. Zeros of the vector field</a>, <a href="/czasopisma/234853-topological_methods_in_nonlinear_analysis">TOPOL METHOD NONL AN</a> (2012), 71-110 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/219-pawel_wilczynski">Paweł Wilczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6446-quaternionic_valued_ordinary_differential_equations_ii__coinciding_sectors_">Quaternionic-valued ordinary differential equations II. Coinciding sectors.</a>, <a href="/czasopisma/230488-journal_of_differential_equations">J DIFFER EQUATIONS</a> (2012), 4503-4528	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/219-pawel_wilczynski">Paweł Wilczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6445-planar_nonautonomous_polynomial_equations_iv__nonholomorphic_case_">Planar nonautonomous polynomial equations IV. Nonholomorphic case.</a>, <a href="/czasopisma/236214-opuscula_mathematica">OPUSCULA MATHEMATICA</a> (2012), 357-375 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/581-piotr_oprocha">Piotr Oprocha</a>, <a href="/users/219-pawel_wilczynski">Paweł Wilczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5874-topological_entropy_for_local_processes">Topological entropy for local processes</a>, <a href="/czasopisma/230488-journal_of_differential_equations">J DIFFER EQUATIONS</a> (2010), 1929-1967	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/581-piotr_oprocha">Piotr Oprocha</a>, <a href="/users/219-pawel_wilczynski">Paweł Wilczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5875-a_study_of_chaos_for_processes_under_small_perturbations_ii__rigorous_proof_of_chaos">A study of chaos for processes under small perturbations II: Rigorous proof of chaos</a>, <a href="/czasopisma/236214-opuscula_mathematica">OPUSCULA MATHEMATICA</a> (2010), 5-36	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/581-piotr_oprocha">Piotr Oprocha</a>, <a href="/users/219-pawel_wilczynski">Paweł Wilczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5876-a_study_of_chaos_for_processes_under_small_perturbations">A study of chaos for processes under small perturbations</a>, <a href="/czasopisma/233708-publicationes_mathematicae_debrecen">PUBL MATH-DEBRECEN</a> (2010), 101-116	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/219-pawel_wilczynski">Paweł Wilczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5877-planar_nonautonomous_polynomial_equations_ii__coinciding_sectors_">Planar nonautonomous polynomial equations II. Coinciding sectors.</a>, <a href="/czasopisma/230488-journal_of_differential_equations">J DIFFER EQUATIONS</a> (2009), 2762-2787	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/219-pawel_wilczynski">Paweł Wilczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5878-quaterionic_valued_ordinary_differential_equations__the_riccati_equation">Quaterionic-valued ordinary differential equations. The Riccati equation</a>, <a href="/czasopisma/230488-journal_of_differential_equations">J DIFFER EQUATIONS</a> (2009), 2163-2187	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/581-piotr_oprocha">Piotr Oprocha</a>, <a href="/users/219-pawel_wilczynski">Paweł Wilczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5879-chaos_in_nonautonomous_dynamical_systems">Chaos in nonautonomous dynamical systems</a>, ANALELE STIINTIFICE ALE UNIVERSITATII OVIDIUS CONSTANTA SERIA MATEMATICA (2009), 209-221	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/219-pawel_wilczynski">Paweł Wilczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5880-_planar_nonautonomous_polynomial_equations__the_riccati_equation"> Planar nonautonomous polynomial equations. The Riccati equation</a>, <a href="/czasopisma/230488-journal_of_differential_equations">J DIFFER EQUATIONS</a> (2008), 1304-1328	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/581-piotr_oprocha">Piotr Oprocha</a>, <a href="/users/219-pawel_wilczynski">Paweł Wilczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5881-_distributional_chaos_via_semiconjugacy"> Distributional chaos via semiconjugacy</a>, <a href="/czasopisma/232783-nonlinearity">NONLINEARITY</a> (2007), 2661-2679	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/581-piotr_oprocha">Piotr Oprocha</a>, <a href="/users/219-pawel_wilczynski">Paweł Wilczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5882-distributional_chaos_via_isolating_segments">Distributional chaos via isolating segments</a>, DISCRETE CONTIN. DYN. SYST. SER. B 20 (2007), no 2, 347--356 (electronic)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/219-pawel_wilczynski">Paweł Wilczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5883-_periodic_solutions_of_polynomial_planar_nonautonomous_equations"> Periodic solutions of polynomial planar nonautonomous equations</a>, ITAL. J. PURE APPL. MATH. 21 (2007), 235--250	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/581-piotr_oprocha">Piotr Oprocha</a>, <a href="/users/219-pawel_wilczynski">Paweł Wilczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5884-_shift_spaces_and_distributional_chaos"> Shift spaces and distributional chaos</a>, CHAOS SOLITONS FRACTALS 31 (2007), no. 2, 347--355	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/219-pawel_wilczynski"><span>6448</span><span>6447</span><span>6446</span><span>6445</span><span>5874</span><span>5875</span><span>5876</span><span>5877</span><span>5878</span><span>5879</span><span>5880</span><span>5881</span><span>5882</span><span>5883</span><span>5884</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/219-pawel_wilczynski?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/9">Rozwiązania okresowe wielomianowych równań różniczkowych zwyczajnych</a></td><td>Kierownik</td><td>2010-03-29</td><td>2012-03-28</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/219-pawel_wilczynski"><span>231</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

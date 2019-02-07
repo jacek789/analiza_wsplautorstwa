@@ -1,0 +1,337 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr -  Paweł Zapałowski</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr  Paweł Zapałowski
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Analizy Matematycznej</li>
+		</ul>
+
+
+
+<p><p><a class="default-link" href="/procedure/104">Doktorat</a> &emsp;<b>Otwarcie:</b> 2002-06-27, <b>Zamknięcie:</b> 2004-06-24</p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#k">Konferencje</a></li><li><a href="#g">Granty</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/242-pawel_zapalowski">Paweł Zapałowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7753-proper_holomorphic_mappings_between_generalized_hartogs_triangles">Proper holomorphic mappings between generalized Hartogs triangles</a>, <a href="/czasopisma/225709-annali_di_matematica_pura_ed_applicata">ANN MAT PUR APPL</a> vol. 196 (2017), 1055-1071	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/242-pawel_zapalowski">Paweł Zapałowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7422-geometric_properties_of_domains_related_to_u_synthesis">Geometric properties of domains related to μ-synthesis</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 430 (2015), 126-143	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/242-pawel_zapalowski">Paweł Zapałowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5988-proper_holomorphic_mappings_between_symmetrized__ellipsoids">Proper holomorphic mappings between symmetrized  ellipsoids</a>, <a href="/czasopisma/225956-archiv_der_mathematik">ARCH MATH</a> vol. 97 (2011), 373-384	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/242-pawel_zapalowski">Paweł Zapałowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5989-geometry_of_symmetrized_ellipsoids">Geometry of symmetrized ellipsoids</a>, <a href="/czasopisma/242819-zeszyty_naukowe_uniwersytetu_jagiellonskiego__seria__acta_mathematica">ZESZYTY NAUKOWE UNIWERSYTETU JAGIELLOŃSKIEGO, SERIA: ACTA MATHEMATICA</a> vol. 46 (2008), 105-116	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/242-pawel_zapalowski">Paweł Zapałowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5990-invariant_functions_on_neil_parabola_in_c_n">Invariant functions on Neil parabola in C^n</a>, SERDICA MATHEMATICAL JOURNAL vol. 33 (2007), 321-338	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/242-pawel_zapalowski">Paweł Zapałowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5991-inner_k_th_caratheodory_reiffen_completeness_of_reinhardt_domains">Inner k-th Caratheodory-Reiffen completeness of Reinhardt domains</a>, ATTI ACCAD. NAZ. LINCEI CL. SCI. FIS. MAT. NATUR. REND. LINCEI (9) MAT. APPL. vol. 15 (2004), 87-92	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/242-pawel_zapalowski">Paweł Zapałowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5992-completeness_of_the_inner_kth_reiffen_pseudometric">Completeness of the inner kth Reiffen pseudometric</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 79 (2002), 277-288	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/242-pawel_zapalowski"><span>7753</span><span>7422</span><span>5988</span><span>5989</span><span>5990</span><span>5991</span><span>5992</span></div>
+</div><h3 id='k'>Konferencje:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/181-wlodzimierz-zwonek">Włodzimierz Zwonek</a>, <a class="default-link" href="/users/242-pawel-zapalowski">Paweł Zapałowski</a>, <a class="default-link" href="/users/269-slawomir-dinew">Sławomir Dinew</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/635">Second Central European Complex Analysis meeting</a>, University of Vienna, Wiedeń, Austria, 2018-04-12 - 2018-04-14	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/181-wlodzimierz-zwonek">Włodzimierz Zwonek</a>, <a class="default-link" href="/users/242-pawel-zapalowski">Paweł Zapałowski</a>, <a class="default-link" href="/users/273-lukasz-kosinski">Łukasz Kosiński</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/533">First Central European Complex Analysis Meeting</a>, Uniwersytet w Wiedniu, Wiedeń, Austria, 2017-10-20 - 2017-10-21	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/242-pawel-zapalowski">Paweł Zapałowski</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/534">The International Conference in Functional Analysis dedicated to the 125th anniversary of Stefan Banach</a>, Uniwersytet Lwowski, Lwów, Ukraina, 2017-09-18 - 2017-09-23	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/242-pawel-zapalowski">Paweł Zapałowski</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/348">The International Workshop on Operator Theory and Applications</a>, Washington University in St Louis, St Louis, USA, 2016-07-18 - 2016-07-22	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/242-pawel-zapalowski">Paweł Zapałowski</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/346">International Conference Complex Analysis and Related Topics</a>, Uniwersytet Lwowski, Lwów, Ukraina, 2016-05-30 - 2016-06-03	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/242-pawel-zapalowski">Paweł Zapałowski</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/96">The 19th issue of Nordan, Nordic conference on complex analysis and related topics</a>, University of Iceland, Rejkiawik, Islandia, 2015-04-25 - 2015-04-26	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/190-marek-jarnicki">Marek Jarnicki</a>, <a class="default-link" href="/users/242-pawel-zapalowski">Paweł Zapałowski</a>, <a class="default-link" href="/users/356-arkadiusz-lewandowski">Arkadiusz Lewandowski</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/95">Research Group: Geometric Methods in Complex Analysis IV</a>, UJ, Międzynarodowe Centrum Matematyczne im. Stefana Banacha IM PAN, Będlewo, Polska, 2014-06-14 - 2014-06-18	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/242-pawel_zapalowski"><span>635</span><span>533</span><span>534</span><span>348</span><span>346</span><span>96</span><span>95</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/242-pawel_zapalowski?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/113">Przestrzenie Dirichleta oraz problem  Nevanlinny-Picka a metody geometrycznej Teorii Funkcji</a></td><td>Wykonawca</td><td>2015-07-16</td><td>2017-10-15</td></tr>
+<tr class="even">
+<td><a href="../grants/5">Jednowymiarowe metody w geometrycznej teorii funkcjii</a></td><td>Wykonawca</td><td>2009-05-06</td><td>2012-05-05</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/242-pawel_zapalowski"><span>134</span><span>74</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

@@ -1,0 +1,620 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr -  Jakub Kozik</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr  Jakub Kozik
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Zespół Katedr i Zakładów Informatyki Matematycznej</li>
+					<li>Katedra Podstaw Informatyki</li>
+		</ul>
+
+
+
+<p><p><a class="default-link" href="/procedure/95">Doktorat</a> &emsp;<b>Otwarcie:</b> 2005-01-27, <b>Zamknięcie:</b> 2006-11-30</p><p><a class="default-link" href="/procedure/280">Habilitacja</a> &emsp;<b>Otwarcie:</b> 2015-12-17, <b>Zamknięcie:</b> 2016-06-30</p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#k">Konferencje</a></li><li><a href="#ko">Konferencje organizowane</a></li><li><a href="#g">Granty</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/430-lech_duraj">Lech Duraj</a>, <a href="/users/432-grzegorz_gutowski">Grzegorz Gutowski</a>, <a href="/users/282-jakub_kozik">Jakub Kozik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8277-a_note_on_two_colorability_of_nonuniform_hypergraphs">A note on two-colorability of nonuniform hypergraphs</a>, LIPICS–LEIBNIZ INTERNATIONAL PROCEEDINGS IN INFORMATICS vol. 45th International Colloquium on Automata, Languages, and  Programming (ICALP 2018) (2018), 46:1--46:13	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/285-grzegorz_matecki">Grzegorz Matecki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8236-deferred_on_line_bipartite_matching">Deferred On-Line Bipartite Matching</a>, <a href="/czasopisma/227973-electronic_journal_of_combinatorics">ELECTRON J COMB</a> vol. 25 (2) (2018), 19	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1486-vida_dujmovic">Vida Dujmović</a>, <a href="/users/1270-gwenael_joret">Gwenaël Joret</a>, <a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/1485-david_r__wood">David R. Wood</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7936-nonrepetitive_colouring_via_entropy_compression">Nonrepetitive colouring via entropy compression</a>, <a href="/czasopisma/227244-combinatorica">COMBINATORICA</a> vol. Volume 36, Issue 6 (2016), 661-686	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/776-adam_gagol">Adam Gągol</a>, <a href="/users/1270-gwenael_joret">Gwenaël Joret</a>, <a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7857-pathwidth_and_nonrepetitive_list_colorings">Pathwidth and nonrepetitive list colorings</a>, <a href="/czasopisma/227973-electronic_journal_of_combinatorics">ELECTRON J COMB</a> vol. Volume 23, Issue 4 (2016), 19	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/430-lech_duraj">Lech Duraj</a>, <a href="/users/432-grzegorz_gutowski">Grzegorz Gutowski</a>, <a href="/users/282-jakub_kozik">Jakub Kozik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7781-chip_games_and_paintability">Chip Games and Paintability</a>, <a href="/czasopisma/227973-electronic_journal_of_combinatorics">ELECTRON J COMB</a> vol. 23 (3) (2016), 12	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/1360-dmitry_a__shabanov">Dmitry A. Shabanov</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7679-improved_algorithms_for_colorings_of_simple_hypergraphs_and_applications">Improved algorithms for colorings of simple hypergraphs and applications</a>, <a href="/czasopisma/230380-journal_of_combinatorial_theory_series_b">J COMB THEORY B</a> vol. Volume 116  (2016), 312-332	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/282-jakub_kozik">Jakub Kozik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7678-multipass_greedy_coloring_of_simple_uniform_hypergraphs">Multipass greedy coloring of simple uniform hypergraphs</a>, <a href="/czasopisma/233793-random_structures___algorithms">RANDOM STRUCT ALGOR</a> vol. Volume 48, Issue 1 (2016), 125-146	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1281-danila_d__cherkashin">Danila D. Cherkashin</a>, <a href="/users/282-jakub_kozik">Jakub Kozik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7480-a_note_on_random_greedy_coloring_of_uniform_hypergraphs">A note on random greedy coloring of uniform hypergraphs</a>, <a href="/czasopisma/233793-random_structures___algorithms">RANDOM STRUCT ALGOR</a> vol. 47 (2015), 407-413	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/432-grzegorz_gutowski">Grzegorz Gutowski</a>, <a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>, <a href="/users/785-_xuding_zhu"> Xuding Zhu</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7335-lower_bounds_for_on_line_graph_colorings">Lower bounds for on-line graph colorings</a> vol. 8889 (Lecture Notes in Computer Science) (2014), "Algorithms and Computation, 25th International Symposium, ISAAC 2014, Jeonju, Korea, December 15-17, 2014, Proceedings", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/284-tomasz_krawczyk">Tomasz Krawczyk</a>, <a href="/users/428-michal_lason">Michał Lasoń</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>, <a href="/users/433-arkadiusz_pawlik">Arkadiusz Pawlik</a>, <a href="/users/883-william_t__trotter">William T. Trotter</a>, <a href="/users/437-bartosz_walczak">Bartosz Walczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7141-triangle_free_intersection_graphs_of_line_segments_with_large_chromatic_number">Triangle-free intersection graphs of line segments with large chromatic number</a>, <a href="/czasopisma/230380-journal_of_combinatorial_theory_series_b">J COMB THEORY B</a> vol. 105 (2014), 6-10	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>, <a href="/users/785-_xuding_zhu"> Xuding Zhu</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7013-towards_an_on_line_version_of_ohba_s_conjecture">Towards an on-line version of Ohba’s conjecture</a>, <a href="/czasopisma/228220-european_journal_of_combinatorics">EUR J COMBIN</a> vol. 36 (2014), 110-121	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/284-tomasz_krawczyk">Tomasz Krawczyk</a>, <a href="/users/428-michal_lason">Michał Lasoń</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>, <a href="/users/433-arkadiusz_pawlik">Arkadiusz Pawlik</a>, <a href="/users/883-william_t__trotter">William T. Trotter</a>, <a href="/users/437-bartosz_walczak">Bartosz Walczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7007-triangle_free_geometric_intersection_graphs_with_large_chromatic_number">Triangle-free geometric intersection graphs with large chromatic number</a>, <a href="/czasopisma/227759-discrete___computational_geometry">DISCRETE COMPUT GEOM</a> vol. 50 (2013), 714-726	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/280-jaroslaw_grytczuk">Jarosław Grytczuk</a>, <a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6755-new_approach_to_nonrepetitive_sequences">New approach to nonrepetitive sequences</a>, <a href="/czasopisma/233793-random_structures___algorithms">RANDOM STRUCT ALGOR</a> vol. 42 (2013), 214-225	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6754-nonrepetitive_choice_number_of_trees">Nonrepetitive choice number of trees</a>, <a href="/czasopisma/234336-siam_journal_on_discrete_mathematics">SIAM J DISCRETE MATH</a> vol. 27-1 (2013), 436-446	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/676-rene_david">Rene David</a>, <a href="/users/431-katarzyna_grygiel">Katarzyna Grygiel</a>, <a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/677-christophe_raffalli">Christophe Raffalli</a>, <a href="/users/678-guillaume_theyssier">Guillaume Theyssier</a>, <a href="/users/289-"></a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6209-asymptotically_almost_all___terms_are_strongly_normalizing">Asymptotically almost all λ-terms are strongly normalizing</a>, <a href="/czasopisma/232052-logical_methods_in_computer_science">LOG METH COMPUT SCI</a> vol. 9 (1:02) (2013), 1-30	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/680-antoine_genitrini">Antoine Genitrini</a>, <a href="/users/282-jakub_kozik">Jakub Kozik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6270-in_the_full_propositional_logic__5_8_of_classical_tautologies_are_intuitionistically_valid">In the full propositional logic, 5/8 of classical tautologies are intuitionistically valid</a>, <a href="/czasopisma/225760-annals_of_pure_and_applied_logic">ANN PURE APPL LOGIC</a> vol. 163 (2012), 875–887	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/280-jaroslaw_grytczuk">Jarosław Grytczuk</a>, <a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/725-marcin_witkowski">Marcin Witkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6269-nonrepetitive_sequences_on_arithmetic_progressions">Nonrepetitive sequences on arithmetic progressions</a>, <a href="/czasopisma/227973-electronic_journal_of_combinatorics">ELECTRON J COMB</a> vol. 18 (2011), 1-9	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/282-jakub_kozik">Jakub Kozik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6268-dynamic_threshold_strategy_for_universal_best_choice_problem">Dynamic Threshold Strategy for Universal Best Choice Problem</a>, DISCRETE MATHEMATICS AND THEORETICAL COMPUTER SCIENCE PROCEEDINGS vol. AM (2010), 439–452	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/680-antoine_genitrini">Antoine Genitrini</a>, <a href="/users/282-jakub_kozik">Jakub Kozik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6267-quantitative_comparison_of_intuitionistic_and_classical_logics___full_propositional_system">Quantitative comparison of Intuitionistic and Classical logics - full propositional system</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 5407 (2009), 280-294	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/680-antoine_genitrini">Antoine Genitrini</a>, <a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/285-grzegorz_matecki">Grzegorz Matecki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6266-on_the_density_and_the_structure_of_the_peirce_like_formulae">On the density and the structure of the Peirce-like formulae</a>, DISCRETE MATHEMATICS AND THEORETICAL COMPUTER SCIENCE PROCEEDINGS (2008), 461-474	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/282-jakub_kozik">Jakub Kozik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6265-subcritical_pattern_languages_for_and_or_trees">Subcritical pattern languages for and/or trees</a>, DISCRETE MATHEMATICS AND THEORETICAL COMPUTER SCIENCE PROCEEDINGS (2008), 437–448	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/680-antoine_genitrini">Antoine Genitrini</a>, <a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6233-intuitionistic_vs__classical_tautologies__quantitative_comparison">Intuitionistic vs. Classical Tautologies, Quantitative Comparison</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 4941 (2008), 100-109	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/282-jakub_kozik">Jakub Kozik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6263-undecidable_problems_concerning_densities_of_languages">Undecidable problems concerning densities of languages</a>, DISCRETE MATHEMATICS AND THEORETICAL COMPUTER SCIENCE PROCEEDINGS (2006), 69-76	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/282-jakub_kozik">Jakub Kozik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6262-conditional_densities_of_regular_languages">Conditional Densities of Regular Languages</a>, ELECTRONIC NOTES IN THEORETICAL COMPUTER SCIENCE (2005), 67-79	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/282-jakub_kozik"><span>8277</span><span>8236</span><span>7936</span><span>7857</span><span>7781</span><span>7679</span><span>7678</span><span>7480</span><span>7335</span><span>7141</span><span>7013</span><span>7007</span><span>6755</span><span>6754</span><span>6209</span><span>6270</span><span>6269</span><span>6268</span><span>6267</span><span>6266</span><span>6265</span><span>6233</span><span>6263</span><span>6262</span></div>
+</div><h3 id='k'>Konferencje:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/282-jakub-kozik">Jakub Kozik</a>, <a class="default-link" href="/users/437-bartosz-walczak">Bartosz Walczak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/710"> 7th Polish Combinatorial Conference</a>, UAM, Będlewo, Polska, 2018-09-24 - 2018-09-28	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/282-jakub-kozik">Jakub Kozik</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/673">The 45th International Colloquium on Automata, Languages, and Programming (ICALP 2018)</a>, European Association for Theoretical Computer Science (EATCS), Charles University, Praga, Czechy, 2018-07-10 - 2018-07-13	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/282-jakub-kozik">Jakub Kozik</a>, <a class="default-link" href="/users/437-bartosz-walczak">Bartosz Walczak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/672">Building Bridges II. Conference to celebrate 70th birthday of László Lovász</a>, János Bolyai Mathematical Society, Eötvös Loránd University, Alfréd Rényi Institute of Mathematics, Budapeszt, Węgry, 2018-07-02 - 2018-07-06	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/282-jakub-kozik">Jakub Kozik</a>, <a class="default-link" href="/users/437-bartosz-walczak">Bartosz Walczak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/579">9th European Conference on Combinatorics, Graph Theory and Applications</a>, Technische Universität Wien, Wiedeń, Austria, 2017-08-28 - 2017-09-01	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/282-jakub-kozik">Jakub Kozik</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/631">The 18th International Conference on  RANDOM STRUCTURES AND ALGORITHMS</a>, Uniwersytet im. Adama Mickiewicza w Poznaniu, Gniezno, Polska, 2017-08-07 - 2017-08-11	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/282-jakub-kozik">Jakub Kozik</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/498">The 44th International Colloquium on Automata, Languages, and Programming (ICALP)</a>, Uniwersytet Warszawski, Warszawa, Polska, 2017-07-10 - 2017-07-13	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/282-jakub-kozik">Jakub Kozik</a>, <a class="default-link" href="/users/437-bartosz-walczak">Bartosz Walczak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/204">8th European Conference on Combinatorics, Graph Theory and Applications</a>, University of Bergen, Bergen, Norwegia, 2015-08-31 - 2015-09-04	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/282-jakub_kozik"><span>710</span><span>673</span><span>672</span><span>579</span><span>631</span><span>498</span><span>204</span></div>
+</div><h3 id='ko'>Konferencje organizowane:</h3><div id="yw3" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/282-jakub-kozik">Jakub Kozik</a>, <a class="default-link" href="/users/437-bartosz-walczak">Bartosz Walczak</a>, <a class="default-link" href="/users/1179-maciej-bendkowski">Maciej Bendkowski</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/152">Forum Informatyki Teoretycznej</a>, Kraków, 2018-05-11, 2018-05-12	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/282-jakub_kozik"><span>152</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/282-jakub_kozik?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/145">Losowe zachłanne algorytmy kolorowania hipergrafów</a></td><td>Kierownik</td><td>2017-02-03</td><td>2020-02-02</td></tr>
+<tr class="even">
+<td><a href="../grants/41">Kolorowanie z list on-line</a></td><td>Wykonawca</td><td>2012-08-28</td><td>2016-02-27</td></tr>
+<tr class="odd">
+<td><a href="../grants/28">Algorytmiczny Lokalny Lemat Lovasza jako podwójne zliczanie</a></td><td>Kierownik</td><td>2011-12-01</td><td>2014-11-30</td></tr>
+<tr class="even">
+<td><a href="../grants/19">Śledzenie poruszających się osób w monitorowanych strefach</a></td><td>Wykonawca</td><td>2010-09-17</td><td>2013-09-16</td></tr>
+<tr class="odd">
+<td><a href="../grants/6">Badanie ilościowe w logikach i teorii obliczeń</a></td><td>Wykonawca</td><td>2009-09-17</td><td>2012-03-16</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/282-jakub_kozik"><span>356</span><span>94</span><span>249</span><span>55</span><span>43</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw3').yiiListView({'ajaxUpdate':['yw3'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

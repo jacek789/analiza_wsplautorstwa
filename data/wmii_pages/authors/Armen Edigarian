@@ -1,0 +1,773 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>prof. dr hab. -  Armen Edigarian</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+prof. dr hab.  Armen Edigarian
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Analizy Matematycznej</li>
+		</ul>
+
+
+
+<p><p><a class="default-link" href="/procedure/14">Profesura</a> &emsp;<b>Otwarcie:</b> 2010-05-27, <b>Zamknięcie:</b> 2011-11-03</p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#d">Doktoranci</a></li><li><a href="#r">Recenzje</a></li><li><a href="#g">Granty</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	39.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7416-peak_point_for_domains_in_c_n">Peak point for domains in C^n</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 114 (2015), 1-12	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	38.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7018-balanced_domains_and_convexity">Balanced domains and convexity</a>, <a href="/czasopisma/225956-archiv_der_mathematik">ARCH MATH</a> vol. 101 (2013), 373-379	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	37.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/273-lukasz_kosinski">Łukasz Kosiński</a>, <a href="/users/181-wlodzimierz_zwonek">Włodzimierz Zwonek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7015-the_lempert_theorem_and_the_tetrablock">The Lempert Theorem and the Tetrablock</a>, <a href="/czasopisma/230736-journal_of_geometric_analysis">J GEOM ANAL</a> vol. 23(4) (2013), 1818–1831	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	36.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/250-piotr_koscielniak">Piotr Kościelniak</a>, <a href="/users/1002-mariusz_trojak">Mariusz Trojak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7002-analiza_zroznicowaniarozwoju_ekonomicznegowojewodztw_i_powiatowoparta_na_lancuchach_markowa">Analiza zróżnicowaniarozwoju ekonomicznegowojewództw i powiatówoparta na łańcuchach Markowa</a>, (2013), "Statystyczna analiza przestrzennego zróżnicowania rozwoju ekonomicznego i społecznego Polski", Wydawnictwo Uniwersytetu Jagiellońskiego	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	35.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4502-polynomial_hulls_and_proper_analytic_disks">Polynomial hulls and proper analytic disks</a>, <a href="/czasopisma/226031-arkiv_for_matematik">ARK MAT</a> (2012), 59-67	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	34.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/250-piotr_koscielniak">Piotr Kościelniak</a>, <a href="/users/960-tomasz_tokarski">Tomasz Tokarski</a>, <a href="/users/1002-mariusz_trojak">Mariusz Trojak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4503-taksonomiczne_wskazniki_rozwoju_ekonomicznego_powiatow">Taksonomiczne wskaźniki rozwoju ekonomicznego powiatów</a>, (2011), "Capability to social progress in Poland`s regions/Zdolności rozwojowe społeczności w regionach Polski", Wydawnictwa Uniwersytetu Warszawskiego	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	33.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/959-pawel__dykas">Paweł  Dykas</a>, <a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/960-tomasz_tokarski">Tomasz Tokarski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4504-uogolnienie_n_kapitalowego_modelu_wzrostu_gospodarczego_nonnemana_vanhoudta">Uogólnienie n-kapitałowego modelu wzrostu gospodarczego Nonnemana-Vanhoudta</a>, <a href="/czasopisma/237057-zeszyty_naukowe__uniwersytet_ekonomiczny_w_poznaniu">ZESZYTY NAUKOWE. UNIWERSYTET EKONOMICZNY W POZNANIU</a> (2011), 161-177	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	32.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/180-zbigniew_blocki">Zbigniew Błocki</a>, <a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/194-jozef_siciak">Józef Siciak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4212-on_the_product_property_for_the_transfinite_diameter">On the product property for the transfinite diameter</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 101 (2011), 209-214	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	31.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/956-ragnar_sigurdsson">Ragnar Sigurdsson</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4505-relative_extremal_functions_and__characterization_of_pluripolar_sets_in_complex_manifolds">Relative extremal functions and  characterization of pluripolar sets in complex manifolds</a>, <a href="/czasopisma/234882-transactions_of_the_american_mathematical_society">T AM MATH SOC</a> (2010), 5321-5331	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	30.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/957-jan_wiegerinck">Jan Wiegerinck</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4506-shcherbina_s_theorem_for_finely_holomorphic_functions">Shcherbina's theorem for finely holomorphic functions</a>, <a href="/czasopisma/232215-mathematische_zeitschrift">MATH Z</a> (2010), 393-398	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	29.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/958-_said_el_marzguioui"> SAID EL MARZGUIOUI</a>, <a href="/users/957-jan_wiegerinck">Jan Wiegerinck</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4507-the_image_of_a_finely_holomorphic_map_is_pluripolar">The image of a finely holomorphic map is pluripolar</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> (2010), 137-149	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	28.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/181-wlodzimierz_zwonek">Włodzimierz Zwonek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4508-schwarz_lemma_for_the_tetrablock">Schwarz lemma for the tetrablock</a>, <a href="/czasopisma/226675-bulletin_of_the_london_mathematical_society">B LOND MATH SOC</a> vol. 41(3) (2009), 506-514	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	27.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/346-przemyslaw_klis">Przemysław Kliś</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4509-almost_properness_of_extremal_mappings">Almost Properness of Extremal Mappings</a>, <a href="/czasopisma/235542-bulletin_of_the_polish_academy_of_sciences__mathematics">BULLETIN OF THE POLISH ACADEMY OF SCIENCES. MATHEMATICS</a> vol. 57 (2) (2009), 129-133	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	26.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/613-agnieszka_rygiel">Agnieszka Rygiel</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4510-an_elementary_proof_of_the_dalang_morton_willinger_theorem">An elementary proof of the Dalang-Morton-Willinger theorem</a>, <a href="/czasopisma/235425-applicationes_mathematicae">APPLICATIONES MATHEMATICAE</a> vol. 34 (4) (2007), 383-388	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	25.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/194-jozef_siciak">Józef Siciak</a>, <a href="/users/181-wlodzimierz_zwonek">Włodzimierz Zwonek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4511-bounded_holomorphic_functions_with_multiple_sheeted_pluripolar_hulls">Bounded holomorphic functions with multiple sheeted pluripolar hulls</a>, <a href="/czasopisma/234609-studia_mathematica">STUD MATH</a> vol. 175(3) (2006), 233-247	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4512-the_pluripolar_hull_and_the_fine_topology">The Pluripolar Hull and the Fine Topology</a>, <a href="/czasopisma/235542-bulletin_of_the_polish_academy_of_sciences__mathematics">BULLETIN OF THE POLISH ACADEMY OF SCIENCES. MATHEMATICS</a> vol. 53 (3) (2005), 285-290	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/181-wlodzimierz_zwonek">Włodzimierz Zwonek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4513-geometry_of_the_symmetrized_polydisc">Geometry of the symmetrized polydisc</a>, <a href="/czasopisma/225956-archiv_der_mathematik">ARCH MATH</a> vol. 84 (2005), 364-374	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4514-graphs_of_multifunctions">Graphs of multifunctions</a>, <a href="/czasopisma/232215-mathematische_zeitschrift">MATH Z</a> vol. 250 (2005), 145-147	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/957-jan_wiegerinck">Jan Wiegerinck</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4515-determination_of_the_pluripolar_hull_of_graphs_of_certain_holomorphic_functions">Determination of the pluripolar hull of graphs of certain holomorphic functions</a>, <a href="/czasopisma/225690-annales_de_l_institut_fourier">ANN I FOURIER</a> vol. 54 (6) (2004), 2085-2104	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4516-a_note_on_costara_s_paper">A note on Costara's paper</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 83 (2004), 189-191	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4517-proper_holomorphic_self_mappings_of_the_symmetrized_bidisc">Proper holomorphic self-mappings of the symmetrized bidisc</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 84 (2) (2004), 181-184	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4518-a_note_on_larusson_sigurdsson_s_paper">A note on Larusson-Sigurdsson's paper</a>, <a href="/czasopisma/232180-mathematica_scandinavica">MATH SCAND</a> vol. 92 (2003), 309-319	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4519-a_note_on_rosay_s_paper">A note on Rosay's paper</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 80 (2003), 125-132	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/957-jan_wiegerinck">Jan Wiegerinck</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4520-graphs_that_are_not_complete_pluripolar">Graphs that are not complete pluripolar</a>, <a href="/czasopisma/233488-proceedings_of_the_american_mathematical_society">P AM MATH SOC</a> vol. 131 (2003), 2459-2465	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/957-jan_wiegerinck">Jan Wiegerinck</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4521-the_pluripolar_hull_of_the_graph_of_a_holomorphic_function_with_polar_singularities">The pluripolar hull of the graph of a holomorphic function with polar singularities</a>, <a href="/czasopisma/229319-indiana_university_mathematics_journal">INDIANA U MATH J</a> vol. 52 (6) (2003), 1663-1680	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4522-pluripolar_hulls_and_holomorphic_coverings">Pluripolar hulls and holomorphic coverings</a>, <a href="/czasopisma/229948-israel_journal_of_mathematics">ISR J MATH</a> vol. 130 (2002), 77-92	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4523-analytic_discs_method_in_complex_analysis">Analytic discs method in complex analysis</a>, DISSERTATIONES MATH. (ROZPRAWY MAT.) 402 (2002), 56 pp.	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4524-on_the_product_property_of_the_pluricomplex_green_function__ii">On the product property of the pluricomplex Green function. II</a>, <a href="/czasopisma/235542-bulletin_of_the_polish_academy_of_sciences__mathematics">BULLETIN OF THE POLISH ACADEMY OF SCIENCES. MATHEMATICS</a> vol. 49 (4) (2001), 389-394	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4525-local_homeomorphisms_in_r2">Local homeomorphisms in R2</a>, UNIV. IAGEL. ACTA MATH. no. 38 (2000), 195--197	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7072-remarks_on_the_pluricomplex_green_function">Remarks on the pluricomplex Green function</a>, UNIV. IAGEL. ACTA MATH.  vol. 37 (1999), 159-164	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/181-wlodzimierz_zwonek">Włodzimierz Zwonek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4527-proper_holomorphic_mappings_in_some_class_of_unbounded_domains">Proper holomorphic mappings in some class of unbounded domains</a>, KODAI MATH. J. 22 (1999), no. 3, 305--312	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/181-wlodzimierz_zwonek">Włodzimierz Zwonek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4528-on_a_symmetric_pluricomplex_green_function">On a symmetric pluricomplex Green function</a>, NEW ZEALAND J. MATH. 27 (1998), no. 1, 35--40	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/181-wlodzimierz_zwonek">Włodzimierz Zwonek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4529-invariance_of_the_pluricomplex_green_function_under_proper_mappings_with_applications">Invariance of the pluricomplex Green function under proper mappings with applications</a>, COMPLEX VARIABLES THEORY APPL. 35 (1998), no. 4, 367--380	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, E.A.Poletsky	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4530-product_property_of_the_relative_extremal_function">Product property of the relative extremal function</a>, BULL. POLISH ACAD. SCI. MATH. 45 (1997), no. 4, 331--335	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4531-extremal_mappings_in_convex_domains">Extremal mappings in convex domains</a>, UNIV. IAGEL. ACTA MATH. no. 35 (1997), 151--156	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4532-on_definitions_of_the_pluricomplex_green_function">On definitions of the pluricomplex Green function</a>, ANN. POLON. MATH. 67 (1997), no. 3, 233--246	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4533-on_the_product_property_of_the_pluricomplex_green_function">On the product property of the pluricomplex Green function</a>, <a href="/czasopisma/233488-proceedings_of_the_american_mathematical_society">P AM MATH SOC</a> vol. 125 (1997), 2855-2858	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4534-on_extremal_mappings_in_complex_ellipsoids">On extremal mappings in complex ellipsoids</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 62 (1995), 83-96	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4535-a_remark_on_the_lempert_theorem">A remark on the Lempert theorem</a>, <a href="/czasopisma/243156-zeszyty_naukowe_uniwersytetu_jagiellonskiego__seria__acta_mathematica">ZESZYTY NAUKOWE UNIWERSYTETU JAGIELLONSKIEGO, SERIA: ACTA MATHEMATICA</a> vol. 32 (1995), 83-88	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/179-armen_edigarian"><span>7416</span><span>7018</span><span>7015</span><span>7002</span><span>4502</span><span>4503</span><span>4504</span><span>4212</span><span>4505</span><span>4506</span><span>4507</span><span>4508</span><span>4509</span><span>4510</span><span>4511</span><span>4512</span><span>4513</span><span>4514</span><span>4515</span><span>4516</span><span>4517</span><span>4518</span><span>4519</span><span>4520</span><span>4521</span><span>4522</span><span>4523</span><span>4524</span><span>4525</span><span>7072</span><span>4527</span><span>4528</span><span>4529</span><span>4530</span><span>4531</span><span>4532</span><span>4533</span><span>4534</span><span>4535</span></div>
+</div><h3 id='d'>Doktoranci <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="doc-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="doc-view_c0"><a class="sort-link" href="/users/179-armen_edigarian?Procedure_sort=id_user">Doktorant<span class="caret"></span></a></th><th id="doc-view_c1"><a class="sort-link" href="/users/179-armen_edigarian?Procedure_sort=opening">Otwarcie<span class="caret"></span></a></th><th id="doc-view_c2"><a class="sort-link" href="/users/179-armen_edigarian?Procedure_sort=ending">Zakonczenie<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/28">Dariusz Zawisza</a></td><td>2009-05-28</td><td>2010-11-25</td></tr>
+<tr class="even">
+<td><a href="../procedure/44">Andrzej Daniluk</a></td><td>2006-10-26</td><td>2012-03-29</td></tr>
+<tr class="odd">
+<td><a href="../procedure/92">Raimondo Eggink</a></td><td>2009-01-29</td><td>2010-05-27</td></tr>
+<tr class="even">
+<td><a href="../procedure/119">Przemysław Kliś</a></td><td>2009-12-17</td><td>2013-11-28</td></tr>
+<tr class="odd">
+<td><a href="../procedure/124">Agnieszka Rygiel</a></td><td>2007-09-27</td><td>2013-09-26</td></tr>
+<tr class="even">
+<td><a href="../procedure/147">Grzegorz Szulik</a></td><td>2010-12-16</td><td>&nbsp;</td></tr>
+<tr class="odd">
+<td><a href="../procedure/164">Sebastian Baran</a></td><td>2012-05-31</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/168">Przemysław Rola</a></td><td>2012-05-31</td><td>2014-10-30</td></tr>
+<tr class="odd">
+<td><a href="../procedure/180">Sylwester Zając</a></td><td>2012-06-28</td><td>2015-06-25</td></tr>
+<tr class="even">
+<td><a href="../procedure/204">Błażej Soczówka</a></td><td>2013-04-25</td><td>&nbsp;</td></tr>
+<tr class="odd">
+<td><a href="../procedure/256">Krzysztof Turek</a></td><td>2014-10-30</td><td>2018-10-25</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/179-armen_edigarian"><span>28</span><span>44</span><span>92</span><span>119</span><span>124</span><span>147</span><span>164</span><span>168</span><span>180</span><span>204</span><span>256</span></div>
+</div><h3 id='r'>Recenzje <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="review-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="review-view_c0"><a class="sort-link" href="/users/179-armen_edigarian?ProcedureReview_sort=id_procedure">Recenzowany<span class="caret"></span></a></th><th id="review-view_c1">Jednostka</th><th id="review-view_c2"><a class="sort-link" href="/users/179-armen_edigarian?ProcedureReview_sort=id_uploaded_file">Treść recenzji<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/244">Habilitacja: Leokadia Białas-Cież</a></td><td>Katedra Teorii Aproksymacji</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/224">Doktorat: Marcin Pitera</a></td><td>Zakład Matematyki Finansowej</td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/179-armen_edigarian"><span>411</span><span>421</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/179-armen_edigarian?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/116">Wybrane zagadnienia z analizy wielu zmiennych zespolonych</a></td><td>Wykonawca</td><td>2016-02-15</td><td>2019-02-14</td></tr>
+<tr class="even">
+<td><a href="../grants/73">Współpraca z Uniwersytetem w Tuluzie w zakresie Analizy Zespolonej</a></td><td>Wykonawca</td><td>2013-08-28</td><td>2014-11-27</td></tr>
+<tr class="odd">
+<td><a href="../grants/44">Geometryczne metody w analizie zespolonej</a></td><td>Kierownik</td><td>2012-08-06</td><td>2016-01-05</td></tr>
+<tr class="even">
+<td><a href="../grants/5">Jednowymiarowe metody w geometrycznej teorii funkcjii</a></td><td>Wykonawca</td><td>2009-05-06</td><td>2012-05-05</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/179-armen_edigarian"><span>132</span><span>209</span><span>263</span><span>73</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#doc-view').yiiGridView({'ajaxUpdate':['doc-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#review-view').yiiGridView({'ajaxUpdate':['review-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

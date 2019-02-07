@@ -1,0 +1,523 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr -  Bogdan Batko</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr  Bogdan Batko
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Informatyki i Matematyki Komputerowej</li>
+					<li>Katedra Matematyki Obliczeniowej</li>
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#k">Konferencje</a></li><li><a href="#g">Granty</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8049-weak_index_pairs_and_the_conley_index_for_discrete_multivalued_dynamical_systems__part_ii__properties_of_the_index">Weak Index Pairs and the Conley Index for Discrete Multivalued Dynamical Systems. Part II: Properties of the Index</a>, <a href="/czasopisma/234332-siam_journal_on_applied_dynamical_systems">SIAM J APPL DYN SYST</a> vol. Vol. 16, No. 3 (2017), 1587-1617	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>, <a href="/users/102-marian_mrozek">Marian Mrozek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7842-weak_index_pairs_and_the_conley_index_for_discrete_multivalued_dynamical_systems">Weak index pairs and the Conley index for discrete multivalued dynamical systems</a>, <a href="/czasopisma/234332-siam_journal_on_applied_dynamical_systems">SIAM J APPL DYN SYST</a> vol. 15.2 (2016), 1143-1162	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7499-superstability_of_the_cauchy_equation_with_squares_in_finite_dimensional_normed_algebras_">Superstability of the Cauchy equation with squares in finite-dimensional normed algebras </a>, <a href="/czasopisma/225365-aequationes_mathematicae">AEQUATIONES MATH</a> vol. vol. 89.3 (2015), 785-789	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7498-spectral_representation_theory_and_stability_of_the_multiplicative_dhombres_functional_equation_in_f_algebras_">Spectral representation theory and stability of the multiplicative Dhombres functional equation in f-algebras </a>, <a href="/czasopisma/225365-aequationes_mathematicae">AEQUATIONES MATH</a> vol. 89.3 (2015), 543-554	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>, <a href="/users/1296-janusz_brzdek">Janusz Brzdęk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7504-a_remark_on_some_simultaneous_functional_inequalities">A remark on some simultaneous functional inequalities</a> vol. 94 (2014), "Topics in Mathematical Analysis and Applications", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7501-stability_of_the_exponential_functional_equation_in_riesz_algebras_">Stability of the Exponential Functional Equation in Riesz Algebras </a>, <a href="/czasopisma/225060-abstract_and_applied_analysis">ABSTR APPL ANAL</a> vol. 848540 (2014), 4	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7500-on_approximate_solutions_of_functional_equations_in_vector_lattices_">On Approximate Solutions of Functional Equations in Vector Lattices </a>, <a href="/czasopisma/225060-abstract_and_applied_analysis">ABSTR APPL ANAL</a> vol. 547673 (2014), 10	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>, <a href="/users/1296-janusz_brzdek">Janusz Brzdęk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7503-a_fixed_point_theorem_and_the_hyers_ulam_stability_in_riesz_spaces_">A fixed point theorem and the Hyers-Ulam stability in Riesz spaces </a>, <a href="/czasopisma/225322-advances_in_difference_equations">ADV DIFFER EQU-NY</a> vol. 2013:138 (2013), 12	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7502-the_stability_of_dhombres__equation_in_riesz_spaces">The stability of Dhombres' equation in Riesz spaces</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 406.1 (2013), 261-265	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7505-note_on_superstability_of_mikusinski_s_functional_equation">Note on superstability of Mikusinski’s functional equation</a> vol. 52 (2012), "Functional equations in mathematical analysis", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>, <a href="/users/102-marian_mrozek">Marian Mrozek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6804-homology_of_representable_sets">Homology of representable sets</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 97,3 (2010), 243-252	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>, <a href="/users/102-marian_mrozek">Marian Mrozek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6785-coreduction_homology_algorithm">Coreduction homology algorithm</a>, <a href="/czasopisma/227759-discrete___computational_geometry">DISCRETE COMPUT GEOM</a> vol. 41 (2009), 96-118	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7507-stability_of_an_alternative_functional_equation_">Stability of an alternative functional equation </a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 339.1 (2008), 303-311	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7506-on_approximation_of_approximate_solutions_of_dhombres__equation_">On approximation of approximate solutions of Dhombres' equation </a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 340.1 (2008), 424-432	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>, <a href="/users/102-marian_mrozek">Marian Mrozek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7508-the_euler_poincare_characteristic_of_index_maps">The Euler-Poincare characteristic of index maps</a>, <a href="/czasopisma/234855-topology_and_its_applications">TOPOL APPL</a> vol. 154.4 (2007), 859-866	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7510-on_the_stability_of_mikusinski_s_equation_">On the stability of Mikusinski's equation </a>, <a href="/czasopisma/233708-publicationes_mathematicae_debrecen">PUBL MATH-DEBRECEN</a> vol. 66.1-2 (2005), 17-24	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7509-on_the_stability_of_an_alternative_functional_equation_">On the stability of an alternative functional equation </a>, <a href="/czasopisma/232189-mathematical_inequalities___applications">MATH INEQUAL APPL</a> vol. 8.4 (2005), 685-691	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7511-stability_of_dhombres__equation_">Stability of Dhombres' equation </a>, <a href="/czasopisma/226662-bulletin_of_the_australian_mathematical_society">B AUST MATH SOC</a> vol. 70.3 (2004), 499-505	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>, <a href="/users/1297-zygfryd_kominek">Zygfryd Kominek</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7512-generalized_norms_and_convexity">Generalized norms and convexity</a>, <a href="/czasopisma/233708-publicationes_mathematicae_debrecen">PUBL MATH-DEBRECEN</a> vol. 60.1-2 (2002), 63-73	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7515-an_alternative_cauchy_equation_almost_everywhere">An alternative Cauchy equation almost everywhere</a>, ROCZNIKI NAUKOWO-DYDAKTYCZNE AP. W KRAKOWIE vol. 204 (2000), 41-48	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7514-stability_of_an_alternative_cauchy_equation_on_a_restricted">Stability of an alternative Cauchy equation on a restricted</a>, <a href="/czasopisma/225365-aequationes_mathematicae">AEQUATIONES MATH</a> vol. 57 (1999), 221-232	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7513-stability_of_the_generalized_alternative_cauchy_equation_">Stability of the generalized alternative Cauchy equation </a>, <a href="/czasopisma/225059-abhandlungen_aus_dem_mathematischen_seminar_der_universitat_hamburg">ABH MATH SEM HAMBURG</a> vol. 69 (1999), 67-73	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/899-bogdan_batko"><span>8049</span><span>7842</span><span>7499</span><span>7498</span><span>7504</span><span>7501</span><span>7500</span><span>7503</span><span>7502</span><span>7505</span><span>6804</span><span>6785</span><span>7507</span><span>7506</span><span>7508</span><span>7510</span><span>7509</span><span>7511</span><span>7512</span><span>7515</span><span>7514</span><span>7513</span></div>
+</div><h3 id='k'>Konferencje:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/899-bogdan-batko">Bogdan Batko</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/709">Algebraic Topology in Data and Dynamics (ATDD'18)</a>, Montana State University, Bozeman, USA, 2018-07-09 - 2018-07-13	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/115-piotr-kalita">Piotr Kalita</a>, <a class="default-link" href="/users/899-bogdan-batko">Bogdan Batko</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/663">DYNAMICS, TOPOLOGY AND COMPUTATIONS 2018 (DyToComp)</a>, Stefan Banach International Mathematical Center, Będlewo, Polska, 2018-06-18 - 2018-06-23	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/899-bogdan-batko">Bogdan Batko</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/504">Mathematical Congress of the Americas 2017 (MCA 2017)</a>, Canadian Mathematical Society, Montreal, Canada, 2017-07-24 - 2017-07-28	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/145-bartosz-zielinski">Bartosz Zieliński</a>, <a class="default-link" href="/users/178-roman-srzednicki">Roman Srzednicki</a>, <a class="default-link" href="/users/899-bogdan-batko">Bogdan Batko</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/499">Applied Topology in Będlewo 2017</a>, Polish Academy of Sciences, Będlewo, Poland, 2017-06-25 - 2017-07-01	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/899-bogdan_batko"><span>709</span><span>663</span><span>504</span><span>499</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/899-bogdan_batko?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/107">Obliczeniowa dynamika topologiczna</a></td><td>Wykonawca</td><td>2015-02-12</td><td>2020-02-11</td></tr>
+<tr class="even">
+<td><a href="../grants/81">Topologiczne systemy złożone</a></td><td>Wykonawca</td><td>2013-03-13</td><td>2015-09-30</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/899-bogdan_batko"><span>179</span><span>224</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

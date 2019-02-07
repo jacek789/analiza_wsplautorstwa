@@ -1,0 +1,404 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr hab. -  Piotr Kobak</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr hab.  Piotr Kobak
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Zakład Matematyki Finansowej</li>
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#r">Recenzje</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/222-piotr_kobak">Piotr Kobak</a>, P.Z.Kobak	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4708-pricing_dividend_protected_options_listed_on_the_warsaw_stock_exchange">Pricing Dividend Protected Options Listed on the Warsaw Stock Exchange</a>, NOWY SĄCZ ACADEMIC REVIEW 3 (2007), 6-13	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/222-piotr_kobak">Piotr Kobak</a>, A.Swann	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4713-hyperkahler_potentials_via_finite_dimensional_quotients">HyperKähler potentials via finite-dimensional quotients</a>, GEOM. DEDICATA 88 (2001), no. 1-3, 1--19	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/222-piotr_kobak">Piotr Kobak</a>, A.Swann	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4714-the_hyperkahler_geometry_associated_to_wolf_spaces">The hyperKähler geometry associated to Wolf spaces</a>, BOLL. UNIONE MAT. ITAL. SEZ. B ARTIC. RIC. MAT. (8) 4 (2001), no. 3, 587--595	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/222-piotr_kobak">Piotr Kobak</a>, A.Swann	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4715-hyperkahler_potentials_in_cohomogeneity_two">HyperKähler potentials in cohomogeneity two</a>, J. REINE ANGEW. MATH. 531 (2001), 121--139	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/222-piotr_kobak">Piotr Kobak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4716-explicit_doubly_hermitian_metrics">Explicit doubly-Hermitian metrics</a>, DIFFERENTIAL GEOM. APPL. 10 (1999), no. 2, 179--185	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/222-piotr_kobak">Piotr Kobak</a>, B.Loo	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4717-moduli_of_quaternionic_superminimal_immersions_of_2_spheres_into_quaternionic_projective_spaces">Moduli of quaternionic superminimal immersions of 2-spheres into quaternionic projective spaces</a>, ANN. GLOBAL ANAL. GEOM. 16 (1998), no. 6, 527--541	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/222-piotr_kobak">Piotr Kobak</a>, A.Swann	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4718-classical_nilpotent_orbits_as_hyper_kahler_quotients">Classical nilpotent orbits as hyper-Kähler quotients</a>, INTERNAT. J. MATH. 7 (1996), no. 2, 193--210	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/222-piotr_kobak">Piotr Kobak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4721-birational_correspondences_between_twistor_spaces">Birational correspondences between twistor spaces</a>, BULL. LONDON MATH. SOC. 26 (1994), no. 2, 186--190	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/222-piotr_kobak">Piotr Kobak</a>, A.Swann	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4722-quaternionic_geometry_of_a_nilpotent_variety">Quaternionic geometry of a nilpotent variety</a>, MATH. ANN. 297 (1993), no. 4, 747--764	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/222-piotr_kobak">Piotr Kobak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4723-the_structure_tensor_and_first_order_natural_differential_operators">The structure tensor and first order natural differential operators</a>, ARCH. MATH. (BRNO) 28 (1992), no. 3-4, 121--138	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/222-piotr_kobak">Piotr Kobak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4724-natural_liftings_of_vector_fields_to_tangent_bundles_of_bundles_of_1_forms">Natural liftings of vector fields to tangent bundles of bundles of 1-forms</a>, MATH. BOHEM. 116 (1991), no. 3, 319--326	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/222-piotr_kobak">Piotr Kobak</a>, J.-H.Eschenburg,P.Z.Kobak	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4709-pluriharmonic_maps_of_maximal_rank">Pluriharmonic maps of maximal rank</a>, MATH. Z. VOLUME 256, Number 2/June, 2007, Pages 279-286	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/222-piotr_kobak">Piotr Kobak</a>, <a href="/users/616-aleksander_urbanski">Aleksander Urbański</a>, P.Z.Kobak	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4710-opcje_realne_a_otoczenie_rynkowe">Opcje realne a otoczenie rynkowe</a>, RYNEK TERMINOWY 10/2004	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/222-piotr_kobak">Piotr Kobak</a>, P.Z.Kobak	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4711-a_twistorial_construction_of__1_1__geodesic_maps__in_further_advances_in_twistor_theory__vol_iii__curved_twistor_spaces">A twistorial construction of (1,1)-geodesic maps, in Further advances in twistor theory, Vol III: Curved twistor spaces</a>, EDS. MASON ET AL. CHAPMAN & HALL/CRC RESEARCH NOTES 424, p. 75-81, 2001	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/222-piotr_kobak">Piotr Kobak</a>, P.Z.Kobak,A.F.Swann	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4712-exceptional_hyper_kaehler_reductions__in_further_advances_in_twistor_theory__vol_iii__curved_twistor_spaces">Exceptional Hyper-Kaehler Reductions, in Further advances in twistor theory, Vol III: Curved twistor spaces</a>, EDS. MASON ET AL. CHAPMAN & HALL/CRC RESEARCH NOTES 424, p. 81-84, 2001	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/222-piotr_kobak">Piotr Kobak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4719-contact_birational_correspondences_between_twistor_spaces_of_wolf_spaces__in_further_advances_in_twistor_theory__vol_ii_integrable_systems__conformal_geometry_and_gravitation">Contact birational correspondences between twistor spaces of Wolf spaces, in Further advances in twistor theory, Vol II Integrable systems, conformal geometry and gravitation</a>, EDS. MASON ET AL. PITMAN RESEARCH NOTES IN MATHEMATICS 232. Longman Sci. & Tech. p.66-74, 1995	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/222-piotr_kobak">Piotr Kobak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4720-twistors__nilpotent_orbits_and_harmonic_maps">Twistors, nilpotent orbits and harmonic maps</a>, HARMONIC MAPS AND INTEGRABLE SYSTEMS, 295--319, Aspects Math., E23, Vieweg, Braunschweig, 1994	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/222-piotr_kobak">Piotr Kobak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4725-helices_and_vector_bundles">Helices and vector bundles</a>, SEMINAIRE RUDAKOV. TRANSLATED FROM THE RUSSIAN BY A. D. KING, P. KOBAK AND A. MACIOCIA. LONDON MATHEMATICAL SOCIETY LECTURE NOTE SERIES, 148. Cambridge University Press, Cambridge, 1990. iv+143 pp	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/222-piotr_kobak"><span>4708</span><span>4713</span><span>4714</span><span>4715</span><span>4716</span><span>4717</span><span>4718</span><span>4721</span><span>4722</span><span>4723</span><span>4724</span><span>4709</span><span>4710</span><span>4711</span><span>4712</span><span>4719</span><span>4720</span><span>4725</span></div>
+</div><h3 id='r'>Recenzje <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="review-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="review-view_c0"><a class="sort-link" href="/users/222-piotr_kobak?ProcedureReview_sort=id_procedure">Recenzowany<span class="caret"></span></a></th><th id="review-view_c1">Jednostka</th><th id="review-view_c2"><a class="sort-link" href="/users/222-piotr_kobak?ProcedureReview_sort=id_uploaded_file">Treść recenzji<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/44">Doktorat: Andrzej Daniluk</a></td><td>Zakład Matematyki Finansowej</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/168">Doktorat: Przemysław Rola</a></td><td>Zakład Matematyki Finansowej</td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/222-piotr_kobak"><span>122</span><span>379</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#review-view').yiiGridView({'ajaxUpdate':['review-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

@@ -1,0 +1,1651 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr hab. prof. UJ -  Robert Wolak</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr hab. prof. UJ  Robert Wolak
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Geometrii</li>
+		</ul>
+
+
+
+<p><p><a class="default-link" href="/procedure/308">Profesura</a> &emsp;<b>Otwarcie:</b> 2017-01-26, <b>Zamknięcie:</b> </p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#k">Konferencje</a></li><li><a href="#ko">Konferencje organizowane</a></li><li><a href="#d">Doktoranci</a></li><li><a href="#r">Recenzje</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	77.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/971-jose_ignacio_royo_prieto">José Ignacio Royo Prieto</a>, <a href="/users/970-martintxo_saralegi_aranguren">Martintxo Saralegi-Aranguren</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8327-cohomological_tautness_of_singular_riemannian_foliations">Cohomological Tautness of Singular Riemannian Foliations</a>, <a href="/czasopisma/233997-revista_de_la_real_academia_de_ciencias_exactas_fisicas_y_naturales_serie_amatematicas">RACSAM REV R ACAD A</a> (2018), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	76.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7838-sasakian_structures">Sasakian structures</a>, <a href="/czasopisma/235623-demonstratio_mathematica">DEMONSTRATIO MATHEMATICA</a> vol. 50,1 (2017), 93-108	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	75.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1742-jesus_alvarez_lopez">Jesus Alvarez Lopez</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8126-growth_of_some_transversely_homogeneous_foliations">Growth of some transversely homogeneous foliations</a>, <a href="/czasopisma/229253-illinois_journal_of_mathematics">ILLINOIS J MATH</a> vol. 60 (2016), 447-457	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	74.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1101-michel_nguiffo_boyom">Michel Nguiffo Boyom</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7808-transversely_hessian_foliations_and_information_geometry">Transversely Hessian foliations and information geometry</a>, <a href="/czasopisma/229666-international_journal_of_mathematics">INT J MATH</a> vol. 27,11 (2016), 17	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	73.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7677-orbifolds__geometric_structures_and_foliations__applications_to_harmonic_maps">Orbifolds, geometric structures and foliations. Applications to harmonic maps</a>, RENDICONTI DEL SEMINARIO MATEMATICO - UNIVERSITŔ E POLITECNICO DI TORINO vol. 73/1 , 3-4 (2016), 173-187	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	72.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/969-yuan_jen_chiang">Yuan-Jen Chiang</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7657-transversally_harmonic_morphisms_between_foliated__riemannian_manifolds">Transversally Harmonic Morphisms Between Foliated  Riemannian Manifolds</a>, SOUTHEAST ASIAN BULLETIN OF MATHEMATICS vol. 40 (2016), 1-13	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	71.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/970-martintxo_saralegi_aranguren">Martintxo Saralegi-Aranguren</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7634-poincar_e_duality_of_the_basic_intersection_cohomology_of_a_killing_foliation">Poincar´e Duality of the basic intersection cohomology of a Killing foliation</a>, <a href="/czasopisma/232495-monatshefte_fur_mathematik">MONATSH MATH</a> vol. 180 (2016), 145-166	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	70.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7606-mathematik_in_der_zeitgen_ossischen_bildenden_kunst">Mathematik in der zeitgen"ossischen bildenden Kunst</a>, MITTEILUNGEN DER DMV vol. 23 (2015), 160-168	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	69.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1101-michel_nguiffo_boyom">Michel Nguiffo Boyom</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7270-_transversely_hessian_foliations_and_information_geometry"> Transversely Hessian foliations and information geometry</a> vol. AIP Conf. Proc. vol 1641 (2015), "BAYESIAN INFERENCE AND MAXIMUM ENTROPY METHODS IN SCIENCE AND ENGINEERING (MAXENT 2014),  21–26 September 2014,  Clos Lucé, Amboise, France Editors: Ali Mohammad-Djafari  and Frédéric Barbaresco,", American Institute of Physics	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	68.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/969-yuan_jen_chiang">Yuan-Jen Chiang</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7273-remarks_of_transversally_f_biharmonic_maps">Remarks of transversally f-biharmonic maps</a>, BALKAN SOCIETY OF GEOMETERS PROCEEDING vol. 21 (2014), 38-49	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	67.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/965-_luigia_di_terlizzi"> Luigia Di Terlizzi</a>, <a href="/users/1214-anna_maria_pastore">Anna Maria Pastore</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7269-harmonic_and_holomorphic_vector_fields_on_an_f_manifold_with_parallelizable_kernel">HARMONIC AND HOLOMORPHIC VECTOR FIELDS ON AN ƒ-MANIFOLD WITH PARALLELIZABLE KERNEL</a>, <a href="/czasopisma/225629-analele_stiintifice_ale_universitatii_al_i_cuza_din_iasi_serie_noua_matematica">AN STIINT U AL I-MAT</a> vol. 60 (2014), 125–144	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	66.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1101-michel_nguiffo_boyom">Michel Nguiffo Boyom</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7062-foliations__on_affinely_flat_manifolds__information_geometry">Foliations  on Affinely Flat Manifolds. Information Geometry</a> vol. Lecture Notes in Computer Science vol.8085 (2013), "Geometric Science of Information, First International Conference, GSI 2013, Paris, France, August 2013, Proceedings, F. Nielsen, F. Barbaresco (Eds.), ", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	65.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/969-yuan_jen_chiang">Yuan-Jen Chiang</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7061-transversal_wave_maps_and_transversal_exponential_wave_maps_">Transversal wave maps and transversal exponential wave maps,</a>, <a href="/czasopisma/235945-journal_of_geometry">JOURNAL OF GEOMETRY</a> (2013), 443-459	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	64.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/969-yuan_jen_chiang">Yuan-Jen Chiang</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7059-transversally_f_harmonic_and_transversally_f_biharmonic_maps_between_foliated_manifolds">Transversally F-Harmonic and Transversally F-Biharmonic Maps Between Foliated Manifolds</a>, JP JOURNAL OF GEOMETRY AND TOPOLOGY (2013), 93 - 117	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	63.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1100-v__rovenski">V. Rovenski</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7058-deforming_metrics_of_foliations__">Deforming metrics of foliations, </a>, <a href="/czasopisma/226885-central_european_journal_of_mathematics">CENT EUR J MATH</a> (2013), 1039-1055	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	62.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1102-f___ngakeu">F.  Ngakeu</a>, <a href="/users/1103-_p__m__byande"> P. M. Byande</a>, <a href="/users/1101-michel_nguiffo_boyom">Michel Nguiffo Boyom</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7060-kv_cohomology_and_differential_geometry_of_affinely_flat_manifolds">KV-Cohomology and Differential Geometry of Affinely Flat Manifolds</a>, AFR. DIASPORA J. MATH.  (2012), 197-226	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	61.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1121-francesca__verroca">Francesca  Verroca</a>, <a href="/users/965-_luigia_di_terlizzi"> Luigia Di Terlizzi</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5895-semi_invariant_submanifolds_of_k_manifolds">Semi-invariant submanifolds of K-manifolds</a>, <a href="/czasopisma/233708-publicationes_mathematicae_debrecen">PUBL MATH-DEBRECEN</a> vol. 80, no. 1-2 (2012), 89-106	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	60.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/970-martintxo_saralegi_aranguren">Martintxo Saralegi-Aranguren</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5896-finiteness_of_the_basic_intersection_cohomology_of_a_killing_foliation">Finiteness of the basic intersection cohomology of a Killing foliation</a>, <a href="/czasopisma/232215-mathematische_zeitschrift">MATH Z</a> vol. 272, no. 1-2 (2012), 443-457	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	59.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/967-norbert_poncin">Norbert Poncin</a>, <a href="/users/968-fabian__radoux">Fabian  Radoux</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5897-equivariant_quantization_of_orbifolds">Equivariant quantization of orbifolds</a>, <a href="/czasopisma/230737-journal_of_geometry_and_physics">J GEOM PHYS</a> vol. 60, no. 9 (2010), 1103-1111	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	58.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/969-yuan_jen_chiang">Yuan-Jen Chiang</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5898-transversal_biwave_maps">Transversal biwave maps</a>, ARCHIVUM MATHEMATICUM (BRNO) (2010), 211-226	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	57.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/971-jose_ignacio_royo_prieto">José Ignacio Royo Prieto</a>, <a href="/users/970-martintxo_saralegi_aranguren">Martintxo Saralegi-Aranguren</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5899-cohomological_tautness_for_riemannian_foliations">Cohomological tautness for Riemannian foliations</a>, <a href="/czasopisma/234139-russian_journal_of_mathematical_physics">RUSS J MATH PHYS</a> vol. 16, no. 3 (2009), 450-466	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	56.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/967-norbert_poncin">Norbert Poncin</a>, <a href="/users/968-fabian__radoux">Fabian  Radoux</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5901-a_first_approximation_for_quantization_of_singular_spaces">A first approximation for quantization of singular spaces</a>, <a href="/czasopisma/230737-journal_of_geometry_and_physics">J GEOM PHYS</a> vol. 59, no. 4 (2009), 503-518	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	55.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>, J. J. Konderak	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5902-some_remarks_on_transversally_harmonic_maps">Some remarks on transversally harmonic maps</a>, <a href="/czasopisma/228804-glasgow_mathematical_journal">GLASGOW MATH J</a> vol. 50, no. 1 (2008), 1-16	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	54.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>, Y.-J. Chiang	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5903-transversally_biharmonic_maps_between_foliated_riemannian_manifolds">Transversally biharmonic maps between foliated Riemannian manifolds</a>, <a href="/czasopisma/229666-international_journal_of_mathematics">INT J MATH</a> vol. 19, no. 8 (2008), 981-996	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	53.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>, J. I. Royo Prieto, M. Saralegi-Aranguren	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5904-tautness_for_riemannian_foliations_on_non_compact_manifolds">Tautness for Riemannian foliations on non-compact manifolds</a>, <a href="/czasopisma/232115-manuscripta_mathematica">MANUSCRIPTA MATH</a> vol. 126, no. 2 (2008), 177-200	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	52.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/617-malgorzata_jozefowicz">Małgorzata Józefowicz</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5905-finslerian_foliations_of_compact_manifolds_are_riemannian">Finslerian foliations of compact manifolds are Riemannian</a>, <a href="/czasopisma/227738-differential_geometry_and_its_applications">DIFFER GEOM APPL</a> vol. 26, no. 2 (2008), 224-226	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	51.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>, L.DiTerlizzi,J.J.Konderak,R.A.Wolak	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5908-harmonic_1_forms_on_compact_f_manifolds">Harmonic 1-forms on compact f-manifolds</a>, MEDITERR. J. MATH. 4 (2007) , no. 3, 251-261	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	50.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>, L.DiTerlizzi,J.J.Konderak	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5910-a_generalization_of_the_boothby_wang_theorem">A generalization of the Boothby-Wang theorem</a>, TSUKUBA J. MATH.  31 (2007), no. 2, 217-232	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	49.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>, M.Saralegi-Aranguren	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5911-the_bic_of_a_singular_foliation_defined_by_an_abelian_group_of_isometries">The BIC of a singular foliation defined by an abelian group of isometries</a>, ANN. POLON. MATH. 89,3 (2006), 203 - 246	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	48.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>, MiquelVicente	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5912-minimal_singular_riemannian_foliations">Minimal singular Riemannian foliations</a>, C. R. MATH. ACAD. SCI. PARIS 342 (2006), 33-36	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	47.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>, M.Saralegi	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5913-bic_of_a_conical_fibration">BIC of a conical fibration</a>, MATH. NOTES 77 (2005), 213-231	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	46.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>, J.I.RoyoPrieto,M.Saralegi-Aranguren	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5914-top_dimensional_group_of_the_basic_intersection_cohomology_for_singular_riemannian_foliations">Top dimensional group of the basic intersection cohomology for singular riemannian foliations</a>, BULL. POLISH ACAD. SCI. MATH. 53,4 (2005), 429-440	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	45.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>, BoyomM.N.WolakR.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5915-local_structure_of_koszul_vinberg_and_of_lie_algebroids">Local structure of Koszul-Vinberg and of Lie algebroids</a>, BULL. SCI. MATH. 128 (2004) 467-479	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	44.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5916-connections_for_singular_foliations_on_stratified_manifolds">Connections for singular foliations on stratified manifolds</a>, PUBL. MATH. DEBRECEN 63(2003),623--633	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	43.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>, J.Konderak	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5917-transversally_harmonic_maps_between_manifolds_with__riemannian_foliation">Transversally harmonic maps between manifolds with  Riemannian foliation</a>, Q. J. MATH. 54 (2003), 335--354	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	42.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>, R.Kadobianski, J.Kubarski, V.Kushnirevitch	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5918-transitive_lie_algebroids_of_rank_1_and_locally_conformal_symplectic_structures">Transitive Lie algebroids of rank 1 and locally conformal symplectic structures</a>, <a href="/czasopisma/230737-journal_of_geometry_and_physics">J GEOM PHYS</a> vol. 46 (2003) (2003), 151 -- 158	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	41.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>, M.N.Boyom	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5921-affine_structures_and_kv_cohomology">Affine structures and KV-cohomology</a>, J. GEOM. PHYS. 42 (2002), no. 4, 307--317	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	40.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>, L.DiTerlizzi,J.Konderak,A.M.Pastore	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5920-_scr_k__structures_and_foliations">$scr K$-structures and foliations</a>, ANN. UNIV. SCI. BUDAPEST. EÖTVÖS SECT. MATH. 44 (2001), 171--182 (2002)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	39.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5922-basic_forms_for_transversely_integrable_singular_riemannian_foliations">Basic forms for transversely integrable singular Riemannian foliations</a>, PROC. AMER. MATH. SOC. 128 (2000), no. 5, 1543--1545	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	38.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5923-contact_cr_submanifolds_in_sasakian_manifolds___a_foliated_approach">Contact CR-submanifolds in Sasakian manifolds---a foliated approach</a>, PUBL. MATH. DEBRECEN 56 (2000), no. 1-2, 7--19	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	37.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5924-basic_cohomology_for_singular_riemannian_foliations">Basic cohomology for singular Riemannian foliations</a>, MONATSH. MATH. 128 (1999), no. 2, 159--163	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	36.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5928-growth_of_leaves_in_transversely_affine_foliations">Growth of leaves in transversely affine foliations</a>, PROC. AMER. MATH. SOC. 127 (1999), no. 7, 2167--2173	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	35.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5926-some_remarks_on_equicontinuous_foliations">Some remarks on equicontinuous foliations</a>, ANN. UNIV. SCI. BUDAPEST. EÖTVÖS SECT. MATH. 41 (1998), 13--21 (1999)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	34.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5929-on_leaves_of_lagrangian_foliations">On leaves of Lagrangian foliations</a>, (RUSSIAN) IZV. VYSSH. UCHEBN. ZAVED. MAT.1998,NO. 6,27--34 translation inRussian Math. (Iz. VUZ) 42 (1998), no	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	33.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5931-the_graph_of_a_totally_geodesic_foliation">The graph of a totally geodesic foliation</a>, ANN. POLON. MATH. 60 (1995), no. 3, 241--247	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	32.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5932-ehresmann_connections_for_lagrangian_foliations">Ehresmann connections for Lagrangian foliations</a>, J. GEOM. PHYS. 17 (1995), no. 4, 310--320	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	31.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5933-pierrot_s_theorem_for_singular_riemannian_foliations">Pierrot's theorem for singular Riemannian foliations</a>, PUBL. MAT. 38 (1994), no. 2, 433--439	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	30.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5934-compact_leaves_in_minimal_riemannian_foliations">Compact leaves in minimal Riemannian foliations</a>, INDAG. MATH. (N.S.) 5 (1994), no. 3, 375--379	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	29.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5935-closure_of_leaves_in_transversely_affine_foliations">Closure of leaves in transversely affine foliations</a>, CANAD. MATH. BULL. 34 (1991), no. 4, 553--558	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	28.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>, L.A.Cordero	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5936-properties_of_the_basic_cohomology_of_transversely_kahler_foliations">Properties of the basic cohomology of transversely Kähler foliations</a>, REND. CIRC. MAT. PALERMO (2) 40 (1991), no. 2, 177--188	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	27.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5937-transversely_affine_foliations_compared_with_affine_manifolds">Transversely affine foliations compared with affine manifolds</a>, QUART. J. MATH. OXFORD SER. (2) 41 (1990), no. 163, 369--384	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	26.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5938-the_structure_tensor_of_a_transverse_g_structure_on_a_foliated_manifold">The structure tensor of a transverse G-structure on a foliated manifold</a>, BOLL. UN. MAT. ITAL. A (7) 4 (1990), no. 1, 1--15	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	25.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>, L.A.Cordero	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5939-examples_of_foliations_with_foliated_geometric_structures">Examples of foliations with foliated geometric structures</a>, PACIFIC J. MATH. 142 (1990), no. 2, 265--276	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5940-foliated_g_structures_and_riemannian_foliations">Foliated G-structures and Riemannian foliations</a>, MANUSCRIPTA MATH. 66 (1989), no. 1, 45--59	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5941-le_graphe_d_un_feuilletage_admettant_un_systeme_transverse_d_equations_differentielles">Le graphe d'un feuilletage admettant un systeme transverse d'équations différentielles</a>, (FRENCH) [THE GRAPH OF A FOLIATION ADMITTING A TRANSVERSAL SYSTEM OF DIFFERENTIAL EQUATIONS] MATH. Z. 201 (1989), no. 2, 177--182	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5942-maximal_subalgebras_in_the_algebra_of_foliated_vector_fields_of_a_riemannian_foliation">Maximal subalgebras in the algebra of foliated vector fields of a Riemannian foliation</a>, COMMENT. MATH. HELV. 64 (1989), no. 4, 536--541	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5943-foliated_and_associated_geometric_structures_on_foliated_manifolds">Foliated and associated geometric structures on foliated manifolds</a>, ANN. FAC. SCI. TOULOUSE MATH. (5) 10 (1989), no. 3, 337--360	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5944-leaves_of_foliations_with_a_transverse_geometric_structure_of_finite_type">Leaves of foliations with a transverse geometric structure of finite type</a>, PUBL. MAT. 33 (1989), no. 1, 153--162	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5946-foliations_admitting_transverse_systems_of_differential_equations">Foliations admitting transverse systems of differential equations</a>, COMPOSITIO MATH. 67 (1988), no. 1, 89--101	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5947-characteristic_classes_of_almost_flag_structures">Characteristic classes of almost-flag structures</a>, GEOM. DEDICATA 24 (1987), no. 2, 207--220	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5948-maximal_ideals_in____m_loc__m_f__">Maximal ideals in ${m Loc}(M,F)$</a>, COLLECT. MATH. 38 (1987), no. 2, 157--160	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5949-characteristic_classes_of_multifoliations">Characteristic classes of multifoliations</a>, COLLOQ. MATH. 52 (1987), no. 1, 77--91	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5951-infinitesimal_automorphisms_of_distributions">Infinitesimal automorphisms of distributions</a>, ANN. POLON. MATH. 47 (1986), no. 1, 1--16	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5950-on_transverse_structures_of_foliations">On transverse structures of foliations</a>, PROCEEDINGS OF THE 13th winter school on abstract analysis (Srní, 1985). Rend. Circ. Mat. Palermo (2) Suppl. No. 9 (1985), 227--243 (1986)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5954-normal_bundles_of_foliations_of_order_r">Normal bundles of foliations of order r</a>, DEMONSTRATIO MATH. 18 (1985), no. 4, 977--994	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5955-on_g_foliations">On G-foliations</a>, ANN. POLON. MATH. 46 (1985), 371--377	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5957-infinitesimal_automorphisms_of_some_g_structures">Infinitesimal automorphisms of some G-structures</a>, ANN. POLON. MATH. 43 (1983), no. 3, 283--291	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>, J.Kubarski,N.Poncin,R.Wolak(editors)	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5906-proceedings_of_the_8th_conference_on_geometry_and_topology_of_manifolds__przemysl_l_viv__2007">Proceedings of the 8th Conference on Geometry and Topology of Manifolds, Przemyśl-L'viv, 2007</a>, TRAVAUX MATHÉMATIQUES, VOL. XVIII, UNIVERSITY OF LUXEMBOURG, 2008	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>, J.Kubarski,J.Pradines,T.Rybicki	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5909-geometry_and_topology_of_manifolds">Geometry and topology of manifolds</a>, BANACH CENTER PUBL. VOL 76 (editors)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5919-basic_distribution_for_singular_riemannian_foliations">Basic distribution for singular Riemannian foliations</a>, FOLIATIONS: GEOMETRY AND DYNAMICS (WARSAW, 2000), 441--448, World Sci. Publishing, River Edge, NJ, 2002	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>, M.Saralegi-Aranguren	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5925-basic_cohomology_for_riemannian_foliations">Basic cohomology for Riemannian foliations</a>, DIFFERENTIAL GEOMETRY AND APPLICATIONS (BRNO, 1998), 127--135, Masaryk Univ., Brno, 1999	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5927-on_leaves_of_transversely_affine_foliations">On leaves of transversely affine foliations</a>, NEW DEVELOPMENTS IN DIFFERENTIAL GEOMETRY, BUDAPEST 1996, 503--509, Kluwer Acad. Publ., Dordrecht, 1999	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5930-graphs__ehresmann_connections_and_vanishing_cycles">Graphs, Ehresmann connections and vanishing cycles</a>, DIFFERENTIAL GEOMETRY AND APPLICATIONS (BRNO, 1995), 345--352, Masaryk Univ., Brno, 1996	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5945-transverse_completeness_of_foliated_systems_of_ordinary_differential_equations">Transverse completeness of foliated systems of ordinary differential equations</a>, PROCEEDINGS OF THE SIXTH INTERNATIONAL COLLOQUIUM ON DIFFERENTIAL GEOMETRY (SANTIAGO DE COMPOSTELA, 1988), 253--262, Cursos Congr. Univ. Santiago de Compostela, 61, Univ. Santiago de Compostela, Santiago de Compostela, 1989	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5952-some_remarks_on___abla_g__foliations">Some remarks on $
+abla-G$-foliations</a>, DIFFERENTIAL GEOMETRY (SANTIAGO DE COMPOSTELA, 1984), 276--289, Res. Notes in Math., 131, Pitman, Boston, Mass.-London, 1985	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5953-open_almost_multifoliate_manifolds">Open almost-multifoliate manifolds</a>, TOPOLOGY, THEORY AND APPLICATIONS (EGER, 1983), 679--686, Colloq. Math. Soc. János Bolyai, 41, North-Holland, Amsterdam-New York, 1985	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5956-on___abla_g__foliations">On $
+abla-G$-foliations</a>, PROCEEDINGS OF THE 12th winter school on abstract analysis (Srní, 1984). Rend. Circ. Mat. Palermo (2) 1984,Suppl. No. 6, 329--341	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/210-robert_wolak"><span>8327</span><span>7838</span><span>8126</span><span>7808</span><span>7677</span><span>7657</span><span>7634</span><span>7606</span><span>7270</span><span>7273</span><span>7269</span><span>7062</span><span>7061</span><span>7059</span><span>7058</span><span>7060</span><span>5895</span><span>5896</span><span>5897</span><span>5898</span><span>5899</span><span>5901</span><span>5902</span><span>5903</span><span>5904</span><span>5905</span><span>5908</span><span>5910</span><span>5911</span><span>5912</span><span>5913</span><span>5914</span><span>5915</span><span>5916</span><span>5917</span><span>5918</span><span>5921</span><span>5920</span><span>5922</span><span>5923</span><span>5924</span><span>5928</span><span>5926</span><span>5929</span><span>5931</span><span>5932</span><span>5933</span><span>5934</span><span>5935</span><span>5936</span><span>5937</span><span>5938</span><span>5939</span><span>5940</span><span>5941</span><span>5942</span><span>5943</span><span>5944</span><span>5946</span><span>5947</span><span>5948</span><span>5949</span><span>5951</span><span>5950</span><span>5954</span><span>5955</span><span>5957</span><span>5906</span><span>5909</span><span>5919</span><span>5925</span><span>5927</span><span>5930</span><span>5945</span><span>5952</span><span>5953</span><span>5956</span></div>
+</div><h3 id='k'>Konferencje:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/624">Colloquium in honor of the 64th Birthday of P. Lecomte</a>, Universite de Liege, Liege, Belgia, 2017-12-18 - 2017-12-19	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/405">Foliations 2016</a>, IMPAN, Będlewo, Polska, 2016-07-12 - 2016-07-16	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/399">Dynamical Systems for Aperiodicity</a>, Universite Lyon I, Lyon, Francja, 2016-01-04 - 2016-01-08	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/228">XXII Encuentros de Topologia</a>, Red Española de Topología, Walencia, Hiszpania, 2015-10-23 - 2015-10-24	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>, <a class="default-link" href="/users/1019-aleksandra-borowka">Aleksandra Borówka</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/221">Workshop on almost hermitian and contact geometry</a>,  Ilka Agricola, Thomas Friedrich, Aleksy Tralle  , Będlewo, Polska, 2015-10-18 - 2015-10-24	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/226"> K-Theory, C*-Algebras and Topology of Manifolds III </a>, Academy for Interdisciplinary Sciences (Harbin Institute of Technology), Harbin, Chiny, 2015-08-24 - 2015-08-28	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/227">Geometric Structures on Riemannian Manifolds</a>, Department of Mathematics, University of Bari Aldo Moro, Bari, Włochy, 2015-06-25 - 2015-06-26	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/407">Bayesian inference and maximum entropy methods in science and engineering : (MaxEnt 2014) : </a>, SEE (FRANCE), Amboise, Francja, 2014-09-21 - 2014-09-26	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/408">Joint Meeting of the German Mathematical Society (DMV) and the Polish   Mathematical Society</a>, PTM, Poznań, Polska, 2014-09-17 - 2014-09-20	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/406">Geometry and Dynamics of Foliations</a>, ICMAT, Madryt, Hiszpania, 2014-09-01 - 2014-09-05	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/409">Geometric Science of Information, First International Conference, GSI 2013</a>, Ecole Sup Mines, Paryz, Francja, 2013-08-28 - 2013-08-30	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/210-robert_wolak"><span>624</span><span>405</span><span>399</span><span>228</span><span>221</span><span>226</span><span>227</span><span>407</span><span>408</span><span>406</span><span>409</span></div>
+</div><h3 id='ko'>Konferencje organizowane:</h3><div id="yw3" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/50">Glances at Manifolds</a>, Kraków, 2015-07-17, 2015-07-20	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/51">Glances at Manifolds</a>, Kraków, 2015-07-17, 2015-07-20	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/52">20th International Summer School on Global Analysis and its Applications
+General Relativity: 100 years after Hilbert</a>, Stara Lesna, 2015-08-17, 2015-08-21	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/77">Glances at manifolds II</a>, Kraków, 2016-08-08, 2016-08-12	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/78">21st International Summer School on Global Analysis and Applications</a>, Poprad, 2016-08-15, 2016-08-19	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/79">Dynamical Systems for Aperiodicity</a>, Lyon, 2016-01-04, 2016-01-08	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/80">9th International Summer School on Global Analysis and its Applications, Symmetries</a>, Lednice (Czechy), 2014-08-25, 2014-08-30	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/81">Knots, Manifolds, and Group Actions</a>, Słubice, 2013-09-11, 2013-09-14	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/82">Differential Geometry,  Kraków 2013</a>, Kraków, 2013-11-22, 2013-11-23	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/151">22nd International Summer School on Global Analysis and Applications</a>, Kraków, 2017-08-21, 2017-08-25	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>, <a class="default-link" href="/users/364-andrzej-czarnecki">Andrzej Czarnecki</a>, <a class="default-link" href="/users/1384-maciej-zielinski">Maciej Zieliński</a>, <a class="default-link" href="/users/1649-pawel-razny">Paweł Raźny</a>, <a class="default-link" href="/users/1720-natalia-kupiec">Natalia Kupiec</a>, <a class="default-link" href="/users/1723-rouzbeh-mohseni">Rouzbeh Mohseni</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/157">Glances@Manifolds III</a>, Kraków, 2018-07-02, 2018-07-06	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/210-robert-wolak">Robert Wolak</a>, <a class="default-link" href="/users/654-piotr-kopacz">Piotr Kopacz</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/116">22nd International Summer School on Global Analysis and Applications</a>, Kraków, Collegium Maius UJ, 2017-08-21, 2017-08-25	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/210-robert_wolak"><span>50</span><span>51</span><span>52</span><span>77</span><span>78</span><span>79</span><span>80</span><span>81</span><span>82</span><span>151</span><span>157</span><span>116</span></div>
+</div><h3 id='d'>Doktoranci <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="doc-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="doc-view_c0"><a class="sort-link" href="/users/210-robert_wolak?Procedure_sort=id_user">Doktorant<span class="caret"></span></a></th><th id="doc-view_c1"><a class="sort-link" href="/users/210-robert_wolak?Procedure_sort=opening">Otwarcie<span class="caret"></span></a></th><th id="doc-view_c2"><a class="sort-link" href="/users/210-robert_wolak?Procedure_sort=ending">Zakonczenie<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/132">Małgorzata Józefowicz</a></td><td>2006-05-25</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/172">Łukasz Bąk</a></td><td>2012-06-28</td><td>&nbsp;</td></tr>
+<tr class="odd">
+<td><a href="../procedure/173">Andrzej Czarnecki</a></td><td>2012-06-28</td><td>2015-09-15</td></tr>
+<tr class="even">
+<td><a href="../procedure/181">Piotr Kopacz</a></td><td>2012-06-28</td><td>&nbsp;</td></tr>
+<tr class="odd">
+<td><a href="../procedure/233">Ada Pałka</a></td><td>2013-01-31</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/318">Paweł Raźny</a></td><td>2018-05-24</td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/210-robert_wolak"><span>132</span><span>172</span><span>173</span><span>181</span><span>233</span><span>318</span></div>
+</div><h3 id='r'>Recenzje <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="review-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="review-view_c0"><a class="sort-link" href="/users/210-robert_wolak?ProcedureReview_sort=id_procedure">Recenzowany<span class="caret"></span></a></th><th id="review-view_c1">Jednostka</th><th id="review-view_c2"><a class="sort-link" href="/users/210-robert_wolak?ProcedureReview_sort=id_uploaded_file">Treść recenzji<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/185">Doktorat: Artur Zając</a></td><td></td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/210-robert_wolak"><span>470</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw3').yiiListView({'ajaxUpdate':['yw3'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#doc-view').yiiGridView({'ajaxUpdate':['doc-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#review-view').yiiGridView({'ajaxUpdate':['review-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

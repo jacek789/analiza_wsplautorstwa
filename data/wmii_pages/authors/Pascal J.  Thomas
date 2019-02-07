@@ -1,0 +1,219 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title> Pascal J.  Thomas</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+ Pascal J.  Thomas
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/684-pascal_j___thomas">Pascal J.  Thomas</a>, <a href="/users/273-lukasz_kosinski">Łukasz Kosiński</a>, <a href="/users/181-wlodzimierz_zwonek">Włodzimierz Zwonek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7973-coman_conjecture_for_the_bidisc">Coman conjecture for the bidisc</a>, <a href="/czasopisma/233025-pacific_journal_of_mathematics">PAC J MATH</a> vol. 287(2) (2017), 411-422	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/684-pascal_j___thomas">Pascal J.  Thomas</a>, <a href="/users/726-nikolai_nikolov">Nikolai Nikolov</a>, <a href="/users/421-maria_trybula">Maria Trybuła</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7909-gromov__non__hyperbolicity_of_certain_domains_in_cn">Gromov (non-)hyperbolicity of certain domains in ℂN</a>, <a href="/czasopisma/228589-forum_mathematicum">FORUM MATH</a> vol. 28 (2016), 783–794	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/684-pascal_j___thomas">Pascal J.  Thomas</a>, <a href="/users/712-nguyen_van_trao">Nguyen Van Trao</a>, <a href="/users/181-wlodzimierz_zwonek">Włodzimierz Zwonek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5995-green_functions_of_the_spectral_ball_and_symmetrized_polydisk">Green functions of the spectral ball and symmetrized polydisk</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 377(2) (2011), 624-630	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/684-pascal_j___thomas">Pascal J.  Thomas</a>, <a href="/users/726-nikolai_nikolov">Nikolai Nikolov</a>, <a href="/users/664-peter_pflug">Peter Pflug</a>, <a href="/users/181-wlodzimierz_zwonek">Włodzimierz Zwonek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5999-on_a_local_characterization_of_pseudoconvex_domains">On a local characterization of pseudoconvex domains</a>, <a href="/czasopisma/229319-indiana_university_mathematics_journal">INDIANA U MATH J</a> vol. 58 (2009), 2661-2672	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/684-pascal_j___thomas">Pascal J.  Thomas</a>, <a href="/users/726-nikolai_nikolov">Nikolai Nikolov</a>, <a href="/users/181-wlodzimierz_zwonek">Włodzimierz Zwonek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6002-discontinuity_of_the_lempert_function_and_the_kobayashi_royden_metric_of_the_spectral_ball">Discontinuity of the Lempert function and the Kobayashi-Royden metric of the spectral ball</a>, <a href="/czasopisma/229415-integral_equations_and_operator_theory">INTEGR EQUAT OPER TH</a> vol. 61(3) (2008), 401-412	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/684-pascal_j___thomas">Pascal J.  Thomas</a>, <a href="/users/726-nikolai_nikolov">Nikolai Nikolov</a>, <a href="/users/664-peter_pflug">Peter Pflug</a>, <a href="/users/181-wlodzimierz_zwonek">Włodzimierz Zwonek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6000-estimates_of_the_caratheodory_metric_on_the_symmetrized_polydisc">Estimates of the Carathéodory metric on the symmetrized polydisc</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 341(1) (2008), 140-148	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/684-pascal_j___thomas">Pascal J.  Thomas</a>, <a href="/users/726-nikolai_nikolov">Nikolai Nikolov</a>, <a href="/users/421-maria_trybula">Maria Trybuła</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7439-gromov__non_hyperbolicity_of_certain_domains_in__mathbb_c___2__">Gromov (non)hyperbolicity of certain domains in $mathbb{C}^{2}$</a>, <a href="/czasopisma/228589-forum_mathematicum">FORUM MATH</a> (), 	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/684-pascal_j___thomas"><span>7973</span><span>7909</span><span>5995</span><span>5999</span><span>6002</span><span>6000</span><span>7439</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

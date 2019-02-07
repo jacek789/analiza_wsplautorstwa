@@ -1,0 +1,2850 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/47990234/pager.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>Wydział Matematyki i Informatyki - Publication</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1>Wydział Matematyki i Informatyki UJ - lista publikacji</h1>
+
+
+
+<div class="publication row">
+  
+  <div class="col-lg-6">
+  	  		  <h3>Podjednostki:</h3>
+		<ul class="jednostki-publikacje">
+					<li><a href="/jednostki/2-instytut_informatyki_i_matematyki_komputerowej">Instytut Informatyki i Matematyki Komputerowej</a></li>
+					<li><a href="/jednostki/3-instytut_matematyki">Instytut Matematyki</a></li>
+					<li><a href="/jednostki/23-katedra_teorii_optymalizacji_i_sterowania">Katedra Teorii Optymalizacji i Sterowania</a></li>
+					<li><a href="/jednostki/4-zespol_katedr_i_zakladow_informatyki_matematycznej">Zespół Katedr i Zakładów Informatyki Matematycznej</a></li>
+				</ul>
+	  </div>
+	
+	<div class="col-lg-6">
+		<p>[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj">Wszystkie publikacje</a>]</p>
+		<br>
+				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2019">2019</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2018">2018</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2017">2017</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2016">2016</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2015">2015</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2014">2014</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2013">2013</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2012">2012</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2011">2011</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2010">2010</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2009">2009</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2008">2008</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2007">2007</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2006">2006</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2005">2005</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2004">2004</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2003">2003</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2002">2002</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2001">2001</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=2000">2000</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1999">1999</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1998">1998</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1997">1997</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1996">1996</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1995">1995</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1994">1994</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1993">1993</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1992">1992</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1991">1991</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1990">1990</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1989">1989</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1988">1988</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1987">1987</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1986">1986</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1985">1985</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1984">1984</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1983">1983</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1982">1982</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1981">1981</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1980">1980</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1979">1979</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1978">1978</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1977">1977</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1976">1976</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1975">1975</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1974">1974</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1973">1973</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1972">1972</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1971">1971</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1970">1970</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1969">1969</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1968">1968</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1963">1963</a>]				[<a class="publ-array" href="/jednostki/1-wydzial_matematyki_i_informatyki_uj?rok=1955">1955</a>]			</div>
+	
+</div>
+
+
+
+
+
+
+<div id="yw0" class="list-view">
+<div class="summary">1-182 z 182.</div>
+
+<div class="items">
+<div>
+<h3>2013</h3>
+</div>
+
+<div class="row-fluid">
+
+<div class="span1">
+	182.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1462-johannes__schmidt">Johannes  Schmidt</a>, <a href="/users/1455-michal_wrona">Michał Wrona</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7884-the_complexity_of_abduction_for_equality_constraint_languages">The Complexity of Abduction for Equality Constraint Languages</a>, LIPICS–LEIBNIZ INTERNATIONAL PROCEEDINGS IN INFORMATICS vol. 23 (2013), 615--633	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	181.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1239-stanislaw__jastrzebski">Stanisław  Jastrzębski</a>, <a href="/users/139-igor_podolak">Igor Podolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7726-density_invariant_detection_of_osteoporosis_using_growing_neural_gas">Density Invariant Detection of Osteoporosis Using Growing Neural Gas</a>, PROCEEDINGS OF THE 8TH INTERNATIONAL CONFERENCE ON COMPUTER RECOGNITION SYSTEMS CORES 2013 vol. Springer International Publishing (2013), 629-638	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	180.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/189-marek_kosiek">Marek Kosiek</a>, <a href="/users/508-krzysztof_rudol">Krzysztof Rudol</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7550-corrigendum_to__fibers_of_the_l___algebra_and_disintegration_of_measures">Corrigendum to: Fibers of the L ∞ algebra and disintegration of measures</a>, <a href="/czasopisma/225956-archiv_der_mathematik">ARCH MATH</a> vol. 100 (2013), 437-438	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	179.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>, <a href="/users/1296-janusz_brzdek">Janusz Brzdęk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7503-a_fixed_point_theorem_and_the_hyers_ulam_stability_in_riesz_spaces_">A fixed point theorem and the Hyers-Ulam stability in Riesz spaces </a>, <a href="/czasopisma/225322-advances_in_difference_equations">ADV DIFFER EQU-NY</a> vol. 2013:138 (2013), 12	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	178.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/899-bogdan_batko">Bogdan Batko</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7502-the_stability_of_dhombres__equation_in_riesz_spaces">The stability of Dhombres' equation in Riesz spaces</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 406.1 (2013), 261-265	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	177.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/107-marek_skomorowski">Marek Skomorowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7465-wybrane_zagadnienia_rozpoznawania_obrazow">Wybrane zagadnienia rozpoznawania obrazów</a>, (2013), Wydawnictwo Uniwersytetu Jagiellońskiego	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	176.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1062-jose_ramon_fernandez">Jose Ramon Fernandez</a>, <a href="/users/115-piotr_kalita">Piotr Kalita</a>, <a href="/users/101-stanislaw_migorski">Stanisław Migórski</a>, <a href="/users/1063-maria_del_carmen_muniz">Maria del Carmen Muniz</a>, <a href="/users/1061-cristina_nunez">Cristina Nunez</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7410-variational_and_numerical_analysis_of_a_mixed_kinetic_diffusion_surfactant_model_for_the_modified_the_langmuir_hinshelwood_equation">Variational and numerical analysis of a mixed kinetic-diffusion surfactant model for the modified the Langmuir-Hinshelwood equation</a>, PROCEEDINGS OF THE 13TH INTERNATIONAL CONFERENCE ON COMPUTATIONAL AND MATHEMATICAL METHODS IN SCIENCE AND ENGINEERING, CMMSE 2013 (2013), 601-614	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	175.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1229-jean_cardinal">Jean Cardinal</a>, <a href="/users/714-kolja_knauer">Kolja Knauer</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>, <a href="/users/717-torsten_ueckerdt">Torsten Ueckerdt</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7332-making_triangles_colorful">Making triangles colorful</a>, JOURNAL OF COMPUTATIONAL GEOMETRY vol. 4 (2013), 240-246	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	174.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1228-andrei_asinowski">Andrei Asinowski</a>, <a href="/users/1229-jean_cardinal">Jean Cardinal</a>, <a href="/users/1230-nathann_cohen">Nathann Cohen</a>, <a href="/users/1231-sebastien_collette">Sébastien Collette</a>, <a href="/users/1235-_gunter_rote"> Günter Rote</a>, <a href="/users/1232-thomas_hackl">Thomas Hackl</a>, <a href="/users/1233-michael_hoffman">Michael Hoffman</a>, <a href="/users/714-kolja_knauer">Kolja Knauer</a>, <a href="/users/1234-stefan_langerman">Stefan Langerman</a>, <a href="/users/428-michal_lason">Michał Lasoń</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>, <a href="/users/717-torsten_ueckerdt">Torsten Ueckerdt</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7330-coloring_hypergraphs_induced_by_dynamic_point_sets_and_bottomless_rectangles">Coloring hypergraphs induced by dynamic point sets and bottomless rectangles</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 8037 (2013), 73-84	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	173.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/307-kamil_bartocha">Kamil Bartocha</a>, <a href="/users/1224-william_beckler">William Beckler</a>, <a href="/users/1225-krzysztof_osiewalski">Krzysztof Osiewalski</a>, <a href="/users/124-adam_roman">Adam Roman</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7321-lastminute_com_s_12_week_geo_experiment_reveals_a_43__uplift_in_google_adwords_values">lastminute.com’s 12-week geo-experiment reveals a 43% uplift in Google AdWords values</a>, GOOGLE ADWORDS BLOG, ADWORDS.BLOGSPOT.COM (2013), 3	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	172.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/144-jacek_smietanski">Jacek Śmietański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7307-bio_med_image_informatics">Bio-med image informatics</a>, SOCBIN/BIT13 (2013), 122	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	171.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/381-ada_palka">Ada Pałka</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7260-tworzenie_obrazow_anamorficznych___propozycja_warsztatow">Tworzenie obrazów anamorficznych – propozycja warsztatów</a> vol. Tom 3 (2013), "Matematyka w przyrodzie i sztuce - matematyka, przyroda i sztuka w kształceniu powszechnym", Wydawnictwo Naukowe Państwowej Wyższej Szkoły Zawodowej w Nowym Sączu	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	170.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/855-specogna_ruben">Specogna Ruben</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7251-topology_preserving_thinning_of_cell_complexes">Topology preserving thinning of cell complexes</a>, <a href="/czasopisma/229175-ieee_transactions_on_image_processing">IEEE T IMAGE PROCESS</a> (2013), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	169.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7248-asymptotic_estimate_of__absolute_projection_constants">Asymptotic estimate of  absolute projection constants</a>, UNIVERSITATIS IAGELLONICAE ACTA MATHEMATICA vol. 51 (2013), 51-60	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	168.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/120-malgorzata_moczurad">Małgorzata Moczurad</a>, <a href="/users/121-wlodzimierz_moczurad">Włodzimierz Moczurad</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7218-testing_decipherability_of_directed_figure_codes_with_domino_graphs">Testing decipherability of directed figure codes with domino graphs</a>, <a href="/czasopisma/236602-schedae_informaticae">SCHEDAE INFORMATICAE</a> (2013), 27-40	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	167.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/311-robert_szczelina">Robert Szczelina</a>, <a href="/users/103-piotr_zgliczynski">Piotr Zgliczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7182-a_homoclinic_orbit_in_a_planar_singular_ode___a_computer_assisted_proof">A Homoclinic Orbit in a Planar Singular ODE---A Computer Assisted Proof</a>, <a href="/czasopisma/234332-siam_journal_on_applied_dynamical_systems">SIAM J APPL DYN SYST</a> vol. 12 (2013), 1541-–1565	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	166.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7178-quasi_offline_fair_scheduling_in_third_generation_wireless_data__networks">Quasi-Offline Fair Scheduling in Third Generation Wireless Data  Networks</a>, <a href="/czasopisma/235974-journal_of_telecommunications_and_information_technology">JOURNAL OF TELECOMMUNICATIONS AND INFORMATION TECHNOLOGY</a> (2013), 112-114	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	165.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7177-cooperative_games_with_incomplete_information_for_secondary_base_stations_in_cognitive_radio_networks">Cooperative Games with Incomplete Information for Secondary Base Stations in Cognitive Radio Networks</a>, <a href="/czasopisma/235974-journal_of_telecommunications_and_information_technology">JOURNAL OF TELECOMMUNICATIONS AND INFORMATION TECHNOLOGY</a> (2013), 106-111	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	164.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7176-an_energy_efficient_approach_to_the_design_of_two_tier_wireless_ad_hoc_and_sensor_networks">An Energy-Efficient Approach to the Design of Two-Tier Wireless Ad Hoc and Sensor Networks</a>,  PROC. OF THE INTERNATIONAL CONFERENCE ON MAN-MACHINE INTERACTIONS (ICMMI '13) (2013), 579 – 587	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	163.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7175-intelligent_system_for_channel_prediction_in_the_mimo_ofdm_wireless_communications_using_a_multidimensional_recurrent_ls_svm_">Intelligent System for Channel Prediction in the MIMO-OFDM Wireless Communications Using a Multidimensional Recurrent LS-SVM </a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 8073 (2013), 441-450	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	162.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7174-a_stackelberg_game_for_dynamic_spectrum_leasing_in_cognitive_radio_networks">A Stackelberg Game for Dynamic Spectrum Leasing in Cognitive Radio Networks</a>, <a href="/czasopisma/236468-przeglad_telekomunikacyjny___wiadomosci_telekomunikacyjne">PRZEGLĄD TELEKOMUNIKACYJNY + WIADOMOŚCI TELEKOMUNIKACYJNE</a> (2013), 1093-1096	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	161.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7173-coalitional_games_with_incomplete_information_among_secondary_users_in_cognitive_radio_networks">Coalitional Games with Incomplete Information Among Secondary Users in Cognitive Radio Networks</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 8121 (2013), 272-283	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	160.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7172-performance_modeling_of_opportunistic_networks">Performance Modeling of Opportunistic Networks</a>, COMPUTER NETWORKS, 20TH INTERNATIONAL SCIENCE CONFERENCE: COMPUTER NETWORKS - CN2013 (2013) vol. 370 (2013), 240-251	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	159.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7171-spectrum_access_game_for_cognitive_radio_networks">Spectrum Access Game for Cognitive Radio Networks</a>, COMPUTER NETWORKS, 20TH INTERNATIONAL SCIENCE CONFERENCE: COMPUTER NETWORKS - CN2013 (2013) vol. 370 (2013), 232-239	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	158.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7170-cooperative_games_with_incomplete_information_among_secondary_base_stations_in_cognitive_radio_networks">Cooperative Games with Incomplete Information Among Secondary Base Stations in Cognitive Radio Networks</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 7906 (2013), 43-52	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	157.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7169-optimal_power_allocation_with_capacity_maximization_in_spectrum_sensing_for_qos_provisioning_in_cognitive_radio_networks">Optimal Power Allocation with Capacity Maximization in Spectrum Sensing for QoS Provisioning in Cognitive Radio Networks</a>, <a href="/czasopisma/236468-przeglad_telekomunikacyjny___wiadomosci_telekomunikacyjne">PRZEGLĄD TELEKOMUNIKACYJNY + WIADOMOŚCI TELEKOMUNIKACYJNE</a> vol. 6 (2013), 369-372	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	156.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1370-pawel_fidelus__">Paweł Fidelus  </a>, <a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7168-automatic_classification_of_electronic_components_based_on_the_support_vector_machine">Automatic Classification of Electronic Components Based on the Support Vector Machine</a>, <a href="/czasopisma/242674-studia_informatica___formerly__zeszyty_naukowe_politechniki_slaskiej__seria__informatyka">STUDIA INFORMATICA / FORMERLY: ZESZYTY NAUKOWE POLITECHNIKI ŚLĄSKIEJ, SERIA: INFORMATYKA</a> vol. 34 (2013), 303-310	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	155.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/301-hubert_wagner">Hubert Wagner</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7166-towards_topological_analysis_of_high_dimensional_feature_spaces">Towards topological analysis of high-dimensional feature spaces</a>, <a href="/czasopisma/227360-computer_vision_and_image_understanding">COMPUT VIS IMAGE UND</a> (2013), 21-26	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	154.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1160-g_cochran">G Cochran</a>, <a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/858-thomas_wanner">Thomas Wanner</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7164-a_randomized_subdivision_algorithm_for_determining_the_topology_of_nodal_sets">A randomized subdivision algorithm for determining the topology of nodal sets</a>, <a href="/czasopisma/234342-siam_journal_on_scientific_computing">SIAM J SCI COMPUT</a> (2013), 1034–1054	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	153.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/855-specogna_ruben">Specogna Ruben</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7163-physics_inspired_algorithms_for__co_homology_computations_of_three_dimensional_combinatorial_manifolds_with_boundary__computer_physics_communications">Physics inspired algorithms for (co)homology computations of three-dimensional combinatorial manifolds with boundary, Computer Physics Communications</a>, <a href="/czasopisma/227354-computer_physics_communications">COMPUT PHYS COMMUN</a> (2013), 2257-2266	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	152.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/855-specogna_ruben">Specogna Ruben</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7162-a_novel_technique_for_cohomology_computations_in_engineering_practice">A novel technique for cohomology computations in engineering practice</a>, <a href="/czasopisma/227350-computer_methods_in_applied_mechanics_and_engineering">COMPUT METHOD APPL M</a> (2013), 530-542	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	151.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/855-specogna_ruben">Specogna Ruben</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7161-cohomology_in_3d_magneto_quasistatics_modeling">Cohomology in 3D magneto-quasistatics modeling</a>, <a href="/czasopisma/227260-communications_in_computational_physics">COMMUN COMPUT PHYS</a> (2013), 48-76	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	150.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1153-adam_i____cygankiewicz">Adam I.   Cygankiewicz</a>, <a href="/users/1146-jakub_fichna">Jakub Fichna</a>, <a href="/users/250-piotr_koscielniak">Piotr Kościelniak</a>, <a href="/users/1156-wanda_m__krajewska">Wanda M. Krajewska</a>, <a href="/users/1157-alexandros__makriyannis">Alexandros  Makriyannis</a>, <a href="/users/1155-ewa_malecka_panas">Ewa Małecka-Panas</a>, <a href="/users/1152-anna_mokrowiecka">Anna Mokrowiecka</a>, <a href="/users/581-piotr_oprocha">Piotr Oprocha</a>, <a href="/users/1148-malvina__papanastasiou">Malvina  Papanastasiou</a>, <a href="/users/1150-maciej__salaga">Maciej  Sałaga</a>, <a href="/users/1151-marta_sobczak">Marta Sobczak</a>, <a href="/users/1158-martin_a___storr">Martin A.  Storr</a>, <a href="/users/1149-subramanian_k___vadivel">Subramanian K.  Vadivel</a>, <a href="/users/1147-jodianne_t_wood">JodiAnne T Wood</a>, <a href="/users/1154-piotr_k___zakrzewski">Piotr K.  Zakrzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7160-endocannabinoid_and_cannabinoid_like_fatty_acid_amide_levels_correlate_with_pain_related_symptoms_in_patients_with_ibs_d_and_ibs_c__a_pilot_study">Endocannabinoid and Cannabinoid-Like Fatty Acid Amide Levels Correlate with Pain-Related Symptoms in Patients with IBS-D and IBS-C: A Pilot Study</a>, <a href="/czasopisma/233359-plos_one">PLOS ONE</a> vol. 8(12) 2013 (2013), 1-8	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	149.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/436-michal_staromiejski">Michał Staromiejski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7155-polynomial_time_locality_tests_for_finite_rings">Polynomial-time locality tests for finite rings</a>, <a href="/czasopisma/230079-journal_of_algebra">J ALGEBRA</a> vol. 379 (2013), 441-452	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	148.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1143-jiangfeng_han">Jiangfeng Han</a>, <a href="/users/1145-xianghu_liu">Xianghu Liu</a>, <a href="/users/1144-zhenhai_liu">Zhenhai Liu</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7151-the_solvability_and_optimal_controls_for_some_fractional_impulsive_equation">The Solvability and Optimal Controls for Some Fractional Impulsive Equation</a>, <a href="/czasopisma/225060-abstract_and_applied_analysis">ABSTR APPL ANAL</a> vol. 2013 (2013), Article ID 914592	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	147.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/363-sebastian_baran">Sebastian Baran</a>, <a href="/users/1136-zbigniew_palmowski">Zbigniew Palmowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7145-problem_optymalizacji_oczekiwanej_uzytecznosci_wyplat_dywidend_w_modelu_cramera_lundberga">Problem optymalizacji oczekiwanej użyteczności wypłat dywidend w modelu Cramera-Lundberga</a>, <a href="/czasopisma/236561-roczniki_kolegium_analiz_ekonomicznych">ROCZNIKI KOLEGIUM ANALIZ EKONOMICZNYCH</a> vol. Zeszyt 31/2013. Zagadnienia aktuarialne - teoria i praktyka (2013), 27-43	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	146.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1131-maciej_gawron">Maciej Gawron</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7140-on_the_diophantine_equation_p_z__n__m_">On the Diophantine equation P(z)=n!+m!</a>, <a href="/czasopisma/235577-colloquium_mathematicum">COLLOQ MATH-WARSAW</a> vol. Vol 131, No 1 (2013), 53-58	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	145.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/597-tomasz_komorowski">Tomasz Komorowski</a>, <a href="/users/1029-szymon_peszat">Szymon Peszat</a>, <a href="/users/647-tomasz_szarek">Tomasz Szarek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7136-passive_tracer_in_a_flow_corresponding_to_two_dimensional_stochastic_navier_stokes_equations">Passive tracer in a flow corresponding to two-dimensional stochastic Navier-Stokes equations</a>, <a href="/czasopisma/232783-nonlinearity">NONLINEARITY</a> vol. 26 (2013), 1999-2026	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	144.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1159-jerzy__zabczyk">Jerzy  Zabczyk</a>, <a href="/users/1029-szymon_peszat">Szymon Peszat</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7135-time_regularity_of_solutions_to_linear_equations_with_levy_noise_in_infinite_dimensions">Time regularity of solutions to linear equations with Lévy noise in infinite dimensions</a>, <a href="/czasopisma/234580-stochastic_processes_and_their_applications">STOCH PROC APPL</a> vol. 123 (2013), 719-751	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	143.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/421-maria_trybula">Maria Trybuła</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7124-proper_holomorphic_mappings__bell_s_formula_and_the_lu_qi_keng_problem_on_the_tetrablock">Proper holomorphic mappings, Bell’s formula and the Lu Qi-Keng problem on the tetrablock</a>, <a href="/czasopisma/225956-archiv_der_mathematik">ARCH MATH</a> vol. 101, issue 6 (2013),  549-558	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	142.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/300-krzysztof_misztal">Krzysztof Misztal</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>, <a href="/users/708-jozef_tabor">Józef Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7117-generalized_midconvexity">Generalized midconvexity</a>, <a href="/czasopisma/242166-banach_center_publications">BANACH CENTER PUBLICATIONS</a> vol. 99 (2013), 207-215	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	141.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/300-krzysztof_misztal">Krzysztof Misztal</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7115-detection_of_elliptical_shapes_via_cross_entropy_clustering">Detection of elliptical shapes via cross-entropy clustering</a>, PATTERN RECOGNITION AND IMAGE ANALYSIS LECTURE NOTES IN COMPUTER SCIENCE vol. 7887 (2013), 656-663	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	140.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/300-krzysztof_misztal">Krzysztof Misztal</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7114-mahalanobis_distance_based_algorithm_for_ellipse_growing_in_iris_preprocessing">Mahalanobis distance-based algorithm for ellipse growing in iris preprocessing</a>, COMPUTER INFORMATION SYSTEMS AND INDUSTRIAL MANAGEMENT LECTURE NOTES IN COMPUTER SCIENCE vol. 8104 (2013), 158-167	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	139.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/101-stanislaw_migorski">Stanisław Migórski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7110-a_note_on_optimal_control_problem_for_a_hemivariational_inequality_modeling_fluid_flow">A note on optimal control problem for a hemivariational inequality modeling fluid flow</a>, <a href="/czasopisma/227761-discrete_and_continuous_dynamical_systems_series_b">DISCRETE CONT DYN-B</a> vol. 2013 (2013), 545-554	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	138.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7109-multiple_solutions_for_nonlinear_dirichlet_problems_with_concave_terms">Multiple solutions for nonlinear Dirichlet problems with concave terms</a>, <a href="/czasopisma/232180-mathematica_scandinavica">MATH SCAND</a> vol. 113 (2013), 206-247	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	137.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7108-nonlinear_periodic_equations_driven_by_a_nonhomogeneous_differential_operator">Nonlinear periodic equations driven by a nonhomogeneous differential operator</a>, <a href="/czasopisma/231159-journal_of_nonlinear_and_convex_analysis">J NONLINEAR CONVEX A</a> vol. 14 (2013), 583-600	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	136.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7107-nonlinear_neumann_problems_with_constraints">Nonlinear Neumann problems with constraints</a>, <a href="/czasopisma/228636-funkcialaj_ekvacioj_serio_internacia">FUNKC EKVACIOJ-SER I</a> vol. 56 (2013), 249-270	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	135.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7106-a_pair_of_positive_solutions_for_the_dirichlet_p_z__laplacian_with_concave_and_convex_nonlinearities">A pair of positive solutions for the Dirichlet p(z)-Laplacian with concave and convex nonlinearities</a>, <a href="/czasopisma/230749-journal_of_global_optimization">J GLOBAL OPTIM</a> vol. 56 (2013), 1347-1360	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	134.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7105-existence_and_uniqueness_of_positive_solutions_for_the_neumann_p_laplacian">Existence and uniqueness of positive solutions for the Neumann p-Laplacian</a>, <a href="/czasopisma/233435-positivity">POSITIVITY</a> vol. 17 (2013), 309-332	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	133.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1118-eric_edo">Eric Edo</a>, <a href="/users/1119-t__kanehira">T. Kanehira</a>, <a href="/users/260-marek_karas">Marek Karaś</a>, <a href="/users/1120-shigeru_kuroda">Shigeru Kuroda</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7100-separability_of_wild_automorphisms_of_a_polynomial_ring">Separability of wild automorphisms of a polynomial ring</a>, <a href="/czasopisma/234895-transformation_groups">TRANSFORM GROUPS</a> vol. 18 (2013), 81–96	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	132.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/949-miroslav_doupovec">Miroslav Doupovec</a>, <a href="/users/223-wlodzimierz_mikulski">Włodzimierz Mikulski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7099-on_symmetrization_of_higher_order_jets">On symmetrization of higher order jets</a>, <a href="/czasopisma/243492-miskolc_mathematical_notes">MISKOLC MATH NOTES</a> vol. 14(2) (2013), 495-502	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	131.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/919-jan_kurek">Jan Kurek</a>, <a href="/users/223-wlodzimierz_mikulski">Włodzimierz Mikulski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7096-the__natural_lifting_of_connections_to_tensor_powers_of_the_cotangent_bundle">The  natural lifting of connections to tensor powers of the cotangent bundle</a>, <a href="/czasopisma/243492-miskolc_mathematical_notes">MISKOLC MATH NOTES</a> vol. 14(2) (2013), 517-524	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	130.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/223-wlodzimierz_mikulski">Włodzimierz Mikulski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7095-on_the_kolar_connection">On the Kolar connection</a>, ARCH. MATH (BRNO) vol. 49(4) (2013), 223-240	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	129.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/918-andrzej_horzela">Andrzej Horzela</a>, <a href="/users/199-franciszek_hugon_szafraniec">Franciszek Hugon Szafraniec</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7092-a_measure_free_approach_to_coherent_states_refined">A measure free approach to coherent states refined</a> vol. Nankai Series in Pure, Applied Mathematics and Theoretical Physics, vol 11 (2013), "Symmetries and Groups in Contemporary Physics; ISBN: 978-981-4518-54-3 ", World Scientific Publishing	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	128.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/271-anna_kula">Anna Kula</a>, <a href="/users/542-janusz_wysoczanski">Janusz Wysoczański</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7090-_an_example_of_a_boolean_free_type_central_limit_theorem__afiliacja_uwr_"> An example of a Boolean-free type central limit theorem (AFILIACJA UWr)</a>, <a href="/czasopisma/236386-probability_and_mathematical_statistics">PROBABILITY AND MATHEMATICAL STATISTICS</a> vol. Vol. 33, Fasc. 2 (2013), 341 - 352	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	127.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/271-anna_kula">Anna Kula</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7089-construction_of_a_compact_quantum_group_for_transposition_coloring_function__afiliacja_uwr_">Construction of a compact quantum group for transposition-coloring function (AFILIACJA UWr)</a>, <a href="/czasopisma/236386-probability_and_mathematical_statistics">PROBABILITY AND MATHEMATICAL STATISTICS</a> vol. Vol. 33, Fasc. 2 (2013), 287 - 299	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	126.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/202-antoni_leon_dawidowicz">Antoni Leon Dawidowicz</a>, <a href="/users/631-anna_poskrobko">Anna Poskrobko</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7088-stability_and_chaotic_properties_of__multidimensional_lasota_equation">Stability and chaotic properties of  multidimensional Lasota equation</a>, <a href="/czasopisma/227428-control_and_cybernetics">CONTROL CYBERN</a> vol. 42 (2013), 386-397	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	125.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/232-wieslaw_plesniak">Wiesław Pleśniak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7085-identity_principles_for_bernstein_quasianalytic_functions">Identity principles for Bernstein quasianalytic functions</a>, COMMENTATIONES MATHEMATICAE vol. 53 (2) (2013), 179-187	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	124.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/105-wit_forys">Wit Foryś</a>, <a href="/users/876-janusz_matyja">Janusz Matyja</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7083-on_one_sided__d_chaotic_cellular_automaton__having_continuum_of_fixed_points_and_topological_entropy_log_3_">On One-Sided, D-Chaotic Cellular Automaton, Having Continuum of Fixed Points and Topological Entropy log(3)</a>, <a href="/czasopisma/230294-journal_of_cellular_automata">J CELL AUTOM</a> vol. 8(3-4) (2013), 131-146	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	123.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/442-andrzej_grzesik">Andrzej Grzesik</a>, <a href="/users/1112-hrant_khachatrian">Hrant Khachatrian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7082-on_interval_edge_colorings_of_complete_tripartite_graphs">On interval edge-colorings of complete tripartite graphs</a>, COMPUTER SCIENCE AND INFORMATION TECHNOLOGIES (CSIT) (2013), 1-3	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	122.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1105-david_r__larson">David R. Larson</a>, <a href="/users/199-franciszek_hugon_szafraniec">Franciszek Hugon Szafraniec</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7078-framings_and_dilations">Framings and dilations</a>, ACTA SCIENTIARUM MATHEMATICARUM  vol. 79 (2013), 529-543	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	121.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/225-marcin_bilski">Marcin Bilski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7074-algebraic_approximation_of_analytic_subsets_of_c_q_imes_0__in_c__q_1_">Algebraic approximation of analytic subsets of C^q	imes{0} in C^{q+1}</a>, <a href="/czasopisma/227317-comptes_rendus_mathematique">CR MATH</a> vol. Ser. I, 351 (2013), 793-796	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	120.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/147-pawel_dlotko">Paweł Dłotko</a>, <a href="/users/301-hubert_wagner">Hubert Wagner</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7071-simplification_of_complexes_for__persistent_homology_computations">Simplification Of Complexes For  Persistent Homology Computations</a>, <a href="/czasopisma/229013-homology_homotopy_and_applications">HOMOL HOMOTOPY APPL</a> vol. 16(1) (2013), 49-63	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	119.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/848-teresa__crespo">Teresa  Crespo</a>, <a href="/users/148-zbigniew_hajto">Zbigniew Hajto</a>, <a href="/users/336-elzbieta_sowa">Elżbieta Sowa</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7068-picard_vessiot_theory_for_real_fields">Picard-Vessiot theory for real fields</a>, <a href="/czasopisma/229948-israel_journal_of_mathematics">ISR J MATH</a> vol. 198 (2013), 75-89	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	118.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7064-on_division_of_quasianalytic_function_germs">On division of quasianalytic function germs</a>, <a href="/czasopisma/229666-international_journal_of_mathematics">INT J MATH</a> vol. 24 (13) (2013), 1-5	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	117.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7063-on_the_singular_locus_of_sets_definable_in_a_quasianalytic_structure">On the singular locus of sets definable in a quasianalytic structure</a>, <a href="/czasopisma/225329-advances_in_geometry">ADV GEOM</a> vol. 13 (2013), 619-632	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	116.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1101-michel_nguiffo_boyom">Michel Nguiffo Boyom</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7062-foliations__on_affinely_flat_manifolds__information_geometry">Foliations  on Affinely Flat Manifolds. Information Geometry</a> vol. Lecture Notes in Computer Science vol.8085 (2013), "Geometric Science of Information, First International Conference, GSI 2013, Paris, France, August 2013, Proceedings, F. Nielsen, F. Barbaresco (Eds.), ", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	115.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/969-yuan_jen_chiang">Yuan-Jen Chiang</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7061-transversal_wave_maps_and_transversal_exponential_wave_maps_">Transversal wave maps and transversal exponential wave maps,</a>, <a href="/czasopisma/235945-journal_of_geometry">JOURNAL OF GEOMETRY</a> (2013), 443-459	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	114.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/969-yuan_jen_chiang">Yuan-Jen Chiang</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7059-transversally_f_harmonic_and_transversally_f_biharmonic_maps_between_foliated_manifolds">Transversally F-Harmonic and Transversally F-Biharmonic Maps Between Foliated Manifolds</a>, JP JOURNAL OF GEOMETRY AND TOPOLOGY (2013), 93 - 117	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	113.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1100-v__rovenski">V. Rovenski</a>, <a href="/users/210-robert_wolak">Robert Wolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7058-deforming_metrics_of_foliations__">Deforming metrics of foliations, </a>, <a href="/czasopisma/226885-central_european_journal_of_mathematics">CENT EUR J MATH</a> (2013), 1039-1055	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	112.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/268-wojciech_kucharz">Wojciech Kucharz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7057-regular_maps_into_real_fermat_varieties">Regular maps into real Fermat varieties</a>, <a href="/czasopisma/226675-bulletin_of_the_london_mathematical_society">B LOND MATH SOC</a> vol. 45 (2013), 1086-1090	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	111.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/268-wojciech_kucharz">Wojciech Kucharz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7056-regular_versus_continuous_rational_maps">Regular versus continuous rational maps</a>, <a href="/czasopisma/234855-topology_and_its_applications">TOPOL APPL</a> vol. 160 (2013), 1375-1378	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	110.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/178-roman_srzednicki">Roman Srzednicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7054-fixed_point_homomorphisms_for_parameterized_maps">Fixed point homomorphisms for parameterized maps</a>, <a href="/czasopisma/230670-journal_of_fixed_point_theory_and_applications">J FIX POINT THEORY A</a> vol. 13 (2013), 489-518	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	109.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/374-magdalena_nowak">Magdalena Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7053-_gra_w_chaos_i_sekwencje_dna"> Gra w chaos i sekwencje DNA</a>, MATEMATYKA SPOŁECZEŃSTWO NAUCZANIE vol. 50 (2013), 11-15	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	108.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/374-magdalena_nowak">Magdalena Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7052-_topological_classification_of_scattered_ifs_attractors"> Topological classification of scattered IFS-attractors</a>, <a href="/czasopisma/234855-topology_and_its_applications">TOPOL APPL</a> vol. 160 (2013), 1889–1901	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	107.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/425-tomasz_kobos">Tomasz Kobos</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7051-an_alternative_proof_of_petty_s_theorem_on_equilateral_sets">An alternative proof of Petty's theorem on equilateral sets</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 109 (2013), 165-175	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	106.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/180-zbigniew_blocki">Zbigniew Błocki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7050-suita_conjecture_and_the_ohsawa_takegoshi_extension_theorem">Suita conjecture and the Ohsawa-Takegoshi extension theorem</a>, <a href="/czasopisma/229888-inventiones_mathematicae">INVENT MATH</a> vol. 193 (2013), 149-158	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	105.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/139-igor_podolak">Igor Podolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7044-machine_learning_with_known_input_data_uncertainty_measure">Machine Learning with Known Input Data Uncertainty Measure</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> (2013), 379-388	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	104.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1095-piotr__jaworski">Piotr  Jaworski</a>, <a href="/users/417-marcin_krzywda">Marcin Krzywda</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7041-coupling_of_wiener_processes_by_using_copulas">Coupling of Wiener processes by using copulas</a>, <a href="/czasopisma/234565-statistics___probability_letters">STAT PROBABIL LETT</a> vol. 83(9) (2013), 2027-2033	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	103.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/766-duco_van_straten">Duco van Straten</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7039-calabi_yau_conifold_expansion">Calabi–Yau conifold expansion</a> vol. 67 (2013), "Arithmetic and Geometry of K3 Surfaces and Calabi–Yau Threefolds", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	102.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/259-slawomir_rams">Sławomir Rams</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7038-non_factorial_nodal_complete_intersection_threefolds">Non-factorial nodal complete intersection threefolds</a>, <a href="/czasopisma/227261-communications_in_contemporary_mathematics">COMMUN CONTEMP MATH</a> vol. 15 (2013), 1-14	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	101.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/203-wojciech_slomczynski">Wojciech Słomczyński</a>, <a href="/users/873-karol__zyczkowski">Karol  Życzkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7037-rozszerzenie_ue_a_sila_glosu_polski_i_innych_panstw_czlonkowskich_w_instytucjach_unijnych__perspektywa_roku_2025">Rozszerzenie UE a siła głosu Polski i innych państw członkowskich w instytucjach unijnych. Perspektywa roku 2025</a>, EKSPERTYZA DLA MSZ. (2013), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	100.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/121-wlodzimierz_moczurad">Włodzimierz Moczurad</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7035-defect_property_in__mathbb_z__2_">Defect property in $mathbb{Z}^2$</a>, TUCS LECTURE NOTES vol. 20 (2013), 64-70	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	99.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/121-wlodzimierz_moczurad">Włodzimierz Moczurad</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7034-domino_graphs_and_the_decipherability_of_directed_figure_codes">Domino Graphs and the Decipherability of Directed Figure Codes</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 8288 (2013), 453-457	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	98.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1087-andrew_suk">Andrew Suk</a>, <a href="/users/437-bartosz_walczak">Bartosz Walczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7032-new_bounds_on_the_maximum_number_of_edges_in_k_quasi_planar_graphs">New bounds on the maximum number of edges in k-quasi-planar graphs</a> vol. 8242 of Lecture Notes in Computer Science (2013), "Graph Drawing, 21st International Symposium, GD 2013, Bordeaux, France, September 23-25, 2013, Revised Selected Papers", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	97.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/284-tomasz_krawczyk">Tomasz Krawczyk</a>, <a href="/users/433-arkadiusz_pawlik">Arkadiusz Pawlik</a>, <a href="/users/437-bartosz_walczak">Bartosz Walczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7031-coloring_triangle_free_rectangular_frame_intersection_graphs_with_o_log_log_n__colors">Coloring triangle-free rectangular frame intersection graphs with O(log log n) colors</a> vol. 8165 of Lecture Notes in Computer Science (2013), "Graph-Theoretic Concepts in Computer Science, 39th International Workshop, WG 2013, Lübeck, Germany, June 19-21, 2013, Revised Papers", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	96.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/360-przemyslaw_rola">Przemysław Rola</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7030-arbitrage_in_markets_without_shortselling_with_proportional_transaction_costs">Arbitrage in markets without shortselling with proportional transaction costs</a>, <a href="/czasopisma/235425-applicationes_mathematicae">APPLICATIONES MATHEMATICAE</a> vol. 40 (2013), 281-295	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	95.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/551-zywomir_dinew">Żywomir Dinew</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7029-on_the_completeness_of_a_metric_related_to_the_bergman_metric">On the completeness of a metric related to the Bergman metric</a>, <a href="/czasopisma/232495-monatshefte_fur_mathematik">MONATSH MATH</a> vol. 172 (Issue 3-4) (2013), 277-291	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	94.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1084-_a__trombetta"> A. Trombetta</a>, <a href="/users/1083-_d__caponetti"> D. Caponetti</a>, <a href="/users/1085-_g__trombetta"> G. Trombetta</a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7027-on_the_admissibility_of_the_space___l_o_a_x___of_vector_valued_measurable_functions">On the admissibility of the space $ L_o(A,X)$ of vector-valued measurable functions</a>, <a href="/czasopisma/226673-bulletin_of_the_korean_mathematical_society">B KOREAN MATH SOC</a> vol. 50, (2013) (2013), 1915-1922	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	93.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/111-marcin_ciecholewski">Marcin Ciecholewski</a>, <a href="/users/1080-_jakub_chocholowicz"> Jakub Chochołowicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7022-gallbladder_shape_extraction_from_ultrasound_images_using_active_contour_models">Gallbladder shape extraction from ultrasound images using active contour models</a>, <a href="/czasopisma/227379-computers_in_biology_and_medicine">COMPUT BIOL MED</a> vol. 43(12) (2013), 2238–2255	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	92.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/111-marcin_ciecholewski">Marcin Ciecholewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7020-ischemic_heart_disease_detection_using_selected_machine_learning_methods">Ischemic heart disease detection using selected machine learning methods</a>, <a href="/czasopisma/229547-international_journal_of_computer_mathematics">INT J COMPUT MATH</a> vol. 90(8) (2013), 1734-1759	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	91.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/428-michal_lason">Michał Lasoń</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>, <a href="/users/433-arkadiusz_pawlik">Arkadiusz Pawlik</a>, <a href="/users/437-bartosz_walczak">Bartosz Walczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7019-coloring_intersection_graphs_of_arcwise_connected_sets_in_the_plane">Coloring intersection graphs of arcwise connected sets in the plane</a> vol. 16 of CRM Series (2013), "The Seventh European Conference on Combinatorics, Graph Theory and Applications, EuroComb 2013", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	90.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7018-balanced_domains_and_convexity">Balanced domains and convexity</a>, <a href="/czasopisma/225956-archiv_der_mathematik">ARCH MATH</a> vol. 101 (2013), 373-379	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	89.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/381-ada_palka">Ada Pałka</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7016-miedzy_matematyka_a_sztuka__zlota_proporcja">Między matematyką a sztuką: złota proporcja</a> vol.  ISBN 978-83 61449-76-8 (2013), "Dydaktyka, edukacja i kultura w badaniach młodych naukowców",  Wydawnictwo Naukowe Wyższej Szkoły Handlu i Usług, Poznań (ISBN 978-83 61449-44-7)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	88.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/273-lukasz_kosinski">Łukasz Kosiński</a>, <a href="/users/181-wlodzimierz_zwonek">Włodzimierz Zwonek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7015-the_lempert_theorem_and_the_tetrablock">The Lempert Theorem and the Tetrablock</a>, <a href="/czasopisma/230736-journal_of_geometric_analysis">J GEOM ANAL</a> vol. 23(4) (2013), 1818–1831	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	87.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1075-_nguyen_thi_bich__thuy"> Nguyen Thi Bich  Thuy</a>, <a href="/users/245-anna_valette">Anna Valette</a>, <a href="/users/649-guillaume_valette">Guillaume Valette</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7014-on_a_singular_variety_associated_to_a_polynomial_mapping">On a singular variety associated to a polynomial mapping</a>, JOURNAL OF SINGULARITIES vol. 7 (2013), 190-204	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	86.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/101-stanislaw_migorski">Stanisław Migórski</a>, <a href="/users/122-anna_ochal">Anna Ochal</a>, <a href="/users/833-mircea_sofonea_">Mircea Sofonea </a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7012-history_dependent_hemivariational_inequalities_with_applications_to_contact_mechanics">History-dependent hemivariational inequalities with applications to Contact Mechanics</a>, ANNALS OF THE UNIVERSITY OF BUCHAREST (MATHEMATICAL SERIES) vol. 4 (LXII) (2013), 193-212	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	85.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/300-krzysztof_misztal">Krzysztof Misztal</a>, <a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7010-weighted_approach_to_projective_clustering">Weighted Approach to Projective Clustering</a>, COMPUTER INFORMATION SYSTEMS AND INDUSTRIAL MANAGEMENT LECTURE NOTES IN COMPUTER SCIENCE vol. 8104 (2013), 367-378	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	84.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/108-jacek_tabor">Jacek Tabor</a>, <a href="/users/708-jozef_tabor">Józef Tabor</a>, <a href="/users/796-marek_zoldak">Marek Żołdak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7009-strongly_midquasiconvex_functions_">Strongly Midquasiconvex Functions </a>, <a href="/czasopisma/230443-journal_of_convex_analysis">J CONVEX ANAL</a> vol. 20 (2013), 531-543	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	83.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/251-piotr_niemiec">Piotr Niemiec</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7008-isometry_groups_among_topological_groups">Isometry groups among topological groups</a>, <a href="/czasopisma/233025-pacific_journal_of_mathematics">PAC J MATH</a> vol. 266 (2013), 77-116	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	82.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/284-tomasz_krawczyk">Tomasz Krawczyk</a>, <a href="/users/428-michal_lason">Michał Lasoń</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>, <a href="/users/433-arkadiusz_pawlik">Arkadiusz Pawlik</a>, <a href="/users/883-william_t__trotter">William T. Trotter</a>, <a href="/users/437-bartosz_walczak">Bartosz Walczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7007-triangle_free_geometric_intersection_graphs_with_large_chromatic_number">Triangle-free geometric intersection graphs with large chromatic number</a>, <a href="/czasopisma/227759-discrete___computational_geometry">DISCRETE COMPUT GEOM</a> vol. 50 (2013), 714-726	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	81.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7006-the_memory_center">The memory center</a>, <a href="/czasopisma/229369-information_sciences">INFORM SCIENCES</a> vol. 252 (2013), 132–143	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	80.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/747-danuta_ciesielska">Danuta Ciesielska</a>, <a href="/users/238-krzysztof_ciesielski">Krzysztof Ciesielski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7005-banach_in_krakow__a_case_reopened">Banach in Kraków: a case reopened</a>, <a href="/czasopisma/232190-mathematical_intelligencer">MATH INTELL</a> vol. 35 no. 3 (2013), 64-68	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	79.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/202-antoni_leon_dawidowicz">Antoni Leon Dawidowicz</a>, <a href="/users/631-anna_poskrobko">Anna Poskrobko</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7003-on_the_multispecies_delayed_gurtin_maccamy_model">On the Multispecies Delayed Gurtin-MacCamy Model</a>, <a href="/czasopisma/225060-abstract_and_applied_analysis">ABSTR APPL ANAL</a> vol. Volume 2013  (2013), 11	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	78.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/179-armen_edigarian">Armen Edigarian</a>, <a href="/users/250-piotr_koscielniak">Piotr Kościelniak</a>, <a href="/users/1002-mariusz_trojak">Mariusz Trojak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7002-analiza_zroznicowaniarozwoju_ekonomicznegowojewodztw_i_powiatowoparta_na_lancuchach_markowa">Analiza zróżnicowaniarozwoju ekonomicznegowojewództw i powiatówoparta na łańcuchach Markowa</a>, (2013), "Statystyczna analiza przestrzennego zróżnicowania rozwoju ekonomicznego i społecznego Polski", Wydawnictwo Uniwersytetu Jagiellońskiego	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	77.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/959-pawel__dykas">Paweł  Dykas</a>, <a href="/users/250-piotr_koscielniak">Piotr Kościelniak</a>, <a href="/users/960-tomasz_tokarski">Tomasz Tokarski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7001-taksonomiczne_wskazniki_rozwoju_ekonomicznego_wojewodztw_i_powiatow">Taksonomiczne wskaźniki rozwoju ekonomicznego województw i powiatów</a>, (2013), "Statystyczna analiza przestrzennego zróżnicowania rozwoju ekonomicznego i społecznego Polski", Wydawnictwo Uniwersytetu Jagiellońskiego	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	76.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/234-marcin_dumnicki">Marcin Dumnicki</a>, <a href="/users/548-tomasz_szemberg">Tomasz Szemberg</a>, <a href="/users/230-halszka_tutaj_gasinska">Halszka Tutaj-Gasińska</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6998-a_vanishing_theorem_and_symbolic_powers_of_planar_point_ideals">A vanishing theorem and symbolic powers of planar point ideals</a>, <a href="/czasopisma/232049-lms_journal_of_computation_and_mathematics">LMS J COMPUT MATH</a> vol. 16 (2013),  373 - 387	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	75.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/234-marcin_dumnicki">Marcin Dumnicki</a>, <a href="/users/548-tomasz_szemberg">Tomasz Szemberg</a>, <a href="/users/230-halszka_tutaj_gasinska">Halszka Tutaj-Gasińska</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6997-counterexamples_to_the_i_3__i2i_3__i2_containment">Counterexamples to the I(3)⊂I2I(3)⊂I2 containment</a>, <a href="/czasopisma/230079-journal_of_algebra">J ALGEBRA</a> vol. 393 (2013), 24-29	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	74.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/251-piotr_niemiec">Piotr Niemiec</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6995-ultrametrics__extending_of_lipschitz_maps_and_nonexpansive_selections">Ultrametrics, extending of Lipschitz maps and nonexpansive selections</a>, <a href="/czasopisma/229029-houston_journal_of_mathematics">HOUSTON J MATH</a> vol. 39 (2013), 1031-1050	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	73.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/272-maciej_ulas">Maciej Ulas</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6991-variations_on_twists_of_elliptic_curves">Variations on twists of elliptic curves</a>, <a href="/czasopisma/234108-rocky_mountain_journal_of_mathematics">ROCKY MT J MATH</a> vol. 43 (2) (2013), 645-660	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	72.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/431-katarzyna_grygiel">Katarzyna Grygiel</a>, <a href="/users/1042-pierre_lescanne">Pierre Lescanne</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6990-counting_and_generating_lambda_terms">Counting and generating lambda terms</a>, <a href="/czasopisma/230709-journal_of_functional_programming">J FUNCT PROGRAM</a> vol. 23(5) (2013), 594-628	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	71.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1040-gabor_czedli">Gábor Czédli</a>, <a href="/users/1041-joanna_grygiel">Joanna Grygiel</a>, <a href="/users/431-katarzyna_grygiel">Katarzyna Grygiel</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6988-distributive_lattices_determined_by_weighted_double_skeletons">Distributive lattices determined by weighted double skeletons</a>, <a href="/czasopisma/225457-algebra_universalis">ALGEBR UNIV</a> vol. 69(4) (2013), 313-326	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	70.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/247-janusz_adamus">Janusz Adamus</a>, <a href="/users/1009-serge_randriambololona">Serge Randriambololona</a>, <a href="/users/951-_rasul_shafikov_"> Rasul Shafikov </a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6987-tameness_of_complex_dimension_in_a_real_analytic_set">Tameness of complex dimension in a real analytic set</a>, <a href="/czasopisma/226743-canadian_journal_of_mathematics_journal_canadien_de_mathematiques">CAN J MATH</a> vol. 65 (2013), 721-739	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	69.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/247-janusz_adamus">Janusz Adamus</a>, <a href="/users/1006-edward_bierstone">Edward Bierstone</a>, <a href="/users/1007-pierre_milman">Pierre Milman</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6986-geometric_auslander_criterion_for_openness_of_an_algebraic_morphism">Geometric Auslander criterion for openness of an algebraic morphism</a>, <a href="/czasopisma/226675-bulletin_of_the_london_mathematical_society">B LOND MATH SOC</a> vol. 45 (2013), 1060-1064	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	68.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/184-marcin_mazur">Marcin Mazur</a>, <a href="/users/581-piotr_oprocha">Piotr Oprocha</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6985-s_limit_shadowing_is_c_0_dense">S-limit shadowing is C^0-dense</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 408 (2013), 465-475	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	67.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/184-marcin_mazur">Marcin Mazur</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6984-on_the_relationship_between_hyperbolic_and_cone_hyperbolic_structures_in_metric_spaces">On the relationship between hyperbolic and cone-hyperbolic structures in metric spaces</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 109 (2013), 29-38	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	66.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1039-mikael_barboteu">Mikael Barboteu</a>, <a href="/users/109-krzysztof_bartosz">Krzysztof Bartosz</a>, <a href="/users/115-piotr_kalita">Piotr Kalita</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6983-an_analytical_and_numerical_approach_to_a_bilateral_contact_problem_with_nonmonotone__friction">An analytical and numerical approach to a bilateral contact problem with nonmonotone  friction</a>, <a href="/czasopisma/229498-international_journal_of_applied_mathematics_and_computer_science">INT J AP MAT COM-POL</a> vol. 23 (2013), 263-276	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	65.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/567-kamil_kloch">Kamil Kloch</a>, <a href="/users/284-tomasz_krawczyk">Tomasz Krawczyk</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6981-on_line_dimension_of_semi_orders">On-Line Dimension of Semi-Orders</a>, <a href="/czasopisma/232967-order_a_journal_on_the_theory_of_ordered_sets_and_its_applications">ORDER</a> vol. 30(2) (2013), 593-615	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	64.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/190-marek_jarnicki">Marek Jarnicki</a>, <a href="/users/664-peter_pflug">Peter Pflug</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6980-invariant_distances_and_metrics_in_complex_analysis___2nd_extended_edition">Invariant Distances and Metrics in Complex Analysis - 2nd extended edition</a> vol. de Gruyter Expositions in Mathematics, 9, xvii+861 pp (2013), Walter de Gruyter	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	63.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/313-marek_smieja">Marek Śmieja</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6979-image_segmentation_with_use_of_cross_entropy_clustering">Image segmentation with use of cross-entropy clustering</a>, ADVANCES IN INTELLIGENT SYSTEMS AND COMPUTING vol. 226 (2013), 403-409	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	62.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/272-maciej_ulas">Maciej Ulas</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6977-a_note_on_diophantine_systems_involving_three_symmetric_polynomials">A note on Diophantine systems involving three symmetric polynomials</a>, <a href="/czasopisma/231169-journal_of_number_theory">J NUMBER THEORY</a> vol. 133 (10) (2013), 3283-3295	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	61.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/690-andrew_bremner">Andrew Bremner</a>, <a href="/users/272-maciej_ulas">Maciej Ulas</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6976-rational_points_in_geometric_progressions_on_certain_hyperelliptic_curves">Rational points in geometric progressions on certain hyperelliptic curves</a>, <a href="/czasopisma/233708-publicationes_mathematicae_debrecen">PUBL MATH-DEBRECEN</a> vol. 82 / 3-4 (2013), 669-683	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	60.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/248-zenon_jablonski">Zenon Jabłoński</a>, <a href="/users/733-il_bong_jung">Il Bong Jung</a>, <a href="/users/218-jan_stochel">Jan Stochel</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6975-operators_with_absolute_continuity_properties__an_application_to_quasinormality">Operators with absolute continuity properties: an application to quasinormality</a>, <a href="/czasopisma/234609-studia_mathematica">STUD MATH</a> vol. 215 (2013), 11-30	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	59.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/380-patryk_pagacz">Patryk Pagacz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6974-the_putnam_fuglede_property_for_paranormal_and___paranormal_operators">The Putnam-Fuglede property for paranormal and *-paranormal operators</a>, <a href="/czasopisma/236214-opuscula_mathematica">OPUSCULA MATHEMATICA</a> vol. 33 (2013), 565-574	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	58.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>, <a href="/users/1037-elzbieta__zajac">Elżbieta  Zając</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6973-detection_of_disk_like_particles_in_electron_microscopy_images">Detection of Disk-Like Particles in Electron Microscopy Images</a>, ADVANCES IN INTELLIGENT SYSTEMS AND COMPUTING vol. 226 (2013), 411-417	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	57.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/234-marcin_dumnicki">Marcin Dumnicki</a>, <a href="/users/548-tomasz_szemberg">Tomasz Szemberg</a>, <a href="/users/230-halszka_tutaj_gasinska">Halszka Tutaj-Gasińska</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6971-new_results_on_fat_points_schemes_in_p2_">New results on fat points schemes in P2 </a>, <a href="/czasopisma/227980-electronic_research_announcements_in_mathematical_sciences">ELECTRON RES ANNOUNC</a> vol. 20 (2013),  51-54	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	56.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/203-wojciech_slomczynski">Wojciech Słomczyński</a>, <a href="/users/873-karol__zyczkowski">Karol  Życzkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6970-square_root_voting_system__optimal_threshold_and____w__manfred_j_holler__hannu_nurmi__red__">Square Root Voting System, Optimal Threshold and π, w: Manfred J Holler, Hannu Nurmi (red.)</a>, (2013), "Power, Voting, and Voting Power: 30 Years After", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	55.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/251-piotr_niemiec">Piotr Niemiec</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6969-norm_closures_of_orbits_of_bounded_operators">Norm closures of orbits of bounded operators</a>, <a href="/czasopisma/231198-journal_of_operator_theory">J OPERAT THEOR</a> vol. 69 (2013), 339-358	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	54.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/361-blazej_soczowka">Błażej Soczówka</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6968-prognozy_na_rynku_surowcowym__analiza_metod_prognozowania_cen_towarow_na_przykladzie_aluminium_">Prognozy na rynku surowcowym. Analiza metod prognozowania cen towarów na przykładzie aluminium.</a>, KAPITAŁOWY vol. kwiecień 2013 (2013), 36-38	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	53.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/238-krzysztof_ciesielski">Krzysztof Ciesielski</a>, <a href="/users/240-zdzislaw_pogoda">Zdzisław Pogoda</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6967-krolowa_bez_nobla__rozmowy_o_matematyce">Królowa bez Nobla. Rozmowy o matematyce</a>, (2013), Demart	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	52.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/273-lukasz_kosinski">Łukasz Kosiński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6966-structure_of_the_group_of_automorphisms_of_the_spectral_2_ball">Structure of the group of automorphisms of the spectral 2-ball</a>, <a href="/czasopisma/227227-collectanea_mathematica">COLLECT MATH</a> vol. 64 (2) (2013), 175-184	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	51.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/272-maciej_ulas">Maciej Ulas</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6965-a_note_on_erdos_straus_and_erdos_graham_divisibility_problems__with_an_appendix_by_andrzej_schinzel__">A note on Erdos–Straus and Erdos-Graham divisibility problems (with an Appendix by Andrzej Schinzel) </a>, <a href="/czasopisma/229696-international_journal_of_number_theory">INT J NUMBER THEORY</a> vol. 9 (3) (2013), 583-599	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	50.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>, <a href="/users/334-agnieszka_micek">Agnieszka Micek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6964-uniqueness_of_minimal_fourier_type_extensions_in__l_1__spaces">Uniqueness of minimal Fourier-type extensions in $L_1$-spaces</a>, <a href="/czasopisma/232495-monatshefte_fur_mathematik">MONATSH MATH</a> vol. 170 (2013), 161-178	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	49.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/251-piotr_niemiec">Piotr Niemiec</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6961-spaces_of_measurable_functions">Spaces of measurable functions</a>, <a href="/czasopisma/226885-central_european_journal_of_mathematics">CENT EUR J MATH</a> vol. 11 (2013), 1304-1316	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	48.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/300-krzysztof_misztal">Krzysztof Misztal</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>, <a href="/users/708-jozef_tabor">Józef Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6953-midconvexity_for_finite_sets">Midconvexity for finite sets</a>, <a href="/czasopisma/230842-journal_of_inequalities_and_applications">J INEQUAL APPL</a> vol. 2013 (2013), 1-16	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	47.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6952-on_fixed_point_index_formula_and_its_applications_in_dynamics">On Fixed Point Index Formula and its Applications in Dynamics</a>, <a href="/czasopisma/225286-advanced_nonlinear_studies">ADV NONLINEAR STUD</a> vol. 13 (2013), 279-287	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	46.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/248-zenon_jablonski">Zenon Jabłoński</a>, <a href="/users/733-il_bong_jung">Il Bong Jung</a>, <a href="/users/218-jan_stochel">Jan Stochel</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6951-normal_extensions_escape_from_the_class_of_weighted_shifts_on_directed_trees">Normal extensions escape from the class of weighted shifts on directed trees</a>, <a href="/czasopisma/227301-complex_analysis_and_operator_theory">COMPLEX ANAL OPER TH</a> vol. 7 (2013), 409-419	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	45.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/247-janusz_adamus">Janusz Adamus</a>, <a href="/users/1006-edward_bierstone">Edward Bierstone</a>, <a href="/users/1007-pierre_milman">Pierre Milman</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6913-geometric_auslander_criterion_for_flatness">Geometric Auslander criterion for flatness</a>, <a href="/czasopisma/225546-american_journal_of_mathematics">AM J MATH</a> vol. 135 (2013), 125-142	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	44.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/247-janusz_adamus">Janusz Adamus</a>, <a href="/users/1009-serge_randriambololona">Serge Randriambololona</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6912-tameness_of_holomorphic_closure_dimension_in_a_semialgebraic_set">Tameness of holomorphic closure dimension in a semialgebraic set</a>, <a href="/czasopisma/232213-mathematische_annalen">MATH ANN</a> vol. 355 (2013), 985-1005	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	43.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/247-janusz_adamus">Janusz Adamus</a>, <a href="/users/1005-hadi_seyedinejad">Hadi Seyedinejad</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6909-flatness_testing_over_singular_bases">Flatness testing over singular bases</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 107 (2013), 87-96	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	42.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/648-marcin_kulczycki">Marcin Kulczycki</a>, <a href="/users/581-piotr_oprocha">Piotr Oprocha</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6900-coupled_expanding_maps_and_matrix_shifts">Coupled-expanding maps and matrix shifts</a>, <a href="/czasopisma/229511-international_journal_of_bifurcation_and_chaos">INT J BIFURCAT CHAOS</a> vol. 23, no. 1 (2013), 1-6	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	41.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/986-tomasz_konopka">Tomasz Konopka</a>, <a href="/users/985-zbigniew_latala">Zbigniew Latała</a>, <a href="/users/984-rafal_petryniak">Rafał Petryniak</a>, <a href="/users/149-zbislaw_tabor">Zbisław Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6852-the_potential_of_multi_slice_computed_tomography_based__quantification_of_the_structural_anisotropy_of_vertebral_trabecular_bone">The potential of multi-slice computed tomography based  quantification of the structural anisotropy of vertebral trabecular bone</a>, <a href="/czasopisma/232263-medical_engineering___physics">MED ENG PHYS</a> vol. 35 (2013), 7-15	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	40.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/192-michal_kapustka">Michał Kapustka</a>, <a href="/users/947-kristian__ranestad">Kristian  Ranestad</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6826-vector_bundles_on_fano_varieties_of_genus_ten">Vector bundles on Fano varieties of genus ten</a>, <a href="/czasopisma/232213-mathematische_annalen">MATH ANN</a> (2013), 29	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	39.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/139-igor_podolak">Igor Podolak</a>, <a href="/users/124-adam_roman">Adam Roman</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6822-theoretical_foundations_and_practical_results_for_a_hierarchical_classifier_with_overlapping_clusters">Theoretical foundations and practical results for a hierarchical classifier with overlapping clusters</a>, <a href="/czasopisma/227329-computational_intelligence">COMPUT INTELL-US</a> (2013), 357-388	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	38.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/180-zbigniew_blocki">Zbigniew Błocki</a>, <a href="/users/264-szymon_plis">Szymon Plis</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6815-squares_of_positive__p_p__forms">Squares of positive (p,p)-forms</a>, <a href="/czasopisma/227317-comptes_rendus_mathematique">CR MATH</a> vol. 351 (2013), 27-32	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	37.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/181-wlodzimierz_zwonek">Włodzimierz Zwonek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6808-geometric_properties_of_the_tetrablock">Geometric properties of the tetrablock</a>, <a href="/czasopisma/225956-archiv_der_mathematik">ARCH MATH</a> vol. 100(2) (2013), 159–165	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	36.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/280-jaroslaw_grytczuk">Jarosław Grytczuk</a>, <a href="/users/914-piotr_szafruga">Piotr Szafruga</a>, <a href="/users/438-michal_zmarz">Michał Zmarz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6803-online_version_of_the_theorem_of_thue">Online version of the theorem of Thue</a>, <a href="/czasopisma/229366-information_processing_letters">INFORM PROCESS LETT</a> vol. 113 (2013), 193-195	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	35.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/906-antonis_manoussakis">Antonis Manoussakis</a>, <a href="/users/208-anna_pelczar_barwacz">Anna Pelczar-Barwacz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6793-strictly_singular_non_compact_operators_on_a_class_of_hi_spaces">Strictly singular non-compact operators on a class of HI spaces</a>, <a href="/czasopisma/226675-bulletin_of_the_london_mathematical_society">B LOND MATH SOC</a> vol. 45(3) (2013), 463-482	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	34.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/225-marcin_bilski">Marcin Bilski</a>, <a href="/users/268-wojciech_kucharz">Wojciech Kucharz</a>, <a href="/users/245-anna_valette">Anna Valette</a>, <a href="/users/649-guillaume_valette">Guillaume Valette</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6792-vector_bundles_and_regulous_maps">Vector bundles and regulous maps</a>, <a href="/czasopisma/232215-mathematische_zeitschrift">MATH Z</a> vol. 275, no. 1-2 (2013), 403–418	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	33.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/857-tomasz_kaczynski">Tomasz Kaczynski</a>, <a href="/users/102-marian_mrozek">Marian Mrozek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6789-cubical_cohomology_ring__algorithmic_approach">Cubical Cohomology Ring: Algorithmic Approach</a>, <a href="/czasopisma/228593-foundations_of_computational_mathematics">FOUND COMPUT MATH</a> vol. 13 (2013), 789-818	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	32.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/280-jaroslaw_grytczuk">Jarosław Grytczuk</a>, <a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6755-new_approach_to_nonrepetitive_sequences">New approach to nonrepetitive sequences</a>, <a href="/czasopisma/233793-random_structures___algorithms">RANDOM STRUCT ALGOR</a> vol. 42 (2013), 214-225	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	31.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6754-nonrepetitive_choice_number_of_trees">Nonrepetitive choice number of trees</a>, <a href="/czasopisma/234336-siam_journal_on_discrete_mathematics">SIAM J DISCRETE MATH</a> vol. 27-1 (2013), 436-446	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	30.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/670-stefan_felsner">Stefan Felsner</a>, <a href="/users/284-tomasz_krawczyk">Tomasz Krawczyk</a>, <a href="/users/883-william_t__trotter">William T. Trotter</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6748-on_line_dimension_for_posets_excluding_two_long_incomparable_chains">On-line dimension for posets excluding two long incomparable chains</a>, <a href="/czasopisma/232967-order_a_journal_on_the_theory_of_ordered_sets_and_its_applications">ORDER</a> vol. 30(1) (2013), 1-12	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	29.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/670-stefan_felsner">Stefan Felsner</a>, <a href="/users/567-kamil_kloch">Kamil Kloch</a>, <a href="/users/285-grzegorz_matecki">Grzegorz Matecki</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6746-on_line_chain_partitions_of_up_growing_semi_orders">On-line Chain Partitions of Up-growing Semi-orders</a>, <a href="/czasopisma/232967-order_a_journal_on_the_theory_of_ordered_sets_and_its_applications">ORDER</a> vol. 30(1) (2013), 85-101	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	28.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6743-_multiplicity_of_solutions_for_neumann_problems_with_an_indefinite_and_unbounded_potential"> Multiplicity of solutions for Neumann problems with an indefinite and unbounded potential</a>, <a href="/czasopisma/227274-communications_on_pure_and_applied_analysis">COMMUN PUR APPL ANAL</a> vol. 12 (2013), 1985-1999	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	27.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/284-tomasz_krawczyk">Tomasz Krawczyk</a>, <a href="/users/285-grzegorz_matecki">Grzegorz Matecki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6712-first_fit_coloring_of_incomparability_graphs">First-Fit Coloring of Incomparability Graphs</a>, <a href="/czasopisma/234336-siam_journal_on_discrete_mathematics">SIAM J DISCRETE MATH</a> vol. 27(1) (2013), 126-140	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	26.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/539-anna_kulig">Anna Kulig</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6673-hyperbolic_hemivariational_inequalities_for_dynamic_viscoelastic_contact_problems">Hyperbolic hemivariational inequalities for dynamic viscoelastic contact problems</a>, <a href="/czasopisma/230541-journal_of_elasticity">J ELASTICITY</a> vol. 110 (2013), 1-31	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	25.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/101-stanislaw_migorski">Stanisław Migórski</a>, <a href="/users/122-anna_ochal">Anna Ochal</a>, <a href="/users/833-mircea_sofonea_">Mircea Sofonea </a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6622-nonlinear_inclusions_and_hemivariational_inequalities__models_and_analysis_of_contact_problems">Nonlinear Inclusions and Hemivariational Inequalities. Models and Analysis of Contact Problems</a> vol. Advances in Mechanics and Mathematics, vol. 26 (2013), Springer Verlag (połaczony z Kluwer Academic Publishing)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/101-stanislaw_migorski">Stanisław Migórski</a>, <a href="/users/122-anna_ochal">Anna Ochal</a>, <a href="/users/833-mircea_sofonea_">Mircea Sofonea </a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6621-weak_solvability_of_two_quasistatic_viscoelastic_contact_problems">Weak Solvability of Two Quasistatic Viscoelastic Contact Problems</a>, <a href="/czasopisma/232209-mathematics_and_mechanics_of_solids">MATH MECH SOLIDS</a> vol. 18 (2013), 745-759	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/809-asuman_g__aksoy">Asuman G. Aksoy</a>, <a href="/users/244-grzegorz_lewicki">Grzegorz Lewicki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6534-limit_theorems_for_numerical_index">Limit theorems for numerical index</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 398 (2013), 296-302	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/115-piotr_kalita">Piotr Kalita</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6533-convergence_of_rothe_scheme_for_hemivariational_inequalities_of_parabolic_type">Convergence of Rothe scheme for hemivariational inequalities of parabolic type</a>, <a href="/czasopisma/229697-international_journal_of_numerical_analysis_and_modeling">INT J NUMER ANAL MOD</a> vol. 10 (2013), 445-465	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/251-piotr_niemiec">Piotr Niemiec</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6497-universal_valued_abelian_groups">Universal valued Abelian groups</a>, <a href="/czasopisma/225340-advances_in_mathematics">ADV MATH</a> vol. 235 (2013), 398-449	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/604-zbigniew_burdak">Zbigniew Burdak</a>, <a href="/users/189-marek_kosiek">Marek Kosiek</a>, <a href="/users/186-marek_slocinski">Marek Słociński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6492-the_canonical_wold_decomposition_of_commuting_isometries_with_finite_dimensional_wandering_spaces">The canonical Wold decomposition of commuting isometries with finite dimensional wandering spaces</a>, <a href="/czasopisma/226639-bulletin_des_sciences_mathematiques">B SCI MATH</a> vol. 137 (2013), 653-658	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/370-beata_deregowska">Beata Deręgowska</a>, <a href="/users/377-barbara_lewandowska">Barbara Lewandowska</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6475-on_the_unique_minimality_of_the_fourier_projection_in_l_p_spaces">On the Unique Minimality of the Fourier Projection in L_p Spaces</a>, <a href="/czasopisma/232830-numerical_functional_analysis_and_optimization">NUMER FUNC ANAL OPT</a> vol. 34 (1) (2013), 1-15	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/219-pawel_wilczynski">Paweł Wilczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6448-planar_nonautonomous_polynomial_equations_v__the_abel_equation__">Planar nonautonomous polynomial equations V. The Abel equation 	</a>, <a href="/czasopisma/236214-opuscula_mathematica">OPUSCULA MATHEMATICA</a> (2013), 175-189	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6360-_pairs_of_nontrivial_solutions_for_resonant_neumann_problems"> Pairs of nontrivial solutions for resonant Neumann problems</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 398 (2013), 649-663	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/273-lukasz_kosinski">Łukasz Kosiński</a>, <a href="/users/389-tomasz_warszawski">Tomasz Warszawski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6353-lempert_theorem_for_strongly_linearly_convex_domains">Lempert theorem for strongly linearly convex domains</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 107, no. 2 (2013), 167-216	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/430-lech_duraj">Lech Duraj</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6346-a_linear_algorithm_for_3_letter_longest_common_weakly_increasing_subsequence">A linear algorithm for 3-letter longest common weakly increasing subsequence</a>, <a href="/czasopisma/229366-information_processing_letters">INFORM PROCESS LETT</a> vol. 113 (2013), 94-99	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/262-miroslaw_baran">Mirosław Baran</a>, <a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>, <a href="/users/639-beata_milowka">Beata Milówka</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6316-on_the_best_exponent_in_markov_inequality">On the Best Exponent in Markov Inequality</a>, <a href="/czasopisma/233444-potential_analysis">POTENTIAL ANAL</a> vol. 38 (2) (2013), 635-651	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/229-leokadia_bialas_ciez">Leokadia Białas-Cież</a>, <a href="/users/576-raimondo_eggink">Raimondo Eggink</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6315-equivalence_of_the_local_markov_inequality_and_a_kolmogorov_type_inequality_in_the_complex_plane">Equivalence of the Local Markov Inequality and a Kolmogorov Type Inequality in the Complex Plane</a>, <a href="/czasopisma/233444-potential_analysis">POTENTIAL ANAL</a> vol. 38 (1) (2013), 299-317	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/234-marcin_dumnicki">Marcin Dumnicki</a>, <a href="/users/548-tomasz_szemberg">Tomasz Szemberg</a>, <a href="/users/230-halszka_tutaj_gasinska">Halszka Tutaj-Gasińska</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6311-symbolic_powers_of_planar_point_configurations">Symbolic powers of planar point configurations</a>, <a href="/czasopisma/231388-journal_of_pure_and_applied_algebra">J PURE APPL ALGEBRA</a> vol. 217 (2013), 1026–1036	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/428-michal_lason">Michał Lasoń</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6309-f_vectors_implying_vertex_decomposability">f-vectors implying vertex decomposability</a>, <a href="/czasopisma/227759-discrete___computational_geometry">DISCRETE COMPUT GEOM</a> vol. 49 (2013), 296-301	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/559-piotr_budzynski">Piotr Budzyński</a>, <a href="/users/248-zenon_jablonski">Zenon Jabłoński</a>, <a href="/users/733-il_bong_jung">Il Bong Jung</a>, <a href="/users/218-jan_stochel">Jan Stochel</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6296-unbounded_subnormal_weighted_shifts_on_directed_trees__ii">Unbounded subnormal weighted shifts on directed trees. II</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 398 (2013), 600-608	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/217-dominik_kwietniak">Dominik Kwietniak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6274-topological_entropy_and_distributional_chaos_in_hereditary_shifts_with_applications_to_spacing_shifts_and_beta_shifts">Topological entropy and distributional chaos in hereditary shifts with applications to spacing shifts and beta shifts</a>, <a href="/czasopisma/227760-discrete_and_continuous_dynamical_systems">DISCRETE CONT DYN-A</a> vol. 33 (6) (2013), 2451 - 2467	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/273-lukasz_kosinski">Łukasz Kosiński</a>, <a href="/users/181-wlodzimierz_zwonek">Włodzimierz Zwonek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6257-proper_holomorphic_mappings_vs__peak_points_and_shilov_boundary">Proper holomorphic mappings vs. peak points and Shilov boundary</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 107 (2013), 97-108	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/713-andrzej_dabrowski">Andrzej Dąbrowski</a>, <a href="/users/272-maciej_ulas">Maciej Ulas</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6251-variations_on_the_brocard_ramanujan_equation">Variations on the Brocard-Ramanujan equation</a>, <a href="/czasopisma/231169-journal_of_number_theory">J NUMBER THEORY</a> vol. 133 (4) (2013), 1168-1185	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6245-chaotic_dynamics_via_index_maps">Chaotic dynamics via index maps</a>, <a href="/czasopisma/232495-monatshefte_fur_mathematik">MONATSH MATH</a> vol. 170 (2013), 65-75	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/300-krzysztof_misztal">Krzysztof Misztal</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6219-strict_verification_of_approximate_midconvexity_on_non_convex_sets">Strict verification of approximate midconvexity on non-convex sets</a>, <a href="/czasopisma/232189-mathematical_inequalities___applications">MATH INEQUAL APPL</a> vol. 16 (2013), 389–400	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/676-rene_david">Rene David</a>, <a href="/users/431-katarzyna_grygiel">Katarzyna Grygiel</a>, <a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/677-christophe_raffalli">Christophe Raffalli</a>, <a href="/users/678-guillaume_theyssier">Guillaume Theyssier</a>, <a href="/users/289-"></a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6209-asymptotically_almost_all___terms_are_strongly_normalizing">Asymptotically almost all λ-terms are strongly normalizing</a>, <a href="/czasopisma/232052-logical_methods_in_computer_science">LOG METH COMPUT SCI</a> vol. 9 (1:02) (2013), 1-30	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/343-grzegorz_kosiorowski">Grzegorz Kosiorowski</a>, <a href="/users/176-klaudiusz_wojcik">Klaudiusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6204-topological_method_for_detecting_fixed_points_of_maps_homotopic_to_selfmaps_of_compact_enrs">Topological method for detecting fixed points of maps homotopic to selfmaps of compact ENRs</a>, <a href="/czasopisma/233488-proceedings_of_the_american_mathematical_society">P AM MATH SOC</a> vol. 141 (2013), 245-252	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/431-katarzyna_grygiel">Katarzyna Grygiel</a>, <a href="/users/281-pawel_idziak">Paweł Idziak</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6203-how_big_is_bci_fragment_of_bck_logic">How big is BCI fragment of BCK logic</a>, <a href="/czasopisma/230945-journal_of_logic_and_computation">J LOGIC COMPUT</a> vol. 23(3) (2013), 673-691 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/217-dominik_kwietniak">Dominik Kwietniak</a>, <a href="/users/778-martha_lacka">Martha Łącka</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6201-topological_entropy_of_compact_subsystems_of_transitive_real_line_maps">Topological entropy of compact subsystems of transitive real line maps</a>, <a href="/czasopisma/227833-dynamical_systems_an_international_journal">DYNAM SYST</a> vol. 28 (2013), 62-75	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/jednostki/1-wydzial-matematyki-i-informatyki-uj?rok=2013"><span>7884</span><span>7726</span><span>7550</span><span>7503</span><span>7502</span><span>7465</span><span>7410</span><span>7332</span><span>7330</span><span>7321</span><span>7307</span><span>7260</span><span>7251</span><span>7248</span><span>7218</span><span>7182</span><span>7178</span><span>7177</span><span>7176</span><span>7175</span><span>7174</span><span>7173</span><span>7172</span><span>7171</span><span>7170</span><span>7169</span><span>7168</span><span>7166</span><span>7164</span><span>7163</span><span>7162</span><span>7161</span><span>7160</span><span>7155</span><span>7151</span><span>7145</span><span>7140</span><span>7136</span><span>7135</span><span>7124</span><span>7117</span><span>7115</span><span>7114</span><span>7110</span><span>7109</span><span>7108</span><span>7107</span><span>7106</span><span>7105</span><span>7100</span><span>7099</span><span>7096</span><span>7095</span><span>7092</span><span>7090</span><span>7089</span><span>7088</span><span>7085</span><span>7083</span><span>7082</span><span>7078</span><span>7074</span><span>7071</span><span>7068</span><span>7064</span><span>7063</span><span>7062</span><span>7061</span><span>7059</span><span>7058</span><span>7057</span><span>7056</span><span>7054</span><span>7053</span><span>7052</span><span>7051</span><span>7050</span><span>7044</span><span>7041</span><span>7039</span><span>7038</span><span>7037</span><span>7035</span><span>7034</span><span>7032</span><span>7031</span><span>7030</span><span>7029</span><span>7027</span><span>7022</span><span>7020</span><span>7019</span><span>7018</span><span>7016</span><span>7015</span><span>7014</span><span>7012</span><span>7010</span><span>7009</span><span>7008</span><span>7007</span><span>7006</span><span>7005</span><span>7003</span><span>7002</span><span>7001</span><span>6998</span><span>6997</span><span>6995</span><span>6991</span><span>6990</span><span>6988</span><span>6987</span><span>6986</span><span>6985</span><span>6984</span><span>6983</span><span>6981</span><span>6980</span><span>6979</span><span>6977</span><span>6976</span><span>6975</span><span>6974</span><span>6973</span><span>6971</span><span>6970</span><span>6969</span><span>6968</span><span>6967</span><span>6966</span><span>6965</span><span>6964</span><span>6961</span><span>6953</span><span>6952</span><span>6951</span><span>6913</span><span>6912</span><span>6909</span><span>6900</span><span>6852</span><span>6826</span><span>6822</span><span>6815</span><span>6808</span><span>6803</span><span>6793</span><span>6792</span><span>6789</span><span>6755</span><span>6754</span><span>6748</span><span>6746</span><span>6743</span><span>6712</span><span>6673</span><span>6622</span><span>6621</span><span>6534</span><span>6533</span><span>6497</span><span>6492</span><span>6475</span><span>6448</span><span>6360</span><span>6353</span><span>6346</span><span>6316</span><span>6315</span><span>6311</span><span>6309</span><span>6296</span><span>6274</span><span>6257</span><span>6251</span><span>6245</span><span>6219</span><span>6209</span><span>6204</span><span>6203</span><span>6201</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw0').yiiListView({'ajaxUpdate':['yw0'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

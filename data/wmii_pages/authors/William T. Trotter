@@ -1,0 +1,264 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title> William T. Trotter</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+ William T. Trotter
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1843-david_m__howard">David M. Howard</a>, <a href="/users/1174-noah_streib">Noah Streib</a>, <a href="/users/883-william_t__trotter">William T. Trotter</a>, <a href="/users/437-bartosz_walczak">Bartosz Walczak</a>, <a href="/users/1272-ruidong_wang">Ruidong Wang</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8350-dimension_of_posets_with_planar_cover_graphs_excluding_two_long_incomparable_chains">Dimension of posets with planar cover graphs excluding two long incomparable chains</a>, <a href="/czasopisma/230379-journal_of_combinatorial_theory_series_a">J COMB THEORY A</a> vol. 164 (2019), 1-23	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/883-william_t__trotter">William T. Trotter</a>, <a href="/users/437-bartosz_walczak">Bartosz Walczak</a>, <a href="/users/1272-ruidong_wang">Ruidong Wang</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8248-dimension_and_cut_vertices__an_application_of_ramsey_theory">Dimension and cut vertices: an application of Ramsey theory</a>, (2018), "Connections in Discrete Mathematics: A Celebration of the Work of Ron Graham", Cambridge University Press	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1270-gwenael_joret">Gwenaël Joret</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>, <a href="/users/883-william_t__trotter">William T. Trotter</a>, <a href="/users/1272-ruidong_wang">Ruidong Wang</a>, <a href="/users/1236-veit_wiechert">Veit Wiechert</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8224-on_the_dimension_of_posets_with_cover_graphs_of_treewidth_2">On the Dimension of Posets with Cover Graphs of Treewidth 2</a>, <a href="/czasopisma/232967-order_a_journal_on_the_theory_of_ordered_sets_and_its_applications">ORDER</a> vol. 34.2 (2017), 185-234	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/670-stefan_felsner">Stefan Felsner</a>, <a href="/users/1270-gwenael_joret">Gwenaël Joret</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>, <a href="/users/883-william_t__trotter">William T. Trotter</a>, <a href="/users/1236-veit_wiechert">Veit Wiechert</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8222-burling_graphs__chromatic_number__and_orthogonal_tree_decompositions">Burling graphs, chromatic number, and orthogonal tree-decompositions</a>, ELECTRONIC NOTES IN DISCRETE MATHEMATICS vol. 61 (2017), 415-420	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/883-william_t__trotter">William T. Trotter</a>, <a href="/users/437-bartosz_walczak">Bartosz Walczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8037-boolean_dimension_and_local_dimension">Boolean dimension and local dimension</a>, ELECTRONIC NOTES IN DISCRETE MATHEMATICS vol. 61 (2017), 1047-1053	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1270-gwenael_joret">Gwenaël Joret</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>, <a href="/users/1271-kevin_g__milans">Kevin G. Milans</a>, <a href="/users/883-william_t__trotter">William T. Trotter</a>, <a href="/users/437-bartosz_walczak">Bartosz Walczak</a>, <a href="/users/1272-ruidong_wang">Ruidong Wang</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7456-tree_width_and_dimension">Tree-width and dimension</a>, <a href="/czasopisma/227244-combinatorica">COMBINATORICA</a> vol. 36 (2016), 431-450	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/428-michal_lason">Michał Lasoń</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>, <a href="/users/1174-noah_streib">Noah Streib</a>, <a href="/users/883-william_t__trotter">William T. Trotter</a>, <a href="/users/437-bartosz_walczak">Bartosz Walczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7201-an_extremal_problem_on_crossing_vectors">An extremal problem on crossing vectors</a>, <a href="/czasopisma/230379-journal_of_combinatorial_theory_series_a">J COMB THEORY A</a> vol. 128 (2014), 41-55	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/284-tomasz_krawczyk">Tomasz Krawczyk</a>, <a href="/users/428-michal_lason">Michał Lasoń</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>, <a href="/users/433-arkadiusz_pawlik">Arkadiusz Pawlik</a>, <a href="/users/883-william_t__trotter">William T. Trotter</a>, <a href="/users/437-bartosz_walczak">Bartosz Walczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7141-triangle_free_intersection_graphs_of_line_segments_with_large_chromatic_number">Triangle-free intersection graphs of line segments with large chromatic number</a>, <a href="/czasopisma/230380-journal_of_combinatorial_theory_series_b">J COMB THEORY B</a> vol. 105 (2014), 6-10	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/284-tomasz_krawczyk">Tomasz Krawczyk</a>, <a href="/users/428-michal_lason">Michał Lasoń</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>, <a href="/users/433-arkadiusz_pawlik">Arkadiusz Pawlik</a>, <a href="/users/883-william_t__trotter">William T. Trotter</a>, <a href="/users/437-bartosz_walczak">Bartosz Walczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7007-triangle_free_geometric_intersection_graphs_with_large_chromatic_number">Triangle-free geometric intersection graphs with large chromatic number</a>, <a href="/czasopisma/227759-discrete___computational_geometry">DISCRETE COMPUT GEOM</a> vol. 50 (2013), 714-726	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/670-stefan_felsner">Stefan Felsner</a>, <a href="/users/284-tomasz_krawczyk">Tomasz Krawczyk</a>, <a href="/users/883-william_t__trotter">William T. Trotter</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6748-on_line_dimension_for_posets_excluding_two_long_incomparable_chains">On-line dimension for posets excluding two long incomparable chains</a>, <a href="/czasopisma/232967-order_a_journal_on_the_theory_of_ordered_sets_and_its_applications">ORDER</a> vol. 30(1) (2013), 1-12	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/883-william_t__trotter"><span>8350</span><span>8248</span><span>8224</span><span>8222</span><span>8037</span><span>7456</span><span>7201</span><span>7141</span><span>7007</span><span>6748</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

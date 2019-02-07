@@ -1,0 +1,1362 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr -  Jerzy Martyna</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr  Jerzy Martyna
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Informatyki i Matematyki Komputerowej</li>
+					<li>Katedra Metod Efektywnych Algebry</li>
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	83.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8320-resource_allocation_in_lte_unlicensed_femtocell_networks">Resource Allocation in LTE-Unlicensed Femtocell Networks</a>, PRZEGLĄD TELEKOMUNIKACYJNY I WIADOMOŚCI TELEKOMUNIKACYJNE (2018), 839 - 843	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	82.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8319-performance_analysis_of_cognitive_femtocell_network_with_ambient_rf_energy_harvesting">Performance Analysis of Cognitive Femtocell Network with Ambient RF Energy Harvesting</a> vol. LECTURE NOTES IN COMPUTER SCIENCE, vol. 11118 (2018), "Internet of Things, Smart Spaces and Next Generation Networks and Systems", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	81.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8318-analysis_of_energy_harvesting_in_cognitive_femtocell_radio_network">Analysis of Energy Harvesting in Cognitive Femtocell Radio Network</a>, PRZEGLĄD TELEKOMUNIKACYJNY I WIADOMOŚCI TELEKOMUNIKACYJNE (2018), 312 - 315	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	80.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8315-qos__and_energy_aware_services_management_of_resource_in_cloud_computing_environment">QoS- and Energy-aware Services Management of Resource in Cloud Computing Environment</a> vol. Communications in Computer and Information Science (2018), "Computer Networks", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	79.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8084-energy_aware_resource_allocation_in_cloud_computing_environments">Energy-Aware Resource Allocation in Cloud Computing Environments</a>, <a href="/czasopisma/242582-przeglad_telekomunikacyjny_i_wiadomosci_telekomunikacyjne">PRZEGLĄD TELEKOMUNIKACYJNY I WIADOMOŚCI TELEKOMUNIKACYJNE</a> vol. 8-9 (2017), 1016 - 1019	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	78.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8083-optimal_power_allocation_for_cognitive_lte_femtocell_networks_based_________on_game_theory">Optimal Power Allocation for Cognitive LTE-Femtocell Networks Based         on Game Theory</a>, <a href="/czasopisma/243071-przeglad_telekomunikacyjny_i_wiadomosci_telekomunikacyjne">PRZEGLAD TELEKOMUNIKACYJNY I WIADOMOSCI TELEKOMUNIKACYJNE</a> vol. 8-9 (2017), 1067 – 1071	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	77.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8081-reliability_optimization_for_controller_placement_in_software_defined__networks">Reliability Optimization for Controller Placement in Software-Defined  Networks</a> vol. Advances in Intelligent Systems and Computing (2017), "Advances in Dependability Engineering and Complex Systems", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	76.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8080-power_allocation_in_cognitive_radio__with_distributed_antenna_system">Power Allocation in Cognitive Radio  with Distributed Antenna System</a>, LECTURE NOTES IN COMPUTER SCIENCE vol. 10531 (2017), 745 - 754	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	75.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8079-fuzzy_reinforcement_learning_for_routing_in_multi_hop_cognitive_radio_________networks">Fuzzy Reinforcement Learning for Routing in Multi-Hop Cognitive Radio         Networks</a>, LECTURE NOTES IN COMPUTER SCIENCE vol. vol. 10350 (2017), 118 - 123	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	74.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8078-qos_based_power_control_and_resource_allocation_in_cognitive_lte__femtocell_networks">QoS-Based Power Control and Resource Allocation in Cognitive LTE  Femtocell Networks</a> vol. Communications in Computer and Information Science (2017), "Computer Networks", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	73.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7868-green_power_control_in_underlaying_cognitive_radio_networks">Green Power Control in Underlaying Cognitive Radio Networks</a>, 8TH IFIP NTMS (2016), 1-5	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	72.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7867-optimal_power_allocation_in_two_tier_mimo_cognitive_femtocell_radio____________networks">Optimal Power Allocation in Two-tier MIMO Cognitive Femtocell Radio            Networks</a>, 8TH IFIP NTMS (2016), 1-4	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	71.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7866-a_resource_allocation_algorithm_for_svc_coding_multicast_over__wireless_cellular_networks">A Resource Allocation Algorithm for SVC Coding Multicast over  Wireless Cellular Networks</a>, <a href="/czasopisma/236468-przeglad_telekomunikacyjny___wiadomosci_telekomunikacyjne">PRZEGLĄD TELEKOMUNIKACYJNY + WIADOMOŚCI TELEKOMUNIKACYJNE</a> (2016), 1119 – 1122	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	70.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7865-an_efficient_resource_allocation_algorithm_with_qos_requirements_in__multicarrier_based_cognitive_radio_networks">An Efficient Resource Allocation Algorithm with QoS Requirements in  Multicarrier-based Cognitive Radio Networks</a>, <a href="/czasopisma/236468-przeglad_telekomunikacyjny___wiadomosci_telekomunikacyjne">PRZEGLĄD TELEKOMUNIKACYJNY + WIADOMOŚCI TELEKOMUNIKACYJNE</a> (2016), 1076 - 1080	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	69.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7864-qos_aware_admission_and_power_control_for_two_tier_cognitive__femtocell_networks">QoS Aware Admission and Power Control for Two-Tier Cognitive  Femtocell Networks</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 9870  (2016), 166 - 178	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	68.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7563-elliptic_curve_cryptography_systems_and_their_hardware_implementations_in_wireless_ad_hoc_and_sensor_networks">Elliptic Curve Cryptography Systems and Their Hardware Implementations in Wireless Ad Hoc and Sensor Networks</a>, <a href="/czasopisma/236468-przeglad_telekomunikacyjny___wiadomosci_telekomunikacyjne">PRZEGLĄD TELEKOMUNIKACYJNY + WIADOMOŚCI TELEKOMUNIKACYJNE</a> (2015), 1454-1457	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	67.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7562-effective_power_allocation_for_ofdm_based_green_cognitive_radio_networks_with_rate_loss_constraints">Effective Power Allocation for OFDM Based Green Cognitive Radio Networks with Rate Loss Constraints</a>, <a href="/czasopisma/236468-przeglad_telekomunikacyjny___wiadomosci_telekomunikacyjne">PRZEGLĄD TELEKOMUNIKACYJNY + WIADOMOŚCI TELEKOMUNIKACYJNE</a> (2015), 836-839	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	66.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7561-pso_least_squares_svm_for_clustering_in_cognitive_radio_sensor_networks">PSO-Least Squares SVM for Clustering in Cognitive Radio Sensor Networks</a> vol. IFIP WG 12.5 (2015), "Artificial Intelligence Applications and Innovations", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	65.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7559-cooperative_spectrum_sensing_in_cognitive_radio_networks_with_qos_requirements">Cooperative Spectrum Sensing in Cognitive Radio Networks with QoS Requirements</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 9247 (2015), 505-517	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	64.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7558-fuzzy_q_learning_approach_to_qos_provisioning_in_two_tier_cognitive_femtocell_networks">Fuzzy Q-Learning Approach to QoS Provisioning in Two-Tier Cognitive Femtocell Networks</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 9101 (2015), 74-83	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	63.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7555-multicast_modelling_in_mobile_opportunistic_networks">Multicast Modelling in Mobile Opportunistic Networks</a>, CSNDSP (2014), 238-242	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	62.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7554-oligopoly_bertrand_model_for_price_competition_in_cognitive_radio_networks">Oligopoly Bertrand Model for Price Competition in Cognitive Radio Networks</a>, CSNDSP (2014), 227-231	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	61.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7199-modelling_and_simulation_analysis_of_some_routing_schemes_for_mobile_opportunistic_networks">Modelling and Simulation Analysis of Some Routing Schemes for Mobile Opportunistic Networks</a>, <a href="/czasopisma/235580-communications_in_computer_and_information_science">COMMUNICATIONS IN COMPUTER AND INFORMATION SCIENCE</a> vol. 431 (2014), 99 - 107	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	60.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7198-secondary_user_pricing_for_power_control_in_wide_band_cognitive_radio_networks">Secondary User Pricing for Power Control in Wide-Band Cognitive Radio Networks</a>, <a href="/czasopisma/236468-przeglad_telekomunikacyjny___wiadomosci_telekomunikacyjne">PRZEGLĄD TELEKOMUNIKACYJNY + WIADOMOŚCI TELEKOMUNIKACYJNE</a> (2014), 1083 - 1086	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	59.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7197-oligopoly_bertrand_model_for_cognitive_radio_networks">Oligopoly Bertrand Model for Cognitive Radio Networks</a>, <a href="/czasopisma/236468-przeglad_telekomunikacyjny___wiadomosci_telekomunikacyjne">PRZEGLĄD TELEKOMUNIKACYJNY + WIADOMOŚCI TELEKOMUNIKACYJNE</a> (2014), 539-542	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	58.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7188-a_stochastic_game_in_cognitive_radio_networks_for_providing_qos_guarantees">A Stochastic Game in Cognitive Radio Networks for Providing QoS Guarantees</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 8638 (2014), 364 - 374	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	57.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7181-a_fuzzy_reinforcement_learning_approach_to_qos_provisioning_transmission_in_cognitive_radio_networks">A Fuzzy Reinforcement Learning Approach to QoS Provisioning Transmission in Cognitive Radio Networks</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 8480 (2014), 61-73	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	56.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7180-fuzzy_reinforcement_learning_for_dynamic_power_control_in_cognitive_radio_networks_">Fuzzy Reinforcement Learning for Dynamic Power Control in Cognitive Radio Networks.</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 8467 (2014), 233-242	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	55.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7179-q_learning_algorithm_used_by_secondary_users_for_qos_support_in_cognitive_radio_networks">Q-Learning Algorithm Used by Secondary Users for QoS Support in Cognitive Radio Networks</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 8481 (2014), 389-398	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	54.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7178-quasi_offline_fair_scheduling_in_third_generation_wireless_data__networks">Quasi-Offline Fair Scheduling in Third Generation Wireless Data  Networks</a>, <a href="/czasopisma/235974-journal_of_telecommunications_and_information_technology">JOURNAL OF TELECOMMUNICATIONS AND INFORMATION TECHNOLOGY</a> (2013), 112-114	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	53.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7177-cooperative_games_with_incomplete_information_for_secondary_base_stations_in_cognitive_radio_networks">Cooperative Games with Incomplete Information for Secondary Base Stations in Cognitive Radio Networks</a>, <a href="/czasopisma/235974-journal_of_telecommunications_and_information_technology">JOURNAL OF TELECOMMUNICATIONS AND INFORMATION TECHNOLOGY</a> (2013), 106-111	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	52.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7176-an_energy_efficient_approach_to_the_design_of_two_tier_wireless_ad_hoc_and_sensor_networks">An Energy-Efficient Approach to the Design of Two-Tier Wireless Ad Hoc and Sensor Networks</a>,  PROC. OF THE INTERNATIONAL CONFERENCE ON MAN-MACHINE INTERACTIONS (ICMMI '13) (2013), 579 – 587	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	51.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7175-intelligent_system_for_channel_prediction_in_the_mimo_ofdm_wireless_communications_using_a_multidimensional_recurrent_ls_svm_">Intelligent System for Channel Prediction in the MIMO-OFDM Wireless Communications Using a Multidimensional Recurrent LS-SVM </a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 8073 (2013), 441-450	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	50.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7174-a_stackelberg_game_for_dynamic_spectrum_leasing_in_cognitive_radio_networks">A Stackelberg Game for Dynamic Spectrum Leasing in Cognitive Radio Networks</a>, <a href="/czasopisma/236468-przeglad_telekomunikacyjny___wiadomosci_telekomunikacyjne">PRZEGLĄD TELEKOMUNIKACYJNY + WIADOMOŚCI TELEKOMUNIKACYJNE</a> (2013), 1093-1096	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	49.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7173-coalitional_games_with_incomplete_information_among_secondary_users_in_cognitive_radio_networks">Coalitional Games with Incomplete Information Among Secondary Users in Cognitive Radio Networks</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 8121 (2013), 272-283	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	48.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7172-performance_modeling_of_opportunistic_networks">Performance Modeling of Opportunistic Networks</a>, COMPUTER NETWORKS, 20TH INTERNATIONAL SCIENCE CONFERENCE: COMPUTER NETWORKS - CN2013 (2013) vol. 370 (2013), 240-251	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	47.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7171-spectrum_access_game_for_cognitive_radio_networks">Spectrum Access Game for Cognitive Radio Networks</a>, COMPUTER NETWORKS, 20TH INTERNATIONAL SCIENCE CONFERENCE: COMPUTER NETWORKS - CN2013 (2013) vol. 370 (2013), 232-239	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	46.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7170-cooperative_games_with_incomplete_information_among_secondary_base_stations_in_cognitive_radio_networks">Cooperative Games with Incomplete Information Among Secondary Base Stations in Cognitive Radio Networks</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 7906 (2013), 43-52	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	45.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7169-optimal_power_allocation_with_capacity_maximization_in_spectrum_sensing_for_qos_provisioning_in_cognitive_radio_networks">Optimal Power Allocation with Capacity Maximization in Spectrum Sensing for QoS Provisioning in Cognitive Radio Networks</a>, <a href="/czasopisma/236468-przeglad_telekomunikacyjny___wiadomosci_telekomunikacyjne">PRZEGLĄD TELEKOMUNIKACYJNY + WIADOMOŚCI TELEKOMUNIKACYJNE</a> vol. 6 (2013), 369-372	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	44.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1370-pawel_fidelus__">Paweł Fidelus  </a>, <a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7168-automatic_classification_of_electronic_components_based_on_the_support_vector_machine">Automatic Classification of Electronic Components Based on the Support Vector Machine</a>, <a href="/czasopisma/242674-studia_informatica___formerly__zeszyty_naukowe_politechniki_slaskiej__seria__informatyka">STUDIA INFORMATICA / FORMERLY: ZESZYTY NAUKOWE POLITECHNIKI ŚLĄSKIEJ, SERIA: INFORMATYKA</a> vol. 34 (2013), 303-310	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	43.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7569-partition_of_real_time_application_over_multicore_systems">Partition of Real-Time Application over Multicore Systems</a>, AUTOMATICS (2012), 127-136	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	42.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7568-runway_scheduling_with_holding_patterns_and_service_priority">Runway Scheduling with Holding Patterns and Service Priority</a>, AUTOMATICS (2012), 137-144	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	41.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7565-downlink_rate_guaranteed_scheduling_for_multiuser_ofdma_cellular_systems">Downlink Rate-Guaranteed Scheduling for Multiuser OFDMA Cellular Systems</a>, EW (2012), 5	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	40.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7564-power_allocation_games_for_cognitive_radio_networks_with_incomplete_information">Power Allocation Games for Cognitive Radio Networks with Incomplete Information</a>, CSNDSP (2012), 1-4	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	39.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6887-modeling_of_energy_consumption_for_mobile_wireless_ad_hoc_and_sensor_networks">Modeling of Energy Consumption for Mobile Wireless Ad Hoc and Sensor Networks</a>, COMPUTER NETWORKS, 19TH INTERNATIONAL SCIENCE CONFERENCE: COMPUTER NETWORKS - CN2012 (2012), 314 - 323	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	38.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6886-simulation_study_of_the_mobility_models_for_wireless_ad_hoc_and_sensor_networks">Simulation Study of the Mobility Models for Wireless Ad Hoc and Sensor Networks</a>, COMPUTER NETWORKS, 19TH INTERNATIONAL SCIENCE CONFERENCE: COMPUTER NETWORKS - CN2012 (2012), 324 - 333	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	37.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>, <a href="/users/979-ewa_piatkowska">Ewa Piątkowska</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6863-spontaneous_facial_expression_recognition__automatic_aggression_detection">Spontaneous Facial Expression Recognition: Automatic Aggression Detection</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 7208 (2012), 147 - 158	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	36.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>, <a href="/users/979-ewa_piatkowska">Ewa Piątkowska</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6862-facial_expression_recognition_for_detecting_human_aggression">Facial Expression Recognition for Detecting Human Aggression</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 7267 (2012), 574 - 582	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	35.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6861-opportunistic_scheduling_algorithm_for_multiple_access_channels_in_the_cognitive_radio_networks">Opportunistic Scheduling Algorithm for Multiple-Access Channels in the Cognitive Radio Networks</a>, <a href="/czasopisma/236468-przeglad_telekomunikacyjny___wiadomosci_telekomunikacyjne">PRZEGLĄD TELEKOMUNIKACYJNY + WIADOMOŚCI TELEKOMUNIKACYJNE</a> vol. 4 (2012), 256 - 259	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	34.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>, <a href="/users/979-ewa_piatkowska">Ewa Piątkowska</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6860-human_emotion_recognition_based_on_facial_texture_information">Human Emotion Recognition Based on Facial Texture Information</a>, <a href="/czasopisma/236697-studia_informatica">STUDIA INFORMATICA</a> vol. 33 (2012), 49 - 59	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	33.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6859-the_use_of_shapley_value_to_power_allocation_games_in_cognitive_radio_networks">The Use of Shapley Value to Power Allocation Games in Cognitive Radio Networks</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 7345 (2012), 627 - 636	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	32.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>, <a href="/users/979-ewa_piatkowska">Ewa Piątkowska</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6858-computer_recognition_of_facial_expressions_of_emotion">Computer Recognition of Facial Expressions of Emotion</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 7367 (2012), 405 - 414	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	31.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6857-power_allocation_in_cognitive_radio_networks_by_the_reinforcement_learning_scheme_with_the_help_shapley_value_of_game">Power Allocation in Cognitive Radio Networks by the Reinforcement Learning Scheme with the Help Shapley Value of Game</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 7469 (2012), 316 - 327	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	30.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6856-coalition_formation_among_secondary_users_with_incomplete_information_in_cognitive_radio_networks">Coalition Formation Among Secondary Users with Incomplete Information in Cognitive Radio Networks</a>, <a href="/czasopisma/236468-przeglad_telekomunikacyjny___wiadomosci_telekomunikacyjne">PRZEGLĄD TELEKOMUNIKACYJNY + WIADOMOŚCI TELEKOMUNIKACYJNE</a> vol. 9 (2012), 746 - 752	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	29.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6889-the_least_squares_svm_approach_for_a_non_linear_channel_prediction_in_the_mimo_system">The Least Squares SVM Approach for a Non-Linear Channel Prediction in the MIMO System</a>, COMPUTER NETWORKS, PROCEEDINGS SERIES: COMMUNICATIONS IN COMPUTER AND INFORMATION SCIENCE, INTERNATIONAL CONFERENCE ON COMPUTER NETWORKS (CN '11) vol. 160 (2011), 27 - 36	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	28.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6888-least_squares_support_vector_machines_for_channel_prediction_in_the_mimo_system">Least Squares Support Vector Machines for Channel Prediction in the MIMO System</a>, STUDIES IN COMPUTATIONAL INTELLIGENCE, DEVELOPING CONCEPTS IN APPLIED INTELLIGENCE, HE TWENTY-FOURTH INTERNATIONAL CONFERENCE ON INDUSTRIAL ENGINEERING AND OTHER APPLICATIONS OF APPLIED INTELLIGENT SYSTEMS vol. 363 (2011), 39 - 44	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	27.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6872-scheduling_algorithm_for_delay_and_jitter_reduction_of_periodic_tasks_in_real_time_systems">Scheduling Algorithm for Delay and Jitter Reduction of Periodic Tasks in Real-Time Systems</a>, <a href="/czasopisma/233608-przeglad_elektrotechniczny">PRZ ELEKTROTECHNICZN</a> vol. 87 (2011), 236 - 239	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	26.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/999-dawid_kopiec">Dawid Kopiec</a>, <a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6871-a_hybrid_approach_for_ecg_classification_based_on_particle_swarm_optimization_and_support_vector_machine">A Hybrid Approach for ECG Classification Based on Particle Swarm Optimization and Support Vector Machine</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 6678 (2011), 329 - 337	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	25.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6870-wavelet_support_vector_machines_and_multi_elitist_particle_swarm_optimization_for_time_series_forecasting">Wavelet Support Vector Machines and Multi-Elitist Particle Swarm Optimization for Time Series Forecasting</a>, <a href="/czasopisma/236697-studia_informatica">STUDIA INFORMATICA</a> vol. 32 (2011), 429 - 442	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6869-machine_learning_for_the_identification_of_the_dna_variations_for_diseases_diagnosis">Machine Learning for the Identification of the DNA Variations for Diseases Diagnosis</a>, <a href="/czasopisma/236697-studia_informatica">STUDIA INFORMATICA</a> vol. 32 (2011), 103 - 118	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6868-modelling_of_the_multidimensional_qos_in_cognitive_radio_networks">Modelling of the Multidimensional QoS in Cognitive Radio Networks</a>, <a href="/czasopisma/236468-przeglad_telekomunikacyjny___wiadomosci_telekomunikacyjne">PRZEGLĄD TELEKOMUNIKACYJNY + WIADOMOŚCI TELEKOMUNIKACYJNE</a> vol. 6 (2011), 637 - 641	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6867-a_mathematical_framework_for_the_multidimensional_qos_in_cognitive_radio_networks">A Mathematical Framework for the Multidimensional QoS in Cognitive Radio Networks</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 6869 (2011), 440 - 449	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>, <a href="/users/997-l_nowak">L Nowak</a>, <a href="/users/1000-w_piatkowska">W Piątkowska</a>, <a href="/users/998-k_przystalski">K Przystalski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6866-a_decision_support_system_based_on_the_semantic_analysis_of_melanoma_images_using_multi_elitist_pso_and_svm">A Decision Support System Based on the Semantic Analysis of Melanoma Images Using Multi-Elitist PSO and SVM</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 6871 (2011), 362 - 374	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/995-l_kwestarz">Ł Kwestarz</a>, <a href="/users/119-jerzy_martyna">Jerzy Martyna</a>, <a href="/users/996-w_olejko">W Olejko</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6865-simulation_study_of_the_wireless_sensor_network_in_a_hospital_accident_and_emergency_department">Simulation Study of the Wireless Sensor Network in a Hospital Accident and Emergency Department</a>, <a href="/czasopisma/236468-przeglad_telekomunikacyjny___wiadomosci_telekomunikacyjne">PRZEGLĄD TELEKOMUNIKACYJNY + WIADOMOŚCI TELEKOMUNIKACYJNE</a> vol. 9 (2011), 930 - 937	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6864-the_rate_guaranteed_scheduling_for_the_ofdma_cellular_systems">The Rate-Guaranteed Scheduling for the OFDMA Cellular Systems</a>, <a href="/czasopisma/236468-przeglad_telekomunikacyjny___wiadomosci_telekomunikacyjne">PRZEGLĄD TELEKOMUNIKACYJNY + WIADOMOŚCI TELEKOMUNIKACYJNE</a> vol. 9 (2011), 1281 - 1288	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6890-linking_simulation_with_formal_verification_and_modeling_of_wireless_sensor_networks_in_tla_">Linking Simulation with Formal Verification and Modeling of Wireless Sensor Networks in TLA+</a>, COMPUTER NETWORKS (CN '10), COMMUNICATION AND INFORMATION SCIENCE, INTERNATIONAL CONFERENCE ON COMPUTER NETWORKS (CN '10) vol. 79 (2010), 131 - 140	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6878-a_directional_antenna_mac_protocol_with_topology_control_for_wireless_ad_hoc_and_sensor_networks">A Directional Antenna MAC Protocol with Topology Control for Wireless Ad Hoc and Sensor Networks</a>, <a href="/czasopisma/236468-przeglad_telekomunikacyjny___wiadomosci_telekomunikacyjne">PRZEGLĄD TELEKOMUNIKACYJNY + WIADOMOŚCI TELEKOMUNIKACYJNE</a> vol. 6 (2010), 332 - 335	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6877-a_new_time_synchronization_scheme_for_jitter_and_shift_compensation_in_hierarchical_ad_hoc_and_sensor_networks">A New Time Synchronization Scheme for Jitter and Shift Compensation in Hierarchical Ad Hoc and Sensor Networks</a>, <a href="/czasopisma/236468-przeglad_telekomunikacyjny___wiadomosci_telekomunikacyjne">PRZEGLĄD TELEKOMUNIKACYJNY + WIADOMOŚCI TELEKOMUNIKACYJNE</a> vol. 6 (2010), 336 - 339	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6876-stochastic_chaotic_simulated_annealing_using_neural_networks_for_minimizing_interference_in_mobile_hierarchical_ad_hoc_and_sensor_networks">Stochastic Chaotic Simulated Annealing Using Neural Networks for Minimizing Interference in Mobile Hierarchical Ad Hoc and Sensor Networks</a>, <a href="/czasopisma/241828-lecture_notes_in_artificial_intelligence">LECTURE NOTES IN ARTIFICIAL INTELLIGENCE</a> vol. 6098 (2010), 626 - 635	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6875-data_traffic_scheduling_for_multiuser_mimo_ofdm_system_with_the_throughput_maximization">Data Traffic Scheduling for Multiuser MIMO-OFDM System with the Throughput Maximization</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 6294 (2010), 436 - 447	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6874-an_analytical_model_for_lifetime_of_hierarchical_wireless_ad_hoc_and_sensor_networks">An Analytical Model for Lifetime of Hierarchical Wireless Ad Hoc and Sensor Networks</a>, <a href="/czasopisma/236851-theoretical_and_applied_informatics">THEORETICAL AND APPLIED INFORMATICS</a> vol. 22 (2010), 103 - 113	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6873-a_new_method_for_computing_blocking_probabilities_in_cellular_mobile_communication_networks">A New Method for Computing Blocking Probabilities in Cellular Mobile Communication Networks</a>, <a href="/czasopisma/236851-theoretical_and_applied_informatics">THEORETICAL AND APPLIED INFORMATICS</a> vol. 22 (2010), 165 - 175	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6894-modeling_of_the_throughput_capacity_of_hierarchical_mobile_ad_hoc_and_sensor_networks">Modeling of the Throughput Capacity of Hierarchical Mobile Ad Hoc and Sensor Networks</a>, COMPUTER NETWORKS, INTERNATIONAL CONFERENCE ON COMPUTER NETWORKS (2009), 62 - 71	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6893-on_the_lifetime_maximization_design_of_mobile_ad_hoc_and_sensor_networks">On the Lifetime Maximization Design of Mobile Ad Hoc and Sensor Networks</a>, COMPUTER NETWORKS, INTERNATIONAL CONFERENCE ON COMPUTER NETWORKS (2009), 50 - 61	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>, <a href="/users/634-marcin_nowrot">Marcin Nowrot</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6892-a_novel_multicast_routing_protocol_for_mobile_sensor_networks_with_topology_control">A Novel Multicast Routing Protocol for Mobile Sensor Networks with Topology Control</a>, COMPUTER NETWORKS, INTERNATIONAL CONFERENCE ON COMPUTER NETWORKS (2009), 34 - 49	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6891-decision_trees_constructing_over_multiple_data_streams">Decision Trees Constructing over Multiple Data Streams</a>, MAN-MACHINE INTERACTIONS, PROC. OF THE INTERNATIONAL CONFERENCE ON MAN-MACHINE INTERACTIONS (ICMMI '09) (2009), 191 - 199	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>, <a href="/users/1001-g_orynczak">G Oryńczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6885-type_2_fuzzy_logic_controller_for_a_mobile_robot">Type-2 Fuzzy Logic Controller for a Mobile Robot</a>, <a href="/czasopisma/236697-studia_informatica">STUDIA INFORMATICA</a> vol. 30 (2009), 121 - 129	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6884-fuzzy_support_vector_machines_based_on_density_estimation_with_gaussian_mixture_for_multiclass_problems">Fuzzy Support Vector Machines Based on Density Estimation with Gaussian Mixture for Multiclass Problems</a>, <a href="/czasopisma/236697-studia_informatica">STUDIA INFORMATICA</a> vol. 30 (2009), 309 - 316	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>, <a href="/users/1000-w_piatkowska">W Piątkowska</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6883-a_hybrid_classifier_based_on_svm_method_for_cancer_classification">A Hybrid Classifier Based on SVM Method for Cancer Classification</a>, <a href="/czasopisma/236697-studia_informatica">STUDIA INFORMATICA</a> vol. 30 (2009), 299 - 307	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6882-an_analysis_of_hierarchical_ad_hoc_and_sensor_networks_through_diffusion_approximation">An Analysis of Hierarchical Ad Hoc and Sensor Networks Through Diffusion Approximation</a>, <a href="/czasopisma/236468-przeglad_telekomunikacyjny___wiadomosci_telekomunikacyjne">PRZEGLĄD TELEKOMUNIKACYJNY + WIADOMOŚCI TELEKOMUNIKACYJNE</a> vol. 6 (2009), 585 - 588	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6881-a_mobility_and_bandwidth_prediction_controller_using_an_adaptive_neuro_fuzzy_inference_system_for_mobile_ad_hoc_and_sensor_networks">A Mobility and Bandwidth Prediction Controller Using an Adaptive Neuro-Fuzzy Inference System for Mobile Ad Hoc and Sensor Networks</a>, <a href="/czasopisma/241828-lecture_notes_in_artificial_intelligence">LECTURE NOTES IN ARTIFICIAL INTELLIGENCE</a> vol. 5579 (2009), 429 - 438	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6880-the_poisson_cluster_process_runs_as_a_model_for_the_internet_traffic">The Poisson Cluster Process Runs as a Model for the Internet Traffic</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 5764 (2009), 206 - 216	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/119-jerzy_martyna">Jerzy Martyna</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6879-a_diffusion_approximation_analysis_of_multilevel_ad_hoc_and_sensor_networks">A Diffusion Approximation Analysis of Multilevel Ad Hoc and Sensor Networks</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 5793 (2009), 126 - 137	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/119-jerzy_martyna"><span>8320</span><span>8319</span><span>8318</span><span>8315</span><span>8084</span><span>8083</span><span>8081</span><span>8080</span><span>8079</span><span>8078</span><span>7868</span><span>7867</span><span>7866</span><span>7865</span><span>7864</span><span>7563</span><span>7562</span><span>7561</span><span>7559</span><span>7558</span><span>7555</span><span>7554</span><span>7199</span><span>7198</span><span>7197</span><span>7188</span><span>7181</span><span>7180</span><span>7179</span><span>7178</span><span>7177</span><span>7176</span><span>7175</span><span>7174</span><span>7173</span><span>7172</span><span>7171</span><span>7170</span><span>7169</span><span>7168</span><span>7569</span><span>7568</span><span>7565</span><span>7564</span><span>6887</span><span>6886</span><span>6863</span><span>6862</span><span>6861</span><span>6860</span><span>6859</span><span>6858</span><span>6857</span><span>6856</span><span>6889</span><span>6888</span><span>6872</span><span>6871</span><span>6870</span><span>6869</span><span>6868</span><span>6867</span><span>6866</span><span>6865</span><span>6864</span><span>6890</span><span>6878</span><span>6877</span><span>6876</span><span>6875</span><span>6874</span><span>6873</span><span>6894</span><span>6893</span><span>6892</span><span>6891</span><span>6885</span><span>6884</span><span>6883</span><span>6882</span><span>6881</span><span>6880</span><span>6879</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

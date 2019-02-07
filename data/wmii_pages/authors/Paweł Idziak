@@ -1,0 +1,368 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>prof. dr hab. -  Paweł Idziak</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+prof. dr hab.  Paweł Idziak
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Zespół Katedr i Zakładów Informatyki Matematycznej</li>
+					<li>Katedra Algorytmiki</li>
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#d">Doktoranci</a></li><li><a href="#r">Recenzje</a></li><li><a href="#g">Granty</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/281-pawel_idziak">Paweł Idziak</a>, <a href="/users/1729-piotr_kawalek">Piotr Kawałek</a>, <a href="/users/566-jacek_krzaczkowski">Jacek Krzaczkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8294-expressive_power__satisfiability_and_equivalence_of_circuits_over_nilpotent_algebras">Expressive Power, Satisfiability and Equivalence of Circuits over Nilpotent Algebras</a> vol. Leibniz International Proceedings in Informatics (LIPIcs) (2018), "43rd International Symposium on Mathematical Foundations  of Computer Science (MFCS 2018)", Schloss Dagstuhl – Leibniz-Zentrum für Informatik	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/281-pawel_idziak">Paweł Idziak</a>, <a href="/users/566-jacek_krzaczkowski">Jacek Krzaczkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8293-satisfiability_in_multi_valued_circuits">Satisfiability in multi-valued circuits</a>, (2018), "Proceedings of the 33rd Annual ACM/IEEE Symposium on Logic in Computer Science (LICS'18)", Association for Computing Machinery (ACM)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/431-katarzyna_grygiel">Katarzyna Grygiel</a>, <a href="/users/281-pawel_idziak">Paweł Idziak</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6203-how_big_is_bci_fragment_of_bck_logic">How big is BCI fragment of BCK logic</a>, <a href="/czasopisma/230945-journal_of_logic_and_computation">J LOGIC COMPUT</a> vol. 23(3) (2013), 673-691 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/281-pawel_idziak">Paweł Idziak</a>, <a href="/users/509-irena_katarzyna_korwin_slomczynska">Irena Katarzyna Korwin-Słomczyńska</a>, <a href="/users/754-andrzej_wronski">Andrzej Wroński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6317-the_commutator_in_equivalential_algebras_and_fregean_varieties">The commutator in equivalential algebras and Fregean varieties</a>, <a href="/czasopisma/225457-algebra_universalis">ALGEBR UNIV</a> vol. 65 (2011), 331-340	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/281-pawel_idziak">Paweł Idziak</a>, <a href="/users/758-petar_markovic">Petar Marković</a>, <a href="/users/759-ralph_mckenzie">Ralph McKenzie</a>, <a href="/users/760-matthew_valeriote">Matthew Valeriote</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6319-tractability_and_learnabilty_arising_from_algebras_with_few_subpowers">Tractability and learnabilty arising from algebras with few subpowers</a>, <a href="/czasopisma/234334-siam_journal_on_computing">SIAM J COMPUT</a> vol. 39 (2010), 3023-3037	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/757-joel_berman">Joel Berman</a>, <a href="/users/281-pawel_idziak">Paweł Idziak</a>, <a href="/users/758-petar_markovic">Petar Marković</a>, <a href="/users/759-ralph_mckenzie">Ralph McKenzie</a>, <a href="/users/760-matthew_valeriote">Matthew Valeriote</a>, <a href="/users/761-ross_willard">Ross Willard</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6318-varieties_with_few_subalgebras_of_powers">Varieties with few subalgebras of powers</a>, <a href="/czasopisma/234882-transactions_of_the_american_mathematical_society">T AM MATH SOC</a> vol. 362 (2010), 1445-1473	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/281-pawel_idziak">Paweł Idziak</a>, <a href="/users/759-ralph_mckenzie">Ralph McKenzie</a>, <a href="/users/760-matthew_valeriote">Matthew Valeriote</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6323-the_structure_of_locally_finite_varieties_with_polynomially_many_models">The structure of locally finite varieties with polynomially many models</a>, <a href="/czasopisma/231590-journal_of_the_american_mathematical_society">J AM MATH SOC</a> vol. 22 (2009), 119-165	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/281-pawel_idziak">Paweł Idziak</a>, <a href="/users/764-keith_kearnes">Keith Kearnes</a>, <a href="/users/765-emil_kiss">Emil Kiss</a>, <a href="/users/760-matthew_valeriote">Matthew Valeriote</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6322-definable_principal_congruences_and_solvability">Definable principal congruences and solvability</a>, <a href="/czasopisma/225760-annals_of_pure_and_applied_logic">ANN PURE APPL LOGIC</a> vol. 157 (2009), 30-49	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/281-pawel_idziak">Paweł Idziak</a>, <a href="/users/509-irena_katarzyna_korwin_slomczynska">Irena Katarzyna Korwin-Słomczyńska</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6320-fregean_varieties">Fregean Varieties</a>, <a href="/czasopisma/229490-international_journal_of_algebra_and_computation">INT J ALGEBR COMPUT</a> vol. 19 (2009), 595–645	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/757-joel_berman">Joel Berman</a>, <a href="/users/281-pawel_idziak">Paweł Idziak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6324-generative_complexity_in_algebra">Generative Complexity in Algebra</a>, <a href="/czasopisma/232303-memoirs_of_the_american_mathematical_society">MEM AM MATH SOC</a> vol. 175 (2005), 1-168	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/281-pawel_idziak"><span>8294</span><span>8293</span><span>6203</span><span>6317</span><span>6319</span><span>6318</span><span>6323</span><span>6322</span><span>6320</span><span>6324</span></div>
+</div><h3 id='d'>Doktoranci <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="doc-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="doc-view_c0"><a class="sort-link" href="/users/281-pawel_idziak?Procedure_sort=id_user">Doktorant<span class="caret"></span></a></th><th id="doc-view_c1"><a class="sort-link" href="/users/281-pawel_idziak?Procedure_sort=opening">Otwarcie<span class="caret"></span></a></th><th id="doc-view_c2"><a class="sort-link" href="/users/281-pawel_idziak?Procedure_sort=ending">Zakonczenie<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/26">Lech Duraj</a></td><td>2008-06-26</td><td>2010-12-16</td></tr>
+<tr class="even">
+<td><a href="../procedure/41">Grzegorz Gutowski</a></td><td>2009-09-24</td><td>2012-03-29</td></tr>
+<tr class="odd">
+<td><a href="../procedure/58">Andrzej Pezarski</a></td><td>2009-06-25</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/60">Michał Staromiejski</a></td><td>2010-12-16</td><td>2013-05-23</td></tr>
+<tr class="odd">
+<td><a href="../procedure/61">Bartosz Walczak</a></td><td>2010-12-16</td><td>2012-12-20</td></tr>
+<tr class="even">
+<td><a href="../procedure/66">Bartłomiej Bosek</a></td><td>2006-06-29</td><td>2008-12-18</td></tr>
+<tr class="odd">
+<td><a href="../procedure/71">Piotr Micek</a></td><td>2006-06-29</td><td>2008-10-30</td></tr>
+<tr class="even">
+<td><a href="../procedure/76">Jan Jeżabek</a></td><td>2008-10-30</td><td>2009-11-26</td></tr>
+<tr class="odd">
+<td><a href="../procedure/87">Przemysław Broniek</a></td><td>2007-06-28</td><td>2008-12-18</td></tr>
+<tr class="even">
+<td><a href="../procedure/88">Kamil Kloch</a></td><td>2006-09-28</td><td>2008-12-18</td></tr>
+<tr class="odd">
+<td><a href="../procedure/89">Jacek Krzaczkowski</a></td><td>2006-09-28</td><td>2008-12-18</td></tr>
+<tr class="even">
+<td><a href="../procedure/122">Edward Szczypka</a></td><td>2004-04-29</td><td>2006-05-25</td></tr>
+<tr class="odd">
+<td><a href="../procedure/127">Iwona Cieślik</a></td><td>2005-06-23</td><td>2006-09-28</td></tr>
+<tr class="even">
+<td><a href="../procedure/135">Grzegorz Matecki</a></td><td>2005-01-27</td><td>2006-11-30</td></tr>
+<tr class="odd">
+<td><a href="../procedure/166">Maciej Chociej</a></td><td>2012-05-31</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/179">Arkadiusz Pawlik</a></td><td>2012-06-28</td><td>2013-12-19</td></tr>
+<tr class="odd">
+<td><a href="../procedure/217">Leszek Horwath</a></td><td>2013-06-27</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/310">Adam Polak</a></td><td>2017-06-29</td><td>&nbsp;</td></tr>
+<tr class="odd">
+<td><a href="../procedure/322">Grzegorz Guśpiel</a></td><td>2018-05-24</td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/281-pawel_idziak"><span>26</span><span>41</span><span>58</span><span>60</span><span>61</span><span>66</span><span>71</span><span>76</span><span>87</span><span>88</span><span>89</span><span>122</span><span>127</span><span>135</span><span>166</span><span>179</span><span>217</span><span>310</span><span>322</span></div>
+</div><h3 id='r'>Recenzje <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="review-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="review-view_c0"><a class="sort-link" href="/users/281-pawel_idziak?ProcedureReview_sort=id_procedure">Recenzowany<span class="caret"></span></a></th><th id="review-view_c1">Jednostka</th><th id="review-view_c2"><a class="sort-link" href="/users/281-pawel_idziak?ProcedureReview_sort=id_uploaded_file">Treść recenzji<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/10">Habilitacja: Marcin Kozik</a></td><td>Katedra Algorytmiki</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/35">Profesura: Marek Zaionc</a></td><td>Katedra Podstaw Informatyki</td><td>&nbsp;</td></tr>
+<tr class="odd">
+<td><a href="../procedure/97">Habilitacja: Mariusz Meszka</a></td><td></td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/113">Doktorat: Tomasz Krawczyk</a></td><td>Katedra Algorytmiki</td><td>&nbsp;</td></tr>
+<tr class="odd">
+<td><a href="../procedure/161">Profesura: Jarosław Grytczuk</a></td><td>Katedra Algorytmiki</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/192">Habilitacja: Konrad Pióro</a></td><td></td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/281-pawel_idziak"><span>18</span><span>95</span><span>201</span><span>235</span><span>282</span><span>291</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/281-pawel_idziak?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/109">Niezmienniki numeryczne i strukturalne w algebrze, logice i problemach spełnialności więzów</a></td><td>Kierownik</td><td>2015-02-12</td><td>2020-02-11</td></tr>
+<tr class="even">
+<td><a href="../grants/98">Kolonoskopia -Innowacyjna diagnostyka umożliwiająca personalizacje procesu leczenia poprzez opracowanie rozwiązania wspomagające badania kolonoskopowe, podnoszącego wykrywalność stanów przedrakowych nowotworów jelita grubego o niskim stadium zaawansowania</a></td><td>Wykonawca</td><td>2014-07-01</td><td>2017-12-31</td></tr>
+<tr class="odd">
+<td><a href="../grants/31">DATALOG w Problemie Spełnialności Więzów</a></td><td>Wykonawca</td><td>2011-12-07</td><td>2015-06-06</td></tr>
+<tr class="even">
+<td><a href="../grants/19">Śledzenie poruszających się osób w monitorowanych strefach</a></td><td>Kierownik</td><td>2010-09-17</td><td>2013-09-16</td></tr>
+<tr class="odd">
+<td><a href="../grants/63">Koszty koordynacji i przepływu - Śledzenie poruszających się osób w monitorowanych strefach</a></td><td>Kierownik</td><td>2010-09-17</td><td>2013-09-16</td></tr>
+<tr class="even">
+<td><a href="../grants/13">Algorytmy on-line i gry kombinatoryczne</a></td><td>Wykonawca</td><td>2010-04-14</td><td>2012-10-13</td></tr>
+<tr class="odd">
+<td><a href="../grants/8">On-line clique covering of interval graphs</a></td><td>Kierownik</td><td>2010-03-24</td><td>2012-08-08</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/281-pawel_idziak"><span>324</span><span>123</span><span>38</span><span>241</span><span>281</span><span>68</span><span>230</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#doc-view').yiiGridView({'ajaxUpdate':['doc-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#review-view').yiiGridView({'ajaxUpdate':['review-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

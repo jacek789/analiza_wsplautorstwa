@@ -1,0 +1,578 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr -  Przemysław Spurek</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr  Przemysław Spurek
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Informatyki i Matematyki Komputerowej</li>
+					<li>Katedra Uczenia Maszynowego</li>
+		</ul>
+
+
+
+<p><p><a class="default-link" href="/procedure/169">Doktorat</a> &emsp;<b>Otwarcie:</b> 2012-05-31, <b>Zamknięcie:</b> 2014-06-26</p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#ko">Konferencje organizowane</a></li><li><a href="#g">Granty</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	27.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/319-lukasz_struski">Łukasz Struski</a>, <a href="/users/313-marek_smieja">Marek Śmieja</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8351-fast_independent_component_analysis_algorithm_with_a_simple_closed_form_solution">Fast independent component analysis algorithm with a simple closed-form solution</a>, <a href="/czasopisma/231872-knowledge_based_systems">KNOWL-BASED SYST</a> vol. 161 (2018), 26-34	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	26.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/319-lukasz_struski">Łukasz Struski</a>, <a href="/users/313-marek_smieja">Marek Śmieja</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>, <a href="/users/145-bartosz_zielinski">Bartosz Zieliński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8311-processing_of_missing_data_by_neural_networks">Processing of missing data by neural networks</a>, ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS (NIPS) (2018), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	25.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1440-krzysztof_byrski">Krzysztof Byrski</a>, <a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8226-online_updating_of_active_function_cross_entropy_clustering">Online updating of active function cross-entropy clustering</a>, <a href="/czasopisma/233092-pattern_analysis_and_applications">PATTERN ANAL APPL</a> (2018), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/319-lukasz_struski">Łukasz Struski</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8144-lossy_compression_approach_to_subspace_clustering">Lossy Compression Approach to Subspace Clustering</a>, <a href="/czasopisma/229369-information_sciences">INFORM SCIENCES</a> vol. 435 (2018), 161-183	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/313-marek_smieja">Marek Śmieja</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8072-svm_with_a_neutral_class">SVM with a neutral class</a>, <a href="/czasopisma/233092-pattern_analysis_and_applications">PATTERN ANAL APPL</a> (2017), 17	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1696-monika_brzychczy_wloch">Monika Brzychczy-Włoch</a>, <a href="/users/300-krzysztof_misztal">Krzysztof Misztal</a>, <a href="/users/1697-dorota_ochonska">Dorota Ochońska</a>, <a href="/users/1695-anna_plichta">Anna Plichta</a>, <a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/145-bartosz_zielinski">Bartosz Zieliński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8062-deep_learning_approach_to_bacterial_colony_classification">Deep learning approach to bacterial colony classification</a>, <a href="/czasopisma/233359-plos_one">PLOS ONE</a> vol. 12 (9) (2017), 1-14	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1640-krzysztof_hajto">Krzysztof Hajto</a>, <a href="/users/1436-konrad_kamieniecki">Konrad Kamieniecki</a>, <a href="/users/300-krzysztof_misztal">Krzysztof Misztal</a>, <a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8061-split_and_merge_tweak_in_cross_entropy_clustering">Split-and-merge Tweak in Cross Entropy Clustering</a>, COMPUTER INFORMATION SYSTEMS AND INDUSTRIAL MANAGEMENT: 16TH IFIP TC8 INTERNATIONAL CONFERENCE (2017), 193 - 204	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1631-maciej_brzeski">Maciej Brzeski</a>, <a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7987-uniform_cross_entropy_clustering">Uniform Cross-entropy Clustering</a>, <a href="/czasopisma/236602-schedae_informaticae">SCHEDAE INFORMATICAE</a> vol. 25 (2017), 117-126	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1483-ociepka_michal">Ociepka Michał</a>, <a href="/users/360-przemyslaw_rola">Przemysław Rola</a>, <a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7934-ica_based_on_asymmetry">ICA based on asymmetry</a>, <a href="/czasopisma/233093-pattern_recognition">PATTERN RECOGN</a> vol. 67 (2017), 230-244	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1440-krzysztof_byrski">Krzysztof Byrski</a>, <a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7828-active_function_cross_entropy_clustering">Active Function Cross-Entropy Clustering</a>, <a href="/czasopisma/228426-expert_systems_with_applications">EXPERT SYST APPL</a> vol. 72 (2017), 49–66	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1436-konrad_kamieniecki">Konrad Kamieniecki</a>, <a href="/users/300-krzysztof_misztal">Krzysztof Misztal</a>, <a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/313-marek_smieja">Marek Śmieja</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7816-r_package_cec_">R Package CEC </a>, <a href="/czasopisma/232664-neurocomputing">NEUROCOMPUTING</a> vol. 237 (2017), 410–413	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7791-general_split_gaussian_cross_entropy_clustering">General Split Gaussian Cross-Entropy Clustering</a>, <a href="/czasopisma/228426-expert_systems_with_applications">EXPERT SYST APPL</a> vol. 68 (2017), 58–68	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7802-maximum_likelihood_estimation_and_optimal_coordinates">Maximum Likelihood Estimation and Optimal Coordinates</a>, INTERNATIONAL CONFERENCE ON SYSTEMS SCIENCE, 2016 vol. Springer (2016), 3-13	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/303-wieslaw_palka">Wiesław Pałka</a>, <a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7801-clustering_of_gaussian_distributions">Clustering of Gaussian distributions</a>, 2016 INTERNATIONAL JOINT CONFERENCE ON NEURAL NETWORKS (IJCNN) vol. IEEE (2016), 3346--3353	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/300-krzysztof_misztal">Krzysztof Misztal</a>, <a href="/users/1362-michal_podgorski">Michał Podgórski</a>, <a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>, <a href="/users/1361-arkadiusz__tomczyk_">Arkadiusz  Tomczyk </a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7681-detection_of_elongated_structures_with_hierarchical_active_partitions_and_cec_based_image_representation">Detection of Elongated Structures with Hierarchical Active Partitions and CEC-Based Image Representation</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 403 (2016), 159-168	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1340-mateusz_malik">Mateusz Malik</a>, <a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7621-cross_entropy_based_image_thresholding">Cross-Entropy based image thresholding</a>, <a href="/czasopisma/236602-schedae_informaticae">SCHEDAE INFORMATICAE</a> vol. 24 (2015), 21-29	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/300-krzysztof_misztal">Krzysztof Misztal</a>, <a href="/users/709-emil_saeed">Emil Saeed</a>, <a href="/users/711-khalid_saeed">Khalid Saeed</a>, <a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7620-cross_entropy_clustering_approach_to_iris_segmentation_for_biometrics_purpose">Cross entropy clustering approach to iris segmentation for biometrics purpose</a>, <a href="/czasopisma/236602-schedae_informaticae">SCHEDAE INFORMATICAE</a> vol. 24 (2015), 31-40	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/319-lukasz_struski">Łukasz Struski</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7573-subspace_memory_clustering">Subspace memory clustering</a>, <a href="/czasopisma/236602-schedae_informaticae">SCHEDAE INFORMATICAE</a> vol. 24 (2015), 133-142 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>, <a href="/users/328-mateusz_wojcik">Mateusz Wójcik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7436-cross_entropy_clustering_approach_to_one_class_classification">Cross-Entropy Clustering Approach to One-Class Classification</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 9119 (2015), 481-490	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/1037-elzbieta__zajac">Elżbieta  Zając</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7265-metody_analizy_mikroskopowych_obrazow_warstw_c_pd">Metody analizy mikroskopowych obrazów warstw C-Pd</a>, (2014), "Świat nanotechnologii. Warstwy nanokompozytowe węglowo-palladowe. Badania i technologia", Wydawnictwa Uniwersytetu Warszawskiego	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1198-alena__chaikouskaya">Alena  Chaikouskaya</a>, <a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>, <a href="/users/1037-elzbieta__zajac">Elżbieta  Zając</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7234-a_local_gaussian_filter_and_adaptive_morphology_as_tools_for_completing_partially_discontinuous_curves">A local Gaussian filter and adaptive morphology as tools for completing partially discontinuous curves</a>, COMPUTER INFORMATION SYSTEMS AND INDUSTRIAL MANAGEMENT vol. 8838 (2014), 559-570	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/300-krzysztof_misztal">Krzysztof Misztal</a>, <a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/313-marek_smieja">Marek Śmieja</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7233-subspaces_clustering_approach_to_lossy_image_compression">Subspaces Clustering Approach to Lossy Image Compression</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 8838 (2014), 571-579	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7143-cross_entropy_clustering">Cross Entropy Clustering</a>, <a href="/czasopisma/233093-pattern_recognition">PATTERN RECOGN</a> vol. 47 (2014), 3046–3059	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/300-krzysztof_misztal">Krzysztof Misztal</a>, <a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7010-weighted_approach_to_projective_clustering">Weighted Approach to Projective Clustering</a>, COMPUTER INFORMATION SYSTEMS AND INDUSTRIAL MANAGEMENT LECTURE NOTES IN COMPUTER SCIENCE vol. 8104 (2013), 367-378	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7006-the_memory_center">The memory center</a>, <a href="/czasopisma/229369-information_sciences">INFORM SCIENCES</a> vol. 252 (2013), 132–143	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>, <a href="/users/1037-elzbieta__zajac">Elżbieta  Zając</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6973-detection_of_disk_like_particles_in_electron_microscopy_images">Detection of Disk-Like Particles in Electron Microscopy Images</a>, ADVANCES IN INTELLIGENT SYSTEMS AND COMPUTING vol. 226 (2013), 411-417	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/318-przemyslaw_spurek">Przemysław Spurek</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6249-numerical_verification_of_condition_for_approximately_midconvex_functions">Numerical verification of condition for approximately midconvex functions</a>, <a href="/czasopisma/225365-aequationes_mathematicae">AEQUATIONES MATH</a> vol. 83 (2012), 223-237	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/318-przemyslaw_spurek"><span>8351</span><span>8311</span><span>8226</span><span>8144</span><span>8072</span><span>8062</span><span>8061</span><span>7987</span><span>7934</span><span>7828</span><span>7816</span><span>7791</span><span>7802</span><span>7801</span><span>7681</span><span>7621</span><span>7620</span><span>7573</span><span>7436</span><span>7265</span><span>7234</span><span>7233</span><span>7143</span><span>7010</span><span>7006</span><span>6973</span><span>6249</span></div>
+</div><h3 id='ko'>Konferencje organizowane:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/318-przemyslaw-spurek">Przemysław Spurek</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/111">Theoretical Foundations of Machine Learning - TFML 2017</a>, Kraków, 2017-02-13, 2017-02-17	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/318-przemyslaw-spurek">Przemysław Spurek</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/112">Theoretical Foundations of Machine Learning</a>, Będlewo, 2015-02-16, 2015-02-20	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/318-przemyslaw_spurek"><span>111</span><span>112</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/318-przemyslaw_spurek?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/124">Budowanie algorytmów grupowania danych w oparciu o uogólnione rozkłady normalne oraz rozkłady nie gaussowskie</a></td><td>Kierownik</td><td>2016-06-13</td><td>2019-06-12</td></tr>
+<tr class="even">
+<td><a href="../grants/106">Paradygmat minimalizacji pamięci w klastrowaniu</a></td><td>Wykonawca</td><td>2015-01-21</td><td>2017-08-26</td></tr>
+<tr class="odd">
+<td><a href="../grants/86">Środek ciężkości pamięci</a></td><td>Kierownik</td><td>2014-02-24</td><td>2016-08-23</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/318-przemyslaw_spurek"><span>337</span><span>149</span><span>302</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

@@ -1,0 +1,352 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr -  Tomasz Kobos</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr  Tomasz Kobos
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Teorii Aproksymacji</li>
+		</ul>
+
+
+
+<p><p><a class="default-link" href="/procedure/274">Doktorat</a> &emsp;<b>Otwarcie:</b> 2014-05-29, <b>Zamknięcie:</b> 2016-06-30</p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#k">Konferencje</a></li><li><a href="#g">Granty</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/425-tomasz_kobos">Tomasz Kobos</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8120-a_uniform_estimate_of_the_relative_projection_constant">A uniform estimate of the relative projection constant</a>, <a href="/czasopisma/230156-journal_of_approximation_theory">J APPROX THEORY</a> vol. 225 (2018), 58-75	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/425-tomasz_kobos">Tomasz Kobos</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7805-matematyka_jest_jedna__magia_liczb">Matematyka jest jedna: Magia liczb</a>, DELTA vol. 03 (2016), 16-19	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/425-tomasz_kobos">Tomasz Kobos</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7674-tozsamosc_sophie_germain">Tożsamość Sophie Germain</a>, KWADRAT (GAZETKA OLIMPIADY MATEMATYCZNEJ GIMNAZJALISTÓW) vol. 7 (2015), 3-4	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/425-tomasz_kobos">Tomasz Kobos</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7673-matematyka_jest_jedna__wielomiany_moga_wszystko">Matematyka jest jedna: wielomiany mogą wszystko</a>, DELTA vol. 9 (2015), 13-16	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/425-tomasz_kobos">Tomasz Kobos</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7672-matematyka_jest_jedna__metoda_probabilistyczna">Matematyka jest jedna: metoda probabilistyczna</a>, DELTA vol. 4 (2015), 5-7	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/425-tomasz_kobos">Tomasz Kobos</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7671-matematyka_jest_jedna">Matematyka jest jedna</a>, DELTA vol. 2 (2015), 1-4	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/425-tomasz_kobos">Tomasz Kobos</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7400-hyperplanes_of_finite_dimensional_normed_spaces_with_the_maximal_relative_projection_constant">HYPERPLANES OF FINITE-DIMENSIONAL NORMED SPACES WITH THE MAXIMAL RELATIVE PROJECTION CONSTANT</a>, <a href="/czasopisma/226662-bulletin_of_the_australian_mathematical_society">B AUST MATH SOC</a> vol. 91 (2015), 447-463	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/425-tomasz_kobos">Tomasz Kobos</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7259-equilateral_dimension_of_certain_classes_of_normed_spaces">Equilateral Dimension of Certain Classes of Normed Spaces</a>, <a href="/czasopisma/232830-numerical_functional_analysis_and_optimization">NUMER FUNC ANAL OPT</a> vol. 35 (10) (2014), 1340-1358	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/425-tomasz_kobos">Tomasz Kobos</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7051-an_alternative_proof_of_petty_s_theorem_on_equilateral_sets">An alternative proof of Petty's theorem on equilateral sets</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 109 (2013), 165-175	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/425-tomasz_kobos"><span>8120</span><span>7805</span><span>7674</span><span>7673</span><span>7672</span><span>7671</span><span>7400</span><span>7259</span><span>7051</span></div>
+</div><h3 id='k'>Konferencje:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/425-tomasz-kobos">Tomasz Kobos</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/541">Convex, Discrete and Integral Geometry</a>, Centrum Banacha - Instytut Matematyczny PAN, Będlewo, Polska, 2017-06-04 - 2017-06-10	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/425-tomasz-kobos">Tomasz Kobos</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/361">Discrete Mathematics Days</a>,  Universitat Politècnica de Catalunya, Barcelona, Hiszpania, 2016-07-06 - 2016-07-08	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/425-tomasz-kobos">Tomasz Kobos</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/360">Discrete Geometry Days</a>, Budapest University of Technology and Economics, Budapeszt, Węgry, 2016-06-21 - 2016-06-24	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/425-tomasz-kobos">Tomasz Kobos</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/99">Conference on Geometric Functional Analysis and its Applications</a>, Université Franche-Comté, Besancon, Francja, 2014-10-27 - 2014-10-31	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/190-marek-jarnicki">Marek Jarnicki</a>, <a class="default-link" href="/users/425-tomasz-kobos">Tomasz Kobos</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/98">Joint Meeting of the German Mathematical Society and The Polish Mathematical Society</a>, Polskie Towarzystwo Matematyczne, Niemieckie Towarzystwo Matematyczne, Poznań, Polska, 2014-09-17 - 2014-09-20	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/218-jan-stochel">Jan Stochel</a>, <a class="default-link" href="/users/248-zenon-jablonski">Zenon Jabłoński</a>, <a class="default-link" href="/users/425-tomasz-kobos">Tomasz Kobos</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/97">4th Small Workshop on Operator Theory</a>, Uniwersytet Rolniczy w Krakowie, Kraków, Polska, 2014-07-08 - 2014-07-12	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/425-tomasz_kobos"><span>541</span><span>361</span><span>360</span><span>99</span><span>98</span><span>97</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/425-tomasz_kobos?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/112">Kompakty Banacha-Mazura</a></td><td>Kierownik</td><td>2015-07-20</td><td>2017-09-19</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/425-tomasz_kobos"><span>326</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

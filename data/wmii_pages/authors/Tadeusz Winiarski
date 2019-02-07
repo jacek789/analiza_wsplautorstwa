@@ -1,0 +1,388 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title> Tadeusz Winiarski</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+ Tadeusz Winiarski
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Geometrii Analitycznej</li>
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#d">Doktoranci</a></li><li><a href="#r">Recenzje</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/259-slawomir_rams">Sławomir Rams</a>, <a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5495-a_note_on_bezout_s_theorem">A note on Bézout's theorem</a>, ANN. POLON. MATH. 87 (2005), 219-227	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>, J.Apel,J.Stueckrad	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5823-properties_of_entire_functions_over_polynomial_rings_via_groebner_bases">Properties of Entire Functions Over Polynomial Rings via Groebner Bases</a>, APPL. ALGEBRA ENGRG. COMM. COMPUT. 14 (2003), 1--10	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>, J.Apel,J.Stückrad	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5827-term_bases_for_multivariate_interpolation_of_hermite_type">Term bases for multivariate interpolation of Hermite type</a>, EFFECTIVE METHODS IN ALGEBRAIC AND ANALYTIC GEOMETRY (BIELSKO-BIAŁA, 1997). Univ. Iagel. Acta Math. No. 37 (1999), 37--49	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>, J.Apel,J.Stückrad	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5828-intersection_of_sequences_of_ideals_generated_by_polynomials">Intersection of sequences of ideals generated by polynomials</a>, J. PURE APPL. ALGEBRA 131 (1998), no. 1, 1--12	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>, J.Apel,J.Stückrad	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5831-reduction_of_everywhere_convergent_power_series_with_respect_to_grobner_bases">Reduction of everywhere convergent power series with respect to Gröbner bases</a>, J. PURE APPL. ALGEBRA 110 (1996), no. 2, 113--129	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>, G.Dloussky	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5835-on_separately_algebraic_sets">On separately algebraic sets</a>, SAITAMA MATH. J. 8 (1990), 47--50	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>, K.Spallek	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5836-osgood_hartogs_theorems_of_mixed_type">Osgood-Hartogs-theorems of mixed type</a>, MATH. ANN. 288 (1990), no. 1, 75--88	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>, R.Achilles	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5837-on_improper_isolated_intersection_in_complex_analytic_geometry">On improper isolated intersection in complex analytic geometry</a>, ANN. POLON. MATH. 51 (1990), 21--36	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5838-cycles_of_zeroes_of_holomorphic_mappings">Cycles of zeroes of holomorphic mappings</a>, BULL. POLISH ACAD. SCI. MATH. 37 (1989), no. 1-6, 95--101 (1990)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/216-kamil_rusek">Kamil Rusek</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5515-polynomial_automorphisms_of_ccn">Polynomial automorphisms of CCn</a>, UNIV. IAGEL. ACTA MATH. no. 24 (1984), 143--149	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5841-limits_of_algebraic_sets_of_bounded_degree">Limits of algebraic sets of bounded degree</a>, UNIV. IAGEL. ACTA MATH. no. 24 (1984), 151--153	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5842-continuity_of_intersection_of_analytic_sets">Continuity of intersection of analytic sets</a>, ANN. POLON. MATH. 42 (1983), 387--393	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5843-analytic_sets_with_proper_projections">Analytic sets with proper projections</a>, J. REINE ANGEW. MATH. 337 (1982), 68--76	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/207-ludwik_m__druzkowski">Ludwik M. Drużkowski</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4487-composition_of_polynomial_with_entire_mapping">Composition of polynomial with entire mapping</a>, BULL. ACAD. POLON. SCI. SÉR. SCI. MATH. 28 (1980), no. 3-4, 107--109 (1981)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/216-kamil_rusek">Kamil Rusek</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5519-criteria_for_regularity_of_holomorphic_mappings">Criteria for regularity of holomorphic mappings</a>, BULL. ACAD. POLON. SCI. SÉR. SCI. MATH. 28 (1980), no. 9-10, 471--475 (1981)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/234-marcin_dumnicki">Marcin Dumnicki</a>, <a href="/users/600-tadeusz_winiarski">Tadeusz Winiarski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4497-bazy_grobnera___efektywne_metody_w_ukladach_rownan_wielomianowych">Bazy Grobnera - efektywne metody w układach równań wielomianowych</a>, WYDAWNICTWO NAUKOWE AKADEMII PEDAGOGICZNEJ, KRAKÓW 2007	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/600-tadeusz_winiarski"><span>5495</span><span>5823</span><span>5827</span><span>5828</span><span>5831</span><span>5835</span><span>5836</span><span>5837</span><span>5838</span><span>5515</span><span>5841</span><span>5842</span><span>5843</span><span>4487</span><span>5519</span><span>4497</span></div>
+</div><h3 id='d'>Doktoranci <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="doc-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="doc-view_c0"><a class="sort-link" href="/users/600-tadeusz_winiarski?Procedure_sort=id_user">Doktorant<span class="caret"></span></a></th><th id="doc-view_c1"><a class="sort-link" href="/users/600-tadeusz_winiarski?Procedure_sort=opening">Otwarcie<span class="caret"></span></a></th><th id="doc-view_c2"><a class="sort-link" href="/users/600-tadeusz_winiarski?Procedure_sort=ending">Zakonczenie<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/110">Marcin Dumnicki</a></td><td>2004-06-24</td><td>2005-06-23</td></tr>
+<tr class="even">
+<td><a href="../procedure/112">Witold Jarnicki</a></td><td>2003-01-09</td><td>2005-06-23</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/600-tadeusz_winiarski"><span>110</span><span>112</span></div>
+</div><h3 id='r'>Recenzje <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="review-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="review-view_c0"><a class="sort-link" href="/users/600-tadeusz_winiarski?ProcedureReview_sort=id_procedure">Recenzowany<span class="caret"></span></a></th><th id="review-view_c1">Jednostka</th><th id="review-view_c2"><a class="sort-link" href="/users/600-tadeusz_winiarski?ProcedureReview_sort=id_uploaded_file">Treść recenzji<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/103">Doktorat: Marcin Bilski</a></td><td>Katedra Funkcji Rzeczywistych</td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/600-tadeusz_winiarski"><span>216</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#doc-view').yiiGridView({'ajaxUpdate':['doc-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#review-view').yiiGridView({'ajaxUpdate':['review-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

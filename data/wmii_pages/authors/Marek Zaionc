@@ -1,0 +1,777 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>prof. dr hab. -  Marek Zaionc</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+prof. dr hab.  Marek Zaionc
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Zespół Katedr i Zakładów Informatyki Matematycznej</li>
+					<li>Katedra Podstaw Informatyki</li>
+		</ul>
+
+
+
+<p><p><a class="default-link" href="/procedure/35">Profesura</a> &emsp;<b>Otwarcie:</b> 2005-01-27, <b>Zamknięcie:</b> 2006-05-17</p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#k">Konferencje</a></li><li><a href="#ko">Konferencje organizowane</a></li><li><a href="#d">Doktoranci</a></li><li><a href="#r">Recenzje</a></li><li><a href="#g">Granty</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	35.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/980-aleksander_byrski">Aleksander Byrski</a>, <a href="/users/1786-kevin_hammond">Kevin Hammond</a>, <a href="/users/1785-john_hughes">John Hughes</a>, <a href="/users/1784-wojciech_turek">Wojciech Turek</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8260-foreword_to_the_special_issue_on_parallel_and_distributed_computing_based_on_the_functional_programming_paradigm">Foreword to the Special Issue on Parallel and Distributed Computing based on The Functional Programming Paradigm</a>, <a href="/czasopisma/227389-concurrency_and_computation_practice___experience">CONCURR COMP-PRACT E</a> (2018), 4	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	34.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8135-asymptotic_density_in_logic_and_computability">Asymptotic density in logic and computability</a>, PROCEEDINGS OF THE TENTH WORKSHOP ON INFORMATION THEORETIC METHODS IN SCIENCE AND ENGINEERING, PARIS, FRANCE, SEPTEMBER 11-13, 2017 vol. Publication series B, Report B-2017-3 (Editors: Jacquet Philippe, Leppä-Aho Janne, Roos Teemu (2017), 43	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	33.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1179-maciej_bendkowski">Maciej Bendkowski</a>, <a href="/users/431-katarzyna_grygiel">Katarzyna Grygiel</a>, <a href="/users/1042-pierre_lescanne">Pierre Lescanne</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8011-combinatorics_of___terms__a_natural_approach">Combinatorics of λ-terms: a natural approach</a>, <a href="/czasopisma/230945-journal_of_logic_and_computation">J LOGIC COMPUT</a> vol. Volume 27, Issue 8 (2017), 2611–2630	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	32.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1179-maciej_bendkowski">Maciej Bendkowski</a>, <a href="/users/431-katarzyna_grygiel">Katarzyna Grygiel</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7752-on_the_likelihood_of_normalisation_in_combinatory_logic">On the likelihood of normalisation in combinatory logic</a>, <a href="/czasopisma/230945-journal_of_logic_and_computation">J LOGIC COMPUT</a> vol. Volume 27, Issue 7 (2017), 2251–2269	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	31.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1179-maciej_bendkowski">Maciej Bendkowski</a>, <a href="/users/431-katarzyna_grygiel">Katarzyna Grygiel</a>, <a href="/users/1042-pierre_lescanne">Pierre Lescanne</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7586-a_natural_counting_of_lambda_terms">A natural counting of lambda terms</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 9587 (2016),  183-194	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	30.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1179-maciej_bendkowski">Maciej Bendkowski</a>, <a href="/users/431-katarzyna_grygiel">Katarzyna Grygiel</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7267-asymptotic_properties_of_combinatory_logic">Asymptotic properties of combinatory logic</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 9076 (2015), 62-72	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	29.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/676-rene_david">Rene David</a>, <a href="/users/431-katarzyna_grygiel">Katarzyna Grygiel</a>, <a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/677-christophe_raffalli">Christophe Raffalli</a>, <a href="/users/678-guillaume_theyssier">Guillaume Theyssier</a>, <a href="/users/289-"></a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6209-asymptotically_almost_all___terms_are_strongly_normalizing">Asymptotically almost all λ-terms are strongly normalizing</a>, <a href="/czasopisma/232052-logical_methods_in_computer_science">LOG METH COMPUT SCI</a> vol. 9 (1:02) (2013), 1-30	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	28.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/431-katarzyna_grygiel">Katarzyna Grygiel</a>, <a href="/users/281-pawel_idziak">Paweł Idziak</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6203-how_big_is_bci_fragment_of_bck_logic">How big is BCI fragment of BCK logic</a>, <a href="/czasopisma/230945-journal_of_logic_and_computation">J LOGIC COMPUT</a> vol. 23(3) (2013), 673-691 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	27.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/683-daniele__gardy">Daniele  Gardy</a>, <a href="/users/681-herve_fournier">Herve Fournier</a>, <a href="/users/680-antoine_genitrini">Antoine Genitrini</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6205-tautologies_over_implication_with_negative_literals">Tautologies over implication with negative literals</a>, <a href="/czasopisma/232191-mathematical_logic_quarterly">MATH LOGIC QUART</a> vol. 56 (2010), 388-396	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	26.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/676-rene_david">Rene David</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6210-counting_proofs_in_propositional_logic">Counting proofs in propositional logic</a>, <a href="/czasopisma/225963-archive_for_mathematical_logic">ARCH MATH LOGIC</a> vol. 48 (2009), 185-199	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	25.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/685-zofia__kostrzycka">Zofia  Kostrzycka</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6234-asymptotic_densities_in_logic_and_type_theory">Asymptotic densities in logic and type theory</a>, <a href="/czasopisma/240812-studia_logica">STUDIA LOGICA</a> vol. 88 (2008), 385-403	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/680-antoine_genitrini">Antoine Genitrini</a>, <a href="/users/282-jakub_kozik">Jakub Kozik</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6233-intuitionistic_vs__classical_tautologies__quantitative_comparison">Intuitionistic vs. Classical Tautologies, Quantitative Comparison</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 4941 (2008), 100-109	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/686-lidia__badura">Lidia  Badura</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6236-parametrizability_by_regular_expressions_for_equations_on_words">Parametrizability by regular expressions for equations on words</a>, <a href="/czasopisma/237768-bulletin_of_the_section_of_logic">BULLETIN OF THE SECTION OF LOGIC</a> vol. 36 (2007), 79-93	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/682-daniele__gardy">Daniele  Gardy</a>, <a href="/users/681-herve_fournier">Herve Fournier</a>, <a href="/users/680-antoine_genitrini">Antoine Genitrini</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6235-classical_and_intuitionistic_logic_are_asymptotically_identical">Classical and intuitionistic logic are asymptotically identical</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 4646 (2007), 177-193	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6239-probability_distribution_for_simple_tautologies">Probability distribution for simple tautologies</a>, <a href="/czasopisma/234793-theoretical_computer_science">THEOR COMPUT SCI</a> vol. 355 (2006), 243-260	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6240-on_the_asymptotic_density_of_tautologies_in_logic_of_implication_and_negation">On the asymptotic density of tautologies in logic of implication and negation</a>, <a href="/czasopisma/240262-reports_on_mathematical_logic">REPORTS ON MATHEMATICAL LOGIC</a> vol. 39 (2005), 67-87	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6238-probabilistic_approach_to_the_lambda_definability_for_fourth_order_types">Probabilistic approach to the lambda definability for fourth order types</a>, ELECTRONIC NOTES IN THEORETICAL COMPUTER SCIENCE (2005), 41-54	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/685-zofia__kostrzycka">Zofia  Kostrzycka</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6286-statistics_of_intuitionistic_versus_classical_logics">Statistics of intuitionistic versus classical logics</a>, <a href="/czasopisma/240812-studia_logica">STUDIA LOGICA</a> vol. 76 (2004), 307 - 328	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6289-asymptotic_properties_of_logics">Asymptotic properties of logics</a>, <a href="/czasopisma/236602-schedae_informaticae">SCHEDAE INFORMATICAE</a> vol. 12 (2003), 129-138	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/685-zofia__kostrzycka">Zofia  Kostrzycka</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6287-on_the_density_of_truth_in_dummet_logic">On the density of truth in Dummet logic</a>, <a href="/czasopisma/237768-bulletin_of_the_section_of_logic">BULLETIN OF THE SECTION OF LOGIC</a> vol. 32 (2003), 43-55	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6241-statistics_of_implicational_logic">Statistics of implicational logic</a>, ELECTRONIC NOTES IN THEORETICAL COMPUTER SCIENCE vol. 84 (2003),  205–216	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/120-malgorzata_moczurad">Małgorzata Moczurad</a>, <a href="/users/583-jerzy_tyszkiewicz">Jerzy Tyszkiewicz</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6288-statistical_properties_of_simple_types">Statistical properties of simple types</a>, <a href="/czasopisma/232207-mathematical_structures_in_computer_science">MATH STRUCT COMP SCI</a> vol. 10 (2000),  575-594	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/892-jan_malolepszy">Jan Małolepszy</a>, <a href="/users/120-malgorzata_moczurad">Małgorzata Moczurad</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6779-schwichtenberg_style_lambda_definability_is_undecidable">Schwichtenberg style lambda definability is undecidable</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 1210 (1997), 267-283	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7443-lambda_representations_of_operations_between_different_term_algebras">Lambda representations of operations between different term algebras</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 993 (1995), 91-105	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7444-lambda_definability_on_free_algebras">Lambda definability on free algebras</a>, <a href="/czasopisma/225760-annals_of_pure_and_applied_logic">ANN PURE APPL LOGIC</a> vol. 51 (1992), 279-300	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7446-a_characterization_of_lambda_definable_tree_operations">A Characterization of Lambda Definable Tree Operations</a>, <a href="/czasopisma/229360-information_and_computation">INFORM COMPUT</a> vol. 89 (1990),  35-46	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7449-on_the_lambda_definable_higher_order_boolean_functionals">On the lambda definable higher-order boolean functionals</a>, <a href="/czasopisma/228629-fundamenta_informaticae">FUND INFORM</a> vol. 12 (1989), 181-190	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7448-how_to_define_functionals_on_free_structures_in_typed_lambda_calculus">How To Define Functionals on Free Structures in Typed lambda Calculus</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 379 (1989), 566-576	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7450-mechanical_procedure_for_proof_construction_via_closed_terms_in_typed_lambda_calculus">Mechanical Procedure for Proof Construction via Closed Terms in Typed lambda Calculus</a>, <a href="/czasopisma/230186-journal_of_automated_reasoning">J AUTOM REASONING</a> vol. 4 (1988), 173-190	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7447-on_the_lambda_definable_tree_operations">On the lambda definable tree operations</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 425 (1988),  279-292	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7452-word_operations_definable_in_the_typed_lambda_calculus">Word Operations Definable in the Typed lambda Calculus</a>, <a href="/czasopisma/234793-theoretical_computer_science">THEOR COMPUT SCI</a> vol. 52 (1987), 1-14	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7451-the_regular_expression_descriptions_of_unifier_sets_in_the_typed_lambda_calculus">The Regular Expression Descriptions of Unifier Sets in the Typed lambda Calculus</a>, <a href="/czasopisma/228629-fundamenta_informaticae">FUND INFORM</a> vol. 10 (1987), 309-322	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7454-nondeterministic_programs_definable_in_typed_lambda_calculus">Nondeterministic Programs Definable in Typed Lambda Calculus</a>, <a href="/czasopisma/228629-fundamenta_informaticae">FUND INFORM</a> vol. 8 (1985), 63-72	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7453-the_set_of_unifiers_in_typed_lambda_calculus_as_regular_expression">The set of Unifiers in Typed lambda calculus as Regular Expression</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 202 (1985),  430-440	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/102-marian_mrozek">Marian Mrozek</a>, <a href="/users/289-marek_zaionc">Marek Zaionc</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7455-a_computer_model_of_evolution_and_ecological_processes">A computer model of evolution and ecological processes</a>, MODELING, SIMULATION & CONTROL C (1984),  59-63	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/289-marek_zaionc"><span>8260</span><span>8135</span><span>8011</span><span>7752</span><span>7586</span><span>7267</span><span>6209</span><span>6203</span><span>6205</span><span>6210</span><span>6234</span><span>6233</span><span>6236</span><span>6235</span><span>6239</span><span>6240</span><span>6238</span><span>6286</span><span>6289</span><span>6287</span><span>6241</span><span>6288</span><span>6779</span><span>7443</span><span>7444</span><span>7446</span><span>7449</span><span>7448</span><span>7450</span><span>7447</span><span>7452</span><span>7451</span><span>7454</span><span>7453</span><span>7455</span></div>
+</div><h3 id='k'>Konferencje:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/289-marek-zaionc">Marek Zaionc</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/574">The Tenth Workshop on Information Theoretic Methods in Science and Engineering</a>, Laboratory for Information, Networking and Communication Sciences (LINCS), Telecom ParisTech, INRIA,, Paryż, Francja, 2017-09-11 - 2017-09-13	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/289-marek-zaionc">Marek Zaionc</a>, <a class="default-link" href="/users/431-katarzyna-grygiel">Katarzyna Grygiel</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/225">12th Annual Conference on Theory and Applications of Models of Computation</a>, 18 - 20 May 2015 School of Computing National University of Singapore, Singapur, Singapur, 2015-05-18 - 2015-05-22	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/289-marek_zaionc"><span>574</span><span>225</span></div>
+</div><h3 id='ko'>Konferencje organizowane:</h3><div id="yw3" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/289-marek-zaionc">Marek Zaionc</a>, <a class="default-link" href="/users/431-katarzyna-grygiel">Katarzyna Grygiel</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/148">27th International Conference on Probabilistic, Combinatorialand Asymptotic Methods for the Analysis of AlgorithmsKraków, Poland, July 4–8, 2016</a>, Kraków, 2016-07-04, 2016-07-08	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/289-marek-zaionc">Marek Zaionc</a>, <a class="default-link" href="/users/290-grzegorz-herman">Grzegorz Herman</a>, <a class="default-link" href="/users/431-katarzyna-grygiel">Katarzyna Grygiel</a>, <a class="default-link" href="/users/1179-maciej-bendkowski">Maciej Bendkowski</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/147">Research in Adaptive and Convergent Systems (RACS 2017)</a>, Kraków, 2017-09-20, 2017-09-23	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/289-marek_zaionc"><span>148</span><span>147</span></div>
+</div><h3 id='d'>Doktoranci <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="doc-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="doc-view_c0"><a class="sort-link" href="/users/289-marek_zaionc?Procedure_sort=id_user">Doktorant<span class="caret"></span></a></th><th id="doc-view_c1"><a class="sort-link" href="/users/289-marek_zaionc?Procedure_sort=opening">Otwarcie<span class="caret"></span></a></th><th id="doc-view_c2"><a class="sort-link" href="/users/289-marek_zaionc?Procedure_sort=ending">Zakonczenie<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/29">Jarosław Duda</a></td><td>2008-02-28</td><td>2010-10-28</td></tr>
+<tr class="even">
+<td><a href="../procedure/55">Katarzyna Grygiel</a></td><td>2010-12-16</td><td>2013-05-23</td></tr>
+<tr class="odd">
+<td><a href="../procedure/56">Mateusz Kostanek</a></td><td>2010-02-25</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/95">Jakub Kozik</a></td><td>2005-01-27</td><td>2006-11-30</td></tr>
+<tr class="odd">
+<td><a href="../procedure/216">Michał Handzlik</a></td><td>2013-06-27</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/279">Maciej Bendkowski</a></td><td>2015-12-17</td><td>2017-11-30</td></tr>
+<tr class="odd">
+<td><a href="../procedure/323">Łukasz Lachowski</a></td><td>2018-05-24</td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/289-marek_zaionc"><span>29</span><span>55</span><span>56</span><span>95</span><span>216</span><span>279</span><span>323</span></div>
+</div><h3 id='r'>Recenzje <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="review-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="review-view_c0"><a class="sort-link" href="/users/289-marek_zaionc?ProcedureReview_sort=id_procedure">Recenzowany<span class="caret"></span></a></th><th id="review-view_c1">Jednostka</th><th id="review-view_c2"><a class="sort-link" href="/users/289-marek_zaionc?ProcedureReview_sort=id_uploaded_file">Treść recenzji<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/87">Doktorat: Przemysław Broniek</a></td><td></td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/122">Doktorat: Edward Szczypka</a></td><td>Katedra Metod Efektywnych Algebry</td><td>&nbsp;</td></tr>
+<tr class="odd">
+<td><a href="../procedure/135">Doktorat: Grzegorz Matecki</a></td><td>Katedra Algorytmiki</td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/289-marek_zaionc"><span>174</span><span>245</span><span>257</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/289-marek_zaionc?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/97">Asymptotyczne metody w rachunku lambda i logice kombinatorycznej</a></td><td>Kierownik</td><td>2014-07-16</td><td>2017-07-15</td></tr>
+<tr class="even">
+<td><a href="../grants/98">Kolonoskopia -Innowacyjna diagnostyka umożliwiająca personalizacje procesu leczenia poprzez opracowanie rozwiązania wspomagające badania kolonoskopowe, podnoszącego wykrywalność stanów przedrakowych nowotworów jelita grubego o niskim stadium zaawansowania</a></td><td>Kierownik</td><td>2014-07-01</td><td>2017-12-31</td></tr>
+<tr class="odd">
+<td><a href="../grants/19">Śledzenie poruszających się osób w monitorowanych strefach</a></td><td>Wykonawca</td><td>2010-09-17</td><td>2013-09-16</td></tr>
+<tr class="even">
+<td><a href="../grants/6">Badanie ilościowe w logikach i teorii obliczeń</a></td><td>Kierownik</td><td>2009-09-17</td><td>2012-03-16</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/289-marek_zaionc"><span>313</span><span>314</span><span>64</span><span>228</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw3').yiiListView({'ajaxUpdate':['yw3'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#doc-view').yiiGridView({'ajaxUpdate':['doc-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#review-view').yiiGridView({'ajaxUpdate':['review-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

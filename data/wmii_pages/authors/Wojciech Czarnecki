@@ -1,0 +1,577 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr -  Wojciech Czarnecki</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr  Wojciech Czarnecki
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Informatyki i Matematyki Komputerowej</li>
+					<li>Katedra Uczenia Maszynowego</li>
+		</ul>
+
+
+
+<p><p><a class="default-link" href="/procedure/246">Doktorat</a> &emsp;<b>Otwarcie:</b> 2014-06-26, <b>Zamknięcie:</b> 2015-12-17</p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#k">Konferencje</a></li><li><a href="#g">Granty</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/1239-stanislaw__jastrzebski">Stanisław  Jastrzębski</a>, <a href="/users/1377-damian_lesniak">Damian Leśniak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8002-how_to_evaluate_word_embeddings__on_importance_of_data_efficiency_and_simple_supervised_tasks">How to evaluate word embeddings? On importance of data efficiency and simple supervised tasks</a>, ARXIV (2017), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1172-andrzej_bojarski">Andrzej Bojarski</a>, <a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/1239-stanislaw__jastrzebski">Stanisław  Jastrzębski</a>, <a href="/users/1377-damian_lesniak">Damian Leśniak</a>, <a href="/users/1277-sabina_podlewska">Sabina Podlewska</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7966-quo_vadis_g_protein_coupled_receptor_ligands__a_tool_for_analysis_of_the_emergence_of_new_groups_of_compounds_over_time">Quo vadis G Protein-Coupled Receptor ligands? A tool for analysis of the emergence of new groups of compounds over time</a>, <a href="/czasopisma/226418-bioorganic___medicinal_chemistry_letters">BIOORG MED CHEM LETT</a> vol. 27 (2017), 626-631	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/1239-stanislaw__jastrzebski">Stanisław  Jastrzębski</a>, <a href="/users/1377-damian_lesniak">Damian Leśniak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7725-learning_to_smile_s_">Learning to SMILE(S)</a>, INTERNATIONAL CONFERENCE ON LEARNING REPRESENTATIONS (WORKSHOP TRACK) (2016), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7684-online_extreme_entropy_machines_for_streams_classification_and_active_learning">Online Extreme Entropy Machines for Streams Classification and Active Learning</a>, ADVANCES IN INTELLIGENT SYSTEMS AND COMPUTING vol. 403 (2016), 371-381	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/1332-krzysztof_rataj">Krzysztof Rataj</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7603-compounds_activity_prediction_in_large_imbalanced_datasets_with_substructural_relations_fingerprint_and_eem">Compounds Activity Prediction in Large Imbalanced Datasets with Substructural Relations Fingerprint and EEM</a>, IEEE TRUSTCOM/BIGDATASE/ISPA PROCEEDINGS vol. 2 (2015), 192-197	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/1239-stanislaw__jastrzebski">Stanisław  Jastrzębski</a>, <a href="/users/1277-sabina_podlewska">Sabina Podlewska</a>, <a href="/users/1326-igor_sieradzki">Igor Sieradzki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7598-active_learning_of_compounds_activity___towards_scientifically_sound_simulation_of_drug_candidates_identification">Active Learning of Compounds Activity - Towards Scientifically Sound Simulation of Drug Candidates Identification</a>, PROCEEDINGS OF 2ND WORKSHOP ON MACHINE LEARNING IN LIFE SCIENCES (2015), 40-51	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1172-andrzej_bojarski">Andrzej Bojarski</a>, <a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/1277-sabina_podlewska">Sabina Podlewska</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7571-extremely_randomized_machine_learning_methods_for_compound_activity_prediction">Extremely Randomized Machine Learning Methods for Compound Activity Prediction</a>, MOLECULES vol. 20 (11) (2015), 20107-20117	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/1215-rafal_jozefowicz">Rafał Józefowicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7543-neural_connectivity_reconstruction_from_calcium_imaging__signal_using_random__forest_with_topological_features">Neural Connectivity Reconstruction from Calcium Imaging  Signal using Random  Forest with Topological Features</a>, JMLR: WORKSHOP AND CONFERENCE PROCEEDINGS vol. 46 (2015), 67-76	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1172-andrzej_bojarski">Andrzej Bojarski</a>, <a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/1277-sabina_podlewska">Sabina Podlewska</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7466-robust_optimization_of_svm_hyperparameters_in_the_classification_of_bioactive_compounds">Robust optimization of SVM hyperparameters in the classification of bioactive compounds</a>, <a href="/czasopisma/243413-journal_of_cheminformatics">J CHEMINFORMATICS</a> vol. 7 (38) (2015), 15	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/1215-rafal_jozefowicz">Rafał Józefowicz</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7464-maximum_entropy_linear_manifold_for_learning_discriminative_low_dimensional_representation">Maximum Entropy Linear Manifold for Learning Discriminative Low-dimensional Representation</a>, <a href="/czasopisma/241828-lecture_notes_in_artificial_intelligence">LECTURE NOTES IN ARTIFICIAL INTELLIGENCE</a> vol. 9284 (2015), 52-67	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7460-extreme_entropy_machines__robust_information_theoretic_classification">Extreme entropy machines: robust information theoretic classification</a>, <a href="/czasopisma/233092-pattern_analysis_and_applications">PATTERN ANAL APPL</a> (2015), 1-18	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7420-weighted_tanimoto_extreme_learning_machine_with_case_study_in_drug_discovery">Weighted Tanimoto Extreme Learning Machine with Case Study in Drug Discovery</a>, <a href="/czasopisma/229107-ieee_computational_intelligence_magazine">IEEE COMPUT INTELL M</a> vol. 10 (3) (2015), 19-29	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7414-adaptive_active_learning_with_ensemble_of_learners_and_multiclass_problems">Adaptive Active Learning with Ensemble of Learners and Multiclass Problems</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 9119 (2015), 415 - 426	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7369-multithreshold_entropy_linear_classifier__theory_and_applications">Multithreshold Entropy Linear Classifier: Theory and Applications</a>, <a href="/czasopisma/228426-expert_systems_with_applications">EXPERT SYST APPL</a> vol. 42 (2015), 5591-5606	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/1239-stanislaw__jastrzebski">Stanisław  Jastrzębski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7343-analysis_of_compounds_activity_concept_learned_by_svm_using_robust_jaccard_based_low_dimensional_embedding">Analysis of compounds activity concept learned by SVM using robust Jaccard based low-dimensional embedding</a>, <a href="/czasopisma/236602-schedae_informaticae">SCHEDAE INFORMATICAE</a> vol. 24 (2015), 9-19	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/1215-rafal_jozefowicz">Rafał Józefowicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7289-fast_optimization_of_multithreshold_entropy_linear_classifier">Fast optimization of Multithreshold Entropy Linear Classifier</a>, <a href="/czasopisma/236602-schedae_informaticae">SCHEDAE INFORMATICAE</a> vol. 23 (2015), 57–67	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7288-on_the_consistency_of_multithreshold_entropy_linear_classifier">On the Consistency of Multithreshold Entropy Linear Classifier</a>, <a href="/czasopisma/236602-schedae_informaticae">SCHEDAE INFORMATICAE</a> vol. 24 (2015), 123-132	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1172-andrzej_bojarski">Andrzej Bojarski</a>, <a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/1197-sabina_smusz">Sabina Smusz</a>, <a href="/users/1171-dawid_warszycki">Dawid Warszycki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7232-exploiting_uncertainty_measures_in_compounds_activity_prediction_using_support_vector_machines">Exploiting uncertainty measures in compounds activity prediction using support vector machines</a>, <a href="/czasopisma/226418-bioorganic___medicinal_chemistry_letters">BIOORG MED CHEM LETT</a> vol. 25 (2015), 100-105	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/139-igor_podolak">Igor Podolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7215-adaptive_active_learning_as_a_multi_armed_bandit_problem">Adaptive Active Learning as a Multi-armed Bandit Problem</a>, FRONTIERS IN ARTIFICIAL INTELLIGENCE AND APPLICATIONS vol. 263 (2014), 989-990	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/108-jacek_tabor">Jacek Tabor</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7200-two_ellipsoid_support_vector_machines">Two ellipsoid Support Vector Machines</a>, <a href="/czasopisma/228426-expert_systems_with_applications">EXPERT SYST APPL</a> vol. 41 (18) (2014), 8211-8224	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/1097-krzysztof_szarzynski">Krzysztof Szarzyński</a>, <a href="/users/1098-andrzej_wojtowicz">Andrzej Wójtowicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7045-designing_a_competition_for_autonomous_robots_with_a_restricted_set_of_sensors_with_case_study_of_lego_nxt">Designing a competition for autonomous robots with a restricted set of sensors with case study of LEGO NXT</a>, <a href="/czasopisma/235928-journal_of_automation__mobile_robotics___intelligent_systems___jamris">JOURNAL OF AUTOMATION, MOBILE ROBOTICS & INTELLIGENT SYSTEMS - JAMRIS</a> (2014), 76-81	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>, <a href="/users/139-igor_podolak">Igor Podolak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7044-machine_learning_with_known_input_data_uncertainty_measure">Machine Learning with Known Input Data Uncertainty Measure</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> (2013), 379-388	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1096-wojciech_czarnecki">Wojciech Czarnecki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7065-multilayer_neural_networks_with_receptive_fields_as_a_model_for_the_neuron_reconstruction_problem">Multilayer Neural Networks with Receptive Fields as a Model for the Neuron Reconstruction Problem</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> (2012), 242-250	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/1096-wojciech_czarnecki"><span>8002</span><span>7966</span><span>7725</span><span>7684</span><span>7603</span><span>7598</span><span>7571</span><span>7543</span><span>7466</span><span>7464</span><span>7460</span><span>7420</span><span>7414</span><span>7369</span><span>7343</span><span>7289</span><span>7288</span><span>7232</span><span>7215</span><span>7200</span><span>7045</span><span>7044</span><span>7065</span></div>
+</div><h3 id='k'>Konferencje:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/1096-wojciech-czarnecki">Wojciech Czarnecki</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/209">2nd Workshop on Machine Learning in Life Sciences organized under European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases 2015</a>, ENGINE Centre, Wroclaw University of Technology, University of Porto, Porto, Portugalia, 2015-09-11 - 2015-09-11	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/1096-wojciech-czarnecki">Wojciech Czarnecki</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/208">European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</a>, University of Porto, Porto, Portugalia, 2015-09-07 - 2015-09-11	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/1096-wojciech-czarnecki">Wojciech Czarnecki</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/207">The 1st IEEE International Workshop on Classification Problems Embedded in the Nature of Big Data  held in conjunction with IEEE BigDataSE-15</a>, ENGINE Centre, Wroclaw University of Technology, Aalto University, , Helsinki, Finlandia, 2015-08-20 - 2015-08-22	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/1096-wojciech-czarnecki">Wojciech Czarnecki</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/210">The 14th International Conference on Artificial Intelligence and Soft Computing ICAISC 2015</a>, Polskie Towarzystwo Sieci Neuronowych, Zakopane, Polska, 2015-06-14 - 2015-06-18	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/145-bartosz-zielinski">Bartosz Zieliński</a>, <a class="default-link" href="/users/1096-wojciech-czarnecki">Wojciech Czarnecki</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/93">International Conference on Computer Recognition Systems, CORES 2015</a>, Katedra Systemów i Sieci Komputerowych, Politechnika Wrocławska, Wrocław, Polska, 2015-05-25 - 2015-05-27	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/319-lukasz-struski">Łukasz Struski</a>, <a class="default-link" href="/users/502-jaroslaw-duda">Jarosław Duda</a>, <a class="default-link" href="/users/1096-wojciech-czarnecki">Wojciech Czarnecki</a>, <a class="default-link" href="/users/1269-anna-szczepanek">Anna Szczepanek</a>, <a class="default-link" href="/users/1340-mateusz-malik">Mateusz Malik</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/34">Theoretical Foundations of Machine Learning</a>, Department of Machine Learning, Institute of Computer Science and Computational Mathematics, Faculty, Będlewo, Poland, 2015-02-16 - 2015-02-21	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/1096-wojciech-czarnecki">Wojciech Czarnecki</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/100">21st European Conference on Artificial Intelligence</a>, GUARANT International, Praga, Czechy, 2014-08-18 - 2014-08-22	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/1096-wojciech_czarnecki"><span>209</span><span>208</span><span>207</span><span>210</span><span>93</span><span>34</span><span>100</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/1096-wojciech_czarnecki?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/106">Paradygmat minimalizacji pamięci w klastrowaniu</a></td><td>Wykonawca</td><td>2015-01-21</td><td>2017-08-26</td></tr>
+<tr class="even">
+<td><a href="../grants/88">Nowa strategia wyboru zapytań w aktywnym uczeniu modeli maszynowych</a></td><td>Kierownik</td><td>2014-04-01</td><td>2015-12-31</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/1096-wojciech_czarnecki"><span>148</span><span>304</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

@@ -1,0 +1,488 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr hab. -  Maciej Denkowski</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr hab.  Maciej Denkowski
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Geometrii Analitycznej</li>
+		</ul>
+
+
+
+<p><p><a class="default-link" href="/procedure/305">Habilitacja</a> &emsp;<b>Otwarcie:</b> 2017-03-30, <b>Zamknięcie:</b> 2017-09-28</p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#ko">Konferencje organizowane</a></li><li><a href="#g">Granty</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/212-maciej_denkowski">Maciej Denkowski</a>, <a href="/users/1771-mihai_tibar">Mihai Tibar</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8237-testing_lipschitz_non_normally_embedded_complex_spaces">Testing Lipschitz non normally embedded complex spaces</a>, <a href="/czasopisma/226641-bulletin_mathematique_de_la_societe_des_sciences_mathematiques_de_roumanie">B MATH SOC SCI MATH</a> (2018), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/212-maciej_denkowski">Maciej Denkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8184-on_the_complex_lojasiewicz_inequality_with_parameter">On the complex Łojasiewicz inequality with parameter</a>, <a href="/czasopisma/231874-kodai_mathematical_journal">KODAI MATH J</a> vol. 41 (2018), 359-374	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/212-maciej_denkowski">Maciej Denkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8196-a_c_holomorphic_effective_nullstellensatz_with_parameter">A c-holomorphic effective Nullstellensatz with parameter</a>, <a href="/czasopisma/243156-zeszyty_naukowe_uniwersytetu_jagiellonskiego__seria__acta_mathematica">ZESZYTY NAUKOWE UNIWERSYTETU JAGIELLONSKIEGO, SERIA: ACTA MATHEMATICA</a> vol. 54 (2017), 33-41	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/212-maciej_denkowski">Maciej Denkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8111-the_complex_gradient_inequality_with_parameter">The complex gradient inequality with parameter</a>, <a href="/czasopisma/232495-monatshefte_fur_mathematik">MONATSH MATH</a> vol. 186, issue 1 (2017), 1-10	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/212-maciej_denkowski">Maciej Denkowski</a>, <a href="/users/1740-paulina__pelszynska">Paulina  Pełszyńska</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8110-on_definable_multifunctions_and_lojasiewicz_inequalities">On definable multifunctions and Łojasiewicz inequalities</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 456 no. 2 (2017), 1101-1122	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1488-lev_birbrair">Lev Birbrair</a>, <a href="/users/212-maciej_denkowski">Maciej Denkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7941-medial_axis_and_singularities">Medial axis and singularities</a>, <a href="/czasopisma/230736-journal_of_geometric_analysis">J GEOM ANAL</a> vol. 27 no.3 (2017), 2339-2380	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/212-maciej_denkowski">Maciej Denkowski</a>, <a href="/users/1415-jean_jacques_loeb">Jean-Jacques Loeb</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7775-on_open_analytic_and_subanalytic_mappings">On open analytic and subanalytic mappings</a>, <a href="/czasopisma/227302-complex_variables_and_elliptic_equations">COMPLEX VAR ELLIPTIC</a> vol. 62 no.1 (2017), 27-46	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/212-maciej_denkowski">Maciej Denkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7826-sur_la_connexite_de_l_axe_median">Sur la connexité de l'axe médian</a>, <a href="/czasopisma/243156-zeszyty_naukowe_uniwersytetu_jagiellonskiego__seria__acta_mathematica">ZESZYTY NAUKOWE UNIWERSYTETU JAGIELLONSKIEGO, SERIA: ACTA MATHEMATICA</a> vol. 53 (2016), 7-12	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/228-ewa_cygan">Ewa Cygan</a>, <a href="/users/212-maciej_denkowski">Maciej Denkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7774-singular_points_of_weakly_holomorphic_functions">Singular points of weakly holomorphic functions</a>, <a href="/czasopisma/226639-bulletin_des_sciences_mathematiques">B SCI MATH</a> vol. 140 issue 6 (2016), 657-674	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/212-maciej_denkowski">Maciej Denkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7773-a_remark_on_the_intersections_of_subanalytic_leaves">A remark on the intersections of subanalytic leaves</a>, <a href="/czasopisma/236214-opuscula_mathematica">OPUSCULA MATHEMATICA</a> vol. 36 no.4 (2016), 471-479	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/212-maciej_denkowski">Maciej Denkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7567-multiplicity_and_the_pull_back_problem">Multiplicity and the pull-back problem</a>, <a href="/czasopisma/232115-manuscripta_mathematica">MANUSCRIPTA MATH</a> vol. 149 (2016), 83-91	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/657-zofia_denkowska">Zofia Denkowska</a>, <a href="/users/212-maciej_denkowski">Maciej Denkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7566-a_long_and_winding_road_to_definable_sets">A long and winding road to definable sets</a>, JOURNAL OF SINGULARITIES vol. 13 (2015), 57-86	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/657-zofia_denkowska">Zofia Denkowska</a>, <a href="/users/212-maciej_denkowski">Maciej Denkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4413-the_kuratowski_convergence_and_connected_components">The Kuratowski convergence and connected components</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 387 (2012), 48-65	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/212-maciej_denkowski">Maciej Denkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4414-on_the_points_realizing_the_distance_to_a_definable_set">On the points realizing the distance to a definable set</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 378 (2011), 592-602	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/212-maciej_denkowski">Maciej Denkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4415-residue_calculus_for_c_holomorphic_functions">Residue calculus for c-holomorphic functions</a>, <a href="/czasopisma/226031-arkiv_for_matematik">ARK MAT</a> vol. 47 (2009), 73-89	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/212-maciej_denkowski">Maciej Denkowski</a>, <a href="/users/235-rafal_pierzchala">Rafał Pierzchała</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4416-on_the_kuratowski_convergence_of_analytic_sets">On the Kuratowski convergence of analytic sets</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 93 (2008), 101-112	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/657-zofia_denkowska">Zofia Denkowska</a>, <a href="/users/212-maciej_denkowski">Maciej Denkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6812-fonctions_et_ensembles_analytiques">Fonctions et Ensembles Analytiques</a>, (2007), "Ensembles Sous-analytiques à la Polonaise", HERMANN, éditeurs des sciences et des arts depuis	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/212-maciej_denkowski">Maciej Denkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4417-on_the_order_of_holomorphic_and_c_holomorphic_functions">On the order of holomorphic and c-holomorphic functions</a>, <a href="/czasopisma/242819-zeszyty_naukowe_uniwersytetu_jagiellonskiego__seria__acta_mathematica">ZESZYTY NAUKOWE UNIWERSYTETU JAGIELLOŃSKIEGO, SERIA: ACTA MATHEMATICA</a> (2007), 47-61	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/212-maciej_denkowski">Maciej Denkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4418-regular_separation_with_parameter_of_complex_analytic_sets">Regular separation with parameter of complex analytic sets</a>, <a href="/czasopisma/231874-kodai_mathematical_journal">KODAI MATH J</a> vol. 30 (2007), 429-437	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/212-maciej_denkowski">Maciej Denkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4419-a_note_on_the_nullstellensatz_for_c_holomorphic_functions">A note on the Nullstellensatz for c-holomorphic functions</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 90 (2007), 219-228	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/212-maciej_denkowski">Maciej Denkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4421-the_lojasiewicz_exponent_of_c_holomorphic_mappings">The Łojasiewicz exponent of c-holomorphic mappings</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 87 (2005), 63-81	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/657-zofia_denkowska">Zofia Denkowska</a>, <a href="/users/212-maciej_denkowski">Maciej Denkowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4422-kuratowski_convergence_of_the_sections_of_a_definable_set">Kuratowski convergence of the sections of a definable set</a>, RICERCHE MAT. LIII.2 (2004), PP. 291-300	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/212-maciej_denkowski"><span>8237</span><span>8184</span><span>8196</span><span>8111</span><span>8110</span><span>7941</span><span>7775</span><span>7826</span><span>7774</span><span>7773</span><span>7567</span><span>7566</span><span>4413</span><span>4414</span><span>4415</span><span>4416</span><span>6812</span><span>4417</span><span>4418</span><span>4419</span><span>4421</span><span>4422</span></div>
+</div><h3 id='ko'>Konferencje organizowane:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/212-maciej-denkowski">Maciej Denkowski</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/126">Lipschitz Geometry of Singularities</a>, Będlewo, 2017-08-06, 2017-08-12	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/212-maciej_denkowski"><span>126</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/212-maciej_denkowski?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/82">Osobliwości rodzin i ich asymptotyka oraz zagadnienia aproksymacyjne z zastosowaniami nierówności Łojasiewicza</a></td><td>Kierownik</td><td>2014-03-01</td><td>2015-02-28</td></tr>
+<tr class="even">
+<td><a href="../grants/54">Osobliwości w zespolonej geometrii analitycznej</a></td><td>Kierownik</td><td>2012-03-30</td><td>2014-03-29</td></tr>
+<tr class="odd">
+<td><a href="../grants/39">Metryczna teoria osobliwości i jej zastosowania</a></td><td>Wykonawca</td><td>2011-12-30</td><td>2014-12-29</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/212-maciej_denkowski"><span>299</span><span>273</span><span>85</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

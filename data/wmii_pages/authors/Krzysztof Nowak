@@ -1,0 +1,975 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr hab. -  Krzysztof Nowak</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr hab.  Krzysztof Nowak
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Funkcji Rzeczywistych</li>
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#k">Konferencje</a></li><li><a href="#d">Doktoranci</a></li><li><a href="#r">Recenzje</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	44.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7879-some_results_of_algebraic_geometry_over_henselian_rank_one_valued_fields">Some results of algebraic geometry over Henselian rank one valued fields</a>, <a href="/czasopisma/234270-selecta_mathematica_new_series">SEL MATH-NEW SER</a> vol. 23 (2017), 455-495	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	43.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>, <a href="/users/1447-grzegorz_tomkowicz">Grzegorz Tomkowicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7856-intersection_of_generic_rotations_in_some_classical_spaces">Intersection of generic rotations in some classical spaces</a>, <a href="/czasopisma/235542-bulletin_of_the_polish_academy_of_sciences__mathematics">BULLETIN OF THE POLISH ACADEMY OF SCIENCES. MATHEMATICS</a> vol. 64 (2016), 105-107	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	42.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1446-jan_mycielski">Jan Mycielski</a>, <a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7855-on_intersections_of_generic_perturbations_of_definable_sets">On intersections of generic perturbations of definable sets</a>, <a href="/czasopisma/235542-bulletin_of_the_polish_academy_of_sciences__mathematics">BULLETIN OF THE POLISH ACADEMY OF SCIENCES. MATHEMATICS</a> vol. 64 (2016), 95-103	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	41.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7478-quantifier_elimination_in_quasianalytic_structures_via_non_standard_analysis">Quantifier elimination in quasianalytic structures via non-standard analysis</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> (2015), 235-267	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	40.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1175-janos__kollar">János  Kollár</a>, <a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7203-continuous_rational_functions_on_real_and_p_adic_varieties">Continuous rational functions on real and p-adic varieties</a>, <a href="/czasopisma/232215-mathematische_zeitschrift">MATH Z</a> vol. 279 (2015), 85-97	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	39.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7202-a_theorem_on_generic_intersections_in_an_o_minimal_structure">A theorem on generic intersections in an o-minimal structure</a>, <a href="/czasopisma/228630-fundamenta_mathematicae">FUND MATH</a> vol. 227 (2014), 21-25	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	38.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7064-on_division_of_quasianalytic_function_germs">On division of quasianalytic function germs</a>, <a href="/czasopisma/229666-international_journal_of_mathematics">INT J MATH</a> vol. 24 (13) (2013), 1-5	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	37.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7063-on_the_singular_locus_of_sets_definable_in_a_quasianalytic_structure">On the singular locus of sets definable in a quasianalytic structure</a>, <a href="/czasopisma/225329-advances_in_geometry">ADV GEOM</a> vol. 13 (2013), 619-632	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	36.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6450-supplement_to_the_paper__quasianalytic_perturbation_of_multiparameter_hyperbolic_polynomials_and_symmetric_matrices_">Supplement to the paper "Quasianalytic perturbation of multiparameter hyperbolic polynomials and symmetric matrices"</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> vol. 103 (1) (2012), 101-107	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	35.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5205-a_note_to_bierstone_milman_pawlucki_s_paper_composite_differentiable_functions">A note to Bierstone Milman Pawłucki's paper Composite differentiable functions</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> (2011), 293-299	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	34.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5206-quasianalytic_perturbation_of_multiparameter_hyperbolic_polynomials_and_symmetric_matrices">Quasianalytic perturbation of multiparameter hyperbolic polynomials and symmetric matrices</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> (2011), 275-291	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	33.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5207-on_arc_analytic_functions_definable_by_a_weierstrass_system">On arc-analytic functions definable by a Weierstrass system</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> (2011), 99-104	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	32.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5208-addendum_to_the_paper__decomposition_into_special_cubes_and_its_application_to_quasi_subanalytic_geometry">Addendum to the paper: Decomposition into special cubes and its application to quasi-subanalytic geometry</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> (2010), 201-205	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	31.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5209-the_abhyankar__8211_jung_theorem_for_excellent_henselian_subrings_of_formal_power_series_">The Abhyankar&#8211;Jung theorem for excellent henselian subrings of formal power series,</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> (2010), 221-229	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	30.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5210-rectilinearization_of_functions_definable_by_a_weierstrass_system_and_its_applications">Rectilinearization of functions definable by a Weierstrass system and its applications</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> (2010), 129-141	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	29.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5211-division_of_distributions_by_locally_definable_quasianalytic_functions">Division of distributions by locally definable quasianalytic functions</a>, <a href="/czasopisma/235542-bulletin_of_the_polish_academy_of_sciences__mathematics">BULLETIN OF THE POLISH ACADEMY OF SCIENCES. MATHEMATICS</a> (2010), 201-209	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	28.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5212-a_result_about_blowing_up_henselian_excellent_regular_rings">A result about blowing up henselian excellent regular rings</a>, <a href="/czasopisma/243156-zeszyty_naukowe_uniwersytetu_jagiellonskiego__seria__acta_mathematica">ZESZYTY NAUKOWE UNIWERSYTETU JAGIELLONSKIEGO, SERIA: ACTA MATHEMATICA</a> (2009), 297-300	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	27.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5213-decomposition_into_special_cubes_and_its_applications_to_quasi_subanalytic_geometry">Decomposition into special cubes and its applications to quasi-subanalytic geometry</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> (2009), 65--74	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	26.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5214-quantifier_elimination__valuation_property_and_preparation_theorem_in_quasianalytic_geometry_via_transformation_to_normal_crossings">Quantifier elimination, valuation property and preparation theorem in quasianalytic geometry via transformation to normal crossings</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> (2009), 247--282	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	25.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5215-on_the_euler_characteristic_of_the_links_of_a_set_determined_by_smooth_definable_functions">On the Euler characteristic of the links of a set determined by smooth definable functions</a>, ANN. POLON. MATH. 93 (3) (2008), 231-246	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5216-remarks_on_henselian_rings">Remarks on Henselian rings</a>, UNIV. IAGEL. ACTA MATH.  no. 46  (2008), 79--85	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5217-a_proof_of_the_valuation_property_and_preparation_theorem">A proof of the valuation property and preparation theorem</a>, ANN. POLON. MATH. 92 (1) (2007), 75-85	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/644-tadeusz_krasinski">Tadeusz Krasiński</a>, <a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5218-intersection_of_analytic_curves">Intersection of analytic curves</a>, ANN. POLON. MATH. (2003), 193&#8212;202	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5219-remarks_on_the_generalized_index_of_an_analytic_improper_intersection">Remarks on the generalized index of an analytic improper intersection</a>, ANN. POLON. MATH. 81 (1) (2003), 47&#8212;53	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5220-an_example_concerning_the_embedded_primes_associated_with_an_ideal_in_the_ring_of_polynomials">An example concerning the embedded primes associated with an ideal in the ring of polynomials</a>, UNIV. IAGEL. ACTA MATH. 37 (2001), 193&#8212;196	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5221-a_short_proof_of_a_fibre_criterion_for_polynomials_to_belong_to_an_ideal">A short proof of a fibre criterion for polynomials to belong to an ideal</a>, UNIV. IAGEL. ACTA MATH. 37 (2001), 193&#8212;196	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5222-supplement_to_the_paper___improper_intersections_in_complex_analytic_geometry_">Supplement to the paper: "Improper intersections in complex analytic geometry"</a>, ANN. POLON. MATH. 76 (2001), no. 3, 303	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5223-improper_intersections_in_complex_analytic_geometry">Improper intersections in complex analytic geometry</a>, DISSERTATIONES MATH. (ROZPRAWY MAT.) 391 (2001), 58 pp	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6449-nalytic_improper_intersections_i__deformation_to_the_normal_cone">nalytic Improper Intersections I: Deformation to the Normal Cone</a>, <a href="/czasopisma/235542-bulletin_of_the_polish_academy_of_sciences__mathematics">BULLETIN OF THE POLISH ACADEMY OF SCIENCES. MATHEMATICS</a> vol. 48 (2) (2000), 121-130	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5224-some_elementary_proofs_of_puiseux_s_theorems">Some elementary proofs of Puiseux's theorems</a>, UNIV. IAGEL. ACTA MATH. 37 (2000), 279&#8212;282	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5225-analytic_improper_intersections">Analytic improper intersections</a>, II. DEFORMATION TO AN ALGEBRAIC BICONE AND APPLICATIONS. BULL. POLISH ACAD. SCI. MATH. 48 (2000), no. 2, 131--140	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5226-a_model_theoretic_version_of_the_complement_theorem__applications">A model-theoretic version of the complement theorem: applications</a>, BULL. POLISH ACAD. SCI. MATH. 47 (1999), no. 4, 355--361	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5227-a_model_theoretic_version_of_the_complement_theorem">A model-theoretic version of the complement theorem</a>, BULL. POLISH ACAD. SCI. MATH. 47 (1999), no. 4, 345--353	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5228-a_homological_proof_of_micali_s_theorem_on_the_rees_algebra_of_a_regular_embedding">A homological proof of Micali's theorem on the Rees algebra of a regular embedding</a>, EFFECTIVE METHODS IN ALGEBRAIC AND ANALYTIC GEOMETRY (BIELSKO-BIAŁA, 1997). Univ. Iagel. Acta Math. No. 37 (1999), 155--158	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5229-a_model_theoretic_criterion_for_quantifier_elimination_and_its_application_to_geometry">A model-theoretic criterion for quantifier elimination and its application to geometry</a>, BULL. POLISH ACAD. SCI. MATH. 46 (1998), no. 4, 377--381	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5230-on_the_intersection_multiplicity_of_images_under_an_etale_morphism">On the intersection multiplicity of images under an etale morphism</a>, COLLOQ. MATH. 75 (1998), no. 2, 167--174	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5231-a_proof_of_the_criterion_for_multiplicity_one">A proof of the criterion for multiplicity one</a>, UNIV. IAGEL. ACTA MATH. no. 35 (1997), 247--249	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5232-flat_morphisms_between_regular_varieties">Flat morphisms between regular varieties</a>, UNIV. IAGEL. ACTA MATH. no. 35 (1997), 243--246	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5233-a_simple_algebraic_proof_of_zariski_s_main_theorem_on_birational_transformations">A simple algebraic proof of Zariski's main theorem on birational transformations</a>, UNIV. IAGEL. ACTA MATH. no. 33 (1996), 115--118	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5234-on_a_universal_axiomatization_of_the_real_closed_fields">On a universal axiomatization of the real closed fields</a>, ANN. POLON. MATH. 65 (1996), no. 1, 95--103	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5235-on_proper_morphisms_between_algebraic_varieties">On proper morphisms between algebraic varieties</a>, BULL. POLISH ACAD. SCI. MATH. 43 (1995), no. 3, 231--238	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5236-a_simple_proof_of_puiseux_s_theorem">A simple proof of Puiseux's theorem</a>, UNIV. IAGEL. ACTA MATH. no. 32 (1995), 199--200	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5237-injective_endomorphisms_of_algebraic_varieties">Injective endomorphisms of algebraic varieties</a>, MATH. ANN. 299 (1994), no. 4, 769--778	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/200-krzysztof_nowak">Krzysztof Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5238-the_extension_of_holomorphic_functions_of_polynomial_growth_on_algebraic_sets_in_cn">The extension of holomorphic functions of polynomial growth on algebraic sets in Cn</a>, UNIV. IAGEL. ACTA MATH. no. 28 (1991), 19--27	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/200-krzysztof_nowak"><span>7879</span><span>7856</span><span>7855</span><span>7478</span><span>7203</span><span>7202</span><span>7064</span><span>7063</span><span>6450</span><span>5205</span><span>5206</span><span>5207</span><span>5208</span><span>5209</span><span>5210</span><span>5211</span><span>5212</span><span>5213</span><span>5214</span><span>5215</span><span>5216</span><span>5217</span><span>5218</span><span>5219</span><span>5220</span><span>5221</span><span>5222</span><span>5223</span><span>6449</span><span>5224</span><span>5225</span><span>5226</span><span>5227</span><span>5228</span><span>5229</span><span>5230</span><span>5231</span><span>5232</span><span>5233</span><span>5234</span><span>5235</span><span>5236</span><span>5237</span><span>5238</span></div>
+</div><h3 id='k'>Konferencje:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/200-krzysztof-nowak">Krzysztof Nowak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/719">Workshop on Modern Applied Mathematics PK 2018</a>, Cracow University of Technology, Kraków, Polska, 2018-11-16 - 2018-11-18	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/200-krzysztof-nowak">Krzysztof Nowak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/691">ALANT 5, 5th Conference on Algebra, Logic and Number Theory</a>, University of Silesia, Będlewo, Poland, 2018-06-24 - 2018-06-29	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/200-krzysztof-nowak">Krzysztof Nowak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/591">Conference on Lipschitz Geometry of Singularities</a>, University of Marseille, Marsylia, Francja, 2017-11-07 - 2017-11-11	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/200-krzysztof-nowak">Krzysztof Nowak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/590">Geometric and Algebraic Singularity Theory  </a>, IM PAN, Będlewo, Polska, 2017-09-10 - 2017-09-16	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/200-krzysztof-nowak">Krzysztof Nowak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/589">Model Theory</a>, University of Wrocław and the Association for Symbolic Logic, Będlewo, Polska, 2017-07-02 - 2017-07-08	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/200-krzysztof-nowak">Krzysztof Nowak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/588">II Ogólnopolska Konferencja Naukowa „Oblicza Algebry"</a>, Uniwersytet Pedagogiczny, Kraków, Polska, 2017-06-01 - 2017-06-04	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/200-krzysztof-nowak">Krzysztof Nowak</a>, <a class="default-link" href="/users/268-wojciech-kucharz">Wojciech Kucharz</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/561">The Twentieth Colloquiumfest</a>, Uniwersytet Szczeciński, Szczecin, Polska, 2017-05-19 - 2017-05-22	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/200-krzysztof-nowak">Krzysztof Nowak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/587">Contemporary Quasianalytic Problems (w ramach semestru “Emergent trends of Complex Analysis and Functional Analysis”)</a>, Banach Center, Warszawa, Polska, 2017-04-19 - 2017-04-27	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/200-krzysztof-nowak">Krzysztof Nowak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/196">Geometric Singularity Theory</a>, Banach Center, Warszawa, Polska, 2015-09-06 - 2015-09-11	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/200-krzysztof-nowak">Krzysztof Nowak</a>, <a class="default-link" href="/users/1416-pawel-bogdan">Paweł Bogdan</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/150">Ogólnopolska Konferencja Naukowa „Oblicza Algeby”</a>, Uniwersytet Pedagogiczny, Kraków, Pollska, 2015-05-29 - 2015-05-31	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/200-krzysztof-nowak">Krzysztof Nowak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/16">Applications of Artin Approximation in Singularity Theory</a>, CIRM (Centre International de Rencontres Mathematiques), Marsylia, Luminy, Francja, 2015-02-01 - 2015-02-06	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/200-krzysztof-nowak">Krzysztof Nowak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/15">Conference on Functional Analysis. Applications to Complex Analysis and Partial Differential Equations in honor of Dietmar Vogt on the occasion of his 70th birthday</a>, University of Poznań and Mathematical Institute of the Polish Academy of Sciences, Będlewo, Polska, 2012-05-06 - 2012-05-12	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/200-krzysztof_nowak"><span>719</span><span>691</span><span>591</span><span>590</span><span>589</span><span>588</span><span>561</span><span>587</span><span>196</span><span>150</span><span>16</span><span>15</span></div>
+</div><h3 id='d'>Doktoranci <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="doc-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="doc-view_c0"><a class="sort-link" href="/users/200-krzysztof_nowak?Procedure_sort=id_user">Doktorant<span class="caret"></span></a></th><th id="doc-view_c1"><a class="sort-link" href="/users/200-krzysztof_nowak?Procedure_sort=opening">Otwarcie<span class="caret"></span></a></th><th id="doc-view_c2"><a class="sort-link" href="/users/200-krzysztof_nowak?Procedure_sort=ending">Zakonczenie<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/177">Katarzyna Niemiec</a></td><td>2012-06-28</td><td>2013-06-27</td></tr>
+<tr class="even">
+<td><a href="../procedure/206">Iwo Biborski</a></td><td>2013-05-23</td><td>2014-09-25</td></tr>
+<tr class="odd">
+<td><a href="../procedure/319">Tomasz Kowalczyk</a></td><td>2018-05-24</td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/200-krzysztof_nowak"><span>177</span><span>206</span><span>319</span></div>
+</div><h3 id='r'>Recenzje <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="review-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="review-view_c0"><a class="sort-link" href="/users/200-krzysztof_nowak?ProcedureReview_sort=id_procedure">Recenzowany<span class="caret"></span></a></th><th id="review-view_c1">Jednostka</th><th id="review-view_c2"><a class="sort-link" href="/users/200-krzysztof_nowak?ProcedureReview_sort=id_uploaded_file">Treść recenzji<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/69">Doktorat: Małgorzata Czapla</a></td><td>Katedra Funkcji Rzeczywistych</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/90">Doktorat: Krzysztof Grelowski</a></td><td></td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/200-krzysztof_nowak"><span>138</span><span>180</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#doc-view').yiiGridView({'ajaxUpdate':['doc-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#review-view').yiiGridView({'ajaxUpdate':['review-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

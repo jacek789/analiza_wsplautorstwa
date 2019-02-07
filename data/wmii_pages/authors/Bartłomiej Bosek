@@ -1,0 +1,730 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr -  Bartłomiej Bosek</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr  Bartłomiej Bosek
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Zespół Katedr i Zakładów Informatyki Matematycznej</li>
+					<li>Katedra Algorytmiki</li>
+		</ul>
+
+
+
+<p><p><a class="default-link" href="/procedure/66">Doktorat</a> &emsp;<b>Otwarcie:</b> 2006-06-29, <b>Zamknięcie:</b> 2008-12-18</p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#k">Konferencje</a></li><li><a href="#g">Granty</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	26.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1698-marcin_anholcer">Marcin Anholcer</a>, <a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/280-jaroslaw_grytczuk">Jarosław Grytczuk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8304-weight_choosability_of_oriented_hypergraphs">Weight choosability of oriented hypergraphs</a>, <a href="/czasopisma/243217-ars_mathematica_contemporanea">ARS MATH CONTEMP</a> vol. 16 (1) (2019), 111-117	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	25.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/1813-przemyslaw_gordinowicz">Przemysław Gordinowicz</a>, <a href="/users/280-jaroslaw_grytczuk">Jarosław Grytczuk</a>, <a href="/users/1814-nicolas_nisse">Nicolas Nisse</a>, <a href="/users/1755-joanna_sokol">Joanna Sokół</a>, <a href="/users/1248-malgorzata_sleszynska_nowak">Małgorzata Śleszyńska-Nowak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8305-localization_game_on_geometric_and_planar_graphs">Localization game on geometric and planar graphs</a>, <a href="/czasopisma/227762-discrete_applied_mathematics">DISCRETE APPL MATH</a> (2018), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/280-jaroslaw_grytczuk">Jarosław Grytczuk</a>, <a href="/users/1625-gabriel_jakobczak">Gabriel Jakóbczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8303-majority_coloring_game">Majority coloring game</a>, <a href="/czasopisma/227762-discrete_applied_mathematics">DISCRETE APPL MATH</a> (2018), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/1190-dariusz_leniowski">Dariusz Leniowski</a>, <a href="/users/1191-piotr_sankowski">Piotr Sankowski</a>, <a href="/users/1760-anna_zych_pawlewicz">Anna Zych-Pawlewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8275-a_tight_bound_for_shortest_augmenting_paths_on_trees">A Tight Bound for Shortest Augmenting Paths on Trees</a> vol. 10870 (2018), "LATIN 2018: Theoretical Informatics", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/1794-h__a__kierstead">H. A. Kierstead</a>, <a href="/users/284-tomasz_krawczyk">Tomasz Krawczyk</a>, <a href="/users/285-grzegorz_matecki">Grzegorz Matecki</a>, <a href="/users/1773-matthew_smith">Matthew Smith</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8245-an_easy_subexponential_bound_for_online_chain_partitioning">An Easy Subexponential Bound for Online Chain Partitioning</a>, <a href="/czasopisma/227973-electronic_journal_of_combinatorics">ELECTRON J COMB</a> vol. 25(2) (2018), #P2.28	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/1190-dariusz_leniowski">Dariusz Leniowski</a>, <a href="/users/1191-piotr_sankowski">Piotr Sankowski</a>, <a href="/users/1760-anna_zych_pawlewicz">Anna Zych-Pawlewicz</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8200-shortest_augmenting_paths_for_online_matchings_on_trees">Shortest Augmenting Paths for Online Matchings on Trees</a>, <a href="/czasopisma/234806-theory_of_computing_systems">THEOR COMPUT SYST</a> vol. 62(2) (2018), 337-348	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/1247-michal_debski">Michał Dębski</a>, <a href="/users/280-jaroslaw_grytczuk">Jarosław Grytczuk</a>, <a href="/users/1755-joanna_sokol">Joanna Sokół</a>, <a href="/users/1248-malgorzata_sleszynska_nowak">Małgorzata Śleszyńska-Nowak</a>, <a href="/users/439-wiktor_zelazny">Wiktor Żelazny</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8158-graph_coloring_and_graham_s_greatest_common_divisor_problem">Graph coloring and Graham’s greatest common divisor problem</a>, <a href="/czasopisma/227765-discrete_mathematics">DISCRETE MATH</a> vol. 341(3) (2018), 781-785	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1698-marcin_anholcer">Marcin Anholcer</a>, <a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/280-jaroslaw_grytczuk">Jarosław Grytczuk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8068-majority_choosability_of_digraphs">Majority Choosability of Digraphs</a>, <a href="/czasopisma/227973-electronic_journal_of_combinatorics">ELECTRON J COMB</a> vol. 24(3) (2017), #P3.57	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/280-jaroslaw_grytczuk">Jarosław Grytczuk</a>, <a href="/users/1376-pawel_rzazewski">Paweł Rzążewski</a>, <a href="/users/788-_sebastian_czerwinski"> Sebastian Czerwiński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7724-harmonious_coloring_of_uniform_hypergraphs">Harmonious coloring of uniform hypergraphs</a>, <a href="/czasopisma/225864-applicable_analysis_and_discrete_mathematics">APPL ANAL DISCR MATH</a> vol. 10(1) (2016), 73-87	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/1190-dariusz_leniowski">Dariusz Leniowski</a>, <a href="/users/1191-piotr_sankowski">Piotr Sankowski</a>, <a href="/users/1192-anna_zych">Anna Zych</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7529-shortest_augmenting_paths_for_online_matchings_on_trees">Shortest Augmenting Paths for Online Matchings on Trees</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 9499 (2016), 59-71	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/670-stefan_felsner">Stefan Felsner</a>, <a href="/users/714-kolja_knauer">Kolja Knauer</a>, <a href="/users/285-grzegorz_matecki">Grzegorz Matecki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7353-on_the_duality_of_semiantichains_and_unichain_coverings">On the Duality of Semiantichains and Unichain Coverings</a>, <a href="/czasopisma/232967-order_a_journal_on_the_theory_of_ordered_sets_and_its_applications">ORDER</a> vol. 33(1) (2016), 29-38	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/284-tomasz_krawczyk">Tomasz Krawczyk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7291-a_subexponential_upper_bound_for_the_on_line_chain_partitioning_problem">A subexponential upper bound for the on-line chain partitioning problem</a>, <a href="/czasopisma/227244-combinatorica">COMBINATORICA</a> vol. 35 (2015), 1-38	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/1190-dariusz_leniowski">Dariusz Leniowski</a>, <a href="/users/1191-piotr_sankowski">Piotr Sankowski</a>, <a href="/users/1192-anna_zych">Anna Zych</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7224-online_bipartite_matching_in_offline_time">Online bipartite matching in offline time</a>, (2014), "55th Annual IEEE Symposium on Foundations of Computer Science, FOCS 2014, October 18-21, 2014, Philadelphia, PA, USA", Institute of Electrical and Electronics Engineers (IEEE)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/280-jaroslaw_grytczuk">Jarosław Grytczuk</a>, <a href="/users/285-grzegorz_matecki">Grzegorz Matecki</a>, <a href="/users/788-_sebastian_czerwinski"> Sebastian Czerwiński</a>, <a href="/users/786-_tomasz_bartnicki"> Tomasz Bartnicki</a>, <a href="/users/439-wiktor_zelazny">Wiktor Żelazny</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6982-additive_coloring_of_planar_graphs">Additive Coloring of Planar Graphs</a>, <a href="/czasopisma/228838-graphs_and_combinatorics">GRAPH COMBINATOR</a> vol. 30(5) (2014), 1087-1098	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/567-kamil_kloch">Kamil Kloch</a>, <a href="/users/284-tomasz_krawczyk">Tomasz Krawczyk</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6981-on_line_dimension_of_semi_orders">On-Line Dimension of Semi-Orders</a>, <a href="/czasopisma/232967-order_a_journal_on_the_theory_of_ordered_sets_and_its_applications">ORDER</a> vol. 30(2) (2013), 593-615	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/284-tomasz_krawczyk">Tomasz Krawczyk</a>, <a href="/users/285-grzegorz_matecki">Grzegorz Matecki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6712-first_fit_coloring_of_incomparability_graphs">First-Fit Coloring of Incomparability Graphs</a>, <a href="/czasopisma/234336-siam_journal_on_discrete_mathematics">SIAM J DISCRETE MATH</a> vol. 27(1) (2013), 126-140	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/445-leszek_horwath">Leszek Horwath</a>, <a href="/users/285-grzegorz_matecki">Grzegorz Matecki</a>, <a href="/users/433-arkadiusz_pawlik">Arkadiusz Pawlik</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6757-high_performance_gpgpu_based_system_for_matching_people_in_a_live_video_feed">High performance GPGPU based system for matching people in a live video feed</a>, (2012), "Proceedings of 3rd International Conference on Image Processing Theory, Tools and Applications (IEEE-IPTA 2012)", Institute of Electrical and Electronics Engineers (IEEE)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/670-stefan_felsner">Stefan Felsner</a>, <a href="/users/673-kolja_knaur">Kolja Knaur</a>, <a href="/users/285-grzegorz_matecki">Grzegorz Matecki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6232-news_about_semiantichains_and_unichain_coverings">News about Semiantichains and Unichain Coverings</a>, <a href="/czasopisma/241829-lecture_notes_in_computer_science">LECTURE NOTES IN COMPUTER SCIENCE</a> vol. 7353 (2012), 43-51	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/567-kamil_kloch">Kamil Kloch</a>, <a href="/users/284-tomasz_krawczyk">Tomasz Krawczyk</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6227-on_line_version_of_rabinovitch_theorem_for_proper_intervals">On-line version of Rabinovitch theorem for proper intervals</a>, <a href="/czasopisma/227765-discrete_mathematics">DISCRETE MATH</a> vol. 312(23) (2012), 3426-3436	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/670-stefan_felsner">Stefan Felsner</a>, <a href="/users/567-kamil_kloch">Kamil Kloch</a>, <a href="/users/284-tomasz_krawczyk">Tomasz Krawczyk</a>, <a href="/users/285-grzegorz_matecki">Grzegorz Matecki</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6226-on_line_chain_partitions_of_orders__a_survey">On-Line Chain Partitions of Orders: A Survey</a>, <a href="/czasopisma/232967-order_a_journal_on_the_theory_of_ordered_sets_and_its_applications">ORDER</a> vol. 29(1) (2012), 49-73	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/284-tomasz_krawczyk">Tomasz Krawczyk</a>, <a href="/users/285-grzegorz_matecki">Grzegorz Matecki</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6230-forbidden_structures_for_efficient_first_fit_chain_partitioning__extended_abstract_">Forbidden structures for efficient First-Fit chain partitioning (extended abstract)</a>, ELECTRONIC NOTES IN DISCRETE MATHEMATICS vol. 38 (2011), 173-179	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/284-tomasz_krawczyk">Tomasz Krawczyk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6231-the_sub_exponential_upper_bound_for_on_line_chain_partitioning">The Sub-exponential Upper Bound for On-Line Chain Partitioning</a>, (2010), "51th Annual IEEE Symposium on Foundations of Computer Science, FOCS 2010, October 23-26, 2010, Las Vegas, Nevada, USA", Institute of Electrical and Electronics Engineers (IEEE)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/284-tomasz_krawczyk">Tomasz Krawczyk</a>, <a href="/users/287-edward_szczypka">Edward Szczypka</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6225-first_fit_algorithm_for_the_on_line_chain_partitioning_problem">First-Fit Algorithm for the On-Line Chain Partitioning Problem</a>, <a href="/czasopisma/234336-siam_journal_on_discrete_mathematics">SIAM J DISCRETE MATH</a> vol. 23(4) (2010), 1992-1999	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/669-patrick_baier">Patrick Baier</a>, <a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6224-on_line_chain_partitioning_of_up_growing_interval_orders">On-line Chain Partitioning of Up-growing Interval Orders</a>, <a href="/czasopisma/232967-order_a_journal_on_the_theory_of_ordered_sets_and_its_applications">ORDER</a> vol. 24 (2007), 1-13	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6229-on_line_adaptive_chain_covering_of_upgrowing_posets">On-line adaptive chain covering of upgrowing posets</a>, DISCRETE MATHEMATICS & THEORETICAL COMPUTER SCIENCE PROCEEDINGS vol. AF (2006), 37-48	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/291-bartlomiej_bosek">Bartłomiej Bosek</a>, <a href="/users/292-piotr_micek">Piotr Micek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6228-variants_of_online_chain_partition_problem_of_posets">Variants of Online Chain Partition Problem of Posets</a>, ELECTRONIC NOTES IN THEORETICAL COMPUTER SCIENCE vol. 140 (2005), 3-13	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/291-bartlomiej_bosek"><span>8304</span><span>8305</span><span>8303</span><span>8275</span><span>8245</span><span>8200</span><span>8158</span><span>8068</span><span>7724</span><span>7529</span><span>7353</span><span>7291</span><span>7224</span><span>6982</span><span>6981</span><span>6712</span><span>6757</span><span>6232</span><span>6227</span><span>6226</span><span>6230</span><span>6231</span><span>6225</span><span>6224</span><span>6229</span><span>6228</span></div>
+</div><h3 id='k'>Konferencje:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/291-bartlomiej-bosek">Bartłomiej Bosek</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/665">SIAM Conference on Discrete Mathematics (DM18)</a>, Society of Industrial and Applied Mathematics, Denver, CO, Stany Zjednoczone, 2018-06-04 - 2018-06-08	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/291-bartlomiej-bosek">Bartłomiej Bosek</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/666">Latin American Theoretical Informatics 2018</a>, Fundación Ciencias Exactas y Naturales, Buenos Aires, Argentyna, 2018-04-16 - 2018-04-19	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/291-bartlomiej-bosek">Bartłomiej Bosek</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/622">Berlin-Poznań-Hamburg Seminar</a>, University of Hamburg, Hamburg, Niemcy, 2017-04-20 - 2017-04-22	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/291-bartlomiej-bosek">Bartłomiej Bosek</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/324">International conference dedicated to the 120th anniversary of Kazimierz Kuratowski</a>, Ivan Franko National University of Lviv and Lviv Polytechnic National University, Lwów, Ukraina, 2016-09-27 - 2016-10-01	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/272-maciej-ulas">Maciej Ulas</a>, <a class="default-link" href="/users/291-bartlomiej-bosek">Bartłomiej Bosek</a>, <a class="default-link" href="/users/437-bartosz-walczak">Bartosz Walczak</a>, <a class="default-link" href="/users/1337-piotr-miska">Piotr Miska</a>, <a class="default-link" href="/users/1625-gabriel-jakobczak">Gabriel Jakóbczak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/379">6th Polish Combinatorial Conference</a>, UAM, Będlewo, Polska, 2016-09-19 - 2016-09-23	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/291-bartlomiej-bosek">Bartłomiej Bosek</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/623">24th Workshop '3in1'</a>, Akademia Górniczo-Hutnicza, Krynica, Polska, 2015-11-26 - 2015-11-28	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/291-bartlomiej-bosek">Bartłomiej Bosek</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/199">13th Workshop on Approximation and Online Algorithms</a>, University of Patras, Department of Computer Engineering and Informatics & EATCS, Patras, Grecja, 2015-09-17 - 2015-09-18	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/291-bartlomiej-bosek">Bartłomiej Bosek</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/3">55th IEEE Symposium on Foundations of Computer Science (FOCS14)</a>, The IEEE Computer Society Technical Committee on Mathematical Foundations of Computing, Filadelfia, Stany Zjednoczone, 2014-10-18 - 2014-10-21	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/230-halszka-tutaj_gasinska">Halszka Tutaj-Gasińska</a>, <a class="default-link" href="/users/259-slawomir-rams">Sławomir Rams</a>, <a class="default-link" href="/users/291-bartlomiej-bosek">Bartłomiej Bosek</a>, <a class="default-link" href="/users/347-lucja-farnik">Łucja Farnik</a>, <a class="default-link" href="/users/778-martha-lacka">Martha Łącka</a>, <a class="default-link" href="/users/1029-szymon-peszat">Szymon Peszat</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/4">Joint Meeting of the German Mathematical Society (DMV) and the Polish Mathematical Society (PTM)</a>, German Mathematical Society; Polish Mathematical Society; Faculty of Mathematics and Computer Scienc, Poznań, Polska, 2014-09-17 - 2014-09-20	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/285-grzegorz-matecki">Grzegorz Matecki</a>, <a class="default-link" href="/users/291-bartlomiej-bosek">Bartłomiej Bosek</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/5">3rd International Conference on Image Processing Theory, Tools and Applications</a>, Istanbul Aydin University, Istambuł, Turcja, 2012-10-15 - 2012-10-18	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/285-grzegorz-matecki">Grzegorz Matecki</a>, <a class="default-link" href="/users/291-bartlomiej-bosek">Bartłomiej Bosek</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/6">SIAM Conference on Discrete Mathematics (DM12)</a>, Society of Industrial and Applied Mathematics, Halifax, Kanada, 2012-06-18 - 2012-08-21	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/285-grzegorz-matecki">Grzegorz Matecki</a>, <a class="default-link" href="/users/291-bartlomiej-bosek">Bartłomiej Bosek</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/7">European Conference on Combinatorics (EuroComb11)</a>, Rényi Institute, Budapeszt, Węgry, 2011-08-29 - 2011-09-02	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/291-bartlomiej-bosek">Bartłomiej Bosek</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/8">51st Annual Symposium on Foundations of Computer Science (FOCS10)</a>, The IEEE Computer Society Technical Committee on Mathematical Foundations of Computing, Las Vegas, Stany Zjednoczone, 2010-10-23 - 2010-10-26	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/285-grzegorz-matecki">Grzegorz Matecki</a>, <a class="default-link" href="/users/291-bartlomiej-bosek">Bartłomiej Bosek</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/9">3rd Polish Combinatorial Conference</a>, Stefan Banach Center; Adam Mickiewicz University; Jagiellonian University; Warsaw University of Tech, Będlewo, Polska, 2010-09-24 - 2010-09-30	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/285-grzegorz-matecki">Grzegorz Matecki</a>, <a class="default-link" href="/users/291-bartlomiej-bosek">Bartłomiej Bosek</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/10">SIAM Conference on Discrete Mathematics (DM10)</a>, Society of Industrial and Applied Mathematics, Austin, TX, Stany Zjednoczone, 2010-06-14 - 2010-06-17	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/291-bartlomiej_bosek"><span>665</span><span>666</span><span>622</span><span>324</span><span>379</span><span>623</span><span>199</span><span>3</span><span>4</span><span>5</span><span>6</span><span>7</span><span>8</span><span>9</span><span>10</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/291-bartlomiej_bosek?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/94">Nowe techniki dla algorytmów skojarzeniowych i przepływowych</a></td><td>Kierownik</td><td>2014-07-29</td><td>2018-07-28</td></tr>
+<tr class="even">
+<td><a href="../grants/45">Rozgrywane kolorowanie grafów i zbiorów częściowo uporządkowanych</a></td><td>Wykonawca</td><td>2012-08-28</td><td>2015-05-27</td></tr>
+<tr class="odd">
+<td><a href="../grants/19">Śledzenie poruszających się osób w monitorowanych strefach</a></td><td>Wykonawca</td><td>2010-09-17</td><td>2013-09-16</td></tr>
+<tr class="even">
+<td><a href="../grants/13">Algorytmy on-line i gry kombinatoryczne</a></td><td>Wykonawca</td><td>2010-04-14</td><td>2012-10-13</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/291-bartlomiej_bosek"><span>310</span><span>79</span><span>48</span><span>66</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

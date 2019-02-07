@@ -1,0 +1,866 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>prof. dr hab. -  Sławomir Cynk</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+prof. dr hab.  Sławomir Cynk
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Geometrii Algebraicznej i Teorii Liczb</li>
+		</ul>
+
+
+
+<p><p><a class="default-link" href="/procedure/13">Profesura</a> &emsp;<b>Otwarcie:</b> 2009-09-24, <b>Zamknięcie:</b> 2011-08-04</p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#k">Konferencje</a></li><li><a href="#ko">Konferencje organizowane</a></li><li><a href="#d">Doktoranci</a></li><li><a href="#r">Recenzje</a></li><li><a href="#g">Granty</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	40.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/766-duco_van_straten">Duco van Straten</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8347-periods_of_double_octic_calabi_yau_manifolds">Periods of double octic Calabi–Yau manifolds</a>, <a href="/czasopisma/225702-annales_polonici_mathematici">ANN POL MATH</a> (2019), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	39.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/1111-beata_kocel_cynk">Beata Kocel-Cynk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8346-classification_of_double_octic_calabi_yau_threefolds">Classification of double octic Calabi-Yau threefolds</a>, <a href="/czasopisma/227261-communications_in_contemporary_mathematics">COMMUN CONTEMP MATH</a> (2019), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	38.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/766-duco_van_straten">Duco van Straten</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8345-picard_fuchs_operators_for_octic_arrangements_i__the_case_of_orphans_">Picard-Fuchs operators for octic arrangements I (The case of orphans)</a>, <a href="/czasopisma/227265-communications_in_number_theory_and_physics">COMMUN NUMBER THEORY</a> vol. 13.1 (2019), 	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	37.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/259-slawomir_rams">Sławomir Rams</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7402-on_calabi_yau_threefolds_associated_to_a_web_of_quadrics">On Calabi–Yau threefolds associated to a web of quadrics</a>, <a href="/czasopisma/228589-forum_mathematicum">FORUM MATH</a> vol. 27 (2015), 699-734	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	36.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/766-duco_van_straten">Duco van Straten</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7039-calabi_yau_conifold_expansion">Calabi–Yau conifold expansion</a> vol. 67 (2013), "Arithmetic and Geometry of K3 Surfaces and Calabi–Yau Threefolds", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	35.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/259-slawomir_rams">Sławomir Rams</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7038-non_factorial_nodal_complete_intersection_threefolds">Non-factorial nodal complete intersection threefolds</a>, <a href="/czasopisma/227261-communications_in_contemporary_mathematics">COMMUN CONTEMP MATH</a> vol. 15 (2013), 1-14	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	34.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/770-matthias_schuett">Matthias Schuett</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6328-non_liftable_calabi_yau_spaces">Non-liftable Calabi–Yau spaces</a>, <a href="/czasopisma/226031-arkiv_for_matematik">ARK MAT</a> vol. 50 (2012), 23–40	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	33.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/259-slawomir_rams">Sławomir Rams</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6327-invariants_of_hypersurfaces_and_logarithmic_differential_form">Invariants of hypersurfaces and logarithmic differential form</a>, (2012), "Contributions to Algebraic Geometry, P. Pragacz", European Mathematical Society (EMS)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	32.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/768-eberhard_freitag">Eberhard Freitag</a>, <a href="/users/769-ricardo_salvatimanni">Ricardo SalvatiManni</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4316-the_geometry_and_arithmetic_of_a_calabi_yau_siegel_threefold">The geometry and arithmetic of a Calabi-Yau Siegel threefold</a>, <a href="/czasopisma/229666-international_journal_of_mathematics">INT J MATH</a> (2011), 1585-1602	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	31.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/259-slawomir_rams">Sławomir Rams</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4317-defect_via_differential_forms_with_logarithmic_poles">Defect via differential forms with logarithmic poles</a>, <a href="/czasopisma/232214-mathematische_nachrichten">MATH NACHR</a> vol. 284 (2011), 2148-2158	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	30.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4318-euler_characteristic_of_complete_intersection">Euler characteristic of complete intersection</a> vol. 8 (2011), " Complex and Differential Geometry, Conference held at Leibniz Universitaet Hannover, September 14-18, 2009.", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	29.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/766-duco_van_straten">Duco van Straten</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4319-small_resolutions_and_non_liftable_calabi_yau_threefolds">Small resolutions and non-liftable Calabi-Yau threefolds</a>, <a href="/czasopisma/232115-manuscripta_mathematica">MANUSCRIPTA MATH</a> vol. 130 (2009), 233-249	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	28.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/770-matthias_schuett">Matthias Schuett</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4320-generalised_kummer_constructions_and_weil_restrictions">Generalised Kummer constructions and Weil restrictions</a>, <a href="/czasopisma/231169-journal_of_number_theory">J NUMBER THEORY</a> vol. 129 (2009), 1965--1975	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	27.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/771-christian_meyer">Christian Meyer</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4321-modularity_of_some_non_rigid_double_octic_calabi_yau_threefolds">Modularity of some non-rigid double octic Calabi-Yau threefolds</a>, <a href="/czasopisma/234108-rocky_mountain_journal_of_mathematics">ROCKY MT J MATH</a> vol. 38 (2008), 1937--1958	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	26.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/259-slawomir_rams">Sławomir Rams</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4322-on_a_map_between_two__k3__surfaces_associated_to_a_net_of_quadrics">On a map between two $K3$ surfaces associated to a net of quadrics</a>, <a href="/czasopisma/225956-archiv_der_mathematik">ARCH MATH</a> vol. 88  (2007), 109-122	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	25.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/771-christian_meyer">Christian Meyer</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4323-modular_calabi_yau_threefolds_of_level_eight">Modular Calabi-Yau threefolds of level eight</a>, <a href="/czasopisma/229666-international_journal_of_mathematics">INT J MATH</a> (2007), 1-17	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/772-klaus_hulek">Klaus Hulek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4324-higher_dimensional_modular_calabi_yau_manifolds">Higher-dimensional modular Calabi-Yau manifolds</a>, <a href="/czasopisma/226764-canadian_mathematical_bulletin_bulletin_canadien_de_mathematiques">CAN MATH BULL</a> vol. 50 (2007), 486--503	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/766-duco_van_straten">Duco van Straten</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4325-infinitesimal_deformations_of_double_covers_of__smooth_algebraic_varieties">Infinitesimal deformations of double covers of  smooth algebraic varieties</a>, <a href="/czasopisma/232214-mathematische_nachrichten">MATH NACHR</a> vol.  279 (2006), 716-726	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/771-christian_meyer">Christian Meyer</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4326-geometry_and_arithmetic_of_certain_double_octic_calabi_yau_manifolds">Geometry and arithmetic of certain double octic Calabi-Yau manifolds</a>, <a href="/czasopisma/226764-canadian_mathematical_bulletin_bulletin_canadien_de_mathematiques">CAN MATH BULL</a> vol. 48 (2005), 180--194	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4327-cyclic_coverings_of_fano_threefolds">Cyclic coverings of Fano threefolds</a>, ANN. POLON. MATH. 80 (2003), 117--124	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4328-cohomologies_of_a_double_covering_of_a_non_singular_algebraic_3_fold">Cohomologies of a double covering of a non-singular algebraic 3-fold</a>, MATH. Z. 240 (2002), no. 4, 731--743	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4329-defect_of_a_nodal_hypersurface">Defect of a nodal hypersurface</a>, MANUSCRIPTA MATH. 104 (2001), no. 3, 325--331	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4331-hodge_numbers_of_double_octic_with_non_isolated_singularities">Hodge numbers of double octic with non-isolated singularities</a>, ANN. POL. MATH. LXXIII (2000), 221-226	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4332-hodge_numbers_of_nodal_double_octics">Hodge numbers of nodal double octics</a>, COMM. ALGEBRA 27 (1999), no. 8, 4097--4102	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4333-double_coverings_of_octic_arrangements_with_isolated_singularities">Double coverings of octic arrangements with isolated singularities</a>, ADV. THEOR. MATH. PHYS. 3 (1999), no. 2, 217--225	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4335-singular_set_of_w_holomorphic_functions_on_quasi_projective_algebraic_sets">Singular set of w-holomorphic functions on quasi-projective algebraic sets</a>, BULL. POLISH ACAD. SCI. MATH. 45 (1997), no. 4, 337--344	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/548-tomasz_szemberg">Tomasz Szemberg</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4336-kummer_configurations_in_p5">Kummer configurations in P5</a>, GEOM. DEDICATA 67 (1997), no. 3, 259--270	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4337-on_separately_holomorphic_functions">On separately holomorphic functions</a>, EXPOSITION. MATH. 15 (1997), no. 2, 175--181	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/548-tomasz_szemberg">Tomasz Szemberg</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4338-on_urata_fibre_bundles">On Urata fibre bundles</a>, BULL. POLISH ACAD. SCI. MATH. 45 (1997), no. 3, 297--301	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/216-kamil_rusek">Kamil Rusek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4339-holomorphic_bijections_of_algebraic_sets">Holomorphic bijections of algebraic sets</a>, VOLUME DEDICATED TO THE MEMORY OF WŁODZIMIERZ MLAK. ANN. POLON. MATH. 66 (1997), 63--66	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4340-on_bertini_type_theorem_for_weakly_normal_complex_analytic_sets">On Bertini-type theorem for weakly-normal complex analytic sets</a>, UNIV. IAGEL. ACTA MATH. no. 33 (1996), 119--124	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4341-diagonal_representations_of_nash_functions">Diagonal representations of Nash functions</a>, BULL. POLISH ACAD. SCI. MATH. 42 (1994), no. 4, 305--313	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4342-diagonal_series_of_rational_functions__several_variables_">Diagonal series of rational functions (several variables)</a>, ANN. POLON. MATH. 59 (1994), no. 1, 77--83	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4343-representations_of_nash_functions">Representations of Nash functions</a>, COLLOQUE D'ANALYSE COMPLEXE ET GÉOMÉTRIE (MARSEILLE, 1992). Astérisque No. 217 (1993), 6, 53--73	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/241-piotr_tworzewski">Piotr Tworzewski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4344-diagonal_series_of_rational_functions">Diagonal series of rational functions</a>, PROCEEDINGS OF THE TENTH CONFERENCE ON ANALYTIC FUNCTIONS (SZCZYRK, 1990). Ann. Polon. Math. 55 (1991), 57--63	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/216-kamil_rusek">Kamil Rusek</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4345-injective_endomorphisms_of_algebraic_and_analytic_sets">Injective endomorphisms of algebraic and analytic sets</a>, ANN. POLON. MATH. 56 (1991), no. 1, 29--35	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4346-a_note_on_liouville_analytic_spaces">A note on Liouville analytic spaces</a>, ANN. POLON. MATH. 52 (1990), no. 2, 205--209	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4347-the_picard_theorem_for_analytic_and_algebraic_sets">The Picard theorem for analytic and algebraic sets</a>, BULL. POLISH ACAD. SCI. MATH. 38 (1990), no. 1-12, 189--192	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4330-number_of_ordinary_multiple_ponits_on_a_surface_in__mathbb_p_3__of_degree__le_8_">Number of Ordinary Multiple Ponits on a Surface in $mathbb P 3$ of degree $le 8$</a>, GEOM. DEDICATA 84 (2001, no.1-3, 169--178	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/239-slawomir_cynk">Sławomir Cynk</a>, <a href="/users/548-tomasz_szemberg">Tomasz Szemberg</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/4334-double_covers_and_calabi_yau_varieties">Double covers and Calabi-Yau varieties</a>, SINGULARITIES SYMPOSIUM---LOJASIEWICZ 70 (Kraków, 1996; Warsaw, 1996), 93--101, Banach Center Publ., 44, Polish Acad. Sci., Warsaw, 1998	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/239-slawomir_cynk"><span>8347</span><span>8346</span><span>8345</span><span>7402</span><span>7039</span><span>7038</span><span>6328</span><span>6327</span><span>4316</span><span>4317</span><span>4318</span><span>4319</span><span>4320</span><span>4321</span><span>4322</span><span>4323</span><span>4324</span><span>4325</span><span>4326</span><span>4327</span><span>4328</span><span>4329</span><span>4331</span><span>4332</span><span>4333</span><span>4335</span><span>4336</span><span>4337</span><span>4338</span><span>4339</span><span>4340</span><span>4341</span><span>4342</span><span>4343</span><span>4344</span><span>4345</span><span>4346</span><span>4347</span><span>4330</span><span>4334</span></div>
+</div><h3 id='k'>Konferencje:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/239-slawomir-cynk">Sławomir Cynk</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/411">Retrospective Workshop for the 2013 Fall Thematic Program on Calabi-Yau Varieties: Arithmetic, Geometry and Physics</a>, Fields Institute, Herstmonceux Castle, Wielka Brytania, 2016-06-20 - 2016-06-26	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/239-slawomir-cynk">Sławomir Cynk</a>, <a class="default-link" href="/users/259-slawomir-rams">Sławomir Rams</a>, <a class="default-link" href="/users/1018-pawel-borowka">Paweł Borówka</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/341">Algebraic Geometry – Satellite Conference of 7ECM</a>, IAG Hannover, Hannover, Niemcy, 2016-06-13 - 2016-06-16	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/239-slawomir-cynk">Sławomir Cynk</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/211">Explicit Methods for Modularity of K3 Surfaces and Other Higher Weight Motives</a>, ICERM Brown University, Providence, USA, 2015-10-19 - 2015-10-23	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/239-slawomir_cynk"><span>411</span><span>341</span><span>211</span></div>
+</div><h3 id='ko'>Konferencje organizowane:</h3><div id="yw3" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/239-slawomir-cynk">Sławomir Cynk</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/45">Joint Meeting of the German Mathematical Society (DMV) and the Polish Mathematical Society (PTM); sesja tematyczna: Algebraic Geometry</a>, Poznań, 2014-09-17, 2014-09-20	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/239-slawomir-cynk">Sławomir Cynk</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/46">Algebraic and Arithmetic Geometry; satelite meeting of the 6th European Congress of Mathematics</a>, Kraków, 2012-06-28, 2012-07-01	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/239-slawomir-cynk">Sławomir Cynk</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/83">Varieties with trivial canonical bundles</a>, Będlewo, 2016-06-12, 2016-06-18	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/239-slawomir_cynk"><span>45</span><span>46</span><span>83</span></div>
+</div><h3 id='d'>Doktoranci <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="doc-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="doc-view_c0"><a class="sort-link" href="/users/239-slawomir_cynk?Procedure_sort=id_user">Doktorant<span class="caret"></span></a></th><th id="doc-view_c1"><a class="sort-link" href="/users/239-slawomir_cynk?Procedure_sort=opening">Otwarcie<span class="caret"></span></a></th><th id="doc-view_c2"><a class="sort-link" href="/users/239-slawomir_cynk?Procedure_sort=ending">Zakonczenie<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/74">Michał Kapustka</a></td><td>2006-09-28</td><td>2007-09-27</td></tr>
+<tr class="even">
+<td><a href="../procedure/75">Grzegorz Kapustka</a></td><td>2006-09-28</td><td>2009-09-27</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/239-slawomir_cynk"><span>74</span><span>75</span></div>
+</div><h3 id='r'>Recenzje <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="review-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="review-view_c0"><a class="sort-link" href="/users/239-slawomir_cynk?ProcedureReview_sort=id_procedure">Recenzowany<span class="caret"></span></a></th><th id="review-view_c1">Jednostka</th><th id="review-view_c2"><a class="sort-link" href="/users/239-slawomir_cynk?ProcedureReview_sort=id_uploaded_file">Treść recenzji<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/18">Habilitacja: Halszka Tutaj-Gasińska</a></td><td>Katedra Geometrii Analitycznej</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/21">Doktorat: Anna Antoniewicz</a></td><td></td><td>&nbsp;</td></tr>
+<tr class="odd">
+<td><a href="../procedure/186">Doktorat: Tomasz Lenarcik</a></td><td>Katedra Geometrii Algebraicznej i Teorii Liczb</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/277">Habilitacja: Marcin Dumnicki</a></td><td>Katedra Geometrii Algebraicznej i Teorii Liczb</td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/239-slawomir_cynk"><span>50</span><span>60</span><span>375</span><span>465</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/239-slawomir_cynk?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/101">Geometria rozmaitości Calabi-Yau i wiązek Grassmanna</a></td><td>Kierownik</td><td>2015-02-02</td><td>2018-08-01</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/239-slawomir_cynk"><span>317</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw3').yiiListView({'ajaxUpdate':['yw3'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#doc-view').yiiGridView({'ajaxUpdate':['doc-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#review-view').yiiGridView({'ajaxUpdate':['review-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

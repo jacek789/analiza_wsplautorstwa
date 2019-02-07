@@ -1,0 +1,639 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr hab. -  Daniel Wilczak</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr hab.  Daniel Wilczak
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Informatyki i Matematyki Komputerowej</li>
+					<li>Katedra Matematyki Obliczeniowej</li>
+		</ul>
+
+
+
+<p><p><a class="default-link" href="/procedure/5">Habilitacja</a> &emsp;<b>Otwarcie:</b> 2011-01-27, <b>Zamknięcie:</b> 2011-10-06</p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#k">Konferencje</a></li><li><a href="#ko">Konferencje organizowane</a></li><li><a href="#d">Doktoranci</a></li><li><a href="#g">Granty</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1285-roberto_barrio">Roberto Barrio</a>, <a href="/users/128-daniel_wilczak">Daniel Wilczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8046-systematic_computer_assisted_proof_of_branches_of_stable_elliptic_periodic_orbits_and_surrounding_invariant_tori">Systematic Computer-Assisted Proof of Branches of Stable Elliptic Periodic Orbits and Surrounding Invariant Tori</a>, <a href="/czasopisma/234332-siam_journal_on_applied_dynamical_systems">SIAM J APPL DYN SYST</a> vol. 16 (2017), 1618-1649	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1268-irmina_walawska">Irmina Walawska</a>, <a href="/users/128-daniel_wilczak">Daniel Wilczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7747-an_implicit_algorithm_for_validated_enclosures_of_the_solutions_to_variational_equations_for_odes">An implicit algorithm for validated enclosures of the solutions to variational equations for ODEs</a>, <a href="/czasopisma/225900-applied_mathematics_and_computation">APPL MATH COMPUT</a> vol. 291 (2016), 303-322	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/128-daniel_wilczak">Daniel Wilczak</a>, <a href="/users/103-piotr_zgliczynski">Piotr Zgliczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7668-connecting_orbits_for_a_singular_nonautonomous_real_ginzburg__landau_type_equation">Connecting Orbits for a Singular Nonautonomous Real Ginzburg--Landau Type Equation</a>, <a href="/czasopisma/234332-siam_journal_on_applied_dynamical_systems">SIAM J APPL DYN SYST</a> vol. 15 (2016), 495-525	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1285-roberto_barrio">Roberto Barrio</a>, <a href="/users/1286-sergio_serrano">Sergio Serrano</a>, <a href="/users/128-daniel_wilczak">Daniel Wilczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7661-coexistence_and_dynamical_connections_between_hyperchaos_and_chaos_in_the_4d_rossler_system__a_computer_assisted_proof">Coexistence and Dynamical Connections between Hyperchaos and Chaos in the 4D Rössler System: A Computer-Assisted Proof</a>, <a href="/czasopisma/234332-siam_journal_on_applied_dynamical_systems">SIAM J APPL DYN SYST</a> vol. 15 (2016), 356-390	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1285-roberto_barrio">Roberto Barrio</a>, <a href="/users/1287-maria_angeles_martinez">María Angeles Martinez</a>, <a href="/users/1286-sergio_serrano">Sergio Serrano</a>, <a href="/users/128-daniel_wilczak">Daniel Wilczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7485-when_chaos_meets_hyperchaos__4d_rossler_model">When chaos meets hyperchaos: 4D Rössler model</a>, <a href="/czasopisma/233261-physics_letters_a">PHYS LETT A</a> vol. 379 (2015), 2300-2305	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/128-daniel_wilczak">Daniel Wilczak</a>, <a href="/users/103-piotr_zgliczynski">Piotr Zgliczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6342-c_r_lohner_algorithm">C^r-Lohner algorithm</a>, <a href="/czasopisma/242641-schedae_informaticae">SCHEDAE INFORMATICAE</a> vol. 20 (2011), 9-46	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/128-daniel_wilczak">Daniel Wilczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6341-uniformly_hyperbolic_attractor_of_the_smale_williams_type_for_a_poincare_map_in_the_kuznetsov_system">Uniformly hyperbolic attractor of the Smale-Williams type for a Poincaré map in the Kuznetsov system</a>, <a href="/czasopisma/234332-siam_journal_on_applied_dynamical_systems">SIAM J APPL DYN SYST</a> vol. 9 (2010), 1263-1283	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/128-daniel_wilczak">Daniel Wilczak</a>, <a href="/users/103-piotr_zgliczynski">Piotr Zgliczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6340-computer_assisted_proof_of_the_existence_of_homoclinic_tangency_for_the_henon_map_and_for_the_forced_damped_pendulum">Computer assisted proof of the existence of homoclinic tangency for the Henon map and for the forced-damped pendulum</a>, <a href="/czasopisma/234332-siam_journal_on_applied_dynamical_systems">SIAM J APPL DYN SYST</a> vol. 8 (2009), 1632-1663	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/775-warwick_tucker">Warwick Tucker</a>, <a href="/users/128-daniel_wilczak">Daniel Wilczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6339-a_rigorous_lower_bound_for_the_stability_regions_of_the_quadratic_map">A rigorous lower bound for the stability regions of the quadratic map</a>, <a href="/czasopisma/233233-physica_d_nonlinear_phenomena">PHYSICA D</a> vol. 238 (2009), 1923-1936	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/128-daniel_wilczak">Daniel Wilczak</a>, <a href="/users/103-piotr_zgliczynski">Piotr Zgliczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6338-period_doubling_in_the_rossler_system___a_computer_assisted_proof">Period doubling in the Rössler system - a computer assisted proof</a>, <a href="/czasopisma/228593-foundations_of_computational_mathematics">FOUND COMPUT MATH</a> vol. 9 (2009), 611-649	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/128-daniel_wilczak">Daniel Wilczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6337-abundance_of_heteroclinic_and_homoclinic_orbits_for_the_hyperchaotic_rossler_system">Abundance of heteroclinic and homoclinic orbits for the hyperchaotic Rössler system</a>, <a href="/czasopisma/227761-discrete_and_continuous_dynamical_systems_series_b">DISCRETE CONT DYN-B</a> vol. 11 (2009), 1039-1055	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/128-daniel_wilczak">Daniel Wilczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6336-rigorous_numerics_for_homoclinic_dynamics">Rigorous numerics for homoclinic dynamics</a>, THE JOINT CONFERENCE OF ASCM 2009 AND MACIS 2009, COE LECT. NOTE, 22, KYUSHU UNIV. FAC. MATH., FUKUOKA (2009), 301-305	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/774-hiroshi_kokubu">Hiroshi Kokubu</a>, <a href="/users/128-daniel_wilczak">Daniel Wilczak</a>, <a href="/users/103-piotr_zgliczynski">Piotr Zgliczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6335-rigorous_verification_of_cocoon_bifurcations_in_the_michelson_system">Rigorous verification of cocoon bifurcations in the Michelson system</a>, <a href="/czasopisma/232783-nonlinearity">NONLINEARITY</a> vol. 20 (2007), 2147-2174	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/128-daniel_wilczak">Daniel Wilczak</a>, <a href="/users/103-piotr_zgliczynski">Piotr Zgliczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6334-topological_method_for_symmetric_periodic_orbits_for_maps_with_a_reversing_symmetry">Topological method for symmetric periodic orbits for maps with a reversing symmetry</a>, <a href="/czasopisma/227760-discrete_and_continuous_dynamical_systems">DISCRETE CONT DYN-A</a> vol. 17 (2007), 629-652	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/128-daniel_wilczak">Daniel Wilczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6333-the_existence_of_shilnikov_homoclinic_orbits_in_the_michelson_system__a_computer_assisted_proof">The existence of Shilnikov homoclinic orbits in the Michelson system: a computer assisted proof</a>, <a href="/czasopisma/228593-foundations_of_computational_mathematics">FOUND COMPUT MATH</a> vol. 6 (2006), 495-535	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/128-daniel_wilczak">Daniel Wilczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6332-symmetric_homoclinic_solutions_to_the_periodic_orbits_in_the_michelson_system">Symmetric homoclinic solutions to the periodic orbits in the Michelson system</a>, <a href="/czasopisma/234853-topological_methods_in_nonlinear_analysis">TOPOL METHOD NONL AN</a> vol. 28 (2006), 155-170	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/128-daniel_wilczak">Daniel Wilczak</a>, <a href="/users/103-piotr_zgliczynski">Piotr Zgliczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6344-heteroclinic_connections_between_periodic_orbits_in_planar_circular_restricted_three_body_problem___part_ii">Heteroclinic Connections between Periodic Orbits in Planar Circular Restricted Three Body Problem - part II</a>, <a href="/czasopisma/227262-communications_in_mathematical_physics">COMMUN MATH PHYS</a> vol. 259 (2005), 561-576	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/128-daniel_wilczak">Daniel Wilczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6331-symmetric_heteroclinic_connections_in_the_michelson_system___a_computer_assisted_proof">Symmetric heteroclinic connections in the Michelson system - a computer assisted proof</a>, <a href="/czasopisma/234332-siam_journal_on_applied_dynamical_systems">SIAM J APPL DYN SYST</a> vol. 4 (2005), 489-514	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/128-daniel_wilczak">Daniel Wilczak</a>, <a href="/users/103-piotr_zgliczynski">Piotr Zgliczyński</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6343-heteroclinic_connections_between_periodic_orbits_in_planar_circular_restricted_three_body_problem___a_computer_assisted_proof">Heteroclinic Connections between Periodic Orbits in Planar Circular Restricted Three Body Problem - A Computer Assisted Proof</a>, <a href="/czasopisma/227262-communications_in_mathematical_physics">COMMUN MATH PHYS</a> vol. 234 (2003), 37-75	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/128-daniel_wilczak">Daniel Wilczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6330-chaos_in_the_kuramoto_sivashinsky_equations___a_computer_assisted_proof">Chaos in the Kuramoto-Sivashinsky equations - a computer assisted proof</a>, <a href="/czasopisma/230488-journal_of_differential_equations">J DIFFER EQUATIONS</a> vol. 194 (2003), 433-459	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/128-daniel_wilczak">Daniel Wilczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6329-computer_assisted_proof_of_chaotic_dynamics_in_the_rossler_map">Computer assisted proof of chaotic dynamics in the Rössler map</a>, <a href="/czasopisma/234853-topological_methods_in_nonlinear_analysis">TOPOL METHOD NONL AN</a> vol. 18 (2001), 183-190	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/128-daniel_wilczak"><span>8046</span><span>7747</span><span>7668</span><span>7661</span><span>7485</span><span>6342</span><span>6341</span><span>6340</span><span>6339</span><span>6338</span><span>6337</span><span>6336</span><span>6335</span><span>6334</span><span>6333</span><span>6332</span><span>6344</span><span>6331</span><span>6343</span><span>6330</span><span>6329</span></div>
+</div><h3 id='k'>Konferencje:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/128-daniel-wilczak">Daniel Wilczak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/616">The Seventh International Meeting on Celestial Mechanics</a>, Università di Roma, San Martino al Cimino, Włochy, 2017-09-03 - 2018-03-09	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/128-daniel-wilczak">Daniel Wilczak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/509">Rigorous Numerics for Infinite Dimensional Nonlinear Dynamics</a>, BIRS, Banff, Kanada, 2017-05-08 - 2017-05-12	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/128-daniel-wilczak">Daniel Wilczak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/390">9th Small Workshop on Interval Methods</a>, University of Lyon, Lyon, Francja, 2016-06-19 - 2016-06-22	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/103-piotr-zgliczynski">Piotr Zgliczyński</a>, <a class="default-link" href="/users/128-daniel-wilczak">Daniel Wilczak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/267">Computation in Dynamics</a>, ICERM Brown University, Providence, USA, 2016-04-04 - 2016-04-08	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/116-tomasz-kapela">Tomasz Kapela</a>, <a class="default-link" href="/users/128-daniel-wilczak">Daniel Wilczak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/392">Winter School on Computational Mathematics 2016</a>, WMiI UJ, Będlewo, Polska, 2016-02-07 - 2016-02-13	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/116-tomasz-kapela">Tomasz Kapela</a>, <a class="default-link" href="/users/128-daniel-wilczak">Daniel Wilczak</a>, <a class="default-link" href="/users/295-mateusz-juda">Mateusz Juda</a>, <a class="default-link" href="/users/322-grzegorz-jablonski">Grzegorz Jabłoński</a>, <a class="default-link" href="/users/502-jaroslaw-duda">Jarosław Duda</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/188">DYNAMICS, TOPOLOGY AND COMPUTATIONS 2015 (DyToComp)</a>, Stefan Banach International Mathematical Center, Faculty of Mathematics and Computer Science UJ, Będlewo, Polska, 2015-06-15 - 2015-06-20	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/128-daniel-wilczak">Daniel Wilczak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/223">8th Small Workshop on Interval Methods</a>, Charles University in Prague , Praga, Republika Czeska, 2015-06-09 - 2015-06-11	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/128-daniel-wilczak">Daniel Wilczak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/63"> Foundations of Computational Mathematics</a>, Society for Foundations of Computational Mathematics, Montevideo, Urugwaj, 2014-12-11 - 2014-12-20	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/114-leszek-gasinski">Leszek Gasiński</a>, <a class="default-link" href="/users/115-piotr-kalita">Piotr Kalita</a>, <a class="default-link" href="/users/116-tomasz-kapela">Tomasz Kapela</a>, <a class="default-link" href="/users/128-daniel-wilczak">Daniel Wilczak</a>, <a class="default-link" href="/users/422-aleksander-czechowski">Aleksander Czechowski</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/49">The 10th AIMS Conference on Dynamical Systems, Differential Equations and Applications </a>, AIMS, Madryt, Hiszpania, 2014-07-07 - 2014-07-11	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/128-daniel-wilczak">Daniel Wilczak</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/62">7th Small Workshop on Interval Methods</a>, Uppsala Universitet, Uppsala, Szwecja, 2014-06-11 - 2014-06-12	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/128-daniel_wilczak"><span>616</span><span>509</span><span>390</span><span>267</span><span>392</span><span>188</span><span>223</span><span>63</span><span>49</span><span>62</span></div>
+</div><h3 id='ko'>Konferencje organizowane:</h3><div id="yw3" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/102-marian-mrozek">Marian Mrozek</a>, <a class="default-link" href="/users/103-piotr-zgliczynski">Piotr Zgliczyński</a>, <a class="default-link" href="/users/116-tomasz-kapela">Tomasz Kapela</a>, <a class="default-link" href="/users/128-daniel-wilczak">Daniel Wilczak</a>, <a class="default-link" href="/users/1626-mateusz-przybylski">Mateusz Przybylski</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/149">Winter Workshop on Dynamics, Topology and Computations 2018</a>, Będlewo, 2018-01-28, 2018-02-03	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/102-marian-mrozek">Marian Mrozek</a>, <a class="default-link" href="/users/103-piotr-zgliczynski">Piotr Zgliczyński</a>, <a class="default-link" href="/users/116-tomasz-kapela">Tomasz Kapela</a>, <a class="default-link" href="/users/128-daniel-wilczak">Daniel Wilczak</a>, <a class="default-link" href="/users/178-roman-srzednicki">Roman Srzednicki</a>, <a class="default-link" href="/users/871-konstantin-mischaikov">Konstantin Mischaikov</a>, <a class="default-link" href="/users/1626-mateusz-przybylski">Mateusz Przybylski</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conforganizer/view/158">Dynamics, Topology and Computations 2018</a>, Będlewo, 2018-06-18, 2018-06-23	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/128-daniel_wilczak"><span>149</span><span>158</span></div>
+</div><h3 id='d'>Doktoranci <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="doc-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="doc-view_c0"><a class="sort-link" href="/users/128-daniel_wilczak?Procedure_sort=id_user">Doktorant<span class="caret"></span></a></th><th id="doc-view_c1"><a class="sort-link" href="/users/128-daniel_wilczak?Procedure_sort=opening">Otwarcie<span class="caret"></span></a></th><th id="doc-view_c2"><a class="sort-link" href="/users/128-daniel_wilczak?Procedure_sort=ending">Zakonczenie<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/296">Irmina Walawska</a></td><td>2016-09-29</td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/128-daniel_wilczak"><span>296</span></div>
+</div><h3 id='g' class='mb10'>Granty <span class='small-text'>(realizowane po maju 2009 roku)</span></h3><div id="grants-info" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="grants-info_c0"><a class="sort-link" href="/users/128-daniel_wilczak?UserGrant_sort=id_grant">Tytuł<span class="caret"></span></a></th><th id="grants-info_c1">Rola</th><th id="grants-info_c2">Rozpoczęcie</th><th id="grants-info_c3">Zakończenie</th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../grants/127">Metody geometryczne i ścisła numeryka w dynamice układów hamiltonowskich</a></td><td>Wykonawca</td><td>2016-07-07</td><td>2019-07-06</td></tr>
+<tr class="even">
+<td><a href="../grants/107">Obliczeniowa dynamika topologiczna</a></td><td>Wykonawca</td><td>2015-02-12</td><td>2020-02-11</td></tr>
+<tr class="odd">
+<td><a href="../grants/47">Rozproszone i równoległe algorytmy w Matematyce Obliczeniowej</a></td><td>Kierownik</td><td>2011-06-19</td><td>2012-10-19</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/128-daniel_wilczak"><span>159</span><span>176</span><span>266</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw3').yiiListView({'ajaxUpdate':['yw3'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#doc-view').yiiGridView({'ajaxUpdate':['doc-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#grants-info').yiiGridView({'ajaxUpdate':['grants-info'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

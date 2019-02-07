@@ -1,0 +1,903 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>prof. dr hab. -  Jerzy Ombach</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+prof. dr hab.  Jerzy Ombach
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Matematyki Stosowanej</li>
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li><li><a href="#k">Konferencje</a></li><li><a href="#d">Doktoranci</a></li><li><a href="#r">Recenzje</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	46.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7907-my_memories_of_professor_andrzej__lasota">My Memories of Professor Andrzej  Lasota</a>, (2016), "Mathematics Like Poetry, Andrzej Lasota 1932 - 2006", Wydawnictwo Uniwersytetu Śląskiego	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	45.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>, <a href="/users/386-dawid_tarlowski">Dawid Tarłowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7496-stochastyczne_algorytmy_optymalizacji_z_perspektywy_ukladow_dynamicznych">Stochastyczne algorytmy optymalizacji z perspektywy układów dynamicznych</a>, (2015), "Metody matematyczne w zastosowaniach, tom  3, 137 - 155.", Politechnika Gdańska	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	44.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7421-a_short_introduction_to_stochastic_optimization">A Short Introduction to Stochastic Optimization</a>, <a href="/czasopisma/236602-schedae_informaticae">SCHEDAE INFORMATICAE</a> vol. 23 (2014), 9 - 20	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	43.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7246-o_miejscu_matematyki_stsowanej">O miejscu matematyki stsowanej</a>, MATEMATYKA STOSOWANA vol. 19/58 (2014), 48-50	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	42.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1031-j__bialy">J. Biały</a>, <a href="/users/1032-a__ciecko">A. Ciecko</a>, <a href="/users/1033-a__cwiklak">A. Ćwiklak</a>, <a href="/users/1034-m__grzegorzewski">M. Grzegorzewski</a>, <a href="/users/250-piotr_koscielniak">Piotr Kościelniak</a>, <a href="/users/177-jerzy_ombach">Jerzy Ombach</a>, <a href="/users/1036-s__oszczak">S. Oszczak</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6972-aircraft_landing_system_utilizing_a_gps_receiver_with_position_prediction_functionality">Aircraft Landing System Utilizing a GPS Receiver with Position Prediction Functionality</a>, PROCEEDINGS OF THE 24TH INTERNATIONAL TECHNICAL MEETING OF THE SATELLITE DIVISION OF THE INSTITUTE OF NAVIGATION (ION GNSS 2011), PORTLAND, OR, SEPTEMBER 2011. (2012), 457-467	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	41.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>, <a href="/users/386-dawid_tarlowski">Dawid Tarłowski</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5239-nonautonomous_stochastic_search_in_global_optimization">Nonautonomous Stochastic Search in Global Optimization</a>, <a href="/czasopisma/231162-journal_of_nonlinear_science">J NONLINEAR SCI</a> vol. 22(2012) (2012), 169 - 185	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	40.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/110-andrzej_bielecki">Andrzej Bielecki</a>, <a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5240-dynamical_properties_of_a_perceptron_learning_process___structural_stability__under_numerics_and_shadowing">Dynamical properties of a perceptron learning process - structural stability  under numerics and shadowing</a>, <a href="/czasopisma/231162-journal_of_nonlinear_science">J NONLINEAR SCI</a> vol. 21 (4) (2011), 579-593	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	39.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5241-stability_of_evolutionary_algorithms">Stability of evolutionary algorithms</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> (2008), 326 - 333	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	38.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5242-bookkeeping_sleight_of_hand">Bookkeeping Sleight of Hand</a>, <a href="/czasopisma/236602-schedae_informaticae">SCHEDAE INFORMATICAE</a> (2007), 21 - 24	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	37.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5243-a_proof_of_convergence_of_general_stochastic_search_for_global_minimum">A Proof of Convergence of General Stochastic Search for Global Minimum</a>, <a href="/czasopisma/230487-journal_of_difference_equations_and_applications">J DIFFER EQU APPL</a> (2007), 795 - 802	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	36.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/110-andrzej_bielecki">Andrzej Bielecki</a>, <a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5245-shadowing_property_in_analysis_of_neural_networks_dynamics">Shadowing Property in Analysis of Neural Networks Dynamics</a>, <a href="/czasopisma/230403-journal_of_computational_and_applied_mathematics">J COMPUT APPL MATH</a> (2004), 107 - 115	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	35.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5246-komputerowy_program_maple_w_nauczaniu_rachunku_prawdopodobienstwa">Komputerowy program Maple w nauczaniu rachunku prawdopodobieństwa</a>, ANNALES ACADEMIAE PAEDAGOGICAE CRACOVIENSIS, STUDIA AD CALCULUS PROBABILITATIS, EIUSQUE DIDACTICAM PERINENTIA  I(2002), FOLIA 5, 2002, 105 --134	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	34.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/184-marcin_mazur">Marcin Mazur</a>, <a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5012-shadowing_and_likes_as_c_0_generic_properties">Shadowing and likes as C^0 generic properties</a>, LECTURE NOTES IN NONLINEAR ANALYSIS vol. 3 (2002), 159-189	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	33.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>, P.Kloeden,A.Pokrovskii	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5252-continuous_and_inverse_shadowing">Continuous and inverse shadowing</a>, FUNCT. DIFFER. EQU. 6 (1999), no. 1-2, 137--153	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	32.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5254-nowa_matura____dyskusja_i_propozycje">Nowa matura -- dyskusja i propozycje</a>, WIADOMOŚCI MATEMATYCZNE, 33(1997) , 177 - 184	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	31.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>, P.Kloeden	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5255-hyperbolic_homeomorphisms_are_bishadowing">Hyperbolic homeomorphisms are bishadowing</a>, ANN. POLON. MATH. 65 (1997), 171--177	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	30.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5256-shadowing__expansiveness_and_hyperbolic_homeomorphisms">Shadowing, expansiveness and hyperbolic homeomorphisms</a>, J. AUSTRAL. MATH. SOC. SER. A 61 (1996), no. 1, 57--72	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	29.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5258-computation_of_the_local_stable_and_unstable_manifolds">Computation of the local stable and unstable manifolds</a>, UNIV. IAGEL. ACTA MATH. no. 32 (1995), 129--136	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	28.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5259-distality_versus_shadowing_and_expansiveness">Distality versus shadowing and expansiveness</a>, UNIV. IAGEL. ACTA MATH. no. 31 (1994), 75--78	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	27.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5260-the_shadowing_lemma_in_the_linear_case">The shadowing lemma in the linear case</a>, UNIV. IAGEL. ACTA MATH. no. 31 (1994), 69--74	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	26.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5261-shadowing_for_linear_systems_of_differential_equations">Shadowing for linear systems of differential equations</a>, PUBL. MAT. 37 (1993), no. 2, 245--253	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	25.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5262-the_simplest_shadowing">The simplest shadowing</a>, ANN. POLON. MATH. 58 (1993), no. 3, 253--258	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5263-the_pseudo_orbits_tracing_property_for_linear_systems_of_differential_equations">The pseudo-orbits tracing property for linear systems of differential equations</a>, GLAS. MAT. SER. III 27(47) (1992), no. 1, 49--56	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5264-sinks__sources_and_saddles_for_expansive_flows_with_the_pseudo_orbits_tracing_property">Sinks, sources and saddles for expansive flows with the pseudo-orbits tracing property</a>, ANN. POLON. MATH. 53 (1991), no. 3, 237--252	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5265-saddles_for_expansive_flows_with_the_pseudo_orbits_tracing_property">Saddles for expansive flows with the pseudo orbits tracing property</a>, ANN. POLON. MATH. 56 (1991), no. 1, 37--48	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5266-expansive__homeomorphisms__with__the__pseudo_orbits_tracing_property">Expansive  homeomorphisms  with  the  pseudo orbits tracing property</a>, MATH. INST., POLISH. ACAD. OF SCI., PREPRINT 383(1987)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5267-one_dimensional_maps_without_asymptotic_periodicity_property">One-dimensional maps without asymptotic periodicity property</a>, UNIV. IAGEL. ACTA MATH. no. 26 (1987), 165--171	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5268-consequences_of_the_pseudo_orbits_tracing_property_and_expansiveness">Consequences of the pseudo-orbits tracing property and expansiveness</a>, J. AUSTRAL. MATH. SOC. SER. A 43 (1987), no. 3, 301--313	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5269-asymptotic_periodicity_and_bifurcations_for_one_dimensional_maps">Asymptotic periodicity and bifurcations for one-dimensional maps</a>, UNIV. IAGEL. ACTA MATH. no. 26 (1987), 85--90	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5270-equivalent_conditions_for_hyperbolic_coordinates">Equivalent conditions for hyperbolic coordinates</a>, TOPOLOGY APPL. 23 (1986), no. 1, 87--90	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5271-periodic_points_and_bifurcation_of_one_dimensional_maps">Periodic points and bifurcation of one-dimensional maps</a>, ZASTOS. MAT. 18 (1985), no. 4, 635--643	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>, A.Łomnicki	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5272-resource__partitioning__within_a_single_population_and__population__stability__a_theoretical_model">Resource  partitioning  within a single population and  population  stability: a theoretical model</a>, THEORETICAL POPULATION BIOLOGY 25(1984), 21 - 28	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5273-on_period_three_and_chaos">On period three and chaos</a>, UNIV. IAGEL. ACTA MATH. no. 24 (1984), 251--255	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>, A.Trzepizur	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5274-some_remarks_on_processes">Some remarks on processes</a>, II. UNIV. IAGEL. ACTA MATH. no. 24 (1984), 15--18	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5275-continuous_dependence_in_the_implicit_function_theorem">Continuous dependence in the implicit function theorem</a>, ZESZYTY NAUK. UNIW. JAGIELLON. PRACE MAT. no. 21 (1979), 123--131	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5276-on_the_stable_manifold_theorems">On the stable manifold theorems</a>, BULL. ACAD. POLON. SCI. SÉR. SCI. MATH. ASTRONOM. PHYS. 26 (1978), no. 4, 337--341	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>, A.Trzepizur	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5277-stability_of_sets_and_motions_in_generalized_pseudo_dynamical_systems">Stability of sets and motions in generalized pseudo-dynamical systems</a>, BULL. ACAD. POLON. SCI. SÉR. SCI. MATH. ASTRONOM. PHYS. 22 (1974), 153--155	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>, A.Trzepizur	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5278-limit_sets_in_pseudo_dynamical_systems">Limit sets in pseudo-dynamical systems</a>, BULL. ACAD. POLON. SCI. SÉR. SCI. MATH. ASTRONOM. PHYS. 22 (1974), 157--160	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5244-wprowadzenie_do_metod_probabilistycznych_wspomagane_komputerowo___maple">Wprowadzenie do metod probabilistycznych wspomagane komputerowo - MAPLE</a>, PAŃSTWOWA WYŻSZA SZKOŁA ZAWODOWA, NOWY SĄCZ 2006, ISBN 83-88887-81-5, s. 171	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>, S.Cyganowski,P.Kloeden	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5247-from_elementary_probability_to_stochastic_differential_equations_with_maple">From elementary probability to stochastic differential equations with MAPLE</a>, UNIVERSITEXT. SPRINGER-VERLAG, BERLIN, 2002. xvi+310 pp. ISBN: 3-540-42666-3	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/629-jolanta_jarnicka">Jolanta Jarnicka</a>, <a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5248-statistics_and_simulations_with_maple">Statistics and simulations with Maple</a>,  in S. Nielsen Ed., Programming Languages and Systems in Computational Economics and Finance, Kluwer
+	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5249-rachunek_prawdopodobienstwa_wspomagany_komputerowo____maple">Rachunek prawdopodobieństwa wspomagany komputerowo -- Maple</a>, WYDAWNICTWO UNIWERSYTETU JAGIELLOŃSKIEGO, KRAKÓW, 2000	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5250-semi_hyperbolicity_and_inverse_shadowing">Semi-hyperbolicity and inverse shadowing</a>, COMMUNICATIONS IN DIFFERENCE EQUATIONS (POZNAN, 1998), 291--299, Gordon and Breach, Amsterdam, 2000	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5251-wyklady_z_rownan_rozniczkowych_wspomagane_komputerowo____maple">Wykłady z równań różniczkowych wspomagane komputerowo -- Maple</a>, WYD. II, WYDAWNICTWO UNIWERSYTETU JAGIELLOŃSKIEGO, KRAKÓW, 1999	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5257-wyklady_z_rownan_rozniczkowych">Wykłady z równań różniczkowych</a>, WYDAWNICTWO UNIWERSYTETU JAGIELLOŃSKIEGO, KRAKÓW, 1996	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/177-jerzy_ombach">Jerzy Ombach</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5253-wstep_do_rachunku_prawdopodobienstwa">Wstęp do rachunku prawdopodobieństwa</a>, WYD. II ROZSZERZONE, AGH, KRAKÓW 1997	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/177-jerzy_ombach"><span>7907</span><span>7496</span><span>7421</span><span>7246</span><span>6972</span><span>5239</span><span>5240</span><span>5241</span><span>5242</span><span>5243</span><span>5245</span><span>5246</span><span>5012</span><span>5252</span><span>5254</span><span>5255</span><span>5256</span><span>5258</span><span>5259</span><span>5260</span><span>5261</span><span>5262</span><span>5263</span><span>5264</span><span>5265</span><span>5266</span><span>5267</span><span>5268</span><span>5269</span><span>5270</span><span>5271</span><span>5272</span><span>5273</span><span>5274</span><span>5275</span><span>5276</span><span>5277</span><span>5278</span><span>5244</span><span>5247</span><span>5248</span><span>5249</span><span>5250</span><span>5251</span><span>5257</span><span>5253</span></div>
+</div><h3 id='k'>Konferencje:</h3><div id="yw2" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/177-jerzy-ombach">Jerzy Ombach</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/697">GAMENET Conference Kraków</a>, Uniwersytet Ekonomiczny, Kraków, Polska, 2018-09-17 - 2018-09-21	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/177-jerzy-ombach">Jerzy Ombach</a>, <a class="default-link" href="/users/1261-magdalena-wiercioch">Magdalena Wiercioch</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/29">Theoretical Foundation of Machine Learning</a>, GMUM IIiMK UJ , Będlewo, Polska, 2015-02-16 - 2015-02-20	</div>
+</div>
+
+</div>
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a class="default-link" href="/users/177-jerzy-ombach">Jerzy Ombach</a>.	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/conference/2">Między teorią a zastosowaniami – matematyka w działaniu</a>, Centrum Zastosowań Mateamtyki w Gdańsku, Będlewo, Polska, 2014-08-25 - 2014-08-30	</div>
+</div>
+
+</div>
+</div>
+<div class="keys" style="display:none" title="/users/177-jerzy_ombach"><span>697</span><span>29</span><span>2</span></div>
+</div><h3 id='d'>Doktoranci <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="doc-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="doc-view_c0"><a class="sort-link" href="/users/177-jerzy_ombach?Procedure_sort=id_user">Doktorant<span class="caret"></span></a></th><th id="doc-view_c1"><a class="sort-link" href="/users/177-jerzy_ombach?Procedure_sort=opening">Otwarcie<span class="caret"></span></a></th><th id="doc-view_c2"><a class="sort-link" href="/users/177-jerzy_ombach?Procedure_sort=ending">Zakonczenie<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/94">Piotr Oprocha</a></td><td>2004-04-29</td><td>2005-12-22</td></tr>
+<tr class="even">
+<td><a href="../procedure/105">Piotr Kościelniak</a></td><td>2003-03-13</td><td>2004-09-23</td></tr>
+<tr class="odd">
+<td><a href="../procedure/123">Marcin Radwański</a></td><td>2008-09-25</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/142">Jolanta Jarnicka</a></td><td>2005-06-23</td><td>2006-11-30</td></tr>
+<tr class="odd">
+<td><a href="../procedure/208">Dawid Tarłowski</a></td><td>2013-05-23</td><td>2015-10-29</td></tr>
+<tr class="even">
+<td><a href="../procedure/210">Iwona Żerda</a></td><td>2013-05-23</td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/177-jerzy_ombach"><span>94</span><span>105</span><span>123</span><span>142</span><span>208</span><span>210</span></div>
+</div><h3 id='r'>Recenzje <span class='small-text'>(po 27 października 2003 roku)</span></h3><div id="review-view" class="grid-view">
+<div class="summary"></div>
+<table class="items table table-striped">
+<thead>
+<tr>
+<th id="review-view_c0"><a class="sort-link" href="/users/177-jerzy_ombach?ProcedureReview_sort=id_procedure">Recenzowany<span class="caret"></span></a></th><th id="review-view_c1">Jednostka</th><th id="review-view_c2"><a class="sort-link" href="/users/177-jerzy_ombach?ProcedureReview_sort=id_uploaded_file">Treść recenzji<span class="caret"></span></a></th></tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="../procedure/33">Habilitacja: Jacek Tabor</a></td><td>Katedra Uczenia Maszynowego</td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/99">Doktorat: Kinga Stolot</a></td><td></td><td>&nbsp;</td></tr>
+<tr class="odd">
+<td><a href="../procedure/101">Doktorat: Joanna Jaroszewska</a></td><td></td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/155">Doktorat: Jan Pudełko</a></td><td></td><td>&nbsp;</td></tr>
+<tr class="odd">
+<td><a href="../procedure/159">Habilitacja: Tomasz Szarek</a></td><td></td><td>&nbsp;</td></tr>
+<tr class="even">
+<td><a href="../procedure/160">Doktorat: Marcin Kulczycki</a></td><td>Katedra Równań Różniczkowych</td><td>&nbsp;</td></tr>
+</tbody>
+</table>
+<div class="keys" style="display:none" title="/users/177-jerzy_ombach"><span>87</span><span>207</span><span>211</span><span>269</span><span>278</span><span>279</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript" src="/assets/848aac88/gridview/jquery.yiigridview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#yw2').yiiListView({'ajaxUpdate':['yw2'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('#doc-view').yiiGridView({'ajaxUpdate':['doc-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('#review-view').yiiGridView({'ajaxUpdate':['review-view'],'ajaxVar':'ajax','pagerClass':'pagination','loadingClass':'grid-view-loading','filterClass':'filters','tableClass':'items table table-striped','selectableRows':1,'enableHistory':false,'updateSelector':'{page}, {sort}','filterSelector':'{filter}'});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

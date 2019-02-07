@@ -1,0 +1,372 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title>dr -  Jacek Stasica</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+dr  Jacek Stasica
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+					<li>Wydział Matematyki i Informatyki UJ</li>
+					<li>Instytut Matematyki</li>
+					<li>Katedra Funkcji Rzeczywistych</li>
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/246-jacek_stasica">Jacek Stasica</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5615-smooth_points_of_a_semialgebraic_sets">Smooth points of a semialgebraic sets</a>, ANN. POLON. MATH. 82.2 (2003), 149--153	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/246-jacek_stasica">Jacek Stasica</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5616-on_asymptotic_solutions_of_analytic_equations">On asymptotic solutions of analytic equations</a>, ANN. POLON. MATH. 82.1 (2003), 71--76	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/657-zofia_denkowska">Zofia Denkowska</a>, <a href="/users/246-jacek_stasica">Jacek Stasica</a>, S.Łojasiewicz,KrystynaWachta	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5619-stratifications_sous_analytiques">Stratifications sous-analytiques</a>, CONDITION DE VERDIER. (FRENCH) [SUBANALYTIC STRATIFICATIONS. VERDIER'S CONDITION] BULL. POLISH ACAD. SCI. MATH. 34 (1986), no. 9-10, 531--539 (1987)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/657-zofia_denkowska">Zofia Denkowska</a>, <a href="/users/246-jacek_stasica">Jacek Stasica</a>, K.Wachta	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5620-stratification_des_ensembles_sous_analytiques_avec_les_proprietes__a__et__b__de_whitney">Stratification des ensembles sous-analytiques avec les propriétés (A) et (B) de Whitney</a>, (FRENCH) [STRATIFICATION OF SUBANALYTIC SETS WITH WHITNEY PROPERTIES (A) AND (B)] UNIV. IAGEL. ACTA MATH. no. 25 (1985), 183--188	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/657-zofia_denkowska">Zofia Denkowska</a>, <a href="/users/246-jacek_stasica">Jacek Stasica</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5621-sur_la_continuite_de_la_section_d_un_ensemble_sous_analytique">Sur la continuité de la section d'un ensemble sous-analytique</a>, (FRENCH) [CONTINUITY OF THE SECTION OF A SUBANALYTIC SET] UNIV. IAGEL. ACTA MATH. no. 24 (1984), 205--208	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/657-zofia_denkowska">Zofia Denkowska</a>, <a href="/users/246-jacek_stasica">Jacek Stasica</a>, S.Łojasiewicz	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5622-sur_le_nombre_des_composantes_connexes_de_la_section_d_un_sous_analytique">Sur le nombre des composantes connexes de la section d'un sous-analytique</a>, (FRENCH) [ON THE NUMBER OF CONNECTED COMPONENTS OF THE SECTION OF A SUBANALYTIC SET] BULL. ACAD. POLON. SCI. SÉR. SCI. MATH. 30 (1982), no. 7-8, 333--335	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/246-jacek_stasica">Jacek Stasica</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5623-the_whitney_condition_for_subanalytic_sets">The Whitney condition for subanalytic sets</a>, ZESZYTY NAUK. UNIW. JAGIELLON. PRACE MAT. no. 23 (1982), 211--221	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/657-zofia_denkowska">Zofia Denkowska</a>, <a href="/users/246-jacek_stasica">Jacek Stasica</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5624-sur_la_stratification_sous_analytique">Sur la stratification sous-analytique</a>, (FRENCH) [ON SUBANALYTIC STRATIFICATION] BULL. ACAD. POLON. SCI. SÉR. SCI. MATH. 30 (1982), no. 7-8, 337--340	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/657-zofia_denkowska">Zofia Denkowska</a>, <a href="/users/246-jacek_stasica">Jacek Stasica</a>, S.Łojasiewicz	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5625-sur_le_theoreme_du_complementaire_pour_les_ensembles_sous_analytiques">Sur le théoreme du complémentaire pour les ensembles sous-analytiques</a>, (FRENCH) BULL. ACAD. POLON. SCI. SÉR. SCI. MATH. 27 (1979), no. 7-8, 537--539 (1980)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/657-zofia_denkowska">Zofia Denkowska</a>, <a href="/users/246-jacek_stasica">Jacek Stasica</a>, S.Łojasiewicz	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5626-certaines_proprietes_elementaires_des_ensembles_sous_analytiques">Certaines propriétés élémentaires des ensembles sous-analytiques</a>, (FRENCH) BULL. ACAD. POLON. SCI. SÉR. SCI. MATH. 27 (1979), no. 7-8, 529--536 (1980)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/657-zofia_denkowska">Zofia Denkowska</a>, <a href="/users/246-jacek_stasica">Jacek Stasica</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5627-on_the_dimension_of_a_subanalytic_set">On the dimension of a subanalytic set</a>, ZESZYTY NAUK. UNIW. JAGIELLON. PRACE MAT. no. 21 (1979), 85--89	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/246-jacek_stasica">Jacek Stasica</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5628-a_transversality_property_weaker_than_the_whitney_a_regularity">A transversality property weaker than the Whitney a-regularity</a>, ZESZYTY NAUK. UNIW. JAGIELLON. PRACE MAT. no. 21 (1979), 81--83	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/657-zofia_denkowska">Zofia Denkowska</a>, <a href="/users/246-jacek_stasica">Jacek Stasica</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5612-ensembles_sous_analytiques__a_la_polonaise">Ensembles sous-analytiques 'a la Polonaise</a>, EDITIONS HERMANN, PARIS 2007, str. 130	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/246-jacek_stasica">Jacek Stasica</a>, S.Łojasiewicz	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5613-analiza_formalna_i_funkcje_analityczne">Analiza formalna i funkcje analityczne</a>, WYDAWNICTWO UNIWERSYTETU JAGIELLOŃSKIEGO, KRAKÓW, 2005	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/246-jacek_stasica">Jacek Stasica</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5614-on_roots_of_analytic_equations">On roots of analytic equations</a>, ROZPRAWY HABILITACYJNE UNIWERSYTETU JAGIELLOŃSKIEGO NR 363, Uniwersytet Jagielloński  2003	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/246-jacek_stasica">Jacek Stasica</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5617-symposium___lojasiewicz_70">Symposium---Lojasiewicz 70</a>, DEDICATED TO STANISŁAW LOJASIEWICZ ON THE OCCASION OF HIS 70th birthday. Papers from the Symposium on Singularities held at Jagellonian University, Kraków, September 25--29, 1996 and the Seminar on Singularities and Geometry held in Warsaw, September 30-	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/246-jacek_stasica">Jacek Stasica</a>, S.Łojasiewicz,K.Wachta	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/5618-stratifications_sous_analytiques_et_la_condition_de_verdier">Stratifications sous-analytiques et la condition de Verdier</a>, (FRENCH) [SUBANALYTIC STRATIFICATIONS AND THE VERDIER CONDITION] GEOMETRY SEMINARS, 1988--1991 (Italian) (Bologna, 1988--1991), 83--88, Univ. Stud. Bologna, Bologna, 1991	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/246-jacek_stasica"><span>5615</span><span>5616</span><span>5619</span><span>5620</span><span>5621</span><span>5622</span><span>5623</span><span>5624</span><span>5625</span><span>5626</span><span>5627</span><span>5628</span><span>5612</span><span>5613</span><span>5614</span><span>5617</span><span>5618</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>

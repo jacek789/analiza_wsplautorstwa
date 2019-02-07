@@ -1,0 +1,1569 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="language" content="en" />
+   
+	<!-- blueprint CSS framework -->
+	<link rel="stylesheet" type="text/css" href="/css/screen.css" media="screen, projection" />
+	<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen, projection" />
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="/css/cssmenu.css" />
+	<link rel="stylesheet" type="text/css" href="/css/main.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/grids.css?4" />
+	<link rel="stylesheet" type="text/css" href="/css/form.css?4" />
+	
+	
+			
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="/assets/848aac88/listview/styles.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/bootstrap-responsive.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3d39c178/css/yii.css" />
+<link rel="stylesheet" type="text/css" href="/assets/813191c8/cssmenu.css" />
+<script type="text/javascript" src="/assets/13903ea7/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/13903ea7/jquery.ba-bbq.min.js"></script>
+<script type="text/javascript" src="/assets/3d39c178/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="/scripts/showhide.js"></script>
+<title> Nikolaos S. Papageorgiou</title>
+	<link rel="stylesheet" type="text/css" href="/css/style.css?4" />
+</head>
+<body>
+<div id="page">
+<div id="header">
+
+		<div id="logo">
+		<a id="logouj" href="http://www.uj.edu.pl"><img src="/images/logo_uj.png" alt="" /></a>		<div id="name"><a href="http://www.matinf.uj.edu.pl">Wydział Matematyki i Informatyki</a></div>
+			<div id="uj"><a href="http://www.uj.edu.pl">Uniwersytetu Jagiellońskiego</a></div>
+			
+		<div id="logout">
+			
+			<a href="/logowanie">Logowanie</a>			
+			</div>	
+		</div>
+
+	</div><!-- header -->
+
+
+<div id="mainmenu">
+	
+<div class="css_menu"><div class="css_top_item first"><a href="/jednostki/1-wydzial-matematyki-i-informatyki-uj"><span>Publikacje</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/czasopisma"><span>Czasopisma</span></a></div><div class="css_sub_item last"><a href="/publisher/index"><span>Wydawnictwa</span></a></div></div></div><div class="css_top_item"><a href="/konferencje"><span>Konferencje</span></a></div><div class="css_top_item"><a href="javascript:void(0)"><span>Pracownicy</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/uzytkownicy/Pracownicy_wydzialu"><span>Pracownicy wydziału</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Doktoranci"><span>Doktoranci</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Pracownicy_emerytowani"><span>Pracownicy emerytowani</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Osoby_zwiazane_z_wydzialem"><span>Osoby związane z wydziałem</span></a></div><div class="css_sub_item"><a href="/uzytkownicy/Byli_doktoranci"><span>Byli doktoranci</span></a></div><div class="css_sub_item last"><a href="/urlopy"><span>Urlopy naukowe</span></a></div></div></div><div class="css_top_item"><a href="javascript:void(0)"><span>Granty i Nagrody</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/granty"><span>Granty</span></a></div><div class="css_sub_item last"><a href="/nagrody"><span>Nagrody</span></a></div></div></div><div class="css_top_item last"><a href="javascript:void(0)"><span>Postępowania</span></a><div class="css_sub_menu"><div class="css_sub_item first"><a href="/postepowania/doktoraty"><span>Doktoraty</span></a></div><div class="css_sub_item"><a href="/postepowania/habilitacje"><span>Habilitacje</span></a></div><div class="css_sub_item last"><a href="/postepowania/profesury"><span>Profesury</span></a></div></div></div></div>
+
+</div>
+
+	<div id="content">
+	
+<h1 id="gora">
+ Nikolaos S. Papageorgiou
+
+
+</h1>
+<div class="container">
+<div class="col-md-1"><a id=""><img src="/images/missing.png" alt="" /></a></div>
+
+<div class="col-md-5">
+<p><b>Jednostki:</b><br />
+
+<ul class="jednostki">
+		
+		</ul>
+
+
+
+<p></p>
+</div>
+<div class="col-md-3">
+<div class="shadowM pull-right span2"><ul id="yw0" class="nav nav-list"><li><a href="#p">Publikacje</a></li></ul></div>
+	
+</div>
+</div>
+<div style="clear:both"></div>
+
+<h3 id='p'>Publikacje:</h3><div id="yw1" class="list-view">
+<div class="summary"></div>
+
+<div class="items">
+
+<div class="row-fluid">
+
+<div class="span1">
+	97.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/1702-yunru_bai">Yunru Bai</a>, <a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8193-nonlinear_nonhomogeneous_robin_problems_with_dependence_on_the_gradient">Nonlinear nonhomogeneous Robin problems with dependence on the gradient</a>, <a href="/czasopisma/226535-boundary_value_problems">BOUND VALUE PROBL</a> vol. 2018 (2018), 24	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	96.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8118-periodic_solutions_for_nonlinear_nonmonotone_evolution_inclusions">Periodic solutions for nonlinear nonmonotone evolution inclusions</a>, <a href="/czasopisma/227761-discrete_and_continuous_dynamical_systems_series_b">DISCRETE CONT DYN-B</a> vol. 23:1 (2018), 219-238	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	95.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8117-multiplicity_theorems_for__p__2__equations">Multiplicity theorems for (p; 2)-equations</a>, <a href="/czasopisma/231159-journal_of_nonlinear_and_convex_analysis">J NONLINEAR CONVEX A</a> vol. 18:7 (2017), 1297-1323	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	94.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8116-positive_solutions_for_the_neumann_p_laplacian_with_superdiffusive_reaction">Positive solutions for the Neumann p-Laplacian with superdiffusive reaction</a>, <a href="/czasopisma/226676-bulletin_of_the_malaysian_mathematical_sciences_society">B MALAYS MATH SCI SO</a> vol. 40 (2017), 1711–1731	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	93.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/8007-positive__extremal_and_nodal_solutions_for_nonlinear_parametric_problems">Positive, extremal and nodal solutions for nonlinear parametric problems</a>, <a href="/czasopisma/230443-journal_of_convex_analysis">J CONVEX ANAL</a> vol. 24:1 (2017), 261-285	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	92.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/416-liliana_klimczak">Liliana Klimczak</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7998-nonlinear_dirichlet_problems_with_no_growth_restriction_on_the_reaction">Nonlinear Dirichlet problems with no growth restriction on the reaction</a>, <a href="/czasopisma/235215-zeitschrift_fur_analysis_und_ihre_anwendungen">Z ANAL ANWEND</a> vol. 36:2 (2017), 209-238	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	91.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7952-positive_solutions_for_nonlinear_elliptic_problems_with_dependence_on_the_gradient">Positive solutions for nonlinear elliptic problems with dependence on the gradient</a>, <a href="/czasopisma/230488-journal_of_differential_equations">J DIFFER EQUATIONS</a> vol. 263 (2017), 1451-1476	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	90.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7951-asymmetric__p_2__equations_with_double_resonance">Asymmetric (p,2)-equations with double resonance</a>, <a href="/czasopisma/226702-calculus_of_variations_and_partial_differential_equations">CALC VAR PARTIAL DIF</a> vol. 56:88 (2017), 1-23	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	89.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7853-exercises_in_analysis__part_2">Exercises in Analysis. Part 2</a>, (2016), Springer Verlag (połaczony z Kluwer Academic Publishing)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	88.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7852-nonlinear_elliptic_equations_with_a_jumping_reaction">Nonlinear elliptic equations with a jumping reaction</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 443:2 (2016), 1033-1070	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	87.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7708-positive_solutions_for_the_generalized_nonlinear_logistic_equations">Positive solutions for the generalized nonlinear logistic equations</a>, <a href="/czasopisma/226764-canadian_mathematical_bulletin_bulletin_canadien_de_mathematiques">CAN MATH BULL</a> vol. 59:1 (2016), 73-86	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	86.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/416-liliana_klimczak">Liliana Klimczak</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7707-nonlinear_noncoercive_neumann_problems">Nonlinear noncoercive Neumann problems</a>, <a href="/czasopisma/227274-communications_on_pure_and_applied_analysis">COMMUN PUR APPL ANAL</a> vol. 15 (2016), 1107-1123	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	85.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7616-_nonlinear__nonhomogeneous_periodic_problems_with_no_growth_control_on_the_reaction"> Nonlinear, nonhomogeneous periodic problems with no growth control on the reaction</a>, <a href="/czasopisma/230502-journal_of_dynamical_and_control_systems">J DYN CONTROL SYST</a> vol. 21 (2015), 423-441	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	84.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7615-_parametric_p_laplacian_equations_with_superlinear_reaction"> Parametric p-Laplacian equations with superlinear reaction</a>, <a href="/czasopisma/227832-dynamic_systems_and_applications">DYNAM SYST APPL</a> vol. 24 (2015), 523-558	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	83.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/1294-donal_o_regan">Donal O'Regan</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7590-positive_solutions_for_nonlinear_nonhomogeneous_robin_problems">Positive solutions for nonlinear nonhomogeneous Robin problems</a>, <a href="/czasopisma/235215-zeitschrift_fur_analysis_und_ihre_anwendungen">Z ANAL ANWEND</a> vol. 34 (2015), 435-458	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	82.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7495-bifurcation_phenomena_for_parametric_nonlinear_elliptic_hemivariational_inequalities">Bifurcation Phenomena for Parametric Nonlinear Elliptic Hemivariational Inequalities</a>, (2015), "Advances in Variational and Hemivariational Inequalities", Springer	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	81.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7494-extremal__nodal_and_stable_solutions_for_nonlinear_elliptic_equations">Extremal, nodal and stable solutions for nonlinear elliptic equations</a>, <a href="/czasopisma/225286-advanced_nonlinear_studies">ADV NONLINEAR STUD</a> vol. 15 (2015), 629-665	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	80.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/1294-donal_o_regan">Donal O'Regan</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7493-a_variational_approach_to_nonlinear_logistic_equations">A variational approach to nonlinear logistic equations</a>, <a href="/czasopisma/227261-communications_in_contemporary_mathematics">COMMUN CONTEMP MATH</a> vol. 17 (2015), 1-37	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	79.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7492-nodal_and_multiple_solutions_for_nonlinear_elliptic_equations_involving_a_reaction_with_zeros">Nodal and multiple solutions for nonlinear elliptic equations involving a reaction with zeros</a>, <a href="/czasopisma/227835-dynamics_of_partial_differential_equations">DYNAM PART DIFFER EQ</a> vol. 12 (2015), 13-42	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	78.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7491-resonant_equations_with_the_neumann_p_laplacian_plus_an_indefinite_potential">Resonant equations with the Neumann p-Laplacian plus an indefinite potential</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 422 (2015), 1146-1179	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	77.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7370-_exercises_in_analysis__part_1"> Exercises in Analysis. Part 1</a>, (2014), Springer Verlag (połaczony z Kluwer Academic Publishing)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	76.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7285-multiplicity_of_solutions_for_neumann_problems_resonant_at_any_eigenvalue">Multiplicity of solutions for Neumann problems resonant at any eigenvalue</a>, <a href="/czasopisma/243473-kyoto_journal_of_mathematics">KYOTO J MATH</a> vol. 54 (2014), 259-269	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	75.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7284-positive_solutions_for_parametric_equidiffusive_p_laplacian_equations">Positive solutions for parametric equidiffusive p-Laplacian equations</a>, <a href="/czasopisma/225180-acta_mathematica_scientia">ACTA MATH SCI</a> vol. 34 (2014), 610-618	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	74.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7283-on_generalized_logistic_equations_with_a_non_homogeneous_differential_operator">On generalized logistic equations with a non-homogeneous differential operator</a>, <a href="/czasopisma/227833-dynamical_systems_an_international_journal">DYNAM SYST</a> vol. 29 (2014), 190-207	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	73.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7282-multiple_solutions_for_a_class_of_nonlinear_neumann_eigenvalue_problems">Multiple solutions for a class of nonlinear Neumann eigenvalue problems</a>, <a href="/czasopisma/227274-communications_on_pure_and_applied_analysis">COMMUN PUR APPL ANAL</a> vol. 13 (2014), 1491-1512	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	72.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7281-dirichlet__p_q__equations_at_resonance">Dirichlet (p,q)-equations at resonance</a>, <a href="/czasopisma/227760-discrete_and_continuous_dynamical_systems">DISCRETE CONT DYN-A</a> vol. 34 (2014), 2037-2060	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	71.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7279-a_pair_of_positive_solutions_for__p_q__equations_with_combined_nonlinearities">A pair of positive solutions for (p,q)-equations with combined nonlinearities</a>, <a href="/czasopisma/227274-communications_on_pure_and_applied_analysis">COMMUN PUR APPL ANAL</a> vol. 13 (2014), 203-215	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	70.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7109-multiple_solutions_for_nonlinear_dirichlet_problems_with_concave_terms">Multiple solutions for nonlinear Dirichlet problems with concave terms</a>, <a href="/czasopisma/232180-mathematica_scandinavica">MATH SCAND</a> vol. 113 (2013), 206-247	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	69.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7108-nonlinear_periodic_equations_driven_by_a_nonhomogeneous_differential_operator">Nonlinear periodic equations driven by a nonhomogeneous differential operator</a>, <a href="/czasopisma/231159-journal_of_nonlinear_and_convex_analysis">J NONLINEAR CONVEX A</a> vol. 14 (2013), 583-600	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	68.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7107-nonlinear_neumann_problems_with_constraints">Nonlinear Neumann problems with constraints</a>, <a href="/czasopisma/228636-funkcialaj_ekvacioj_serio_internacia">FUNKC EKVACIOJ-SER I</a> vol. 56 (2013), 249-270	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	67.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7106-a_pair_of_positive_solutions_for_the_dirichlet_p_z__laplacian_with_concave_and_convex_nonlinearities">A pair of positive solutions for the Dirichlet p(z)-Laplacian with concave and convex nonlinearities</a>, <a href="/czasopisma/230749-journal_of_global_optimization">J GLOBAL OPTIM</a> vol. 56 (2013), 1347-1360	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	66.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/7105-existence_and_uniqueness_of_positive_solutions_for_the_neumann_p_laplacian">Existence and uniqueness of positive solutions for the Neumann p-Laplacian</a>, <a href="/czasopisma/233435-positivity">POSITIVITY</a> vol. 17 (2013), 309-332	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	65.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6743-_multiplicity_of_solutions_for_neumann_problems_with_an_indefinite_and_unbounded_potential"> Multiplicity of solutions for Neumann problems with an indefinite and unbounded potential</a>, <a href="/czasopisma/227274-communications_on_pure_and_applied_analysis">COMMUN PUR APPL ANAL</a> vol. 12 (2013), 1985-1999	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	64.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6360-_pairs_of_nontrivial_solutions_for_resonant_neumann_problems"> Pairs of nontrivial solutions for resonant Neumann problems</a>, <a href="/czasopisma/230999-journal_of_mathematical_analysis_and_applications">J MATH ANAL APPL</a> vol. 398 (2013), 649-663	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	63.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6742-_existence_and_multiplicity_of_solutions_for_noncoercive_neumann_problems_with_p_laplacian"> Existence and multiplicity of solutions for noncoercive Neumann problems with p-Laplacian</a>, <a href="/czasopisma/236602-schedae_informaticae">SCHEDAE INFORMATICAE</a> vol. 21 (2012), 27-40	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	62.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6442-multiplicity_of_positive_solutions_for_eigenvalue_problems_of__p__2__equations">Multiplicity of positive solutions for eigenvalue problems of (p, 2)-equations</a>, <a href="/czasopisma/226535-boundary_value_problems">BOUND VALUE PROBL</a> vol. 2012 (2012), 1-17	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	61.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6369-multiple_solutions_for_asymptotically__p__1__homogeneous_p_laplacian_equations">Multiple solutions for asymptotically (p -1)-homogeneous p-Laplacian equations</a>, <a href="/czasopisma/230707-journal_of_functional_analysis">J FUNCT ANAL</a> vol. 262 (2012), 2403-2435	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	60.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6368-nonlinear_elliptic_equations_with_singular_terms_and_combined_nonlinearities">Nonlinear elliptic equations with singular terms and combined nonlinearities</a>, <a href="/czasopisma/225700-annales_henri_poincare">ANN HENRI POINCARE</a> vol. 13 (2012), 481-512	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	59.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6367-nonhomogeneous_nonlinear_dirichlet_problems_with_a_p_superlinear_reaction">Nonhomogeneous nonlinear Dirichlet problems with a p-superlinear reaction</a>, <a href="/czasopisma/225060-abstract_and_applied_analysis">ABSTR APPL ANAL</a> vol. 2012 (2012), 1-28	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	58.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6366-_dirichlet_problems_with_an_indefinite_and_unbounded_potential_and_concave_convex_nonlinearities"> Dirichlet problems with an indefinite and unbounded potential and concave-convex nonlinearities</a>, <a href="/czasopisma/225060-abstract_and_applied_analysis">ABSTR APPL ANAL</a> vol. 2012 (2012), 1-36	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	57.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6365-bifurcation_type_results_for_nonlinear_parametric_elliptic_equations">Bifurcation-type results for nonlinear parametric elliptic equations</a>, <a href="/czasopisma/233529-proceedings_of_the_royal_society_of_edinburgh_section_amathematics">P ROY SOC EDINB A</a> vol. 142A (2012), 595-623	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	56.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6364-dirichlet_problems_with_double_resonance_and_an_indefinite_potential">Dirichlet problems with double resonance and an indefinite potential</a>, <a href="/czasopisma/232779-nonlinear_analysis_theory_methods___applications">NONLINEAR ANAL-THEOR</a> vol. 75 (2012), 4560-4595	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	55.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6363-positive_solutions_for_nonlinear_neumann_eigenvalue_problems">Positive solutions for nonlinear Neumann eigenvalue problems</a>, <a href="/czasopisma/227832-dynamic_systems_and_applications">DYNAM SYST APPL</a> vol. 21 (2012), 235-250	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	54.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6362-multiple_solutions_for_nonlinear_coercive_problems_with_a_nonhomogeneous_differential_operator_and_a_nonsmooth_potential">Multiple solutions for nonlinear coercive problems with a nonhomogeneous differential operator and a nonsmooth potential</a>, <a href="/czasopisma/234318-set_valued_and_variational_analysis">SET-VALUED VAR ANAL</a> vol. 20 (2012), 417-443	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	53.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6361-_neumann_problems_resonant_at_zero_and_infinity"> Neumann problems resonant at zero and infinity</a>, <a href="/czasopisma/225709-annali_di_matematica_pura_ed_applicata">ANN MAT PUR APPL</a> vol.  191 (2012), 395-430	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	52.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6372-anisotropic_nonlinear_neumann_problems">Anisotropic nonlinear Neumann problems</a>, <a href="/czasopisma/226702-calculus_of_variations_and_partial_differential_equations">CALC VAR PARTIAL DIF</a> vol. 42 (2011), 323-354	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	51.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6370-multiple_solutions_for_nonlinear_neumann_problems_with_asymmetric_reaction__via_morse_theory">Multiple solutions for nonlinear Neumann problems with asymmetric reaction, via Morse theory</a>, <a href="/czasopisma/225286-advanced_nonlinear_studies">ADV NONLINEAR STUD</a> vol. 11 (2011), 781-808	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	50.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6380-solutions_and_multiple_solutions_for_periodic_p_laplacian_systems_with_a_nonsmooth_potential">Solutions and multiple solutions for periodic p-Laplacian systems with a nonsmooth potential</a>, <a href="/czasopisma/225863-applicable_analysis">APPL ANAL</a> vol. 89 (2010), 207-219	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	49.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/100-zdzislaw_denkowski">Zdzisław Denkowski</a>, <a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6379-multiple_solutions_for_nonautonomous_second_order_periodic_systems">Multiple solutions for nonautonomous second order periodic systems</a>, <a href="/czasopisma/225180-acta_mathematica_scientia">ACTA MATH SCI</a> vol. 30 (2010), 350-358	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	48.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6378-multiple_solutions_for_noncoercive_problems_with_the_p_laplacian">Multiple solutions for noncoercive problems with the p-Laplacian</a>, <a href="/czasopisma/226663-bulletin_of_the_belgian_mathematical_society_simon_stevin">B BELG MATH SOC-SIM</a> vol. 17 (2010), 83-99	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	47.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6377-a_multiplicity_theorem_for_double_resonant_periodic_problems">A multiplicity theorem for double resonant periodic problems</a>, <a href="/czasopisma/225286-advanced_nonlinear_studies">ADV NONLINEAR STUD</a> vol. 10 (2010), 819-836	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	46.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6376-existence_of_three_nontrivial_smooth_solutions_for_nonlinear_resonant_neumann_problems_driven_by_the_p_laplacian">Existence of three nontrivial smooth solutions for nonlinear resonant Neumann problems driven by the p-Laplacian</a>, <a href="/czasopisma/235215-zeitschrift_fur_analysis_und_ihre_anwendungen">Z ANAL ANWEND</a> vol. 29 (2010), 413-428	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	45.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6375-nontrivial_solutions_for_neumann_problems_with_an_indefinite_linear_part">Nontrivial solutions for Neumann problems with an indefinite linear part</a>, <a href="/czasopisma/225900-applied_mathematics_and_computation">APPL MATH COMPUT</a> vol. 217 (2010), 2666-2675	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	44.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6373-multiplicity_of_solutions_for_nonlinear_elliptic_equations_with_combined_nonlinearities">Multiplicity of solutions for nonlinear elliptic equations with combined nonlinearities</a>, (2010), "Handbook of Nonconvex Analysis and Applications", International Press, Boston	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	43.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6384-three_nontrivial_solutions_for_periodic_problems_with_the_p_laplacian_and_a_p_superlinear_nonlinearity">Three nontrivial solutions for periodic problems with the p-Laplacian and a p-superlinear nonlinearity</a>, <a href="/czasopisma/227274-communications_on_pure_and_applied_analysis">COMMUN PUR APPL ANAL</a> vol. 8 (2009), 1421-1437	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	42.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6383-nodal_and_multiple_constant_sign_solutions_for_resonant_p_laplacian_equations_with_a_nonsmooth_potential">Nodal and multiple constant sign solutions for resonant p-Laplacian equations with a nonsmooth potential</a>, <a href="/czasopisma/232779-nonlinear_analysis_theory_methods___applications">NONLINEAR ANAL-THEOR</a> vol. 71 (2009), 5747-5772	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	41.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6382-existence_and_multiplicity_of_solutions_for_second_order_periodic_systems_with_the_p_laplacian_and_a_nonsmooth_potential">Existence and multiplicity of solutions for second order periodic systems with the p-Laplacian and a nonsmooth potential</a>, <a href="/czasopisma/232495-monatshefte_fur_mathematik">MONATSH MATH</a> vol. 158 (2009), 121-150	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	40.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6381-nontrivial_solutions_for_a_class_of_resonant_p_laplacian_neumann_problems">Nontrivial solutions for a class of resonant p-Laplacian Neumann problems</a>, <a href="/czasopisma/232779-nonlinear_analysis_theory_methods___applications">NONLINEAR ANAL-THEOR</a> vol. 71 (2009), 6365-6372	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	39.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6387-existence_and_multiplicity_of_solutions_for_neumann_p_laplacian_type_equations">Existence and multiplicity of solutions for Neumann p-Laplacian-type equations</a>, <a href="/czasopisma/225286-advanced_nonlinear_studies">ADV NONLINEAR STUD</a> vol. 8 (2008), 843-870	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	38.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/100-zdzislaw_denkowski">Zdzisław Denkowski</a>, <a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6385-positive_solutions_for_nonlinear_periodic_problems_with_the_scalar_p_laplacian">Positive solutions for nonlinear periodic problems with the scalar p-Laplacian</a>, <a href="/czasopisma/234317-set_valued_analysis">SET-VALUED ANAL</a> vol. 16 (2008), 539-561	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	37.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/100-zdzislaw_denkowski">Zdzisław Denkowski</a>, <a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6394-existence_and_multiplicity_of_solutions_for_semilinear_hemivariational_inequalities_at_resonance">Existence and multiplicity of solutions for semilinear hemivariational inequalities at resonance</a>, <a href="/czasopisma/232779-nonlinear_analysis_theory_methods___applications">NONLINEAR ANAL-THEOR</a> vol. 66 (2007), 1329-1340	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	36.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/100-zdzislaw_denkowski">Zdzisław Denkowski</a>, <a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6393-existence_of_positive_and_of_multiple_solutions_for_nonlinear_periodic_problems">Existence of positive and of multiple solutions for nonlinear periodic problems</a>, <a href="/czasopisma/232779-nonlinear_analysis_theory_methods___applications">NONLINEAR ANAL-THEOR</a> vol. 66 (2007), 2289-2314	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	35.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6438-nonlinear_analysis">Nonlinear Analysis</a>, (2006), CRC Press (gałąź Taylor & Francis Group)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	34.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/781-michael_filippakis">Michael Filippakis</a>, <a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6402-multiplicity_results_for_nonlinear_neumann_problems">Multiplicity results for nonlinear Neumann problems</a>, <a href="/czasopisma/226743-canadian_journal_of_mathematics_journal_canadien_de_mathematiques">CAN J MATH</a> vol. 58 (2006), 64-92	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	33.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/781-michael_filippakis">Michael Filippakis</a>, <a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6401-nonlinear_periodic_problems_with_nonsmooth_potential_restricted_in_one_direction">Nonlinear periodic problems with nonsmooth potential restricted in one direction</a>, <a href="/czasopisma/233708-publicationes_mathematicae_debrecen">PUBL MATH-DEBRECEN</a> vol. 68 (2006), 37-62	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	32.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/100-zdzislaw_denkowski">Zdzisław Denkowski</a>, <a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6400-nontrivial_solutions_for_resonant_hemivariational_inequalities">Nontrivial solutions for resonant hemivariational inequalities</a>, <a href="/czasopisma/230749-journal_of_global_optimization">J GLOBAL OPTIM</a> vol. 34 (2006), 317-337	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	31.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/781-michael_filippakis">Michael Filippakis</a>, <a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6399-semilinear_hemivariational_inequalities_with_strong_resonance_at_infinity">Semilinear hemivariational inequalities with strong resonance at infinity</a>, <a href="/czasopisma/225180-acta_mathematica_scientia">ACTA MATH SCI</a> vol. 26 (2006), 59-73	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	30.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/781-michael_filippakis">Michael Filippakis</a>, <a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6398-nonsmooth_generalized_guiding_functions_for_periodic_differential_inclusions">Nonsmooth generalized guiding functions for periodic differential inclusions</a>, <a href="/czasopisma/232773-nodea_nonlinear_differential_equations_and_applications">NODEA-NONLINEAR DIFF</a> vol. 13 (2006), 43-66	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	29.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/782-dumitru_motreanu">Dumitru Motreanu</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6397-multiplicity_of_nontrivial_solutions_for_elliptic_equations_with_nonsmooth_potential_and_resonance_at_higher_eigenvalues">Multiplicity of nontrivial solutions for elliptic equations with nonsmooth potential and resonance at higher eigenvalues</a>, <a href="/czasopisma/233496-proceedings_of_the_indian_academy_of_sciences_mathematical_sciences">P INDIAN AS-MATH SCI</a> vol. 116 (2006), 233-255	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	28.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/781-michael_filippakis">Michael Filippakis</a>, <a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6396-multiple_positive_solutions_for_eigenvalue_problems_of_hemivariational_inequalities">Multiple positive solutions for eigenvalue problems of hemivariational inequalities</a>, <a href="/czasopisma/233435-positivity">POSITIVITY</a> vol. 10 (2006), 491-515	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	27.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6439-nonsmooth_critical_point_theory_and_nonlinear_boundary_value_problems">Nonsmooth Critical Point Theory and Nonlinear Boundary Value Problems</a>, (2005), CRC Press (gałąź Taylor & Francis Group)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	26.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6409-nonlinear_hemivariational_inequalities_with_eigenvalues_near_zero">Nonlinear hemivariational inequalities with eigenvalues near zero</a>, <a href="/czasopisma/227760-discrete_and_continuous_dynamical_systems">DISCRETE CONT DYN-A</a> vol. A Suplement Volume (2005), 317-326	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	25.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/781-michael_filippakis">Michael Filippakis</a>, <a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6407-a_multiplicity_result_for_semilinear_resonant_elliptic_problems_with_nonsmooth_potential">A multiplicity result for semilinear resonant elliptic problems with nonsmooth potential</a>, <a href="/czasopisma/232779-nonlinear_analysis_theory_methods___applications">NONLINEAR ANAL-THEOR</a> vol. 61 (2005), 61-75	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	24.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/781-michael_filippakis">Michael Filippakis</a>, <a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6406-on_the_existence_of_positive_solutions_for_hemivariational_inequalities_driven_by_the_p_laplacian">On the existence of positive solutions for hemivariational inequalities driven by the p-Laplacian</a>, <a href="/czasopisma/230749-journal_of_global_optimization">J GLOBAL OPTIM</a> vol. 31 (2005), 173-189	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	23.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6405-extremal_solutions_and_strong_relaxation_for_second_order_multivalued_boundary_value_problems">Extremal solutions and strong relaxation for second order multivalued boundary value problems</a>, <a href="/czasopisma/227641-czechoslovak_mathematical_journal">CZECH MATH J</a> vol. 10.1007/s10587-005-0069-y (2005), 827-844	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	22.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/781-michael_filippakis">Michael Filippakis</a>, <a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6403-nontrivial_solutions_for_semilinear_hemivariational_inequalities_resonant_at_higher_eigenvalues">Nontrivial solutions for semilinear hemivariational inequalities resonant at higher eigenvalues</a>, ACTA SCIENTIARUM MATHEMATICARUM (SZEGED) vol. 71 (2005), 581-602	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	21.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/781-michael_filippakis">Michael Filippakis</a>, <a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6414-quasilinear_hemivariational_inequalities_with_strong_resonance_at_infinity">Quasilinear hemivariational inequalities with strong resonance at infinity</a>, <a href="/czasopisma/232779-nonlinear_analysis_theory_methods___applications">NONLINEAR ANAL-THEOR</a> vol. 56 (2004), 331-345	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	20.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/781-michael_filippakis">Michael Filippakis</a>, <a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6413-existence_theorems_for_periodic_differential_inclusions_in_r_n">Existence theorems for periodic differential inclusions in R^N</a>, <a href="/czasopisma/225182-acta_mathematicae_applicatae_sinica_english_series">ACTA MATH APPL SIN-E</a> vol. 20 (2004), 33-44	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	19.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6411-on_nonlinear_elliptic_hemivariational_inequalities_of_second_order">On nonlinear elliptic hemivariational inequalities of second order</a>, <a href="/czasopisma/225180-acta_mathematica_scientia">ACTA MATH SCI</a> vol. 24 (2004), 451-462	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	18.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/781-michael_filippakis">Michael Filippakis</a>, <a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6410-periodic_problems_with_asymmetric_nonlinearities_and_nonsmooth_potentials">Periodic problems with asymmetric nonlinearities and nonsmooth potentials</a>, <a href="/czasopisma/232779-nonlinear_analysis_theory_methods___applications">NONLINEAR ANAL-THEOR</a> vol. 58 (2004), 683-702	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	17.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/100-zdzislaw_denkowski">Zdzisław Denkowski</a>, <a href="/users/101-stanislaw_migorski">Stanisław Migórski</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6624-an_introduction_to_nonlinear_analysis__theory">An Introduction to Nonlinear Analysis: Theory</a> vol. p. 683 (2003), Springer Verlag (połaczony z Kluwer Academic Publishing)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	16.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/100-zdzislaw_denkowski">Zdzisław Denkowski</a>, <a href="/users/101-stanislaw_migorski">Stanisław Migórski</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6623-an_introduction_to_nonlinear_analysis__applications">An Introduction to Nonlinear Analysis: Applications</a> vol. p. 822 (2003), Springer Verlag (połaczony z Kluwer Academic Publishing)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	15.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/100-zdzislaw_denkowski">Zdzisław Denkowski</a>, <a href="/users/101-stanislaw_migorski">Stanisław Migórski</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6572-on_the_convergence_of_solutions_of_multivalued_parabolic_equations_and_applications">On the Convergence of Solutions of Multivalued Parabolic Equations and Applications</a>, <a href="/czasopisma/232779-nonlinear_analysis_theory_methods___applications">NONLINEAR ANAL-THEOR</a> vol. 54(4) (2003), 667-682	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	14.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6420-strongly_nonlinear_multivalued_boundary_value_problems">Strongly nonlinear multivalued boundary value problems</a>, <a href="/czasopisma/232779-nonlinear_analysis_theory_methods___applications">NONLINEAR ANAL-THEOR</a> vol. 52 (2003), 1219-1238	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	13.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6419-_on_the_existence_of_multiple_periodic_solutions_for_equations_driven_by_the_p_laplacian_and_with_a_nonsmooth_potential"> On the existence of multiple periodic solutions for equations driven by the p-Laplacian and with a Nonsmooth Potential</a>, <a href="/czasopisma/233491-proceedings_of_the_edinburgh_mathematical_society">P EDINBURGH MATH SOC</a> vol. 46 (2003), 229-249	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	12.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6417-two_bounded_solutions_of_opposite_sign_for_nonlinear_hemivariational_inequalities_at_resonance">Two bounded solutions of opposite sign for nonlinear hemivariational inequalities at resonance</a>, <a href="/czasopisma/233708-publicationes_mathematicae_debrecen">PUBL MATH-DEBRECEN</a> vol. 63 (2003), 29-49	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	11.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6416-nonlinear_second_order_multivalued_boundary_value_problem">Nonlinear second order multivalued boundary value problem</a>, <a href="/czasopisma/233496-proceedings_of_the_indian_academy_of_sciences_mathematical_sciences">P INDIAN AS-MATH SCI</a> vol. 113 (2003), 293-319	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	10.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/781-michael_filippakis">Michael Filippakis</a>, <a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6415-positive_solutions_for_second_order_multivalued_boundary_value_problems">Positive solutions for second order multivalued boundary value problems</a>, (2003), "Nonlinear analysis and applications: to V. Lakshmikantham on his 80th birthday", Springer Verlag (połaczony z Kluwer Academic Publishing)	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	9.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6423-a_multiplicity_result_for_nonlinear_second_order_periodic_equations_with_nonsmooth_potential">A multiplicity result for nonlinear second order periodic equations with nonsmooth potential</a>, <a href="/czasopisma/226663-bulletin_of_the_belgian_mathematical_society_simon_stevin">B BELG MATH SOC-SIM</a> vol. 9 (2002), 245-258	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	8.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6421-strongly_resonant_semilinear_and_quasilinear_hemivariational_inequality">Strongly resonant semilinear and quasilinear hemivariational inequality</a>, ACTA SCIENTIARUM MATHEMATICARUM (SZEGED) vol. 68 (2002), 727-750	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	7.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6433-multiple_solutions_for_nonlinear_hemivariational_inequalities_near_resonance">Multiple solutions for nonlinear hemivariational inequalities near resonance</a>, <a href="/czasopisma/228636-funkcialaj_ekvacioj_serio_internacia">FUNKC EKVACIOJ-SER I</a> vol. 43 (2001), 271-284	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	6.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6432-an_existence_theorem_for_nonlinear_hemivariational_inequalities_at_resonance">An existence theorem for nonlinear hemivariational inequalities at resonance</a>, <a href="/czasopisma/226662-bulletin_of_the_australian_mathematical_society">B AUST MATH SOC</a> vol. 63 (2001), 1-14	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	5.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6430-multiple_solutions_for_semilinear_hemivariational_inequalities_at_resonance">Multiple solutions for semilinear hemivariational inequalities at resonance</a>, <a href="/czasopisma/233708-publicationes_mathematicae_debrecen">PUBL MATH-DEBRECEN</a> vol. 59 (2001), 121-146	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	4.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6429-semilinear_hemivariational_inequalities_at_resonance">Semilinear hemivariational inequalities at resonance</a>, RENDICONTI DEL CIRCOLO MATEMATICO DI PALERMO, SERIE II vol. 50 (2001), 217-238	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	3.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6427-_existence_of_solutions_and_of_multiple_solutions_of_hemivariational_inequalities"> Existence of solutions and of multiple solutions of hemivariational inequalities</a>, ADVANCES IN MATHEMATICAL SCIENCES AND APPLICATIONS vol. 11 (2001), 437-464	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	2.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6426-solutions_and_multiple_solutions_for_quasilinear_hemivariational_inequalities_at_resonance">Solutions and multiple solutions for quasilinear hemivariational inequalities at Resonance</a>, <a href="/czasopisma/233529-proceedings_of_the_royal_society_of_edinburgh_section_amathematics">P ROY SOC EDINB A</a> vol. 131A (2001), 1091-1111	</div>
+</div>
+
+</div>
+
+
+<div class="row-fluid">
+
+<div class="span1">
+	1.</div>
+
+<div class="shadow span11 no-left-margin">
+	<div class="span12 no-min-height">
+		<a href="/users/114-leszek_gasinski">Leszek Gasiński</a>, <a href="/users/780-nikolaos_s__papageorgiou">Nikolaos S. Papageorgiou</a>	</div>
+	<div class="span12 no-margin no-min-height">
+		<a href="/publikacje/6435-nonlinear_hemivariational_inequalities_at_resonance">Nonlinear hemivariational inequalities at resonance</a>, <a href="/czasopisma/226662-bulletin_of_the_australian_mathematical_society">B AUST MATH SOC</a> vol. 60 (1999), 353-364	</div>
+</div>
+
+</div>
+
+</div>
+<div class="keys" style="display:none" title="/users/780-nikolaos_s__papageorgiou"><span>8193</span><span>8118</span><span>8117</span><span>8116</span><span>8007</span><span>7998</span><span>7952</span><span>7951</span><span>7853</span><span>7852</span><span>7708</span><span>7707</span><span>7616</span><span>7615</span><span>7590</span><span>7495</span><span>7494</span><span>7493</span><span>7492</span><span>7491</span><span>7370</span><span>7285</span><span>7284</span><span>7283</span><span>7282</span><span>7281</span><span>7279</span><span>7109</span><span>7108</span><span>7107</span><span>7106</span><span>7105</span><span>6743</span><span>6360</span><span>6742</span><span>6442</span><span>6369</span><span>6368</span><span>6367</span><span>6366</span><span>6365</span><span>6364</span><span>6363</span><span>6362</span><span>6361</span><span>6372</span><span>6370</span><span>6380</span><span>6379</span><span>6378</span><span>6377</span><span>6376</span><span>6375</span><span>6373</span><span>6384</span><span>6383</span><span>6382</span><span>6381</span><span>6387</span><span>6385</span><span>6394</span><span>6393</span><span>6438</span><span>6402</span><span>6401</span><span>6400</span><span>6399</span><span>6398</span><span>6397</span><span>6396</span><span>6439</span><span>6409</span><span>6407</span><span>6406</span><span>6405</span><span>6403</span><span>6414</span><span>6413</span><span>6411</span><span>6410</span><span>6624</span><span>6623</span><span>6572</span><span>6420</span><span>6419</span><span>6417</span><span>6416</span><span>6415</span><span>6423</span><span>6421</span><span>6433</span><span>6432</span><span>6430</span><span>6429</span><span>6427</span><span>6426</span><span>6435</span></div>
+</div></div><!-- content -->
+	
+	<div class="clear"></div>
+
+	<div id="footer">
+		Copyright &copy; 2019 by Wydział Matematyki i Informatyki - Uniwersystet Jagielloński.
+		Wszelkie prawa zastrzeżone.  <br />
+	
+	</div><!-- footer -->
+
+</div><!-- page -->
+
+<script type="text/javascript" src="/assets/848aac88/listview/jquery.yiilistview.js"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+jQuery(function($) {
+jQuery('#yw1').yiiListView({'ajaxUpdate':['yw1'],'ajaxVar':'ajax','pagerClass':'pager','loadingClass':'list-view-loading','sorterClass':'sorter','enableHistory':false});
+jQuery('body').tooltip({'selector':'a[rel=tooltip]'});
+jQuery('body').popover({'selector':'a[rel=popover]'});
+});
+/*]]>*/
+</script>
+</body>
+</html>
